@@ -1,3 +1,0 @@
-# GitPitch?
----
-The end. :)
