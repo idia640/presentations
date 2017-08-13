@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: remark
+
 ---
 
 # Introduction
