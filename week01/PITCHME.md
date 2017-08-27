@@ -50,7 +50,7 @@ Please don't be shy about giving me feedback!
 
 ## What is (Cooperative) Interaction?
 
-![](image=images/discourse-continuum.png&size=auto 90%)
+![](images/discourse-continuum.png&size=auto 90%)
 
 <span class="footnote"><a style='text-decoration:none;' href='#/21'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
 
@@ -85,7 +85,7 @@ And... it's a script. You know it. Even if they were speaking a different langua
 ---
 # Dialogue?
 
-![](image=images/pens.jpg)
+![](images/pens.jpg)
 
 ---
 ## Speaker Contribution
@@ -151,7 +151,7 @@ Researchers are interested in new design methodologies, experimentation to ident
 ---
 ## HCI is a Multi-Disciplinary Field
 
-![](image=images/preece.png&size=auto 90%)
+![](images/preece.png&size=auto 90%)
 
 <span class="footnote"><a style='text-decoration:none;' href='#/21'>Preece</a></span>
 
