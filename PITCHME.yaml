@@ -1,4 +1,4 @@
 # gitpitch settings
 # revealjs: 3.4.1
 slide-number: true
-theme-override: PITCHME.css
+theme-override: pitchme.css
