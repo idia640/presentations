@@ -2,7 +2,7 @@
 ## August 28, 2017
 
 ---
-# Outline for today
+## Outline for today
 
  1. **Introductions**
 
@@ -34,7 +34,7 @@ Please don't be shy about giving me feedback!
 
 
 ---
-# Outline for today #
+## Outline for today
 
 1. Introductions
 
@@ -105,7 +105,7 @@ Note:
 
 ---
 
-## As a designer, you plan for how you want the user to <span style="color:#e49436">respond</span>.
+## As a designer, you plan for how you want the user to <span style="color:#e49436">respond</span>
 
 Note:
 
@@ -118,7 +118,7 @@ Note:
 
 ---
 
-# Outline for today
+### Outline for today
 
  1. Introductions
 
@@ -182,7 +182,7 @@ We will look at each, but focus on hypothesis testing.
 - And we need to understand scientific methods in order to read much of the foundational literature of HCI and applied (interaction) design.
 
 ---
-# Outline for today
+## Outline for today
 
  1. Introductions
 
@@ -301,7 +301,7 @@ Thaler's blog highlights mechanism for "choice architecture" as:
   - creating incentives
 
 ---
-# Outline for today
+## Outline for today
 
 1. Introductions
 
@@ -320,7 +320,7 @@ Thaler's blog highlights mechanism for "choice architecture" as:
 ## Let's get started...
 
 ---
-# Outline for today
+## Outline for today
 
 1. Introductions
 
@@ -337,17 +337,15 @@ Thaler's blog highlights mechanism for "choice architecture" as:
 ---
 # Next Week
 
-- Research Methods Handout
-- Contribute at least one case Study idea in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G)
+- Finish the practice journal entry
+- Read through the [research methods handout](https://www.dropbox.com/s/xtroffnqq4gl3u3/Research-Methods.pdf?dl=0)
+- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G). You will need to settle on an idea mid-way through the course.
 
 Note:
 
-Some examples:
-- commerce
-- education
-- weight loss
-- smoking
-- community activism
+What you need to understand are the charts 1.1, 2.1, and 3.1 as well as what the terms mean.
+
+We'll review next week, since you will need to understand the concepts in order to review a scientific paper.
 
 ---
 ## References
