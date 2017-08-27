@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
 
-title: Slides 
+title: Slides
 github_repository_name: presentations
 github_repository_url: https://github.com/idia640/presentations
 github_owner: Lisa D. Harper
 github_owner_url: https://github.com/idia640
+baseurl: /presentations
 
 defaults:
   - scope:
@@ -23,12 +24,9 @@ permalink: pretty
 
 gems:
 - jemoji
-- jekyll-paginate
 - jekyll-feed
 
- # This will require each of these plugins automatically.
 
-# Kramdown options
-# https://kramdown.gettalong.org/rdoc/Kramdown/Options.html
-# kramdown:
-#   hard_wrap: true (already set to default)
+# gitpitch settings
+revealjs: 3.4.1
+slide-number: true

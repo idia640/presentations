@@ -1,0 +1,97 @@
+.footnote {
+  position: absolute;
+  bottom: 3em;
+}
+
+/* Remove box around slides */
+/*.reveal section img {
+  border: 0;
+  box-shadow: none;
+}*/
+
+/* Center left */
+/* Combine with the vertical center property in _config.yaml to align top, as well. */
+/*.reveal .slides {
+    text-align: left;
+}
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+} */
+
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
+.pull-right ~ p {
+  clear: both;
+}
+
+/* Slide-specific styling */
+#slide-inverse .footnote {
+  bottom: 12px;
+  left: 20px;
+}
+#slide-how .slides {
+  font-size: 0.9em;
+  position: absolute;
+  top:  151px;
+  right: 140px;
+}
+#slide-how .slides h3 {
+  margin-top: 0.2em;
+}
+#slide-how .slides .first, #slide-how .slides .second {
+  padding: 1px 20px;
+  height: 90px;
+  width: 120px;
+  -moz-box-shadow: 0 0 10px #777;
+  -webkit-box-shadow: 0 0 10px #777;
+  box-shadow: 0 0 10px #777;
+}
+#slide-how .slides .first {
+  background: #fff;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  z-index: 1;
+}
+#slide-how .slides .second {
+  position: relative;
+  background: #fff;
+  z-index: 0;
+}
+/* Two-column layout */
+.left-column {
+  color: #777;
+  width: 20%;
+  height: 92%;
+  float: left;
+}
+
+.left-column h2:last-of-type, .left-column h3:last-child {
+    color: #000;
+  }
+  
+.right-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+}
+
+/* Tables */
+table {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+td {
+    text-align:center;
+    padding-left:2em;
+    padding-right:2em;
+}
