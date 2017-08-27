@@ -154,10 +154,10 @@ Researchers are interested in new design methodologies, experimentation to ident
 ---
 ## HCI is a Multi-Disciplinary Field
 
-<img align="right" width="50%" height="50%" src="images/preece.png">
+<img align="right" width="40%" height="40%" src="images/preece.png">
 
 
-<span class="footnote"><a style='text-decoration:none;' href='#/21'>Preece</a></span>
+<span class="footnote"><a style='text-decoration:none;' href='#/21'>Preece (2002)</a></span>
 
 Note:
 

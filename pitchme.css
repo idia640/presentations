@@ -1,6 +1,7 @@
 .footnote {
   position: absolute;
   bottom: 3em;
+  font-size: 0.9em;
 }
 
 /* Remove box around slides */
@@ -76,7 +77,7 @@
 .left-column h2:last-of-type, .left-column h3:last-child {
     color: #000;
   }
-  
+
 .right-column {
   width: 75%;
   float: right;
