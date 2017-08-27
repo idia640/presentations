@@ -48,11 +48,10 @@ Please don't be shy about giving me feedback!
 
 6. Next Week
 
----
+---?image=images/discourse-continuum.png&size=auto 90%
 ## What is (Cooperative) Interaction?
 
-![](../images/discourse-continuum.png)
-<span class="footnote"><a style='text-decoration:none;' href='#/2'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
+<span class="footnote"><a style='text-decoration:none;' href='#/20'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
 
 Note:
 
@@ -82,10 +81,9 @@ Note:
 
 And... it's a script. You know it. Even if they were speaking a different language entirely, you would recognize it and have expectations about what to expect.
 
----
-## Dialogue?
+---?image=images/pens.jpg&size=auto 90%
 
-[](../images/pens.jpg)
+# Dialogue?
 
 ---
 ## Speaker Contribution
@@ -148,17 +146,14 @@ Researchers are interested in new design methodologies, experimentation to ident
 - HCI is the research correlate of "interaction design"
 
 
----
+---?image=images/preece.png&size=auto 90%
 ## HCI is a Multi-Disciplinary Field
-
-<a target="_blank" href="../images/preece.png">[]()</a>
 
 
 Note:
 
 The term HCI was popularized in the 80' by Stuart Card, Thomas Moran, and Allen Newell in "The Psychology of Human-Computer Interaction".
 
-# Preece, J., Rogers, Y. & Sharp, H. (2002).	Interaction Design: Beyond Human-computer Interaction. J. Wiley & Sons.
 ---
 
 ## Research Methods
@@ -344,3 +339,12 @@ Some examples:
 - weight loss
 - smoking
 - community activism
+
+---
+## References
+
+- Clark, H. (1996). In Using language (pg. 50). Cambridge University Press.
+
+- Preece, J., Rogers, Y. & Sharp, H. (2002).	Interaction Design: Beyond Human-computer Interaction. J. Wiley & Sons.
+
+---

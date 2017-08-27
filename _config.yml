@@ -25,8 +25,3 @@ permalink: pretty
 gems:
 - jemoji
 - jekyll-feed
-
-
-# gitpitch settings
-revealjs: 3.4.1
-slide-number: true
