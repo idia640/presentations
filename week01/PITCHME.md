@@ -48,10 +48,11 @@ Please don't be shy about giving me feedback!
 
 6. Next Week
 
----?image=images/discourse-continuum.png&size=auto 90%
 ## What is (Cooperative) Interaction?
 
-<span class="footnote"><a style='text-decoration:none;' href='#/20'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
+![](image=images/discourse-continuum.png&size=auto 90%)
+
+<span class="footnote"><a style='text-decoration:none;' href='#/21'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
 
 Note:
 
@@ -81,9 +82,10 @@ Note:
 
 And... it's a script. You know it. Even if they were speaking a different language entirely, you would recognize it and have expectations about what to expect.
 
----?image=images/pens.jpg&size=auto 90%
-
+---
 # Dialogue?
+
+![](image=images/pens.jpg)
 
 ---
 ## Speaker Contribution
@@ -146,9 +148,12 @@ Researchers are interested in new design methodologies, experimentation to ident
 - HCI is the research correlate of "interaction design"
 
 
----?image=images/preece.png&size=auto 90%
+---
 ## HCI is a Multi-Disciplinary Field
 
+![](image=images/preece.png&size=auto 90%)
+
+<span class="footnote"><a style='text-decoration:none;' href='#/21'>Preece</a></span>
 
 Note:
 
