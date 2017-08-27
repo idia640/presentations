@@ -10,6 +10,11 @@
   box-shadow: none;
 }*/
 
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
 /* Center left */
 /* Combine with the vertical center property in _config.yaml to align top, as well. */
 /*.reveal .slides {
