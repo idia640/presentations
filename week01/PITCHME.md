@@ -52,7 +52,7 @@ Please don't be shy about giving me feedback!
 ## What is (Cooperative) Interaction?
 
 
-<img align="center" width="75%" height="75%" src="images/discourse-continuum.png">
+<img align="center" width="90%" height="90%" src="images/discourse-continuum.png">
 
 <span class="footnote"><a style='text-decoration:none;' href='#/21'>Discourse Continuum (adapted from H. H. Clark, 1996)</a></span>
 
@@ -154,7 +154,7 @@ Researchers are interested in new design methodologies, experimentation to ident
 ---
 ## HCI is a Multi-Disciplinary Field
 
-<img align="right" width="75%" height="75%" src="images/preece.png">
+<img align="right" width="50%" height="50%" src="images/preece.png">
 
 
 <span class="footnote"><a style='text-decoration:none;' href='#/21'>Preece</a></span>
