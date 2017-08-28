@@ -9,6 +9,9 @@
   box-shadow: none;
 }
 
+span.footnote {
+  font-size: 10px;
+}
 /* Center left */
 /* Combine with the vertical center property in _config.yaml to align top, as well. */
 /*.reveal .slides {

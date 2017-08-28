@@ -54,7 +54,7 @@ Please don't be shy about giving me feedback!
 
 <img align="center" width="90%" height="90%" src="images/discourse-continuum.png">
 
-<span class="footnote"><a style='text-decoration:none; color: white;' href='#/21'>Discourse Continuum (Clark, 1996)</a></span>
+<span class="footnote"><a style='text-decoration:none;' href='#/21'>Discourse Continuum (Clark, 1996)</a></span>
 
 Note:
 
