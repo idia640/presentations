@@ -1,5 +1,5 @@
 # gitpitch settings
-# revealjs: 3.4.1
+ revealjs: 3.4.1
 slide-number: true
 theme-override: pitchme.css
 remote-control: true
