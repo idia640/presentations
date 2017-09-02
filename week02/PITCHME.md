@@ -1,5 +1,5 @@
 # Hypothesis Testing
-## 5 September
+## Sept 5, 2017
 
 ---
 
