@@ -116,7 +116,7 @@ Writers should, for example, show early drafts of their work to a representative
 
 ## "Sketchy" science
 
-<img align="right" width="90%" height="90%" src="assets/img/gap.jpg">
+<img align="right" width="90%" height="90%" src="images/gap.jpg">
 
   - "Dodgy claims"
   - Journalistic error
@@ -161,7 +161,7 @@ Does Flesch-Kincaid apply?? NO. It was designed for written text and not speech.
 ---
 ## "Flesch Kincaid"
 
-![](/assets/img/flesch-kincaid.png)
+![](images/flesch-kincaid.png)
 
 Credit: <a target="_blank" href="http://languagelog.ldc.upenn.edu/nll/?p=21847">LanguageLog Blog</a>
 
@@ -170,7 +170,7 @@ Note:
 ---
 ## "Gladwellian gap"
 
-<img align="right" width="90%" height="90%" src="assets/img/DavidAndGoliath.jpg">
+<img align="right" width="90%" height="90%" src="images/DavidAndGoliath.jpg">
 
  - "Gladwell proves that not only do many successful people have dyslexia, but that they have become successful in large part because of having to deal with their difficulty."
 
@@ -250,7 +250,7 @@ Note:
 ---
 ## Another dichotomy
 
-<img align="right" width="90%" height="90%" src="assets/img/user-research-methods.png">
+<img align="right" width="90%" height="90%" src="images/user-research-methods.png">
 
 Image credit: https://www.nngroup.com/articles/which-ux-research-methods/
 
@@ -263,7 +263,7 @@ Does not account for experimental studies. https://www.nngroup.com/articles/whic
 ---
 ## Structure of research
 
-<img align="right" width="90%" height="90%" src="assets/img/research-study.png">
+<img align="right" width="90%" height="90%" src="images/research-study.png">
 
 Image credit: Gliner, Morgan, and Leech (2011), p. 20
 
@@ -274,7 +274,7 @@ Note:
 ---
 ## What if the question is very broad?
 
-<img align="center" width="90%" height="90%" src="assets/img/broad-research.png">
+<img align="center" width="90%" height="90%" src="images/broad-research.png">
 
 Image credit: Chow, S. (2010). pp. 450
 
@@ -324,7 +324,7 @@ For example, two university classes are given two different exam types. Or you a
 ---
 ## Non-Experimental (Observational)
 
-<img align="center" width="90%" height="90%" src="assets/img/non-experimental.png">
+<img align="center" width="90%" height="90%" src="images/non-experimental.png">
 
 Note:
 
@@ -339,7 +339,7 @@ Note these are all inherent attributes of a person - you can't assign them these
 ---
 ## Back to the overview
 
-<img align="right" width="90%" height="90%" src="assets/img/research-overview.png">
+<img align="right" width="90%" height="90%" src="images/research-overview.png">
 ![Image](./assets/md/assets/research-overview.png)
 
  Image credit: Gliner, Morgan, and Leech (2011), p. 11
@@ -357,7 +357,7 @@ Note:
 ---
 ## Example Paper
 
-<a href="https://www.dropbox.com/s/cpsczd3820h24w4/sauro_lewisCHI2011.pdf?dl=0"><img align="center" width="90%" height="90%" src="assets/img/sample-paper.png"></a>
+<a href="https://www.dropbox.com/s/cpsczd3820h24w4/sauro_lewisCHI2011.pdf?dl=0"><img align="center" width="90%" height="90%" src="images/sample-paper.png"></a>
 
 ---
 ## Research question
@@ -368,7 +368,7 @@ Note:
  - Should be testable
  - Should be ethical
 
-<img align="right" width="90%" height="90%" src="assets/img/research-goals.png">
+<img align="right" width="90%" height="90%" src="images/research-goals.png">
 
 Example from: Sauro & Lewis (2011)
 
@@ -382,7 +382,7 @@ between Normal and Positive SUS.
 
 - From example paper, "To **measure extreme response bias**, we counted **the number of times respondents provided either the highest or lowest response option (1 or 5) for both questionnaire types for all items**."
 
-<img align="right" width="90%" height="90%" src="assets/img/variables.png">
+<img align="right" width="90%" height="90%" src="images/variables.png">
 
 Note:
 
@@ -391,7 +391,7 @@ You should be able to see the variables and things being measured (e.g., Normal 
 ---
 ## Why "no difference"?
 
-<img align="center" width="90%" height="90%" src="assets/img/null-hypothesis.png">
+<img align="center" width="90%" height="90%" src="images/null-hypothesis.png">
 
 Note:
 
@@ -440,7 +440,7 @@ When there are more than two IVs, the design is said to be factorial.
 ---
 ## Confounding variable
 
-<img align="center" width="90%" height="90%" src="assets/img/confounding.png">
+<img align="center" width="90%" height="90%" src="images/confounding.png">
 
 
 Note:
