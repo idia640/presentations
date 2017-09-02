@@ -1,11 +1,9 @@
-# Experimentation
+# HCI Methodologies
 ## Sept 5, 2017
 
 ---
 
-## HCI methodologies
-
-Primary methodologies include:
+## Primary methodologies
 
 - Observational (e.g, ethnographic research)
 - Survey
@@ -161,7 +159,7 @@ Does Flesch-Kincaid apply?? NO. It was designed for written text and not speech.
 ---
 ## "Flesch Kincaid"
 
-![](images/flesch-kincaid.png)
+<img align="right" width="90%" height="90%" src="images/flesch-kincaid.png">
 
 Credit: <a target="_blank" href="http://languagelog.ldc.upenn.edu/nll/?p=21847">LanguageLog Blog</a>
 
@@ -170,11 +168,10 @@ Note:
 ---
 ## "Gladwellian gap"
 
-<img align="right" width="90%" height="90%" src="images/DavidAndGoliath.jpg">
+<img align="right" width="20%" height="20%" src="images/DavidAndGoliath.jpg">
+"Gladwell **proves** that not only do many successful people have dyslexia, but that they have become successful in large part because of having to deal with their difficulty."
 
- - "Gladwell proves that not only do many successful people have dyslexia, but that they have become successful in large part because of having to deal with their difficulty."
-
-Observations from <a target="_blank" href="http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_critique_david_and_goliath_misrepresents_the_science.html">Chabris, Slate Magazine, Oct 2013</a>
+Observation from a source quoted in <a target="_blank" href="http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_critique_david_and_goliath_misrepresents_the_science.html">Chabris, Slate Magazine, Oct 2013</a>
 
 Note:
 
@@ -233,8 +230,22 @@ Elements of a scientific paper you will learn to identify.
 - Objectives
 - **Controlled Experimentation**
 - Critical Review
+
 ---
-## Some dichotomies in research methods
+## UX Research Methods
+
+<img align="center" width="60%" height="60%" src="images/user-research-methods.png">
+
+Image credit: <a href="https://www.nngroup.com/articles/which-ux-research-methods/">Norman Nielsen</a>
+
+Note:
+
+Does not account for experimental studies. https://www.nngroup.com/articles/which-ux-research-methods/
+
+- Both qualitative and quantitative may be interested in using both objective and subjective data. But, generally, quantitative studies focus on structured data while qualitative studies focus on more open-ended questions.
+
+---
+## Some dichotomies in HCI research methods
 
 - Lab vs field (natural context)
 - Participant report vs. researcher observation
@@ -248,22 +259,9 @@ Note:
 - There are a number of different ways to slice and dice research methods - but it's difficult to find a single representation that adequately describes such a multi-dimensional topic.
 
 ---
-## Another dichotomy
-
-<img align="right" width="90%" height="90%" src="images/user-research-methods.png">
-
-Image credit: https://www.nngroup.com/articles/which-ux-research-methods/
-
-Note:
-
-Does not account for experimental studies. https://www.nngroup.com/articles/which-ux-research-methods/
-
-- Both qualitative and quantitative may be interested in using both objective and subjective data. But, generally, quantitative studies focus on structured data while qualitative studies focus on more open-ended questions.
-
----
 ## Structure of research
 
-<img align="right" width="90%" height="90%" src="images/research-study.png">
+<img align="right" width="50%" height="50%" src="images/research-study.png">
 
 Image credit: Gliner, Morgan, and Leech (2011), p. 20
 
@@ -274,9 +272,8 @@ Note:
 ---
 ## What if the question is very broad?
 
-<img align="center" width="90%" height="90%" src="images/broad-research.png">
-
-Image credit: Chow, S. (2010). pp. 450
+<img align="right" width="50%" height="50%" src="images/broad-research.png">
+Image credit: Chow, S. (2010). p. 450
 
 Note:
 
@@ -285,7 +282,7 @@ If you are interested in doing a quantitative master's or doctoral thesis using 
 ---
 ## HCI research methods (deeper look)
 
-
+<img align="center" width="90%" height="90%" src="images/hci-research-methods.png">
 
 Inserted image from Gliner, Morgan & Leech (2011) p. 11
 
@@ -298,7 +295,7 @@ We'll look at ethnographic research and survey methodology next week, but for th
 ---
 ## Randomized experimental
 
-![Image](./assets/md/assets/experimental.png)
+<img align="center" width="80%" height="80%" src="images/experimental.png">
 
 Note:
 
@@ -319,12 +316,14 @@ And you could imagine being interested in something like assessing readability o
 
 No random groups are assigned.
 
-For example, two university classes are given two different exam types. Or you are looking at two groups where the subjects had selected the treatment (e.g., stress reduction via Tai Chi versus meditation)
+- For example,
+ - Two university classes are given two different exam types.
+ - Groups where subjects had selected the treatment (e.g., stress reduction via Tai Chi versus meditation)
 
 ---
 ## Non-Experimental (Observational)
 
-<img align="center" width="90%" height="90%" src="images/non-experimental.png">
+<img align="center" width="60%" height="60%" src="images/non-experimental.png">
 
 Note:
 
@@ -340,7 +339,6 @@ Note these are all inherent attributes of a person - you can't assign them these
 ## Back to the overview
 
 <img align="right" width="90%" height="90%" src="images/research-overview.png">
-![Image](./assets/md/assets/research-overview.png)
 
  Image credit: Gliner, Morgan, and Leech (2011), p. 11
 
@@ -355,9 +353,15 @@ Note:
 - **Critical Review**
 
 ---
-## Example Paper
+## Sample Paper
 
 <a href="https://www.dropbox.com/s/cpsczd3820h24w4/sauro_lewisCHI2011.pdf?dl=0"><img align="center" width="90%" height="90%" src="images/sample-paper.png"></a>
+
+Note:
+
+https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
+
+Based on research, a SUS score above a 68 would be considered above average and anything below 68 is below average.
 
 ---
 ## Research question
@@ -368,7 +372,7 @@ Note:
  - Should be testable
  - Should be ethical
 
-<img align="right" width="90%" height="90%" src="images/research-goals.png">
+<img align="right" width="60%" height="60%" src="images/research-goals.png">
 
 Example from: Sauro & Lewis (2011)
 
@@ -380,13 +384,17 @@ Note:
 - There is no difference in extreme response bias
 between Normal and Positive SUS.
 
-- From example paper, "To **measure extreme response bias**, we counted **the number of times respondents provided either the highest or lowest response option (1 or 5) for both questionnaire types for all items**."
-
-<img align="right" width="90%" height="90%" src="images/variables.png">
+- "To **measure extreme response bias**, we counted **the number of times respondents provided either the highest or lowest response option (1 or 5) for both questionnaire types for all items**."
 
 Note:
 
-You should be able to see the variables and things being measured (e.g., Normal vs positive control and a variable such as response options.)
+You should be able to find the variables and things being measured (e.g., normal vs positive control and a variable such as response options.)
+
+You don't need to understand much about statistics, but a few things would be helpful.
+
+N = number of subjects
+Mean = average across respondants
+SD = Standard deviation tells you about the spread of responses. Are they are very similar, or do they deviate across a broader spectrum of answers?
 
 ---
 ## Why "no difference"?
@@ -395,18 +403,18 @@ You should be able to see the variables and things being measured (e.g., Normal 
 
 Note:
 
-You can't prove something is true. Science rests on a principle that Karl Popper described as "falsifiability" - which means you can dispute some claim about a theory.
+You can't prove something is true. Science rests on a principle that Karl Popper described as "falsifiability" - which basically means there is the means to dispute some claim about a theory.
 
 The tool science uses to do this is inferential statistics. By studying a sample population, which is an analog of THE population, evidence inferred from the sample gives you confidence that the same experiment performed over the total population would derive the same results.
 
-The null hypothesis testing works is that you are looking for whether there is a difference between two groups so you can see if there is a relationship between your independent variable and the dependent variable that you are interested in. If you find a statistical difference -- the behavior of the treatment group is sufficiently different from the control group -- then you have evidence for an alternative hypothesis.
+The way null hypothesis testing works is that you look for whether there is a difference between two groups; is there a relationship between independent variable(s) and a dependent variable. If you find a statistical difference -- the behavior of the treatment group is sufficiently different from the control group -- then you have evidence to support an alternative hypothesis to the null hypothesis.
 
 Ideally, the alternative hypothesis has either explanatory or predictive power.
 
 ---
 ## Research Approach / Design
 
-- What design does your article describe?
+- What design does the article describe?
   - Experimental vs. Non-Experimental
   - Can you assess further?
     - Randomized experimental
@@ -416,6 +424,8 @@ Ideally, the alternative hypothesis has either explanatory or predictive power.
     - Descriptive
 
 Note:
+
+The Sauro article describe a randomized experimental approach.
 
 ---
 ## Conditions & variables
@@ -433,7 +443,6 @@ Note:
 Note:
 
 Extraneous: For example, minor visual differences in cross-browser display.
-Confounding: e.g., white balance differences in a readability experiment
 
 When there are more than two IVs, the design is said to be factorial.
 
@@ -473,20 +482,25 @@ For next week:
  - Conditions & variables
  - Findings
 
-Note: This document is in your github directory. Go in and edit it, but don't forget to preview it and make sure it looks like you think it should. I would recommend using an external editor with spell/grammar check and then pasting it into the window. Fiddle with your markdown for headers or bullets from there, or use an external markdown editor to test.
+Note:
+
+This document is in your github directory. Go in and edit it, but don't forget to preview it and make sure it looks like you think it should. I would recommend using an external editor with spell/grammar check and then pasting it into the window. Fiddle with your markdown for headers or bullets from there, or use an external markdown editor to test.
 
 ---
-## Critical thinking (respond to 5)
- - Does the paper seem significant or not? Why or why not?
- - Does the methodology seem sound or suspect? In what sense?
- - Can you think of confounding variables that the author did not discuss?
- - Does this paper get its message across clearly? How or how not?
- - Does it change your thoughts or has it introduced new ideas to you? In what way?
+## Critical thinking
 
- ---
-## Critical thinking (continued)
- - Do you think the study is reproduce-able (like an exact recipe) or that the author left out too many details? What do you think needed more explanation?
- - Can you imagine how insights from this paper might be used in design?
+- Does the paper seem significant or not? Why or why not?
+- Does the methodology seem sound or suspect? In what sense?
+- Can you think of confounding variables that the author did not discuss?
+- Does this paper get its message across clearly? How or how not?
+- Does it change your thoughts or has it introduced new ideas to you? In what way?
+
+---
+
+## Critical thinking (cont.)
+
+- Do you think the study is reproduce-able (like an exact recipe) or that the author left out too many details? What do you think needed more explanation?
+- Can you imagine how insights from this paper might be used in design?
 
 Note:
 
