@@ -116,7 +116,7 @@ Writers should, for example, show early drafts of their work to a representative
 
 ## "Sketchy" science
 
-<img align="right" width="90%" height="90%" src="images/gap.jpg">
+<img align="right" width="20%" height="20%" src="images/gap.jpg">
 
   - "Dodgy claims"
   - Journalistic error
