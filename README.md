@@ -48,12 +48,15 @@ Week one slide links:
 <a name="week2-slide-links"></a>
  Week two slide links:
 
+ - Story of a paradigm shift: [The Gene: An Intimate History](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1476733503) by Siddhartha Mukherjee. This is a fascinating story with many players, but focuses on how it is we know about something that was invisible for many years and how it changed humanity's understanding of itself.
  - Ben Goldacre "[Battling bad science](http://www.ted.com/talks/ben_goldacre_battling_bad_science?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread)" TED talk
  - What is bad science reporting? - ["Qwerty effect"](http://www.chronicle.com/blogs/linguafranca/2012/03/15/bad-science-reporting-effect/)
  - Opaque writing... should it be this hard to understand? - [Stephen Pinker's opinion](http://www.psychologicalscience.org/index.php/convention/the-curse-of-knowledge-pinker-describes-a-key-cause-of-bad-writing.html)
  - Social science growing pains - [reproducible results](http://arstechnica.com/science/2016/03/social-science-reproducibility-not-great-but-not-as-bad-as-reported/)
  - Journalistic error... sure sounds "scientific!" - [Bad use of Flesch-Kincaid](https://www.bostonglobe.com/news/politics/2015/10/20/donald-trump-and-ben-carson-speak-grade-school-level-that-today-voters-can-quickly-grasp/LUCBY6uwQAxiLvvXbVTSUN/story.html)...and [good explanation of why it is bad](http://languagelog.ldc.upenn.edu/nll/?p=21847)
  - The influential power of science writers - [Malcolm Gladwell](http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_critique_david_and_goliath_misrepresents_the_science.html) example.
+ - ["Year of horrors"](http://ejwagenmakers.com/2012/Wagenmakers2012Horrors.pdf) in 2011 where it was found that the psychologist Diederik Stapel published at least 30 papers on fabricated data and where John Bargh's study where participants walk more slowly after being primed with the "old" stereotype failed replication.
+ - [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) - landcape of UX research methods from Nielsen Norman group.
 
 Not mentioned, but a [great story of how three MIT students fooled the world of scientific journals](http://news.mit.edu/2015/how-three-mit-students-fooled-scientific-journals-0414) by creating software that randomly generated, nonsense papers, one of which was subsequently published in conference with "loose standards".
 
