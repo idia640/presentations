@@ -355,7 +355,7 @@ Note:
 ---
 ## Sample Paper
 
-<a href="https://github.com/idia640/course-materials/blob/master/sauro_lewisCHI2011.pdf">Download</a>
+<a href="https://github.com/idia640/course-materials/blob/master/sauro_lewisCHI2011.pdf" target="_blank">Download</a>
 <img align="center" width="90%" height="90%" src="images/sample-paper.png">
 
 Note:
