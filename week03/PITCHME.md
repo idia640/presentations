@@ -1,27 +1,28 @@
----
-title: Title
-
----
-
 # HCI Research Methods (2)
 ## 12 September 2017
 
 ---
 ## Last week: Experimentation
-### Or... "Crash course on how to read a science paper"
+### (Or... "Crash course on how to read a science paper")
 
 - Review
 - How did it go?
-- Paper example "When designing usability questionnaires does it hurt to be positive?"
-- If we have time, [Susan Etlinger](http://www.ted.com/speakers/susan_etlinger)  - smart, well-considered, ethical use of data
+
+Note:
+
+
 ---
 ## Review
 
-![](images/research-overview.png)
+<img width="100%" height="100%" src="images/research-overview.png">
 
 Note:
 
 We started with experimentation because you needed sufficient knowledge to read scientific papers.
+- Scientific evidence used in course texts form the under-pinnings of everything you will learn about the brain and behavior
+- You need the ability to evaluate scientific evidence -- don't just believe journalists or "authoritative" sources. Go back and look for yourself
+- As the UX expert on your team, be the person that asks the question, "does this make sense?" What do I know from scientific evidence (your texts will be helpful; another fun one is "100 things designers need to know about people")
+- Use scientific evidence to support your own design decisions; UI design is not just "opinion"
 
 When and why you would choose to conduct an experiment?
 
@@ -36,50 +37,142 @@ The structure of a scientific paper gives insight into how you might think about
 - Discussion
 
 ---
-## Smart, well-considered, ethical use of data
+## Critical Thinking
 <center>
 <iframe src="https://embed-ssl.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-Fundamentally, we use experimentation to answer hard questions -- big data is increasingly important in such debates.
-
 Note:
+
+If we have time, [Susan Etlinger](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data)  - smart, well-considered, ethical use of data
+
+Experiments create data. Remember the crisis in the social sciences regarding reproducibility?
+
+It's extremely important that data is created under a context. And it is also created by people.
+
+"We have to ask questions and hard questions to move past counting things to understanding them."
+
+Great story about Ettlinger's autistic child. Metrics on evaluation put his development level at 3 years old... as a 9-month old (from a factual standpoint; gaze, attention, language). But at 5, he taught himself how to ask Google Search questions. He was teaching himself to communicate. Ettlinger learned that assessments often over-value one metric (verbal communication) over others.
+
+Summarizing: data doesn't create meaning - people do. We need to spend more time on our critical thinking skills. We need to spend more time on things like social sciences, humanities, rhetoric -- these things help us become better thinkers. "Because after all, if I can spot a problem in an argument, it doesn't much matter whether it's expressed in words or in numbers."
+
+"And it means questioning disciplines like demographics. Why? Because they're based on assumptions about who we all are based on our gender and our age and where we live as opposed to data on what we actually think and do. And since we have this data, we need to treat it with appropriate privacy controls and consumer opt-in, and beyond that, we need to be clear about our hypotheses, the methodologies that we use, and our confidence in the result."
 
 ---
 ## Today's outline
 
 - Survey Methodology
 - Ethnography & Ethnomethodolgy
+- Wrap-up: Evaluation
 
-Note: As mentioned before,
+Note: As mentioned before, this class considers three research methodological frameworks you may not get much exposure to in other classes.
+
+In particular, I chose these because you will need to think about how you would evaluate your persuasive design concept that you will create during this course. We'll talk more about this later.
 
 ---
 
-## Comparing three research traditions
+### Comparing research traditions
 
-- **Empirical** - Evidence acquired through observation and experimentation to justify a belief or claim. (Contrasts with view that reason alone is sufficient evidence.)
+- **Empirical** - Evidence acquired through observation and experimentation to justify a belief or claim.
   - Experimental
   - (Some) Surveys
   - Ethnography
-    - **Analytical** - In sociology/anthropology - detailed portrayal of a sociocultural phenomenon. Includes frames (e.g., restaurant, shop) and concepts.
-    - ** Generative** - Potential for identifying new experiences and phenomena. Important while trying to understand a problem.
+    - **Analytical** - detailed portrayal of a sociocultural phenomenon. Includes scripts/frames (e.g., restaurant, shop) and concepts.
+    - ** Generative** - Potential for identifying new experiences and phenomena.
 
 Note:
 
+Empirical tradition contrasts with view that reason alone is sufficient evidence.
+
+When we talked about experiments, we discussed empirical research as a process. (Note, scientific papers, while not designed for reading top-down, very much mirror the process of investigative research.)
+
+- Start with an observation and generate an inquiry to causes.
+- Generate hypotheses that explain the phenomenon.
+- Design experiments to test hypotheses. The experimental design should consider and rule out other explanations. Background research is essential to this end.
+- Collect data to test hypotheses.
+= Finally, evaluate or interpret the data.
+Evaluation: Interpret the data. Remember that there are always inferences that accompany results. Does this apply to the broader population, would you see the same results in the wild, etc.
+
+Survey:
+
+Like experiments, surveys may be empirical from the standpoint of answering who, what, and where questions -- but, unlike experiments, they can't answer why questions.  In order to answer why questions, experiments are needed.
+
+Ethnography:
+
+As a research methodology, ethnographic research is focused on understanding of a problem. It too, is empirical, as it is focused on observational data.
+
+Generative ethnography is a useful tool for developing an understanding of a problem. An example might be shadowing a person or a team while they do their work.
+
+Similar types of generative research include contextual interviews and focus groups.
+
+Evaluation:
+
+At the end of today, we'll look at when you might employ empirical research.
+
 ---
+## Aside
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oXUKdMRkFCA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+Anthropology, Sociology, Linguistics??
+
+---
+## Anthropology & IDIA
+
+<img width="70%" height="70%" src="images/Mead.jpg">
+
+Note:
+
+Ethnography is an empirical practice we borrow from Anthropology. Broadly, ethnography seeks to describe the world-view of a particular people or culture. It is an empirical discipline, though the researcher makes observations from the point-of-view of the subject. Typically, an ethnographic study accounts for both observations and the meaning of symbols within society.
+
+---
+## Sociology & IDIA
+
+<img width="100%" height="100%" src="images/garfinkel-dialogue.png">
+
+
+Note:
+
+We borrow methods liberally in IDIA. Harold Garfinkel  was a sociologist who established a program known as "ethnomethodology" during the 60s and 70s. While sociology studies social relations, interactions and groups -- ethnomethodology strives to find the social order that people create in everyday life.
+
+What does this mean? From a practical perspective, Garfinkel seemed to be interested in how to adequately describe social phenomena given that most of what we take for granted  (e.g., prior knowledge, social convention, setting) need to be accounted for in observations of social life. That is, an outsider cannot adequately refer to a described social situation without accounting for things that are not explicitly accounted for.
+
+This is an incredibly useful and important idea: to truly understand a user's goals, activities, motivations, and so forth -- you need to observe close in situ... and also dig into the peculiarity of what they actually do and say. Seek to understand practices through the world view of the people observed, instead of via the institutions that are external to social practice.
+
+While this overlaps in some degree with ethnography. Ethnomethodology is more strictly concerned with how people make sense of everyday affairs.
+
+---
+Linguistics & IDIA
+
+<img width="70%" height="70%" src="images/garfinkel-dialogue.png">
+
+(Schegloff, 1972: 78)
+
+A: Are you coming tonight?
+B: Can I bring a guest?
+A: Sure
+B: I'll be there.
+
+Note: Conversation Analysis was borne out of ethnomethodolgy, notably by the researchers Sacks, Schegloff, and Jefferson. The main concept is that interaction has it's own structure or organization. And, in addition to social, physical, institutional and cultural contexts, conversation itself has a context that is created and updated through talk.
+
+CA is concerned with observing language use to look for recurrent patterns. We're looking briefly at this so that you gain an appreciation of how very small details about what someone says can be very important.
+
+---
+
 ## Objectives
 
 1. Characterize the survey process from both a design and quality perspective
 2. Learn about how and why errors arise in surveys
 3. Explore examples of analytical and generative practice in ethnography and conversation analysis
+4. Understand at what point in the design process you would employ these methods
 
 Note:
 
 ---
-# Comparing survey methodology to experimentation
+### Comparing survey methodology to experimentation
 
 #### Differences
 - Surveys can't explicitly control IVs and DVs
-- Surveys based on participant responses rather than researcher observations
+- Surveys are on participant responses rather than researcher observations
 - Surveys may potentially reach a larger population
 - Surveys may be descriptive studies useful for understanding attitudes or preferences
 
@@ -89,6 +182,10 @@ Note:
 
 Note:
 
+Remember:
+- Independent Variable (IV) – What is causing a change in another variable of interest
+-  Dependent Variable (DV) – the variable of interest (what is measured)
+
 Strengths: large #s, may cost little to develop and administer. Elicitation of attitudes.
 
 Weaknesses: Biases from lack of response, or nature and accuracy. Intentional mis-reporting, mis-understanding, poor recall, difficulty with self-assessment.
@@ -97,15 +194,15 @@ Verbal surveys - interviews
 Written surveys - questionnaires
 ---
 
-# As in an experiment, start with the research question
+## Just like an experiment, start with the research question
 
 Note:
 
- Written or verbal?
-
 ---
 ## Surveys are inherently inferential
-![:scale 100%](images/survey-inference.png
+
+<img width="70%" height="70%" src="images/survey-inference.png">
+
 
 Note:
 
@@ -113,19 +210,22 @@ Note:
 
 ##  Survey process
 #### Two steps: sampling plan and procedure
-![:scale 50%](images/survey-research.jpg)
+
+<img width="50%" height="50%" src="images/survey-research.jpg">
 
 Note:
 
 ---
 ## Survey Design
-![:scale 75%](images/survey-design.png)
+
+<img width="60%" height="60%" src="images/survey-design.png">
 
 Note:
 
 ---
 ## Survey Measurement
-![:scale 70%](images/survey-measurement.png)
+
+<img width="60%" height="60%" src="images/survey-measurement.png">
 
 Note:
 
@@ -161,6 +261,9 @@ Gliner, J., Morgan, G., & Leech, N. (2011). Research methods in applied settings
 
 Groves, R. (2004). Survey errors and survey costs. John Wiley & Sons.
 
+---
+## Survey References
+
 Groves, R., Fowler Jr, F., Couper, M., Lepkowski, J., Singer, E., & Tourangeau, R. (2009). Survey methodology 2nd ed. John Wiley & Sons.
 
 Fowler, J., Floyd J. (1995). Improving survey questions: Design and evaluation (Vol 38). Sage Publications.
@@ -184,37 +287,38 @@ Lucy Suchman influenced technologists into thinking that researchers should watc
 
 May involve different methodologies. Most common is participant observation where the ethnographer is immersed in a culture as an active participant.
 
-Note:
-
 ---
-
-# Ethnomethodology
+## Ethnomethodology
 ... is concerned with studying situated activities/practices (or methods) of groups in everyday life. The focus is on how groups of people understand and produce a social order
 
 Note:
 
 Bottom-up view of sociology. Discovery-based observation.
 
----
-## Conversation Analysis -- emerged from ethnomethodolgy
+Example:
 
-#### Practice and methods for studying talk and social interaction.
+---
+## Conversation Analysis
+
+#### Practice and methods for studying talk and social interaction
 
 - There are norms in conversation where certain kinds of activities should happen.
 - Interaction is structured.
 - CA uses naturally occurring interactions to include both verbal and non-verbal conduct.
 
+Note: CA emerged out of ethnomethodology
+
 ---
 
 From Sacks, 1992, vol. I: 3):
 
-A. This is Mr. Smith, may I help you?
+- A. This is Mr. Smith, may I help you?
 
-.red[B: I can't hear you]
+- B: I can't hear you
 
-A. This is Mr. Smith
+- A. This is Mr. Smith
 
-.red[B: Smith]
+- B: Smith
 
 Note:
 
@@ -258,20 +362,68 @@ What can ethnography teach us in the commercial world? Implications for design (
 Note:
 
 ---
+## Research Methods in empirical evaluation
 
-## Next Week
-
-- Vision
-- First journal entry
-
+1. Understanding the problem / user (ethnographic research)
+2. Gather information about characteristics, attitude, opinion of a user group (survey)
+3. Assess need, demand, impact (survey)
+4. Evaluate differences / causes (experimentation)
 
 Note:
 
-- Path:
-  - vision, attention, memory/priming/learning, emotion
-  - language, decision-making, persuasion, culture, social networks
-- Use your own style; e.g., minimal notes, thoughtful narrative
-- I will grade using the rubric and do not judge your learning points
-- Please give thought to your examples -- this is really the heart of the assignment.
+Empirical methods are used at all points in a design lifecycle.
+- Understanding of the user community
+- Generation of a concept
+- Assessment of concept viability
+- Evaluation of a new design choice
 
+---
+## Case Study Design
+
+- Narrative focused on a small user population (nail this down)
+- Think about whether you can do any ethnographic research
+- You have broad goals - now consider a concrete situation and a short list of points to address
+- No design solutions yet!
+
+Note:
+
+We haven't really spoken about what a case study is yet. You got an idea of how to formulate the problem and then frame a nudge from [the nudge blog](http://nudges.org/2011/09/21/a-devious-little-marketing-nudge/) and  [dozen nudges](https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf). From this, you inferred something about how persuasion, as well. (we'll get into this in much more depth during the semester.)
+
+Case Studies are another useful tool. They are applied often in the social sciences and I've used them at work in order to delve into a particular situation or user story. They've been surprisingly effective in communicating some aspect of a complex problem in a way that less technical, and more senior stakeholders can understand: they comprise a narrative that lets you tell the story of your design choice.
+
+Essentially, a case study is a in-depth study of a particular situation. We can use this research design to examine how a design concept might work. They are very narrow (they can't be fit to all people), but they are also very flexible.
+
+Case studies help you find situations that you didn't anticipate. They also help you see problems that you hadn't imagined.
+
+The first thing you need to do for your case study (once your broader objective has been established) is to isolate to a particular population or sub-group.
+
+Extrapolate a short list of points that you want to make and address. You will need these for clarifying the problem and linking to choice points in your design.
+
+I would like to see your case study presented in something like a digital poster. (For example, you can compress down 2 or 4 slides onto one page.) So it should be succinct.
+
+
+---
+# Course map
+
+Note:
+
+---
+
+## Next Week
+
+- Review and refine your case study idea - revise & narrow to a defined user group and concrete situation. Add an update to [Slack #case-studies](https://idia640.slack.com/messages/C6J56QY8G0)
+- First journal entry - sense & perception
+
+Note:
+
+- Case study
+  - Fix on a target user population (or market segment) for your case-study. Be focused.
+  - Consider whether it is possible for you to do an informal ethnographic study. (Thinking about how to do this may help you narrow down your target.)
+  - Imagine a concrete situation one of your users might encounter - website/app, communications campaign, physical environment. For example, Busra's healthcare scenario... You can use something that exists and you are improving upon or something more novel that you can sketch.
+
+- Journal
+  - Use your own style; e.g., minimal notes, thoughtful narrative
+  - I will grade using the rubric and do not judge your learning points
+  - Please give thought to your examples -- this is really the heart of the assignment.
+  - Your journal entries will appear in Slack for all of us to read.
 ---
