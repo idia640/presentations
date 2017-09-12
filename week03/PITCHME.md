@@ -114,10 +114,10 @@ At the end of today, we'll look at when you might employ empirical research.
 
 ## Objectives
 
-1. Characterize the survey process from both a design and quality perspective
-2. Learn about how and why errors arise in surveys
-3. Explore examples of analytical and generative practice in ethnography and conversation analysis
-4. Understand at what point in the design process you would employ these methods
+1. Understand, broadly, how surveys are designed
+2. Understand how and why errors arise in surveys
+3. Understand the value of ethnographic study
+4. Understand at what points in the design process you would use any of the research methods discussed
 
 Note:
 
@@ -229,7 +229,7 @@ Later in the semster, we'll talk in particular about how prior context biases yo
 1. Order of questions
 2. Contrast effects of questions immediately preceding
 3. Length of survey (questions given more attention at beginning rather than later)
-4. Fowler (1995) notes respondants more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
+4. Fowler (1995) notes respondants are more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
 
 Note:
 
@@ -394,7 +394,7 @@ Empirical methods are used at all points in a design lifecycle.
 ---
 ## Take-away
 
-Understanding users in context is a broad topic of great importance in UX. Tease out patterns by close observation.
+Understanding users in context is a broad topic of great importance in UX. Tease out patterns through close observation.
 
 ---
 ## Case Study Design
