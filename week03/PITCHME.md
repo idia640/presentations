@@ -358,6 +358,10 @@ Note:
 
 CA analysts not interested in why. But how it happens and why it happens. Many hundreds of conversations. People think they know about talk, until they look closely.
 
+(Watch video up until 14:30. Unless you are enjoying it... then watch more!)
+
+Note that Stokoe is looking for patterns in dialogue responses. Ultimately, affecting behavior is about affecting response.
+
 ---
 ## Ethnographers in the Commercial World
 
