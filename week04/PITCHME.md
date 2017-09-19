@@ -6,9 +6,45 @@
 
 ## Course Map
 
-
+<img src="images/course-map.png" align="center" height="100%" width="100%">
 
 Note:
+
+## What is persuasion?
+
+Persuasion refers to influence of a person's beliefs, attitudes, intentions, motivations, or behaviors. (Gass & Seiter, 2010)
+
+## Why is this important for UX design?
+
+User Experience (UX) design refers directly to user attitude and behavior toward a product, system, or service.  UX is also fundamentally interactive in the sense that the message and experience is designed to *communicate*. Just as in conversation, your design elicits a response. As a designer, you want that response to be predictable.
+
+## How do we persuade?
+
+This is the topic of this course. While the formal course description says that you are to learn "concepts from cognitive psychology and visual processing to explore human problem-solving, learning, knowledge representation, and problems of interface design", we can pull these concepts under a framework for persuasive design so that you gain a more intuitive grasp of how all of the ideas fit together.
+
+A simple way to understand the context of persuasion, imagine the situation where you want to affect user behavior: you want them to take an action such as a button click.
+
+You need the following:
+- The user is at a decision point (whether he/she is aware of this or not).
+
+This means,
+- You, as the designer, have aligned user (visual) perception
+- You have control of user attention and they comprehend what they see
+- The user recognizes, based on priming and memory
+- The user understands what script he/she is in and how to respond
+
+These pre-conditions form the first part of what we will cover.  The second half of the course focuses on decision-making and factors that affect user decisions. So we will talk about:
+
+- Emotion, dual-process theory (Kahneman), and cognitive bias
+- Aesthetics and attractiveness
+- Cultural knowledge and expectation
+- Social influence
+
+Ultimately, you are driving for the user to respond in a specific way. All of the factors above have levers that you can employ to do so. By the end of the course, you will understand that humans are very good at pattern detection and this biases how they behave. And your goal as a designer is ultimately to drive behavior.
+
+Note:
+
+There are all sorts of interesting books on rhetoric and persuasion. Many are focused on language, though increasingly, there has been study centered on how advertisers' persuade. They are, after all, master's of persuasion and manipulation!
 
 ---
 
@@ -18,6 +54,38 @@ Note:
 1. What is visual perception?
 1. How do we construct meaning from visual information?
 1. How do we think of things we can't see or touch?
+
+---
+
+## Bottom-line up front
+
+1. Perception is an active process
+1. Perception is biased
+1. We are optimized for contrast
+1. Pop-out features can drive visual search
+1. We make sense of the world by detecting patterns
+1. Colors are affected by nearby context
+
+
+Note:
+
+I like the concept from Ware that "seeing" is a sequence of "visual queries". Each time your eye stops, you are looking for patterns. As a designer, understand what visual queries are necessary and support them.
+
+User perception is biased on:
+- past experience (expectations)
+- current context
+- user goals
+Ware talks about "bottom-up" feature detection processes and "top-down" goal-driven processes. He also notes that these occur simultaneously.
+
+The lowest level feature detection in the primary visual cortex is sensitive to feature-level contrasts that can drive visual search. The best features for pop-out include color, orientation, size, motion and stereoscopic depth.
+
+Ware notes that we are senstive to all sorts of patterns -- not just shapes, colors, etc. but also temporal patterns in sequences and action patterns. We also use our innate ability to understand visual, spatial, and temporal patterns in higher level concepts via metaphor. Ware mentions:
+- We can use a pattern such as closeness to mean 'similar' in a spatial context.
+Letters can represent sounds. 
+- Colors can also be symbolic and somewhat culture dependent. (Red as danger, for example.)
+- More color saturation can mean "more important" 
+
+Red-Green, Blue-Black, and Black-White are special because they produce the most extreme signal on one channel while being neutral on other channels. And, again, colors can carry additional cultural meaning.
 
 ---
 
