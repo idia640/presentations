@@ -6,7 +6,7 @@
 
 ## Course Map
 
-<img src="images/course-map.png" align="center" height="100%" width="100%">
+<img src="images/course-map.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -29,7 +29,7 @@ You need the following:
 
 This means,
 - You, as the designer, have aligned user (visual) perception
-- You have control of user attention and they comprehend what they see
+- You drive user attention
 - The user recognizes, based on priming and memory
 - The user understands what script he/she is in and how to respond
 
@@ -57,6 +57,28 @@ There are all sorts of interesting books on rhetoric and persuasion. Many are fo
 
 ---
 
+## Objective
+
+<img src="images/rubins-vase.jpg" height="30%" width="30%">
+- Understand pre-attentive (passive) processes
+- Understand how perception is active
+
+
+
+Note:
+
+In principle, the idea of "aligning user perception" is simple: you want the user to perceive what you want them to perceive. The difficult thing is to understand what they may actually perceive. So while there is a lot of detail in Ware about how vision operates at a low level, you should at least understand the difference between pre-attentive processes and higher-order (active) processes - and how to use these two concepts to advantage.
+
+Pre-attentive visual processing is what it sounds like: sub-conscious visual processing. Visual scenes segmentation is pre-attentive, where features are grouped together against a background.
+
+In this image, you see shapes above. But your recognition and understanding of these shapes is affected by higher-order processes.
+
+As visual information travels through the visual cortex, the brain continues to filter and processes information. Information that has the highest salience (we'll talk more about this next week) -- or stands out -- is analyzed further.
+
+Perception includes not only passive pre-attentive processes, but is affected by attention, memory, learning, belief, expectations, and goals.
+
+---
+
 ## Bottom-line up front
 
 1. Perception is an active process
@@ -77,15 +99,16 @@ User perception is biased on:
 - user goals
 Ware talks about "bottom-up" feature detection processes and "top-down" goal-driven processes. He also notes that these occur simultaneously.
 
-The lowest level feature detection in the primary visual cortex is sensitive to feature-level contrasts that can drive visual search. The best features for pop-out include color, orientation, size, motion and stereoscopic depth.
+The lowest level feature detection in the primary visual cortex is sensitive to feature-level contrasts that can drive visual search. These are pre-attentive and start in the retina. The best features for pop-out include color, orientation, size, motion and stereoscopic depth. (I'll show a slide depicting a summarizing figure from Ware shortly.)
 
-Ware notes that we are senstive to all sorts of patterns -- not just shapes, colors, etc. but also temporal patterns in sequences and action patterns. We also use our innate ability to understand visual, spatial, and temporal patterns in higher level concepts via metaphor. Ware mentions:
+Ware notes that we are sensitive to all sorts of patterns -- not just shapes, colors, etc. but also temporal patterns in sequences and action patterns. We also use our innate ability to understand visual, spatial, and temporal patterns in higher level concepts via metaphor. Ware mentions:
 - We can use a pattern such as closeness to mean 'similar' in a spatial context.
-Letters can represent sounds. 
+Letters can represent sounds.
 - Colors can also be symbolic and somewhat culture dependent. (Red as danger, for example.)
-- More color saturation can mean "more important" 
+- More color saturation can mean "more important"
 
 Red-Green, Blue-Black, and Black-White are special because they produce the most extreme signal on one channel while being neutral on other channels. And, again, colors can carry additional cultural meaning.
+
 
 ---
 
@@ -98,19 +121,21 @@ Red-Green, Blue-Black, and Black-White are special because they produce the most
 
 Note:
 
+First, let's take a brief look at how vision works.
+
 Much of the material in this segment is augmented by thinking captured from Dale Purvis' (2010) book "Brains: How they seem to work".
 
 Foundationally, brain and behavior scientists agree that that brain extracts features from sensory stimuli and then combine them in representations in higher cortical areas. These are the signals we perceive and use.
 
-According to Purvis, the problem is that stimuli are very noisy and undestanding how the brain takes sensory signals and generates perceptions is unclear.
+According to Purvis, the problem is that stimuli are very noisy and understanding how the brain takes sensory signals and generates perceptions is unclear.
 
 We'd like to say that there is a straightforward process that begins with the detection of features in the retina and moves toward a representation in the cerebral cortex.
 
-The real problem is context -- as we will see. So let's take a look at that. I'll show you several examples: luminance, color, geometry, and angles.
+The real problem is context -- as we will see. So let's take a look at that. I'll show you several examples from Purvis: luminance, color, geometry, and angles.
 
 ---
 
-## Luminance 
+## Luminance
 
 <img src="images/luminance.png" align="center" height="100%" width="100%">
 
@@ -126,7 +151,7 @@ The inner circle has the same luminance in both color contexts. (Luminance is "b
 
 <img src="images/cube.png" align="center" height="100%" width="100%">
 
-Note: 
+Note:
 
 Note the center tile on the top and the center one on the facing side.
 
@@ -152,17 +177,20 @@ Note: Again, you perceive the two tiles differently because the visual context d
 
 ## Angles
 
-.center[![:scale 100%](images/angles.png)]
+<img src="images/angles.png" align="center" height="100%" width="100%">
 
 Note:
 
 The visual world is unknowable: we can't actually see the world like a camera. Purvis (2010) believes we evolved perception to behavioral feedback due to operational successes in evolutionary time.
 
+While these illusions may seem like tricks of the visual system, they simply reflect a fundamental state-of-affairs for how vision works.
+
 ---
 
 ## Visual Spectrum
 
-<img src="images/electromagnetic-spectrum.png" align="center" height="100%" width="100%">
+<img src="images/electromagnetic-spectrum.png" align="center" height="60%" width="60%">
+
 *We see only a tiny portion of the electromagnetic spectrum*
 
 Note:
@@ -173,31 +201,51 @@ We have the illusion of believing we see everything there is to see. This, coupl
 
 ## Visual Stimuli
 
-<img src="images/photon-flux.png" align="center" height="100%" width="100%">
-.
-*What reaches the eye is not an image but a (chaotic) photon flux*
+<img src="images/photon-flux.png" align="center" height="50%" width="50%">
 
-** Somehow the eye has evolved to make an image on the retina**
+What reaches the eye is not an image but a (chaotic) photon flux. ** Somehow the eye has evolved to make an image on the retina.**
 
 Note:
 
 What's different between an eye and a camera?
-The heavy lifting is not done by the lens but the cornea.
+
+We'll see shortly -- but while cameras distribute pixels uniformly across a scene, the brain does not! It concentrates them in the fovea.
 
 ---
-## Visual System
 
-<img src="images/cornea.png" align="center" height="100%" width="100%">
+## The inverse problem
 
-*The cornea alters the speed and direction of light rays*
+<img src="images/inverse-problem.jpg" align="center" height="50%" width="50%">
+
 
 Note:
 
+Purvis (2015) notes that there is a problem with vision as feature representation; he calls this "the inverse problem". The basic idea is that there is no way to actually calculate the world from the signals we receive (we are trying to calculate cause from results).
+
+In early Hubel and Wiesel studies in the 1950's and 1960's, neurons in the primary visual pathway of cats and monkeys were found to respond to light stimuli in specific ways. They discovered that neurons on the V1 part of the cortex responded selectively to retinal activation (bars with different orientation, etc.). This led to they theory that the visual system operates in a straight-forward way of feature extraction, filtering, processing and analytic combination so that an approximate representation of physical reality guides our behavior in the world: we see the world as it is.
+
+Purvis suggests this is wrong. He motivates the need for a paradigmatic shift by pointing out "the inverse problem". He believes that our perceptions are derived empirically by association between sensory patterns and the relative success of behavior in response to patterns.
+
+Purves, Morgenstern, Wojtach, 2015, "Perception and Reality: Why a Wholly Empirical Paradigm is Needed to Understand Vision", Front. Syst. Neurosci., 18
+
+---
+
+## Visual System
+
+<img src="images/cornea.png" align="center" height="60%" width="60%">
+
+
+Note:
+
+Let's move now to what happens in the eye.
+
 Since the cornea is heavier than air, when light hits its curved surface, it is refracted.
+
+*The cornea alters the speed and direction of light rays*
 
 The lens refines the light a bit earlier.
 
-A primary feature of central vision is the macula lutea (color, blood vasculature difference than the rest of the retina). The **fovea** has the greatest detail and finest resolution of the eye. To see, we need to make sure we align our eyes to a point of fixation so that objects falls on the fovea. In this way, we can see detail and color. The fovea is the area of greatest sensitivity.
+A primary feature of central vision is the macula lutea (you can see it here because it's color and blood vasculature difference than the rest of the retina). The **fovea** (center of macula lutea) has the greatest detail and finest resolution of the eye. To see, we need to make sure we align our eyes to a point of fixation so that objects falls on the fovea. In this way, we can see detail and color. The fovea is the area of greatest sensitivity.
 
 ---
 
@@ -229,13 +277,13 @@ Our eye movements are not random. For example, people look at informational char
 
 ## Retina
 
-<img src="images/retinal-image.png" align="center" height="90%" width="90%">
+<img src="images/retinal-image.png" align="center" height="70%" width="70%">
 
 *The retina is the interface between the non-neural and neural parts of the eye.*
 
 Note:
 
-The retina sits at the back of the eye. It has a layer of cells that are photosensitive. 
+The retina sits at the back of the eye. It has a layer of cells that are photosensitive.
 
 Let's look at why they are at the back of the eye.
 
@@ -247,9 +295,9 @@ Let's look at why they are at the back of the eye.
 
 Note:
 
- 70% of all human receptors are visual. Receptors are protein molecules that receives a signal (in this case chemical) and produce a response. 
- 
-Photoreceptors contain photopigments that react to  light. Some change their shape when they absorb a photon. When photopigments change shape, they trigger chemical reactions that send signals to the visual cortex indicating how much light there is at some point on the retina. Thus, light is received as electromagnetic radiation in waves and is turned into  nerve impulses that the brain understands. 
+ 70% of all human receptors are visual. Receptors are protein molecules that receives a signal (in this case chemical) and produce a response.
+
+Photoreceptors contain photopigments that react to light. Some change their shape when they absorb a photon. When photopigments change shape, they trigger chemical reactions that send signals to the visual cortex indicating how much light there is at some point on the retina. Thus, light is received as electromagnetic radiation in waves and is turned into  nerve impulses that the brain understands.
 
 There are a number of specialized cells in the retina. Aside from photoreceptor cells, there are also horizontal cells, bipolar cells, amacrine cells, and ganglion cells.  They all perform certain kinds of functions. For example, horizontal cells help process information in a lateral direction, as well as in light and dim conditions.
 
@@ -260,6 +308,8 @@ There are a number of specialized cells in the retina. Aside from photoreceptor 
 <img src="images/dist-rods-cones-retina.png" align="center" height="80%" width="80%">
 
 Note:
+
+This diagram shows the distribution of rods and cones in the human retina. Cones are centered at the fovea, while rods occur throughout the retina.
 
  Different types of photoreceptors contain different kinds of photopigment -- the main kinds are known as rods and cones. Rod cells are much more numerous except for in the area of the fovea (center of the macula lutea). Rods are more sensitive than cones and we rely on them when there is little light. Cones, on the other hand, enable us to see distinguish color.
 
@@ -274,7 +324,12 @@ Though, modern humans are accustomed to more light than our ancestors, presumabl
 Note:
 
 Both rods and cones are efficient at capturing photons. Rods converge on ganglion cells through intermediary processors. About 100 converge on a single ganglion cell. It takes about 100 rods to detect a single flash of light.
+
 Cones capture more photons and converge on ganglion cells at about 1:1.
+
+They also are responsible for us seeing color. We have three types - short, middle and long-wavelength sensitive. (Just like old style TVs!)
+
+We also have far fewer short-wavelength sensitive (blue) cones. And these are less sensitive to light than longer wave-length cones. As a consequence, showing detail on a blue or dark background results in illegibility. but, by contrast yellow (almost as light as white since it excites both mid- and long-wavelength cones) is very distinct on a dark background.
 
 ---
 
@@ -284,7 +339,7 @@ Cones capture more photons and converge on ganglion cells at about 1:1.
 
 Note:
 
-Luminance is a measure of light emission or reflection. In this figure, you can see that it encompasses orders of magnitude.
+Luminance is a measure of light emission or reflection. In this figure, you can see that it encompasses orders of magnitude (the scale is not linear).
 
 ---
 
@@ -300,23 +355,72 @@ We really don't know why there is hemisphere crossing. Perhaps it is evolutionar
 
 ---
 
-## The inverse problem
+## Feature detection (pre-attentive)
 
-<img src="images/inverse-problem.jpg" align="center" height="70%" width="70%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RPv0a9ftu6Y" frameborder="0" allowfullscreen></iframe>
 
-*Problem with vision as feature representation (Purvis, 2015)*
+<a target="_blank" href="https://www.youtube.com/watch?v=IOHayh06LJ4">Hubel and Wiesel cat experiment</a>
 
 Note:
 
-Basically, this is called "the inverse problem" because we are trying to calculate cause from results.
+Basically, Hubel and Wiesel discovered that there are different sorts of detectors in the eye. Some are specialized or edge detection, some for motion detection, some for color, depth, etc. Kittens that did not receive certain kinds of visual signals during early development were not able to develope them later.
 
-In early Hubel and Wiesel studies in the 1950's and 1960's, neurons in the primary visual pathway of cats and monkeys were found to respond to light stimuli in specific ways. They discovered that neurons on the V1 part of the cortex responded selectively to retinal activation (bars with different orientation, etc.). This
-led to they theory that the visual system operates in a straight-forward way of feature extraction, filtering, processing and analytic combination so that an approximate representation
-of physical reality guides our behavior in the world: we see the world as it is.
+---
 
-Purvis suggests this is wrong. He motivates the need for a paradigmatic shift by pointing out "the inverse problem". He believes that our perceptions are derived empirically by association between sensory patterns and the relative success of behavior in response to patterns. 
+## Pop-out
 
-Purves, Morgenstern, Wojtach, 2015, "Perception and Reality: Why a Wholly Empirical Paradigm is Needed to Understand Vision", Front. Syst. Neurosci., 18
+<img src="images/pop-out.png" align="center" height="90%" width="90%">
+
+Note:
+
+Pop-out features are detected pre-attentively starting from the retina. Something that pops out can be seen in a single eye fixation (less than a tenth of a second). They do not require several eye movements nor "cognitively effortful search".
+
+Something useful for the periphery of vision to drive attention is motion. It's not included in this chart but can be used to drive an orienting response. Ware references a study by Hillstrom and Yantis (1994) that suggests it's not enough to have something moving in the visual field: it must enter into the visual field to generate an orienting response.
+
+(Imagine leaves blowing on trees in the background of view - they will not startle you to orient on them.)
+
+Also, not noted here is color. These require more effort to distinguish and are more context sensitive. We'll talk about color in a bit.
+
+---
+
+## Feature detection (summary)
+
+<img src="images/feature-detection.png" align="center" height="70%" width="70%">
+
+While there are 100M visual receptors, there are billions of neurons simultaneously processing edges, contours, shapes, color, motion and depth.
+
+Note:
+
+- Strongest pop-out affects when a single target objects differs in some feature from all other identical. Degree of contrast important. The more variable the background, the larger the difference. Color, orientation, size, motion & stereoscopic depth. Less than .1 sec.
+- No pop out for 2 more features at the same time.
+- Learning does not help much in this (hard-wired) phase.
+- Detection field  (area around center of the fovea) matters - the differences must be close enough together in visual space.
+
+---
+
+## Brief note on color
+
+<img src="images/ConeMosaics.jpg" align="center" height="90%" width="90%">
+
+Note:
+
+This image illustrates the mosaic of cones in the retina. The red, blue, and green circles represent the approximate density of cone types. Most cones are red sensitive (mid-wavelengths), but there are far fewer blue sensitive. The image on the right illustrates a type of color blindness where there are no red sensitive cones.
+
+Three color opponent channels:
+- red-green (middle and long wavelengths)
+- yellow-blue (luminance and blue cones)
+- black-white (luminance/light intensity)
+
+Color blindness (generally red-green): 8% of males, 1 % females affected.
+
+Aside from color blindness, color can be challenging in design for other reasons. We are designed to see differences between patches of light: not absolute values.
+
+Thus, luminescent differences easier to see than chromatic differences.
+	- luminescent channel conveys motion more effectively.
+	- conveys stereoscopic depth.
+	- conveys shape from shading difference.
+	- it's is non-linear; we're more sensitive to dark grey differences than light differences.
+- We are more sensitive to properties of surfaces in the environment rather than light coming from those surfaces.
 
 ---
 
@@ -330,9 +434,11 @@ Purves, Morgenstern, Wojtach, 2015, "Perception and Reality: Why a Wholly Empiri
 
 ## What does Ware mean by "visual queries"?
 
-<img src="images/visual-query.png" align="center" height="90%" width="90%">
+<img src="images/visual-query.png" align="center" height="60%" width="60%">
 
 Note:
+
+Up till now, we've been talking about low level feature processing, primarily up to the point of the retina. But -- since our eye is not like a camera -- our eyes have to move to see.
 
 Eye movement is characterized by saccadic eye movements (when vision is suppressed) and fixations.
 
@@ -348,7 +454,9 @@ Thus, we sample the environment to see and can only see a small amount at a time
 
 Note:
 
-.1 seconds seems instantaneous. We can't hold the whole world in conscious awareness.
+The illusion is that everything we perceive is in conscious awareness!
+
+.1 seconds seems instantaneous. We can't hold the whole world in conscious awareness. We see the world in sequences of fixations and our brains fill in the gaps.
 
 Change blindness reflects our small capacity of visual working memory. This is the reason we need external visual aids. Our attention is displayed by task-relevant data.
 
@@ -356,68 +464,24 @@ Change blindness reflects our small capacity of visual working memory. This is t
 
 ## Seeing is attention
 
-Working memory resources are used to briefly retain in focal attention those resources that are needed
-
----
-
-## Feature detection
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RPv0a9ftu6Y" frameborder="0" allowfullscreen></iframe>
-
-[Hubel and Wiesel cat experiment](https://www.youtube.com/watch?v=IOHayh06LJ4)
+Working memory resources are used to briefly retain in focal attention those resources that are needed.
 
 Note:
 
-Basically, Hubel and Wiesel discovered that there are different sorts of detectors in the eye. Some are specialized or edge detection, some for motion detection, some for color, depth, etc. Kittens that did not receive certain kinds of visual signals during early development were not able to develope them later.
-
----
-
-## Feature detection (summary)
-
-<img src="images/feature-detection.png" align="center" height="90%" width="90%">
-
-While there are 100M visual receptors, there are billions of neurons simultaneously processing edges, contours, shapes, color, motion and depth.
-
-Note:
-
-- Strongest pop-out affects when a single target objects differs in some feature from all other identical. Degree of contrast important. The more variable the background, the larger the difference. Color, orientation, size, motion & stereoscopic depth. Less than .1 sec.
-- No pop out for 2 more features at the same time.
-- Learning does not help much in this (hard-wired) phase.
-- Detection field  (area around center of the fovea) matters - the differences must be close enough together in visual space.
-
----
-
-## Color
-
-<img src="images/ConeMosaics.jpg" align="center" height="90%" width="90%">
-
-Note:
-
-Three color opponent channels:
-- red-green (middle and long wavelengths)
-- yellow-blue (luminance and blue cones)
-- black-white (luminance/light intensity)
-
-We are designed to see differences between patches of light: not absolute values.
-Color blindness (generally red-green): 8% of males, 1 % females affected
-
-- Luminescent differences easier to see than chromatic differences.
-	- luminescent channel conveys motion more effectively.
-	- conveys stereoscopic depth.
-	- conveys shape from shading difference.
-	- it's is non-linear; we're more sensitive to dark grey differences than light differences. 
-- We are more sensitive to properties of surfaces in the environment rather than light coming from those surfaces.
-- We are attuned to color for search.
+Working memory is quite short - only seconds! (We'll talk more about memory next week.)
 
 ---
 
 ## Attentional tuning of features
 
-<img src="images/visual-query.png" align="center" height="100%" width="100%">
+<img src="images/visual-query.png" align="center" height="40%" width="40%">
 
  *Patterns are the power of vision*
 
 Note:
+
+Attentional tuning operates at the feature level, such as the pop-out features recently discussed. But because patterns are made up of features the same principles are play during visual queries. More complex patterns, such as the blobs that we quickly recognize as faces, and the lines connecting symbols, which we may track with our eyes, once we recognize that they are letters - are really patterns of patterns.
+
 Planning and executing eye movements occurs between 1-3 times per second.
 
 For each fixation, a person can do between 1-4 pattern tests.
@@ -428,17 +492,24 @@ For each fixation, a person can do between 1-4 pattern tests.
 
 <img src="images/contours.png" align="center" height="100%" width="100%">
 
-Note: 
+Note:
+
+Feature binding occurs above the level of basic visual features.
 
 In this stage, patterns such as continuous contours are constructed. There is a biased competition for feature processing. For example, excitatory signals on neurons are prevalent within a neighborhood. Likewise, there tends to be inhibition on non-related inputs.
 
-There are also top-down attentional processes (goals, actions, understanding, etc.) We are continually re-link visual and non-visual features; we see what we are looking for and we get information when we need it.
+Feature binding is also affected by top-down attentional processes (goals, actions, understanding, etc.) We are continually re-link visual and non-visual features; we see what we are looking for and we get information when we need it.
 
 ---
 
 ## Ames illusion
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJhyu6nlGt8" frameborder="0" allowfullscreen></iframe>
+
+
+Notes:
+
+Our brain is connecting lines and recognizing objects on the basis of assumptions we have about the way the world works.
 
 ---
 
@@ -463,7 +534,7 @@ Ware notes that the brain acts like a distributed computer with no central condu
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jexnhNfOzHg" frameborder="0" allowfullscreen></iframe>
 
-https://www.wired.com/2015/02/science-one-agrees-color-dress/
+<a target="_blank" href="https://www.wired.com/2015/02/science-one-agrees-color-dress/">https://www.wired.com/2015/02/science-one-agrees-color-dress/</a>
 
 ---
 
@@ -471,30 +542,47 @@ https://www.wired.com/2015/02/science-one-agrees-color-dress/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFIZDZwdf-0" frameborder="0" allowfullscreen></iframe>
 
+Note:
+
+Our expectations and also rehearsed skill play a role in the efficiency of reading. Note in this eye-tracking study that the more skilled child reads ahead of dictation.
+
 ---
 
 ## Challenges to reading
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwNNij89qro" frameborder="0" allowfullscreen></iframe>
 
+Note:
+
+In fact, how text is arranged on a page or screen also affects reading efficiency.
+
 ---
 
-## Design tips for visual queries
+### Design tips: visual queries (1)
 
-1. Break down tasks visually.
-1. It's often easier to re-do than remember.
-1. Multi-scale visual structure makes search easier.
-1. Closeness in visual space important.
-1. For two or more objects in visual query, use different channels (e.g, size, color, orientation, motion, grouping, etc). Getting pop-out effects on more than 2-3 symbols can be challenging. 
-1. Signaling icons should emerge and disappear periodically to reduce habituation.
-1. Prior experience leads to pattern of eye movement tendencies. Scanning strategies are shaped by the predictability of the environment. Regardless, experts may find patterns more quickly on fixations, but still cannot find them out of the corner of one's eye.
-1. Start with unique hues for color coding. Use no more than a dozen. Background matters.
-1. Color is multi-dimensional and affected by context.
-1. Remember that olors are often used symbolically in different cultures.
-1. Shape perception are mainly based on luminance. (Useful in maps for revealing patterns.)
-1. We don't see color peripherally, search tasks might be more effective with shape.
-1. Luminance contrasts are especially useful for detail and small text.
-1. Depth is inferred.
+- Break down tasks visually.
+- It's often easier to re-do than remember.
+- Multi-scale visual structure makes search easier.
+- Closeness in visual space important.
+- For two or more objects in visual query, use different channels (e.g, size, color, orientation, motion, grouping, etc). Getting pop-out effects on more than 2-3 symbols can be challenging.
+- Signaling icons should emerge and disappear periodically to reduce habituation.
+
+---
+
+### Design tips: visual queries (2)
+
+- Prior experience leads to pattern of eye movement tendencies. Scanning strategies are shaped by the predictability of the environment. Regardless, experts may find patterns more quickly on fixations, but still cannot find them out of the corner of one's eye.
+- Start with unique hues for color coding. Use no more than a dozen. Background matters.
+- Color is multi-dimensional and affected by context.
+- Remember that colors are often used symbolically in different cultures.
+
+---
+
+### Design tips: visual queries (3)
+
+- Shape perception are mainly based on luminance. (Useful in maps for revealing patterns.)
+- We don't see color peripherally, search tasks might be more effective with shape.
+- Luminance contrasts are especially useful for detail and small text.
 
 ---
 
@@ -514,10 +602,14 @@ In this diagram, you can also see two post V1/V2 pathways: the "what" pathway is
 
 <img src="images/dog.png" align="center" height="70%" width="70%">
 
+---
+
+## Power of visual thinking
+
 1. The visual world is unknowable: we don't see the world like a camera.
 2. Cognition is distributed - top-down and bottom-up processes have an effect on perception.
-3. Graphics are designed to communicate. Consider the visual task and allow that to drive design.
-4. The power of visual thinking is pattern matching -- but patterns aren't limited to the visual - perceptions linked to actions are response patterns.
+3. Graphics are designed to communicate. Consider the visual task in design.
+4. The power of visual thinking is pattern matching -- but patterns aren't limited to the visual -- **perceptions are linked to actions are response patterns**.
 5. In pattern learning, V1 & V2 are universally the same, V4 is idiosyncratic based on experience.
 
 ---
@@ -536,11 +628,18 @@ across our physical, social and cultural environment. (Suchman, 1987)*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eu-9rpJITY8" frameborder="0" allowfullscreen></iframe>
 
-[Lakoff - Frames and metaphor](https://www.youtube.com/watch?v=S_CWBjyIERY)
+<a target="_blank" href="https://www.youtube.com/watch?v=S_CWBjyIERY">Lakoff - Frames and metaphor</a>
 
 Note:
 
 Historically, in philosophy of mind & cognitive science considered the body to be peripheral to thinking. These days we tend to believe that our physicality is integral to thinking.
+
+Lakoff illustrates a metaphor about love:
+- Love is a journey - there are destinations; common life goals
+- Love relationship is like a vehicle
+- Difficulties in a love relationship are impediments to travel - spin your wheels, go on the rocks, dead-end
+
+Reasoning about travel is mapped to reasoning about love. There are inferences that can be made about love via the metaphor.
 
 ---
 
@@ -549,6 +648,8 @@ Historically, in philosophy of mind & cognitive science considered the body to b
 <img src="images/chair-table.jpg" align="center" height="90%" width="90%">
 
 Note:
+
+Representations in space are very powerful both in how we see the world, and the metaphors we use.
 
 In English, we have three frames of reference.
 
@@ -560,7 +661,7 @@ In English, we have three frames of reference.
 
 ## Metaphor
 
-<img src="images/apple.jpg" align="center" height="90%" width="90%">
+<img src="images/apple.jpg" align="center" height="40%" width="40%">
 
 Metaphors are patterns of patterns.
 
@@ -585,7 +686,7 @@ Properties and functions of objects matter: in/on bowl/plate
 
 Note:
 
-When you visualize an image, your eyes move a pattern that reflects that image (skip to min 6)
+When you visualize an image, your eyes move a pattern that reflects that image (skip to min 6 for 1-2 mins).
 
 ---
 
@@ -595,8 +696,7 @@ We can perform cognitive tasks better when using our bodies or parts of the envi
 
 Note:
 
-Perception of space is fundamentally about perception of action potential -- the linking of perception to action.
-For example, softball players who are hitting better see the ball a bigger.
+Perception of space is fundamentally about perception of action potential -- the linking of perception to action. For example, softball players who are hitting better see the ball a bigger.
 
 - Does ability influence perception or is there response bias (judgement bias from memory)?
 
@@ -616,17 +716,23 @@ Perhaps, we borrow from sensory and motor representations as we interact with th
 
 ## References
 
-Donald, M. (1991). Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition. Harvard University Press.
+- Donald, M. (1991). Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition. Harvard University Press.
 
-Lakoff, G., & M. Johnson. (1999). Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought, New York: Basic Books.
+- Lakoff, G., & M. Johnson. (1999). Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought, New York: Basic Books.
 
-Purves, D. (2010). Brains: How They Seem to Work. Ft Press.
+- Purves, D. (2010). Brains: How They Seem to Work. Ft Press.
 
-Purves D, Morgenstern Y, & Wojtach WT. (2015). Perception and reality: Why a wholly empirical paradigm is needed to understand vision. Front. Syst. Neurosci. 9:156.
+- Purves D, Morgenstern Y, & Wojtach WT. (2015). Perception and reality: Why a wholly empirical paradigm is needed to understand vision. Front. Syst. Neurosci. 9:156.
 
-Suchman, Lucy (1987). Plans and Situated Actions: The Problem of Human-machine Communication. Cambridge: Cambridge University Press.
+---
 
-Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
+## References (2)
+
+- Suchman, Lucy (1987). Plans and Situated Actions: The Problem of Human-machine Communication. Cambridge: Cambridge University Press.
+
+- Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
+
+- Ware, C. (2012). Information visualization: perception for design. Elsevier.
 
 ---
 
@@ -634,6 +740,7 @@ Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
 
 - Journal
 - Elevator speech
+- Next week we'll talk about memory, priming, learning, and attention
 
 Note:
 
