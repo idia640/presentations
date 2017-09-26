@@ -22,10 +22,10 @@
 
 <img src="images/visual-query.png" align="left" height="20%" width="20%">
 
-- Cognitive task driven by prior knowledge, current context ("display gist"), and goals.
+- Cognitive task driven by prior knowledge, current context ("display gist"), and goals
 - Visual search time is reduced by "pop-out"
 - Proximity matters
-- Attention prioritizes task relevant objects thus biasing the process.
+- Attention prioritizes task relevant objects thus biasing the process
 
 Note:
 
@@ -93,7 +93,7 @@ This is Henry Molaison. His case study gave us deep insight into how memory work
 
 ---
 
-# *Attention is roughly equivalent to working memory.*
+# *Attention is roughly equivalent to working memory*
 
 Note:
 
@@ -111,7 +111,7 @@ Because of limits to working memory, one of the main bottlenecks in visual think
 
 <img src="images/baddeley.png" align="center" height="60%" width="60%">
 
-*"a temporary storage system under attentional control that underpins our capacity for complex thought"* (Baddeley,2007, p.1)
+*"a temporary storage system under attentional control that underpins our capacity for complex thought"* (Baddeley, 2007, p.1)
 
 Note:
 
@@ -262,9 +262,9 @@ Explicit learning - visual patterns and associations must be the focus of attent
 
 ---
 
-# Memory sub-systems
+## Memory sub-systems
 
-<img src="images/ltm.png" align="center" height="60%" width="60%">
+<img src="images/ltm.png" align="center" height="70%" width="70%">
 
 Note:
 
@@ -377,6 +377,7 @@ The value is that it can be used to capture and control what the audience is att
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqdfFdUvwS4" frameborder="0" allowfullscreen></iframe>
 
+*Watch later*
 
 Note:
 
@@ -414,7 +415,7 @@ One week later, the participants were asked whether they had seen broken glass a
 
 ---
 
-# Driving attention
+## Driving attention
 
 <img src="images/banana-kiwi.jpeg" align="center" height="60%" width="60%">
 
@@ -428,7 +429,7 @@ Concepts that are more highly connected are retrieved faster, the more connectio
 
 ---
 
-# *Preferences* can be induced by an **exposure effect**
+## *Preferences* can be induced by an **exposure effect**
 
 <img src="images/mcdonalds.png" align="center" height="50%" width="50%">
 
@@ -573,26 +574,26 @@ We are pattern detectors and are perception is biased. One additional feature is
 
 ## References
 
-Baddeley, A. (2007). Working memory, thought, and action (Vol. 45). OUP Oxford.
+- Baddeley, A. (2007). Working memory, thought, and action (Vol. 45). OUP Oxford.
 
-Johnson, J. (2013). Designing with the mind in mind: simple guide to understanding user interface design guidelines. Elsevier.
+- Johnson, J. (2013). Designing with the mind in mind: simple guide to understanding user interface design guidelines. Elsevier.
 
-Miller, J. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63: 81-97.
+- Miller, J. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63: 81-97.
 
-Tversky, B. - http://www-psych.stanford.edu/~bt/diagrams/index.html
+- Tversky, B. - http://www-psych.stanford.edu/~bt/diagrams/index.html
 
 ---
 
 ## References (cont.)
 
-Yassa, M. & Z. Reagh. (2013). Competitive trace thery: a role for the hippocampus in contextual interference during retrieval. Retrieved from:
+- Yassa, M. & Z. Reagh. (2013). Competitive trace thery: a role for the hippocampus in contextual interference during retrieval. Retrieved from:
 <a target="_blank" href="http://journal.frontiersin.org/article/10.3389/fnbeh.2013.00107/full">http://journal.frontiersin.org/article/10.3389/fnbeh.2013.00107/full</a>
 
-Yoffe, E. (2009). How the brain hard-wires us to love google, Twitter, and texting. And why that's dangerous. Slate Magazine. Retrieved from: http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html
+- Yoffe, E. (2009). How the brain hard-wires us to love google, Twitter, and texting. And why that's dangerous. Slate Magazine. Retrieved from: http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html
 
-Ware, C. (2000). Information Visualization: Perception for Design.
+- Ware, C. (2000). Information Visualization: Perception for Design.
 
-Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
+- Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
 
 ---
 
