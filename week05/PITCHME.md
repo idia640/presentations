@@ -10,18 +10,18 @@
 1. Objectives
 1. What is priming?
 1. How does memory work?
-1. Schemas & Scripts
+1. Schemas, scripts, and frames
 1. What affects learning?
 1. Driving attention
-1. Multimodal Communication
+1. Multimodal communication
 1. Summary
 
 ---
 
-## Review
+## Review: Visual queries
 
 <img src="images/visual-query.png" align="left" height="20%" width="20%">
-Visual queries:
+
 - Cognitive task driven by prior knowledge, current context ("display gist"), and goals.
 - Visual search time is reduced by "pop-out"
 - Proximity matters
@@ -46,7 +46,7 @@ As Ware also notes, "a small number of cognitive markers may be placed in a work
 - Change blindness (Simons & Levin, 1998; https://vimeo.com/81039224)
 - Inattentional blindness (Simons & Chabris, 1999; logo study in Slack discussion)
 
-**Visual memory reflects our expectation**
+*Visual memory reflects our expectation*
 
 Note:
 
@@ -80,7 +80,7 @@ In the pre-frontal cortex, goals themselves are activated patterns that represen
 1. Understand the potential for cognitive bias in memory
 1. Acquire a few basic techniques for "driving attention"
 
---
+---
 
 ## How does memory work?
 
@@ -95,6 +95,8 @@ This is Henry Molaison. His case study gave us deep insight into how memory work
 
 # *Attention is roughly equivalent to working memory.*
 
+Note:
+
 Attention is roughly equivalent to working memory. What matters is what you attend. Working memory is a temporary nexus where links are formed between activated patterns - both visual and non-visual.
 
 You can only actually attend a few things at once.  But what are those things?
@@ -107,7 +109,7 @@ Because of limits to working memory, one of the main bottlenecks in visual think
 
 ## Working memory
 
-<img src="images/baddeley.png" align="center" height="70%" width="70%">
+<img src="images/baddeley.png" align="center" height="60%" width="60%">
 
 *"a temporary storage system under attentional control that underpins our capacity for complex thought"* (Baddeley,2007, p.1)
 
@@ -177,7 +179,7 @@ Thus, mental images aid in learning -- but they will also be useful in persuasio
 
 ## Chunking
 
-<img src="images/chunking.png" align="center" height="100%" width="100%">
+<img src="images/chunking.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -216,7 +218,7 @@ Success yields strengthening of pathways supporting a neural activation sequence
 
 *Exposure to a stimulus (images or pathways) experienced before influence the response to another stimulus; processing is faster the next time around for a period of time (day or two).*
 
-<img src="images/priming.png" align="center" height="60%" width="60%">
+<img src="images/priming.png" align="center" height="30%" width="30%">
 
 Note:
 
@@ -262,7 +264,7 @@ Explicit learning - visual patterns and associations must be the focus of attent
 
 # Memory sub-systems
 
-<img src="images/ltm.png" align="center" height="80%" width="80%">
+<img src="images/ltm.png" align="center" height="60%" width="60%">
 
 Note:
 
@@ -303,7 +305,7 @@ Unlike repetition priming, **semantic priming** occurs at the unit of a "concept
 
 ---
 
-## Learning biases
+## A few learning biases
 
 - Primacy effect
 - Recency effect
@@ -321,7 +323,7 @@ Time has a large impact on learning and retrieval of information. We tend to rem
 
 ## Skills acquisition
 
-<img src="images/skill-acquisition.png" align="center" height="80%" width="80%">
+<img src="images/skill-acquisition.png" align="center" height="40%" width="40%">
 
 Note:
 
@@ -337,11 +339,11 @@ Three stages of **skills acquisition**:
 *Background knowledge*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o4HHCgFmkcI" frameborder="0" allowfullscreen></iframe>
 
+Note:
+
 Frames - objects within a frame bias your perception. For example, 
 - Camera angle / view (visual attention)
 - Situations & activities
-
-Note:
 
 - Schemas simplify & distort to bring relevant information into focus.
 
@@ -361,6 +363,8 @@ Schemas that are conventionalized as **scripts** are temporally ordered and stru
 
 ## Visual narrative
 
+<img src="images/visual-narrative.png" align="center" height="60%" width="60%">
+
 Note:
 
 A visual narrative is a story told through visual media. It takes advantage of schemas and scripts and how our brains use them to process information.
@@ -372,6 +376,7 @@ The value is that it can be used to capture and control what the audience is att
 ## What affects learning?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqdfFdUvwS4" frameborder="0" allowfullscreen></iframe>
+
 
 Note:
 
@@ -411,11 +416,11 @@ One week later, the participants were asked whether they had seen broken glass a
 
 # Driving attention
 
----
-
-> Image gists are processed quickly. One way to command attention is to trigger unexpected relations.
+<img src="images/banana-kiwi.jpeg" align="center" height="60%" width="60%">
 
 Note:
+
+Image gists are processed quickly. One way to command attention is to trigger unexpected relations.
 
 For example, because most ads may incur only a a single fixation, advertisers spend effort on trying to keep your attention.
 
@@ -424,6 +429,8 @@ Concepts that are more highly connected are retrieved faster, the more connectio
 ---
 
 # *Preferences* can be induced by an **exposure effect**
+
+<img src="images/mcdonalds.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -437,11 +444,11 @@ Note, this is an example of repetition priming as mentioned earlier.
 
 <a target="_blank" href="http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html">SEEKING</a> is an emotional state. (Jaak Panksepp, affective neuroscience)
 
+Note:
+
 > "It is the mammalian motivational engine that each day gets us out of the bed, or den, or hole to venture forth into the world. It's why, as animal scientist Temple Grandin writes in Animals Make Us Human, experiments show that animals in captivity would prefer to have to search for their food than to have it delivered to them.
 
 > For humans, this desire to search is not just about fulfilling our physical needs. Panksepp says that humans can get just as excited about abstract rewards as tangible ones. He says that when we get thrilled about the world of ideas, about making intellectual connections, about divining meaning, it is the seeking circuits that are firing."
-
-Note:
 
 (Pankseep identifies 7:  PLAY, PANIC/GRIEF, FEAR, RAGE, SEEKING, LUST and CARE)
 
@@ -455,8 +462,7 @@ Note:
 2. Elaborate a problem
 3. Resolve a problem
 
-.center<a target="_blank" href="images/story.jpg">![:scale 70%</a>]
-<img src="./assets/md/assets/story.jpg" align="center" height="70%" width="70%">
+<img src="images/story.jpg" align="center" height="70%" width="70%">
 
 
 *Cognitive thread - the sequence of concepts in visual and verbal working memory, together with the links between them.*
@@ -473,7 +479,7 @@ Note:
 ## Design for communication is multimodal
 
 
-<img src="images/diagram-narrative.png" align="center" height="100%" width="100%">
+<img src="images/diagram-narrative.png" align="center" height="60%" width="60%">
 
 *Diagram narrative*
 
@@ -524,7 +530,7 @@ The schematic representation of a route in the diagram to the right is particula
 
 ## Compositionality of graphics
 
-<img src="images/compositionality-graphics.jpg" align="center" height="60%" width="60%">
+<img src="images/compositionality-graphics.jpg" align="center" height="50%" width="50%">
 
 
 <a target="_blank" href="http://www.thevisuallinguist.com">http://www.thevisuallinguist.com</a>
@@ -584,6 +590,8 @@ Yassa, M. & Z. Reagh. (2013). Competitive trace thery: a role for the hippocampu
 
 Yoffe, E. (2009). How the brain hard-wires us to love google, Twitter, and texting. And why that's dangerous. Slate Magazine. Retrieved from: http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html
 
+Ware, C. (2000). Information Visualization: Perception for Design.
+
 Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
 
 ---
@@ -591,22 +599,7 @@ Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
 ## Next Week
 
 - Journal
--
+- Kahneman 1-9
 
 Note:
 
----
-
-## Lateral inhibition
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sItlLNhhiLg" frameborder="0" allowfullscreen></iframe>
-
-Capacity of an excited neuron to reduce the activity of its neighbors.
-
-Note:
-
-Creates contrast and occurs not only in vision system, but also other sensory systems.
-
-Lateral inhibition disables the spreading of action potentials.
-
----
