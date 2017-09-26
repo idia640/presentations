@@ -375,9 +375,9 @@ The value is that it can be used to capture and control what the audience is att
 
 ## What affects learning?
 
+*optional: watch later*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqdfFdUvwS4" frameborder="0" allowfullscreen></iframe>
 
-*Watch later*
 
 Note:
 
