@@ -344,8 +344,7 @@ Note:
 Frames - objects within a frame bias your perception. For example, 
 - Camera angle / view (visual attention)
 - Situations & activities
-
-- Schemas simplify & distort to bring relevant information into focus.
+- Schemas simplify & distort to bring relevant information into focus
 
 - Memory is networked and activated by a small amount of information through visual system to visual working memory. We don't always notice small changes.
 
@@ -375,9 +374,9 @@ The value is that it can be used to capture and control what the audience is att
 
 ## What affects learning?
 
-*optional: watch later*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zqdfFdUvwS4" frameborder="0" allowfullscreen></iframe>
 
+*optional: watch later*
 
 Note:
 
@@ -396,6 +395,7 @@ We won't watch this video in class, but it's pretty cool! There are lots of prac
 - Gender - retrieval effects
 - Humans are natural explorers and active learners
 
+---
 
 ## Framing effects and memory
 
