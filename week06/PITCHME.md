@@ -363,17 +363,17 @@ Zajonc
 
 ## Design concepts (Kahneman)
 
-<ul class="small">
-<li>Use simple language</li>
-<li>Use high quality paper to maximize contrast</li>
-<li>Bright blue or red more persuasive that green, yellow, or pale blue (culture sensitive)</li>
-<li>Make messages memorable</li>
-<li>Rhyming judged more insightful</li>
-<li>Choose a source to quote with a name easy to pronounce</li>
-<li>More frequent stimuli, more favorable perception</li>
-<li>Positive mood</li>
-<li>Priming, clear font, pre-exposed words</li>
-<li>Coherence</li>
+<ul>
+<li style="font-size: .7em">Use simple language</li>
+<li style="font-size: .7em">Use high quality paper to maximize contrast</li>
+<li style="font-size: .7em">Bright blue or red more persuasive that green, yellow, or pale blue (culture sensitive)</li>
+<li style="font-size: .7em">Make messages memorable</li>
+<li style="font-size: .7em">Rhyming judged more insightful</li>
+<li style="font-size: .7em">Choose a source to quote with a name easy to pronounce</li>
+<li style="font-size: .7em">More frequent stimuli, more favorable perception</li>
+<li style="font-size: .7em">Positive mood</li>
+<li style="font-size: .7em">Priming, clear font, pre-exposed words</li>
+<li style="font-size: .7em">Coherence</li>
 </ul>
 
 
