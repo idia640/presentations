@@ -13,7 +13,7 @@
 
 ---
 
-Objectives
+## Objectives
 
 *Understand practical ways in which system one and two bias thinking*
 - Availability heuristic
@@ -81,7 +81,8 @@ Multi component model - components process in parallel:
 - **Prime important concepts** (e.g., search icon in mobile apps, brands, concepts)
 - **Exposure effect** (familiarity and preference)
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
-- **Direct & sustain attention** using inherent interest in SEEKING and novelty, cognitive threads
+- **Direct & sustain attention** using inherent interest in SEEKING and novelty, 
+- **cognitive threads**
 
 ---
 
