@@ -32,7 +32,7 @@ Kahneman's premise is that it easier to recognize other people's mistakes than o
 
 ## Review: Working memory
 
-<img src="images/baddeley.png" align="center" height="70%" width="70%">
+<img src="images/baddeley.png" align="center" height="50%" width="50%">
 
 *"a temporary storage system under attentional control that underpins our capacity for complex thought"* (Baddeley,2007, p.1)
 
@@ -54,7 +54,7 @@ Multi component model - components process in parallel:
     - possibly, important for chunking (breaking up verbal information into coherent phrases). - modality effect here.
     - conversion from visual to verbal
     - memory effects: rhyming causes confusion, and word length has an effect on recall.
-- Visua-spatial sketch pad - similar function for visual or spatially encoded items.
+- Visuo-spatial sketch pad - similar function for visual or spatially encoded items.
     - right hemisphere
     - separate what versus where mechanisms
 - Central executive - attentionally limited system that selects and manipulates patterns / objects in the subsystems.
@@ -81,6 +81,8 @@ Multi component model - components process in parallel:
 - **Exposure effect** (familiarity and preference)
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
 - **Direct & sustain attention** using inherent interest in SEEKING and novelty, cognitive threads
+
+## Design considerations (2)
 - **Coordinate messages across modalities**
  - Graphical symbols to convey conventional information (but consider cross-cultural effects)
  - Arrows to direct attention
@@ -91,7 +93,7 @@ Multi component model - components process in parallel:
 
 ## You want to encourage users to sign up for automatically billing
 
-### How could you make this more persuasive?
+*How could you make this more persuasive?*
 
 Note:
 
@@ -101,7 +103,7 @@ It's not at all clear that the developer of this user experience actually did wa
 ---
 # Walk-through example
 
-<img src="images/first-energy.png" align="center" height="80%" width="80%">
+<img src="images/first-energy.png" align="center" height="50%" width="50%">
 
 [FirstEnergy Corp Example](https://www.evernote.com/shard/s1/sh/72b46774-d277-4d10-b982-0c52bb79f84f/7b444d5211b53c61fdf31c10888178d6)
 
@@ -136,6 +138,8 @@ General law of "least effort" applies both the cognitive and physical exertion.
 
 ## Stroop effect
 
+<img src="images/conflict-stroop.png" align="center" height="80%" width="80%">
+
 Note:
 
 Example from Kahneman p 25.
@@ -149,7 +153,7 @@ Some cognitive illusions come from conflict between our intuitive thinking and c
 
 ## "There's no place like..."
 
-<img src="images/ruby-slippers.gif" align="center" height="80%" width="80%">
+<img src="images/ruby-slippers.gif" align="center" height="50%" width="50%">
 
 
 Note:
@@ -175,7 +179,7 @@ Damasio, Self Comes to Mind, 2013
 
 Damasio, 2011, Self Comes to Mind, p. 133
 
-<img src="images/association.png" align="center" height="80%" width="80%">
+<img src="images/association.png" align="center" height="50%" width="50%">
 
 Image credit: Reser, 2013, [The Neurological Process for Mental Continuity and Internally Generated Thought](http://www.cognitivemechanics.net/on_consciousness)
 
@@ -210,7 +214,7 @@ Convergence zones marry two types of memory systems: dispositional and associati
 
 Different thoughts come to mind when asked one way or the other.
 
-<img src="images/sam.png" align="center" height="80%" width="80%">
+<img src="images/sam.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -264,7 +268,7 @@ And sequence matters
 
 Trivial manipulations *may* have large effect.
 
-<img src="images/bargh.jpg" align="center" height="80%" width="80%">
+<img src="images/bargh.jpg" align="center" height="50%" width="50%">
 
 Note:
 
@@ -342,8 +346,7 @@ Consistency will also bias beliefs
 
 *The body temperature of a chicken is...?*
 
-
-![:scale 100%](images/chicken.png)
+<img src="images/chicken.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -357,16 +360,19 @@ Zajonc
 
 ## Design concepts (Kahneman)
 
-- Use simple language
-- Use high quality paper to maximize contrast
-- Bright blue or red more persuasive that green, yellow, or pale blue (culture sensitive)
-- Make messages memorable
-- Rhyming judged more insightful
-- Choose a source to quote with a name easy to pronounce
-- More frequent stimuli, more favorable perception
-- Positive mood
-- Priming, clear font, pre-exposed words
-- Coherence
+<ul class="small">
+<li>Use simple language</li>
+<li>Use high quality paper to maximize contrast</li>
+<li>Bright blue or red more persuasive that green, yellow, or pale blue (culture sensitive)</li>
+<li>Make messages memorable</li>
+<li>Rhyming judged more insightful</li>
+<li>Choose a source to quote with a name easy to pronounce</li>
+<li>More frequent stimuli, more favorable perception</li>
+<li>Positive mood</li>
+<li>Priming, clear font, pre-exposed words</li>
+<li>Coherence</li>
+</ul>
+
 
 Note:
 
@@ -378,7 +384,7 @@ Note:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n9TWwG4SFWQ" frameborder="0" allowfullscreen></iframe>
 
-### Write down what happened
+*Write down what happened*
 
 http://blogs.scientificamerican.com/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/
 
@@ -402,7 +408,7 @@ We see literal, goal-directed (anthropomorphic actions) and attribute social beh
 
 Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice, and also participated in antinuclear demonstrations.
 
-Is Linda more likely to be a "(a) bank teller" or a "(b) bank teller and active in the feminist movement"?
+**Is Linda more likely to be a "(a) bank teller" or a "(b) bank teller and active in the feminist movement"?**
 
 Kahneman, 2011, Thinking, Fast and Slow (p. 156)
 
@@ -456,7 +462,7 @@ What about in advertising?
 ---
 
 
-# People let their likes and dislikes determine their beliefs about the world
+## People let their likes and dislikes determine their beliefs about the world
 
 Note:
 
@@ -464,7 +470,7 @@ Note:
 
 ## System 1 constructs coherence
 
-<img src="images/confirmation-bias.jpg" align="center" height="100%" width="100%">
+<img src="images/confirmation-bias.jpg" align="center" height="80%" width="80%">
 
 Risk for confirmation bias
 
@@ -499,6 +505,10 @@ System 1 is coherence seeking. It suggests solutions to the un-suspecting System
 - Damasio, A. (2012). Self comes to mind: Constructing the conscious brain. Vintage.
 
 - Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
+
+---
+
+## References (2)
 
 - Reser, J. E. (2013). The neurological process responsible for mental continuity and internally generated thought. Conference for the Association for the Scientific Study of Consciousness, ASSC 17, July 12th-15th. Retrieved from: http://www.cognitivemechanics.net/on_consciousness
 

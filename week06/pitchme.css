@@ -101,3 +101,7 @@ td {
     padding-left:2em;
     padding-right:2em;
 }
+
+.small li {
+font-size:8px;
+}
