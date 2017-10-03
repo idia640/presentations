@@ -1,6 +1,6 @@
 
 # How we do think?
-## 3 Oct
+## 3 Oct 2017
 
 ---
 
@@ -71,6 +71,7 @@ Multi component model - components process in parallel:
     - limit on "chunks of information" that can be bound together coherently
     - Gives us the experience of current consciousness
     - back up store to PSTM and VSSTM.
+
 ---
 
 ## Design considerations
@@ -81,6 +82,8 @@ Multi component model - components process in parallel:
 - **Exposure effect** (familiarity and preference)
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
 - **Direct & sustain attention** using inherent interest in SEEKING and novelty, cognitive threads
+
+---
 
 ## Design considerations (2)
 - **Coordinate messages across modalities**
@@ -175,11 +178,11 @@ Damasio, Self Comes to Mind, 2013
 ## Associative memory
 
 
+<img src="images/association.png" align="center" height="40%" width="40%">
+
 *"Composite memory of the sensory and motor activities related to the interaction between the organism and object during a certain period of time."*
 
 Damasio, 2011, Self Comes to Mind, p. 133
-
-<img src="images/association.png" align="center" height="50%" width="50%">
 
 Image credit: Reser, 2013, [The Neurological Process for Mental Continuity and Internally Generated Thought](http://www.cognitivemechanics.net/on_consciousness)
 
