@@ -1,7 +1,3 @@
----
-title: Title
-
----
 
 # How do emotions affect belief?
 ## 10 Oct 2017
@@ -14,14 +10,7 @@ title: Title
     - What are they?
     - Are emotions universal?
     - How do they work?
-    - Effects:
-      - Perception
-      - Memory
-      - Attention
-      - Priming
-      - Thinking
-      - Beliefs
-      - Attitudes
+    - Effects (Perception, Memory, Attention, Priming, Thinking, Beliefs, Attitudes)
 1. Habits
     - How do habit loops work?
     - Interaction within social groups?
@@ -29,7 +18,8 @@ title: Title
 
 ---
 
-## The orator persuades by means of his hearers, when they are roused to emotion by his speech; for the judgements we deliver are not the same when we are influenced by joy or sorrow, love or hate
+*The orator persuades by means of his hearers, when they are roused to emotion by his speech; for the judgements we deliver are not the same when we are influenced by joy or sorrow, love or hate.*
+
 Aristotle, Rhetorica, I, II.5
 
 Note:
@@ -41,6 +31,7 @@ Emotional arousal is a fundamental consideration in persuasion. Because of the b
 ## Objectives
 
 - Understand how emotional processing interacts with cognition and behavior.
+- Understand why user motivations are so important to UX.
 
 Note:
 
@@ -79,7 +70,7 @@ Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-13
 
 ## Observations:
 
-<img src="images/phineas-gage.png" align="center" height="100%" width="100%">
+<img src="images/phineas-gage.png" align="center" height="100%" width="80%">
 
 Note:
 
@@ -148,7 +139,7 @@ Damasio also refers to the idea of background emotions. These appear to be large
 
 ## Foundation of Human and Animal Emotions
 
-<img src="images/panksepp.png" align="center" height="80%" width="80%">
+<img src="images/panksepp.png" align="center" height="60%" width="60%">
 
 https://youtu.be/65e2qScV_K8
 
@@ -326,7 +317,7 @@ Effects on thinking - sadness slows down thinking.
 
 ---
 
-# A belief which does not spring from conviction in the emotions in no belief at all
+*A belief which does not spring from conviction in the emotions in no belief at all*
 
 Evelyn Scott, writer
 
@@ -353,20 +344,19 @@ Attitude - orientation  toward or away; reflects the potential for intent - posi
 
 ---
 
-# As soon as behavior becomes automatic, the PFC is not needed: your  brain is working less.
+*As soon as behavior becomes automatic, the PFC is not needed: your  brain is working less.*
 
 ---
 
 ## Habit loops
 
-<img src="images/habits.png" align="center" height="100%" width="100%">
+<img src="images/habits.png" align="center" height="70%" width="70%">
+
+http://charlesduhigg.com/how-habits-work/
 
 *Habits help overcome decision fatigue... sound familiar?*
 
-<img src="images/power-of-habit.jpg" align="center" height="50%" width="50%">
-
 Note:
-
 
 The cue signals the brain to go into system 1 processing mode.
 
@@ -374,12 +364,10 @@ The central executive is disengaged and thinking/behavior is automatic.
 
 It takes effort to overcome this.
 
-http://charlesduhigg.com/how-habits-work/
-
 ---
 ## How do they work?
 
-<img src="images/rats-maze.jpg" align="center" height="50%" width="50%">
+<img src="images/rats-maze.jpg" align="center" height="30%" width="30%">
 
 Note:
 
@@ -396,7 +384,6 @@ Have you ever driven home without conscious memory of actively piloting your dri
 ---
 
 ## Social habits?
-
 
 <img src="images/peer-pressure.png" align="center" height="50%" width="50%">
 
@@ -417,43 +404,46 @@ Duhigg, Charles (2012-02-28). The Power of Habit: Why We Do What We Do in Life a
 ---
 
 <iframe src="https://player.vimeo.com/video/3730382" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 <p><a href="https://vimeo.com/3730382">Robert Fabricant - Behavior is our Medium</a> from <a href="https://vimeo.com/ixdaglobal">Interaction Design Association</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
 ## References
 
-Arnsten AF, Goldman-Rakic PS. Noise stress impairs prefrontal cortical cognitive function in monkeys: evidence for a hyperdopaminergic mechanism. Arch Gen Psychiatry. 1998;55(4):362–368.
+- Arnsten AF, Goldman-Rakic PS. Noise stress impairs prefrontal cortical cognitive function in monkeys: evidence for a hyperdopaminergic mechanism. Arch Gen Psychiatry. 1998;55(4):362–368.
 
-Barnes, T. D., Kubota, Y., Hu, D., Jin, D. Z., & Graybiel, A. M. (2005). Activity of striatal neurons reflects dynamic encoding and recoding of procedural memories. Nature, 437(7062), 1158-1161.
+- Barnes, T. D., Kubota, Y., Hu, D., Jin, D. Z., & Graybiel, A. M. (2005). Activity of striatal neurons reflects dynamic encoding and recoding of procedural memories. Nature, 437(7062), 1158-1161.
+
+--- 
 
 ## References (2)
 
-Cunningham, W. A., Nezlek, J. B., & Banaji, M. R. (2004). Implicit and explicit ethnocentrism: Revisiting the ideologies of prejudice. Personality and Social Psychology Bulletin, 30(10), 1332-1346.
+- Cunningham, W. A., Nezlek, J. B., & Banaji, M. R. (2004). Implicit and explicit ethnocentrism: Revisiting the ideologies of prejudice. Personality and Social Psychology Bulletin, 30(10), 1332-1346.
 
-Dalgleish, T. (2004). The emotional brain. Nature reviews. Neuroscience, 5(7), 583.
+- Dalgleish, T. (2004). The emotional brain. Nature reviews. Neuroscience, 5(7), 583.
 
-Damasio, A. (2012). Self comes to mind: Constructing the conscious brain. Vintage.
+- Damasio, A. (2012). Self comes to mind: Constructing the conscious brain. Vintage.
 
 ---
 
 ## References (3)
 
-Damasio, A. R. (2003). Looking for Spinoza: Joy, sorrow, and the feeling brain. Houghton Mifflin Harcourt.
+- Damasio, A. R. (2003). Looking for Spinoza: Joy, sorrow, and the feeling brain. Houghton Mifflin Harcourt.
 
-Dolcos F, McCarthy G. Brain systems mediating cognitive interference by emotional distraction. J Neurosci. 2006;26(7):2072–2079.
+- Dolcos F, McCarthy G. Brain systems mediating cognitive interference by emotional distraction. J Neurosci. 2006;26(7):2072–2079.
 
-Duhigg, C. (2012). The power of habit: Why we do what we do in life and business (Vol. 34, No. 10). Random House.
+- Duhigg, C. (2012). The power of habit: Why we do what we do in life and business (Vol. 34, No. 10). Random House.
 
-Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
+- Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
 
 ---
 
 ## References (4)
 
-Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-134.
+- Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-134.
 
-Phelps, E. A., Ling, S., & Carrasco, M. (2006). Emotion facilitates perception and potentiates the perceptual benefits of attention. Psychological science, 17(4), 292-299.
+- Phelps, E. A., Ling, S., & Carrasco, M. (2006). Emotion facilitates perception and potentiates the perceptual benefits of attention. Psychological science, 17(4), 292-299.
 
-Zadra, J. R., & Clore, G. L. (2011). Emotion and Perception: The Role of Affective Information. Wiley Interdisciplinary Reviews. Cognitive Science, 2(6), 676–685.
+- Zadra, J. R., & Clore, G. L. (2011). Emotion and Perception: The Role of Affective Information. Wiley Interdisciplinary Reviews. Cognitive Science, 2(6), 676–685.
 
