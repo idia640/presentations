@@ -28,7 +28,7 @@ Emotional arousal is a fundamental consideration in persuasion. Because of the b
 
 ---
 
-*How would you related Damasio's theory of emotion to Kahneman's dual processing theory?*
+*How would you relate Damasio's theory of emotion to Kahneman's dual processing theory?*
 
 ---
 
@@ -370,8 +370,7 @@ It takes effort to overcome this.
 
 <img src="images/rats-maze.jpg" align="center" height="30%" width="30%">
 
-[Behavior chunking - that' why change is tough](
-https://xray-delta.com/2012/03/06/behavior-chunking-thats-why-change-is-tough/)
+[Behavior chunking - that's why change is tough](https://xray-delta.com/2012/03/06/behavior-chunking-thats-why-change-is-tough/)
 
 Note:
 
@@ -418,6 +417,12 @@ And... consider the role of social bonds in persuasion. We will discuss this lat
 <iframe src="https://player.vimeo.com/video/3730382" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p><a href="https://vimeo.com/3730382">Robert Fabricant - Behavior is our Medium</a> from <a href="https://vimeo.com/ixdaglobal">Interaction Design Association</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Note:
+
+This is a great video -- and it will give you insight into how to think about your case study.
+
+It runs an hour. If you are short on time, skip to about 9:30.
 
 ---
 
