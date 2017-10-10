@@ -68,7 +68,7 @@ Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-13
 
 ---
 
-## Observations:
+## Observations
 
 <img src="images/phineas-gage.png" align="center" height="100%" width="80%">
 
@@ -139,7 +139,7 @@ Damasio also refers to the idea of background emotions. These appear to be large
 
 ## Foundation of Human and Animal Emotions
 
-<img src="images/panksepp.png" align="center" height="60%" width="60%">
+<img src="images/panksepp.png" align="center" height="50%" width="50%">
 
 https://youtu.be/65e2qScV_K8
 
