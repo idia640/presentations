@@ -28,10 +28,14 @@ Emotional arousal is a fundamental consideration in persuasion. Because of the b
 
 ---
 
+*How would you related Damasio's theory of emotion to Kahneman's dual processing theory?*
+
+---
+
 ## Objectives
 
 - Understand how emotional processing interacts with cognition and behavior.
-- Understand why user motivations are so important to UX.
+- Understand why user motivations and values are so important to UX.
 
 Note:
 
@@ -151,7 +155,11 @@ Emotions are tied to drives and motivations which are components of each emotion
 
 Emotional states unfold over time in a chain of events, triggered by images of objects or events (actual or recalled)
 
-Emotion (amygdala) involves sensing and detection, measurement and degree of internal need, incentive process, prediction). Happiness or sadness alter one's drives and motivations.
+The amygdala plays a role in forming assocations between external stimuli and re-inforcing events (Pavlovian assications) that stamp in experiences. 
+
+Such associations can guide goal-directed behavior.
+
+Happiness / sadness alter one's drives and motivations.
 
 Positive emotions:
 
@@ -159,24 +167,16 @@ Oxytocin is released when a mother touches a child. Reduces panic and separation
 
 Brain opiods are partially addictive and give us a sense of security.
 
+Panksepp notes that attachment is addictive and promotes social bonding.
+
 ---
 
 ## Social emotions
 
-<img src="images/pirates.jpg" align="center" height="80%" width="80%">
+<img src="images/pirates.jpg" align="center" height="20%" width="20%">
 
-For example:
-- Compassion
-- Embarrassment
-- Shame
-- Guilt
-- Contempt
-- Jealousy
-- Envy
-- Pride
-- Admiration
+For example: compassion, embarrassment, shame, guilt, contempt, jealousy, envy, pride, admiration
 
-https://youtu.be/HEOyqNU6H-c (innate cooperation)
 https://www.youtube.com/watch?v=HL45pVdsRvE (inequity)
 
 Note:
@@ -231,7 +231,7 @@ Feelings of emotion are continuous because they are so tightly connected to bodi
 
 ## Emotions on perception
 
-<img src="images/steep-hill.jpg" align="center" height="80%" width="80%">
+<img src="images/steep-hill.jpg" align="center" height="50%" width="50%">
 
 Note:
 
@@ -289,13 +289,14 @@ If this is so, the amygdala processes fear, perhaps, as quickly as recognition o
 ## Emotions on priming
 
 - **Implicit attitudes** are expressed automatically.  The PFC may consciously attempt to suppress implicit attitudes to reflect an explicit attitude.
-- There is an inter-dependence between executive and affective processes
-  - Emotionally salient information can disrupt the ability to attend to task-relevant information (Arnsten & Goldman-Rakic, 1998)
-  - Emotional stimuli can enhance cognitive processing (Delcos & MCarthy, 2006)
 
-<img src="images/us-them.gif" align="center" height="100%" width="100%">
+<img src="images/us-them.gif" align="center" height="50%" width="50%">
 
 Note:
+
+There is an inter-dependence between executive and affective processes:
+  - Emotionally salient information can disrupt the ability to attend to task-relevant information (Arnsten & Goldman-Rakic, 1998)
+  - Emotional stimuli can enhance cognitive processing (Delcos & MCarthy, 2006)
 
 Explicit & implicit ethnocentrism are distinct.  Social groups and activated attitudes have an indirect relationship on implicit ethnocentrism.
 
@@ -317,7 +318,7 @@ Effects on thinking - sadness slows down thinking.
 
 ---
 
-*A belief which does not spring from conviction in the emotions in no belief at all*
+*A belief which does not spring from conviction in the emotions in no belief at all.*
 
 Evelyn Scott, writer
 
@@ -369,6 +370,9 @@ It takes effort to overcome this.
 
 <img src="images/rats-maze.jpg" align="center" height="30%" width="30%">
 
+[Behavior chunking - that' why change is tough](
+https://xray-delta.com/2012/03/06/behavior-chunking-thats-why-change-is-tough/)
+
 Note:
 
 Sequences of actions are "chunked" into behavior loops linked to the basal ganglia - brain region critical to habits, addiction, and procedural learning. Learned patterns remain in the brain after the behavior is extinguished.
@@ -379,7 +383,9 @@ http://news.mit.edu/2005/habit
 
 Barnes, Kubota, Hu, Jin, Graybiel Nature 2005
 
-Have you ever driven home without conscious memory of actively piloting your drive, though you attended to all of the individual actions such as turns, signals, etc.?
+The basal ganglia facilities learning during behavior routines. It plays a role in processing rewards.
+
+The areas of the brain associated with the basal ganglia are constantly communicating with the PFC (decision-making) which make value judgements about good and bad. When positive associations  are cued, we develop habits and cravings. 
 
 ---
 
@@ -397,9 +403,15 @@ Duhigg, Charles (2012-02-28). The Power of Habit: Why We Do What We Do in Life a
 
 ---
 
-## Values and emotions are inextricably bound
+## Values, motivation, and emotions are inextricably bound.
 
-*To be persuasive, you must know your user and what motivates him/her*
+*To be persuasive, you must understand and draw upon user motivatations and values.*
+
+Note:
+
+This re-inforces the value of ethnographic research.
+
+And... consider the role of social bonds in persuasion. We will discuss this later! 
 
 ---
 
