@@ -11,10 +11,10 @@ title: Title
 ## Outline
 
 1. Emotions & Feelings
-  - What are they?
-  - Are emotions universal?
-  - How do they work?
-  - Effects:
+    - What are they?
+    - Are emotions universal?
+    - How do they work?
+    - Effects:
       - Perception
       - Memory
       - Attention
@@ -23,17 +23,77 @@ title: Title
       - Beliefs
       - Attitudes
 1. Habits
-  - How do habit loops work?
-  - Interaction within social groups?
+    - How do habit loops work?
+    - Interaction within social groups?
 1. Interaction Design: Behavior as a Medium (Video)
+
 ---
 
-# **The orator persuades by means of his hearers, when they are roused to emotion by his speech; for the judgements we deliver are not the same when we are influenced by joy or sorrow, love or hate**
+## The orator persuades by means of his hearers, when they are roused to emotion by his speech; for the judgements we deliver are not the same when we are influenced by joy or sorrow, love or hate
 Aristotle, Rhetorica, I, II.5
 
-NOtes
+Note:
 
-Emotional arousal is essential in persuasion
+Emotional arousal is a fundamental consideration in persuasion. Because of the brain pathways involved, and the implication of reward and drives, you need to delve into an understanding of motivations, if you are to engage your users.
+
+---
+
+## Objectives
+
+- Understand how emotional processing interacts with cognition and behavior.
+
+Note:
+
+Why are we reading Damasio, especially when **Decarte's Error** is more than 20 years old? 
+
+By-and-large, Damasio's observations and studies referenced in the first part of the book are still important toward our understanding of human emotion today. Chapter seven still largely describes a predominant paradigm of emotional processing today. Damasio's work stems directly from two “fathers of affective neuroscience” - Darwin and James.
+
+Darwin noted that animal emotions were similar to human and that there appears to be a set of basic emotions across species and cultures (anger, fear, surprise, sadness)
+
+William James, some 10 years later, proposed that emotions are the experience of bodily changes. Carl Lange had the same theory and thus the James-Lange theory became the predominant theory of emotion.
+
+This remains the most influential theory of emotion, though today affective neuroscientists have added a feedback mechanism.
+
+Descartes error:  Emotion is a part of reason. Human reason depends on several brain systems working in concert. This book focuses on the role of emotion in decision-making.
+- There is a distinction between emotions & feeling. Feelings are direct perceptions of the body. The essence of feeling is a continually updated image of the structure and state of the body.  
+- Cognition is embodied. The brain functions by mapping the body. Body represented in the brain is inextricably tied neural processes we experience in the mind. We must take into account the organism and environment. 
+
+Damasio’s is not the only theory for emotion, but his position is captures some fundamental concepts of value. There is some criticism that his idea of mental states consistent of bodily awareness. [Embodied cognition.] Yet this idea seems to resonate in both cognitive linguistics and Kahneman’s dual processing.
+
+The limbic system still dominates as our view of “the emotional brain”, though we understand better that it also participates in other functions such as memory.
+
+Various studies implicate emotion processing to different regions of the brain. The amygdala plays a role in fear and also processing of facial expressions. (But its still susceptible to top-down control.)
+
+Studies of fear conditioning in animals give evidence to two pathways:
+- A direct route through the amygdala and a second route that allows for more complex analysis and a slower, conditioned response. (Zajonc)
+
+More recent studies implicate different parts of the brain in the manifestation of different emotions: the most studied have been fear and disgust, where the amygdala plays a large role in the first and the anterior insular cortex in the second.
+
+Dalgleish, T. (2004). The emotional brain. Nature reviews. Neuroscience, 5(7), 583
+
+Panksepp, an animal behaviorist who coined the term “affective neuroscience”, criticizes Damasio for failing to distinguish between affective and cognitive theories of consciousness.  For example, happiness and joy relate strongly to attachment processes that also underpin other positive emotions such as play and social affection.
+
+Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-134.
+
+---
+
+## Observations:
+
+<img src="images/phineas-gage.png" align="center" height="100%" width="100%">
+
+Note:
+
+Phineas Gage - Iron spike through the brain and died in 1861 after experiencing a transformation of character. His ability to anticipate the future and plan within a complex social environment impaired. Conventions, ethics, forethought, impaired decision-making. Some part of the value system remains abstractly - but not connected to real-life situations. 
+
+Impaired social conduct and prefrontal lobe damage. 
+
+“Elliot” was a patient of Damasio’s that was a modern correlate to Phineas Gage. Tumor just above nasal cavity and damaged neural tissue removed, as well. Elliot seemed sound, but there were subtle changes in intellect. The primary changes were emotional. Topics that once evoked a strong emotion no longer caused any reaction, positive or negative. He had a normal ability in social situations and for moral reasoning.
+
+Subjects with similar brain lesions also encountered abnormal decision-making with very specific injuries in the emotional system.
+
+Interestingly, their ability to do cost/benefit analysis was not lost. 
+
+Damasio speculates that emotion allows you to mark things as good, bad, or indifferent.
 
 ---
 
@@ -44,10 +104,6 @@ Emotional arousal is essential in persuasion
 Antonio Damasio, Looking for Spinoza, Joy, Sorrow and the Feeling Brain, 2004, figure 2.2, p37
 
 Notes:
-
-A nesting principle - "feelings are a mental expression of all other levels of homestatic regulation." (Damasio)
-
-Not exactly like a Russian doll, since only some of lower, simpler reactions are incorporated into higher order machinery.
 
 (Damasio, Looking for Spinoza pp 37-38)
 
@@ -60,6 +116,10 @@ Feelings of emotion are the composite perceptions of what happens in the body an
 
 Emotion creates visceral responses (feelings) that run in parallel paths to thoughts and beliefs as we experience in the moment and then recall in the future.
 
+A nesting principle - "feelings are a mental expression of all other levels of homestatic regulation." (Damasio)
+
+Not exactly like a Russian doll, since only some of lower, simpler reactions are incorporated into higher order machinery.
+
 ---
 
 <img src="images/ekman-faces.png" align="center" height="100%" width="100%">
@@ -68,17 +128,21 @@ http://www.paulekman.com/uncategorized/darwins-claim-universals-facial-expressio
 
 Note:
 
-Are emotions universal? There appear to be universal facial expressions which are reflections of emotion through feeling.
+What are emotions? To talk about them, we have to referencereward & punishment, drives, motivations, and basic life regulation. They are important as key elements in decision-making and learning.
 
-Damasio mentions fear, anger, sadness, happiness, disgust, and surprise as "so-called universal emotions"
+Damasio speaks of emotions as automated programs of actions. (Facial expressions, posture, etc.)
+
+This raises the question of whether emotions are universal? There appear to be universal facial expressions which are reflections of emotion through feeling.
 
 Facial expressions not only are informative about individuals’ feelings, but patterns of neurophysiological activation in their bodies.
 
-Emotions are automated programs of actions. [ Facial expressions, posture, etc.)
+Paul Ekman notes that facial expressions are universal - they are predictably stable biological constructs. But what triggers emotions are not.
 
-Expressions are universal - predictably stable biological constructs. Emotional expression, and what triggers emotions are not.
+His experiments noted that when subjects moved facial muscles to reflect emotional states, they experienced feelings appropriate to the expression. 
 
-Background emotions: enthusiasm, discouragement. Operate covertly triggering emotions without one's awareness.
+Damasio mentions fear, anger, sadness, happiness, disgust, and surprise as "so-called universal emotions". But Eklman lists six overlapping basic emotions, while Panksepp (animal behaviorst) seven.
+
+Damasio also refers to the idea of background emotions. These appear to be largely positive or negative in affect and he discusses their role in our perception of the continuity of conscious awareness. 
 
 ---
 
@@ -90,9 +154,9 @@ https://youtu.be/65e2qScV_K8
 
 Note:
 
-Both Damasio and Panksepp refer to two "background emotions": enthusiasm and discouragement
+Emotions are tied to drives and motivations which are components of each emotion.
 
-Emotions tied to drives and motivations which are components of each emotion.
+[Biological drives also shape behavior. Some may not be purely about survival (hunger, thirst). Panksepp talked about the SEEKING which relates to curiosity, sensory stimulation, and movement.]
 
 Emotional states unfold over time in a chain of events, triggered by images of objects or events (actual or recalled)
 
@@ -126,9 +190,9 @@ https://www.youtube.com/watch?v=HL45pVdsRvE (inequity)
 
 Note:
 
-Some emotions are triggered in social settings. More recent evolutionarily. Focus on mental and social feelings rather than physical. Form a natural grounding for ethical systems.
+Some emotions are triggered in social settings. These are thought to be more recent in an evolutionary sense. There is a focus on mental and social feelings rather than physical. Such emotions form a natural grounding for ethical systems.
 
-Actions in the disgust program have been co-opted by a social emotion: contempt.
+One example of how a primary emotion might contribute to higher order social emotions is how actions in the disgust program may have been co-opted by a social emotion: contempt.
 
 ---
 
@@ -142,9 +206,19 @@ Blakeslee S, Dr Joseph Ledoux, [Using Rats to Trace Routes of Fear](http://www.n
 
 Note:
 
-Amygdala gets input from all sensory systems and higher order systems such as the PFC.
 
-Creates Pavlovian associations.
+1. Conscious thought about a situation.
+2. Activated network in pre-control cortex pairing previous knowledge and paired emotional responses. 
+3. Non-conscious signaling to amygdala which triggers the body to react emotionally and also change to the brain to result in additional mental change.
+4. This last emotional response is feeling.
+
+Right hemisphere of brain is more involved in processing emotion.
+
+Most of what happens is non-conscious, to include decision-making. Feelings give us control.
+
+“An emotion is about action. It’s a collection of automated actions aimed at a particular effect that will have importance for the regulation of life.” (Damasio)
+
+Amygdala gets input from all sensory systems and higher order systems such as the PFC. This sets up a condition for Pavlovian associations.
 
 If a bell occurs just before food, then the sound is associated with a positive event. It helps stamp in experiences in a stronger way.
 
@@ -154,7 +228,7 @@ It's part of our mammalian brain - fight or flight. It was designed to detect pr
 
 Double wiring - separate emotion and cognition - but interacting.
 
-Feelings of emotion are continuous because so tightly connected to bodily states. Not wiped clean like images - feeling requires attention.
+Feelings of emotion are continuous because they are so tightly connected to bodily states. They are not wiped clean like images - feeling requires attention.
 
 ---
 
@@ -204,7 +278,7 @@ Emotional arousal guides attention.
 
 It also facilitates early visual processing.
 
-Contrast sensitivity at threshhold improved by 3% following a fearful face.
+Contrast sensitivity at threshhold is improved by 3% following a fearful face.
 
 The amygdala has reciprocal connections with visual processing regions and may receive information about emotional salience quickly and prior to awareness.
 
@@ -246,7 +320,7 @@ Cunningham, Nazlek, Banaji, 2004 - us/them ethnocentrism. Task goals can affect 
 
 Note:
 
-System 1 based on formed habits and difficult to change or manipulate (more on habits shortly)
+System 1 based on formed habits are difficult to change or manipulate (more on habits shortly)
 
 Effects on thinking - sadness slows down thinking.
 
@@ -273,7 +347,7 @@ Image credit: http://www.whatsappstatusbest.com/2014/07/attitude-whatsapp-status
 
 Note:
 
-Long term affect is sentiment - perhaps, a latent representation of feeling?
+Long term affect is sentiment - this is, perhaps, a latent representation of feeling?
 
 Attitude - orientation  toward or away; reflects the potential for intent - positive, negative favorability. Predictive of behavior for choices, judgements and behavior.
 
@@ -337,11 +411,8 @@ Duhigg, Charles (2012-02-28). The Power of Habit: Why We Do What We Do in Life a
 ---
 
 ## Values and emotions are inextricably bound
-To be persuasive, you must know your user
 
-Note:
-
-Motivation
+*To be persuasive, you must know your user and what motivates him/her*
 
 ---
 
@@ -360,13 +431,15 @@ Barnes, T. D., Kubota, Y., Hu, D., Jin, D. Z., & Graybiel, A. M. (2005). Activit
 
 Cunningham, W. A., Nezlek, J. B., & Banaji, M. R. (2004). Implicit and explicit ethnocentrism: Revisiting the ideologies of prejudice. Personality and Social Psychology Bulletin, 30(10), 1332-1346.
 
-Damasio, A. (2012). Self comes to mind: Constructing the conscious brain. Vintage.
+Dalgleish, T. (2004). The emotional brain. Nature reviews. Neuroscience, 5(7), 583.
 
-Damasio, A. R. (2003). Looking for Spinoza: Joy, sorrow, and the feeling brain. Houghton Mifflin Harcourt.
+Damasio, A. (2012). Self comes to mind: Constructing the conscious brain. Vintage.
 
 ---
 
 ## References (3)
+
+Damasio, A. R. (2003). Looking for Spinoza: Joy, sorrow, and the feeling brain. Houghton Mifflin Harcourt.
 
 Dolcos F, McCarthy G. Brain systems mediating cognitive interference by emotional distraction. J Neurosci. 2006;26(7):2072–2079.
 
@@ -377,6 +450,8 @@ Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
 ---
 
 ## References (4)
+
+Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-134.
 
 Phelps, E. A., Ling, S., & Carrasco, M. (2006). Emotion facilitates perception and potentiates the perceptual benefits of attention. Psychological science, 17(4), 292-299.
 
