@@ -46,7 +46,7 @@ These are the many things we will touch upon:
 
 ---
 
-## "Purity Balls" (Fabricant mention)
+## "Purity Balls"
 
 <img src="images/purity.jpg" align="right" width="70%" height="70%">
 
@@ -110,7 +110,7 @@ Perhaps, you don't think of yourself as a dialogue designer, but you are!
 
 ## Dialogue is multi-turn
 
-Why is it hard?
+Why don't Siri and Alexa do this (well) yet?
 - Contextual expressions: for example, he/she/it, this/that/these..., here/there, yesterday/today...
 - Pragmatic interpretation: "what you mean" versus "what you say"
 - Error detection and repair
@@ -585,7 +585,6 @@ Depends on skill and purpose.
 <img src="images/dialog-box.png" align="center" width="50%" height="50%">
 
 <img src="images/cookies.png" align="center" width="50%" height="50%">
-[http://ahiddendiscourse.com/blog/2013/05/17/routinizing-the-ui/]
 
 Note:
 
@@ -698,13 +697,13 @@ You may have to think back to concepts of priming and association.
 
 ## References
 
-Clark, H. H. (1996). Using Language. Cambridge University Press.
+- Clark, H. H. (1996). Using Language. Cambridge University Press.
 
-Goffman, E. (1981). Forms of talk. University of Pennsylvania Press.
+- Goffman, E. (1981). Forms of talk. University of Pennsylvania Press.
 
-Searle, J. R. (1969). Speech Acts. Cambridge University Press.
+- Searle, J. R. (1969). Speech Acts. Cambridge University Press.
 
-Tversky, B. (2010). Visualizing thought. Topics in Cognitive Science, 3(3), 499–535.
+- Tversky, B. (2010). Visualizing thought. Topics in Cognitive Science, 3(3), 499–535.
 
 ---
 
