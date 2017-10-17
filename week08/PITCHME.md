@@ -77,7 +77,7 @@ This is a human-initiated dialogue activity.
 ## Is this dialogue?
 
 
-<img src="images/iphone.jpg" align="center" width="40%" height="40%">
+<img src="images/iphone.png" align="center" width="40%" height="40%">
 
 Note:
 
