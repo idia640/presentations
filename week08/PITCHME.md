@@ -6,7 +6,7 @@
 ## Outline
 
 - Recap: Behavior is our medium
-- What is dialogue?
+- What is dialogue? (And why do we care?)
 - Linguistic patterns are design patterns
 - Considerations for UX design
 
@@ -127,6 +127,16 @@ https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
 *Humans are inherently wired for conversation -- and conversation is a kind of joint action*
 
 Note: Humans are really good at dialogue. The capacity is built into us. This contrasts from the use of formal or written language which must be explicitly learned.
+
+Okay, so we're wired for conversation. What does this have to do with interaction design and why bother with the theory.
+
+Your understanding of language is unconscious. You are highly competent -- expert -- at all of the things that Clark and Goffman wrote about. And when you talk, you don't need to think about how language works. *But when you are designing interactive media, your conscious understanding of communicative processes will help you communicate better.*
+
+An example where this really matters, but is still mostly done poorly: wrong user/password dialogues. While there are a few simple design patterns to draw upon, it's still very common to see this poorly implemented. Another example comes from broken links on the web. We are not computers... a 404 page is virtually meaningless to most users. No doubt you can think of other common examples!
+
+- 
+
+
 
 ---
 
