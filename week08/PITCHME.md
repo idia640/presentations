@@ -44,7 +44,11 @@ These are the many things we will touch upon:
 
 *Leverage habits and established behaviors*
 
-Example mentioned by Fabricant - "Purity Balls" <img src="images/purity.jpg" align="right" width="70%" height="70%">
+---
+
+## "Purity Balls" (Fabricant mention)
+
+<img src="images/purity.jpg" align="right" width="70%" height="70%">
 
 http://www.nytimes.com/2012/07/21/us/purity-balls-local-tradition-or-national-trend.html
 
