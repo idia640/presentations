@@ -39,15 +39,12 @@ These are the many things we will touch upon:
 ([Robert Fabricant, IXDA 2009 keynote](https://vimeo.com/3730382))
 
 - Smart brains are lazy
-    - Most brain activity supports unconscious processes 
-    - We are pattern matchers
+    - Most brain activity supports unconscious processes
     - Emotion drives thought
 
 *Leverage habits and established behaviors*
 
-Example mentioned by Fabricant - "Purity Balls"
-
-<img src="images/purity.jpg" align="center" width="70%" height="70%">
+Example mentioned by Fabricant - "Purity Balls" <img src="images/purity.jpg" align="right" width="70%" height="70%">
 
 http://www.nytimes.com/2012/07/21/us/purity-balls-local-tradition-or-national-trend.html
 
@@ -63,29 +60,29 @@ We also touched on habit (and we'll return to it later).
 
 ---
 
-## Is this a dialogue?
-
-
-<img src="images/Iphone.jpeg" align="center" width="100%" height="100%">
-
-Note:
-
-This is certainly a dialogue act. 
-
-- (Would you) answer a few simple questions.
-- If you click "Get Started", this seems to be an acceptance.
-
-The two acts together have the feel of "question-answer". 
-
----
-
 ## Is this dialogue?
 
 <img src="images/alexa.png" align="center" width="70%" height="70%">
 
 Note:
 
-This looks similar, but the human initiated. 
+This is a human-initiated dialogue activity.
+
+---
+
+## Is this dialogue?
+
+
+<img src="images/iphone.jpg" align="center" width="40%" height="40%">
+
+Note:
+
+This is also a dialogue activity. 
+
+- (Would you) answer a few simple questions.
+- If you click "Get Started", this seems to be an acceptance.
+
+The two acts together have the feel of "question-answer". 
 
 ---
 
@@ -97,19 +94,17 @@ Perhaps, you don't think of yourself as a dialogue designer, but you are!
 
 ---
 
-## What about....?
+## Can Alexa answer this?
 
 - Q. Who was the first president of the United States?
 - A. George Washington.
-- Q. When was he born?
+- Q. When was **he** born?
+
 - ?
 
----
+--- 
 
 ## Dialogue is multi-turn
-
-Only this year, Amazon released a simple dialogue development kit. 
-https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
 
 Why is it hard?
 - Contextual expressions: for example, he/she/it, this/that/these..., here/there, yesterday/today...
@@ -118,11 +113,16 @@ Why is it hard?
 
 Note:
 
-- Deictic expressions and those which refer to previous dialogue context
+- You need some sort of context modeling to interpret deictic (e.g., pointing) expressions and those which refer to previous dialogue context.
+
+Only this year, Amazon released a simple dialogue development kit. 
+https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
 
 ---
 
 *Humans are inherently wired for conversation -- and conversation is a kind of joint action*
+
+Note: Humans are really good at dialogue. The capacity is built into us. This contrasts from the use of formal or written language which must be explicitly learned.
 
 ---
 
@@ -134,10 +134,10 @@ Note:
 
 Today we're going to focus on the relation between linguistic patterns and design patterns.
 
-- F2F conversation the most natural means of interaction
-- Until now, we've looked at decision-making as a discrete action, but interaction is continuous
-- Conversation gives insight into how we organize, or package, information for comprehension, and how we exchange thoughts (much more than just information)
-- Conversations move through time, but there are devices for using the physical and mental environment to make some objects more salient
+- F2F conversation is the most natural means of interaction
+- Until now, we've looked at decision-making as a discrete action, but interaction is continuous. And we've also only considered decision-making from the context of a single person. But conversational acts require interaction and, generally, with more than one person. (An exception to this is self-talk).
+- Conversation gives insight into how we organize, or package, information for comprehension, and how we exchange thoughts; we do so for much more than just information exchange.
+- Conversations move through time, but there are devices for using the physical and mental environment to make some objects more salient.
 - Conversation also gives insight into natural processes in error prevention, detection, and repair
 - Finally, we will look at both macro-interactions and micro-interactions. Interaction viewed from both perspectives are important to design.
 
@@ -152,9 +152,11 @@ Today we're going to focus on the relation between linguistic patterns and desig
 
 Note:
 
-There is a link between empathy & cooperation
+There is a link between empathy & cooperation.
 
-Monkeys and people have neural systems in pre-motor cortex to coordinate complex actions. When you perform an action certain neurons fire; the same neurons fire when you see someone perform an action. Neural connections to the parietal cortex. These are tuned when you do something or see someone do something. Linked to your emotional system. If you see someone happy, you feel happiness. This is the basis of empathy. Empathy is the basis of social connection. How you are brought up matters? What you experience gets strengthened.
+Monkeys and people have neural systems in the pre-motor cortex to coordinate complex actions. When you perform an action certain neurons fire; the same neurons fire when you see someone perform an action. Neural connections to the parietal cortex, which integrates sensory information, are tuned when you do something or see someone do something.
+
+Unsurprisingly, this pathway is also linked to your emotional system. If you see someone happy, you feel happiness. This is the basis of empathy. Empathy is the basis of social connection. How you are brought up matters? What you experience gets strengthened.
 
 Early learning is important - half of neural connections die off by the age of 5.
 
@@ -169,7 +171,7 @@ https://www.youtube.com/watch?v=T46bSyh0xc0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3YxXsQMAvWg" frameborder="0" allowfullscreen></iframe>
 
-<img src="images/discourse-continuum.png" align="center" width="70%" height="70%">
+<img src="images/discourse-continuum.png" align="center" width="50%" height="50%">
 
 Note:
 
@@ -191,9 +193,9 @@ Joint activities are composed of joint actions.
 
 Joint actions can be coordinated because they divide into phases: they have identifiable functions and entry/exits.
 
-Phases get coordinated.
+Phases get coordinated. (Imagine how your actions are coordinated when you are introduced to someone.)
 
-Phases in conversation are turns which divide into intonation units. Entries and exists are marked in syntax, morphology and intonation. For example, intonation units begin on a high pitch, drop gradually over the unit, and end with a distinctive fall or rise. They also tend to have a focal accented syllable at or near the end. Found in all languages. Aids listeners to project exit times more accurately. Need for synchronizing actions.
+Phases in conversation are turns which divide into intonation units. Entries and exists are marked in syntax, morphology and intonation. For example, intonation units begin on a high pitch, drop gradually over the unit, and end with a distinctive fall or rise. They also tend to have a focal accented syllable at or near the end. Found in all languages. These intonational contours help aid listeners to project exit times more accurately. Spoken language is highly synchronized.
 
 People are surprisingly good at judging entry and exit times, as well as accounting for processing difficulty.
 
@@ -220,20 +222,28 @@ Example of [sponsored article](http://paidpost.nytimes.com/netflix/women-inmates
 
 Note:
 
-Even joint activities fall within and between frames.
+A study by Wojdynski and Evans found that 60% did not notice the sponsor disclosure label placed at the top of a sponsored ad.
 
-"Change in our frame for events" (Goffman talks about alignment and stance)
+"It also showed that readers are seven times more likely to recognize the labels that use some form of the words "advertising" or “sponsored,” than those which use more vague phrases like “brand voice” or “presented by.” Overall, only 20% of people in the study were aware that they were reading advertising, rather than objective, editorial content."
 
-Persistent feature of talk - though, most likely to change footing during certain (predictable) points during interaction
+Why didn't they notice?
 
-We change gears constantly during the course of an interaction (code switching)
+We are very skilled at perceiving and adjusting to footing changes in dialogue. So skilled, we may not consciously recognize transitions.
+
+When Goffman talks about "footing", he means something along the lines of change in conversation stance; basically, he means framing. 
+
+Joint activities have structure -- but they too fall within and between frames -- another sort of structural unit.
+
+Code switching (for example, shifting between formal and informal registers) is a persistent feature of talk - though, we are most likely to change footing during certain (predictable) points during interaction: at structural junctures.
+
+Changes of footing include the following:
 
 - small talk to initiate and terminate a transaction
 - enter into the business part of a conversation
 - changes signaled by who is addressed, posture, dialect, etc.
 - From Gumperz 1976
-  I . direct or reported speech
-  2.selection of recipient
+  1. direct or reported speech
+  2. selection of recipient
   3. interjections
   4. repetitions
   5. personal directness or involvement
@@ -252,10 +262,6 @@ Imagine you are on the phone with a friend. Your friend yells, "Stop it!"
 
 Language is understood with the context of frames. Not just the meaning, but from perspectives.
 
-Study by Wojdynski and Evans found that 60% did not notice the sponsor disclosure label placed at the top of a sponsored ad.
-
-"It also showed that readers are seven times more likely to recognize the labels that use some form of the words "advertising" or “sponsored,” than those which use more vague phrases like “brand voice” or “presented by.” Overall, only 20% of people in the study were aware that they were reading advertising, rather than objective, editorial content."
-
 ---
 
 ## Participant framework
@@ -268,18 +274,22 @@ Study by Wojdynski and Evans found that 60% did not notice the sponsor disclosur
 
 Note:
 
-participants - visual & aural range. ratified or not (by-standers).
+Imagine from this diagram, that participants are in visual & aural range. They are also "bonified participants" (ratified) or not (e.g., by-standers).
 
 "Side participants and overhearers help shape how speakers and addressees act toward each other. They also represent different ways of listening and understanding" (Clark)
 
-social situation - encounter (words signal phases). WH scene between Nixon and Thomas was an "embedded part of a ritualized political procedure, the ceremonial signing of a bill". Each has a role within the frame - each potentially has multiple social roles during the course of an interaction.
+Situations and activities are social. We use signals to convey shifts.
+
+In the White House scene between Nixon and Thomas, there was an "embedded part of a ritualized political procedure, the ceremonial signing of a bill". Each participant had a role within the frame - each potentially has multiple social roles during the course of an interaction.
 
 Evidence of structural significance of the social situation:
-  - response cries
+
+  - response cries (e.g., "ouch!")
   - collusion / byplay (between subset of participants)/ crossplay (participants and bystanders)
   - changed language in deference to bystanders
 
-Different sorts of talk (production formats): political addresses, monologues (videoblog), panel discussions
+Moving beyond conversational interaction, there are 
+different sorts of talk (in different production formats): for example, political addresses, monologues (videoblog), panel discussions.
 
 *Audiences are imagined recipients.*
 
@@ -289,25 +299,29 @@ Different sorts of talk (production formats): political addresses, monologues (v
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gO-xmi1JgnE" frameborder="0" allowfullscreen></iframe>
 
-Can you spot layers and footing changes in this video?
+Can you spot layers and footing changes in this video? (Just the first minute.)
 
 Note:
 
-"what's up man -- I kee - how can I help you today"?
+"what's up man -- I kee - 
+
+how can I help you today"?
 (overlapping) "hey"
+
 "uh.. see what you guys have here"
-visual search
+
+*visual search*
 (self) "smoothies"
-move back to counter
+
+*move back to counter*
 alright... I'm going to go with a water and three cookies
 alright.
 so its gonna be a dollar, and a dollar 25, a dollar 50, and a dollar 75 (note gesture timing; and note that its obvious who is to pay)
 alright.
 here's this.
 alright sweet.
-break -- so what you do in a situation like this.
 
-Note:
+break -- so what you do in a situation like this.
 
 For example, someone telling a story in layer one may break out of the story to take a break or clear her voice. Layer two represents a meta-level above the story. And there can be more layers.
 
@@ -324,13 +338,13 @@ Most actions aren't sequential but over-lapping in time. They may not be so disc
 Clerk: I'll be right there.
 You: Okay.
 
-Immediate response versus delayed response? Reluctant agreement or commitment?
+Immediate response versus delayed response? (Remember the importance of the long delay from Elizabeth Stokoe's talk. Seconds were forever!) A delayed response might indicate reluctance or disagreement.
 
 ---
 
 ## Synchrony and sequences
 
-Two phases:
+<img src="images/synchrony1.png" align="right" width="70%" height="70%">
 
 - Question | Answer
 - Greeting | Greeting
@@ -342,34 +356,34 @@ Two phases:
 - Request | Acceptance
 - Promise | Acknowledgement
 - Thanks | Acknowledgement
--  Goodbye | Goodbye
-
-<img src="images/synchrony1.png" align="center" width="70%" height="70%">
+- Goodbye | Goodbye 
 
 Note:
 
-Pre-sequences - set up for a joint action.
-Discourse markers - signal for new topics, change of footing, difference of opinion, digression, etc.
-
-"Oh, there's something I wanted to ask you"
-"So..."
-
-Adjacency pairs - two ordered utterances by different speakers. The form of the second depends on the form of the first.
-
 Exchanges generally accomplished in phases: presentation and acceptance.
 
-Requirement of positive evidence of understanding.
+These sequences are called adjacency pairs - two ordered utterances by different speakers. The form of the second depends on the form of the first.
+
+Some times there is a pre-sequence - set up for a joint action. For example, taking a step forward before offering a hand.
+
+We also have mechanism for signaling shifts. A 
+"discourse marker" can signal change in topics, change of footing, difference of opinion, digression, etc.
+
+"Oh, there's something I wanted to ask you"
+"So..." (discourse marker)
+
+Because conversational speech is so highly coordinated and works incrementally, we have a sophisticated ability to detect errors and repair them. One thing we do unconsciouly is look for positive evidence of understanding.
 
 1. Assertions of understanding (could include backchannel response - uh-huh, m, I'see, nod)
 2. Presupposition of understanding - speaker A continues speaking.
 3. Displays of understanding - B displays understanding
 4. Exemplification of understanding - paraphrase, iconic gesture, etc.
 
-Researchers such as Birdwhistle, Kendon and others have studied synchrony and rhythm in conversation.
-
 There is synchrony between speakers and also among speakers and listeners. Onset of gestures timed with prosodic rhythm of speech. Rhythm is crucial for conversation understanding and outcome. Comparable to musical performance.
 
 Pitch is a carrier of non-verbal information (as body language) and speakers tend to synchronize with their conversational partners.
+
+If you are interested in how people coordinate language using speech and gesture, researchers such as Birdwhistle, Kendon and others have studied synchrony and rhythm in conversation. In HCI, these are important areas of study for the development of conversational avatars.
 
 ---
 
@@ -378,9 +392,9 @@ Pitch is a carrier of non-verbal information (as body language) and speakers ten
 *"The joint act of one person signaling another and the other recognizing what was meant is called a communicative act."*
 
 
-<img src="images/gaze.png" align="center" width="70%" height="70%">
+<img src="images/gaze.png" align="center" width="50%" height="50%">
 
-Gaze is a signaling device that participates in turn-taking.
+Gaze is a coordinating device that participates in turn-taking. We not only communicate using gestures (e.g., head nod for 'assent', we can coordinate communication via gestures.
 
 ([Foulsham & Kingstone, 2005](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136905))
 ]
@@ -392,7 +406,7 @@ Signals mean something, but they are also coordinating devices. If a server in a
 
 Eye gaze and body posture can also be used for signaling. These can also be communicative acts.
 
-People generally adhere to a cooperative principle: Make your conversational contribution such as required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged. This is a complicated way of saying that people generally say something relevant, informative, neither too much or too little, nor in some obscure/ambiguous way unless intended.
+People generally adhere to a cooperative principle: make your conversational contribution such as required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged. This is a complicated way of saying that people generally say something relevant, informative, neither too much or too little, nor in some obscure/ambiguous way unless intended.
 
 "Could you turn up the heat?"
 "Yes" (but taken literally rather than as a request)
@@ -420,28 +434,29 @@ Student training video from earlier:
 
 Note:
 
-External representations are important. Simultaneous and parallel representation. Objects in space. Items can be manipulated and exchanged.
+In conversation, external representations are important. As we orient ourselves in space, objects exist in that same space. Items can be manipulated and exchanged.
 
-People keep track of their moves and their partner's moves. It's not enough to predict what they will do next. People use some sort of coordinating device. You could do so by agreement (let's meet at 9). That, in itself is a joint action. Conventions can also be coordinating devices. Conventions are a group (or community's) solution to a coordination problem. "In North
-America, leaving a tip at the table in a restaurant is a solution to the recurrent problem of how to help pay the waiter or waitress." (Clark 70)
+Something else we must do when use dialogue is 
+keep track of our moves and our partner's moves. It's not enough to predict what they will do next. People use coordinating devices to coordinate moves. You could do so by agreement (let's meet at 9). That, in itself is a joint action. Conventions can also be coordinating devices. Conventions are a group (or community's) solution to a coordination problem. "In North
+America, leaving a tip at the table in a restaurant is a solution to the recurrent problem of how to help pay the waiter or waitress." (Clark, pg 70)
 
 ---
 
 ## "Common ground" and belief updating
 
-<img src="images/commonground.png" align="center" width="70%" height="70%">
+<img src="images/common-ground.png" align="center" width="70%" height="70%">
 
-Common ground is cumulative:
+Note:
 
-- Initial state
-- Current state
+Intrinisically, when you converse with someone, you are updating some notion of common ground. Common ground is cumulative. At each move in a dialogue, CG is updated. And not just shared knowledge. You may also be updating knowledge that is off the record.
+
+Updating common ground:
+
 - Public events so far (if joint activity)
   - What is said (linguistic and other signals)
   - What is talked about (time, place, referents, etc)
   - What is officially on the record (discourse record)
 - Private or off record (including prior, shared knowledge/beliefs)
-
-Note:
 
 When participants cooperate, they share a mutual expectation or belief about what the other will do.
 
@@ -474,7 +489,7 @@ To succeed in joint projects (level 4), A & B need to ground what is taken to me
 
 Principle of closure: Agents performing an action require evidence, sufficient for current purposes, that they have succeeded in performing it.
 
-Elevator - light
+Imagine you press the button on an elevator and see no light. Do you wait and expect that it is coming? You are looking for evidence that your action had some sort of effect.
 
 Principle of least effort: All things being equal, agents try to minimize their effort in doing what they intend to do.
 
@@ -486,12 +501,16 @@ Principle of least effort: All things being equal, agents try to minimize their 
 
 Note:
 
-Utterances in conversation contain not only explicit meaning-based content but carry what is known as illocutionary force (John Searle). This force has something to do with intent; it performs a sort of action -- and sets up expectations in the minds of hearers. For example,
+When you say something, you may mean more than what you say.
+
+Utterances in conversation contain not only explicit meaning-based content but carry what is known as illocutionary force (John Searle). This force has something to do with intent; it performs a sort of action -- and sets up expectations in the minds of hearers. 
+
+For example,
 
 a directive: Shut the window.
-an interrogative: Why here?
-a declarative: The rain has started.
-a cornmissive: The job will be done by three o'clock.
+a question: Why here?
+a declaration: The rain has started.
+a promise: The job will be done by three o'clock.
 
 Cues to the intentional force of an utterance might be the presence of specific words, but could also be communicated by tone, loudness, rhythm, etc.
 
@@ -509,11 +528,13 @@ Bohus example in a spoken dialog system: http://slideplayer.com/slide/4812415/
 
 Note:
 
+(Video up to 2:34)
+
 Speech - can create complex queries / interactions
 Ambient technology - hands free
-Dialogue requires little training
+Spoken dialogue requires little training
 
-But still brittle so the study of error detection and repair is extremely important. Speech recognition, variability in speaking style, disfluencies, accents, input channels such as cell phone, VOIP, background noisy environment and overlapping speech
+But it's still brittle so the study of error detection and repair is extremely important. Challenges include: speech recognition, variability in speaking style, disfluencies, accents, input channels such as cell phone, VOIP, background noisy environment and overlapping speech, etc.
 
 Two approaches in conjunction:
 - Prevention
@@ -528,8 +549,8 @@ Adjacency pairs
 Backchanneling
 Confirmation
 
-How do they do it? A process for preventing error repair.
-Starbucks order (slot filling)
+How does Starbucks prevent error? 
+Starbucks uses a slot-filling technique 
 
 Every signal is part of presentation phase of a projected contribution. If there is trouble, a new project is initiated.
 
@@ -555,26 +576,28 @@ Depends on skill and purpose.
 
 ---
 
-## Routinizing the UI (micro-interactions)
+### Routinizing the UI (micro-interactions)
 
-- "I don't know"
-- "Cat in the ___"
+<img src="images/dialog-box.png" align="center" width="50%" height="50%">
 
-<img src="images/dialog-box.png" align="center" width="70%" height="70%">
-
-<img src="images/cookies.png" align="center" width="70%" height="70%">
-
-This is a fairly complex contribution. What does this mean?
-
-.footnote[http://ahiddendiscourse.com/blog/2013/05/17/routinizing-the-ui/]
+<img src="images/cookies.png" align="center" width="50%" height="50%">
+[http://ahiddendiscourse.com/blog/2013/05/17/routinizing-the-ui/]
 
 Note:
 
+Some words seem to stick together. You seem to remember them together as if they are one object. This makes sense... it's chunking in action. For example,
+
+- "I don't know"
+
+You don't have to parse this to understand what it means. It's been routinized through repeated activation and use. Production and understanding require little cognitive effort.
+
+But such phrases are also subject to priming. You know what to expect!
+
+- "Cat in the ___"
+
+If someone says: "cat in the __", you can fill in the blank. We chunk language into repeatable bits. These bits are linked frames. [Fillmore]
+
 When we learn language, concepts and patterns become entrenched with frequent use.
-
-"I don't know" - You don't have to parse this to understand what it means. It's been routinized through repeated activation and use. Production and understanding require little cognitive effort.
-
-If someone says: "cat in the _", you can fill in the blank. We chunk language into repeatable bits. These bits are linked frames. [Fillmore]
 
 Priming is also at play. UI components share familiar patterns so that you don't have to think to hard about what they mean.
 
@@ -627,7 +650,7 @@ This level of ambiguity could have consequences on trust of producers.
 
 ## Multimodality
 
-<img src="images/prediction-multimodal.jpg" align="center" width="70%" height="70%">
+<img src="images/prediction-multimodal.jpg" align="center" width="50%" height="50%">
 
 Image from: http://groups.csail.mit.edu/vision/vip/lmorency.html
 
@@ -635,11 +658,9 @@ Note:
 
 If we process multiple streams of perceptual information in parallel, what is context?
 
-- We know knowledge, emotion, etc. have an effect on visual perception. What about speech (or language)?
-  - pop-out visual features when distinguished by one
-  - but attention required when looking for multiple different features at the same time.
-  - there may be more of a continuum of reaction - not additive. Some interaction between channels with improved efficiency. Continuous incremental processing
-- Does the converse hold? Does visual perception constrain real-time spoken language comprehension? (Deixis)
+- We know knowledge, emotion, etc. have an effect on visual perception. What about speech (or language)? Since there is some interaction between channels, there is improved efficiency when combining complementary information across channels. Interpretation is continuous and incremental.
+
+- Does the converse hold? Does visual perception constrain real-time spoken language comprehension? (Yes! Via deixis, for example.)
 
 ---
 
@@ -651,18 +672,23 @@ If we process multiple streams of perceptual information in parallel, what is co
 - Build in natural error prevention / detection / repair EVERYWHERE there is user interaction
 - Support routinized interaction (consistency)
 
+---
 
 *We use the same social / cognitive mechanisms used in conversation for media interaction.*
 
----
+Note:
 
-*All forms of communication entail design, as the intent of communication is to be understood by others or by one’s self at another time. Communication design, then, is inherently social, because to be understood by another or by self at another time entails fashioning communications to fit the presumed mental states of others or of one’s self at another time.* (B. Tversky, 2010, p. 6)
+"All forms of communication entail design, as the intent of communication is to be understood by others or by one’s self at another time. Communication design, then, is inherently social, because to be understood by another or by self at another time entails fashioning communications to fit the presumed mental states of others or of one’s self at another time." (B. Tversky, 2010, p. 6)
 
 ---
 
 ## Discussion: Vy's question
 
 *Could social relationships affect comprehension?*
+
+Note:
+
+You may have to think back to concepts of priming and association.
 
 ---
 
