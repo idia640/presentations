@@ -29,7 +29,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ## Dialogue - Prediction
 
-<img src="images/search-prediction.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/search-prediction.png" align="center" width=“100%” height=“100%”>
 
 
 - We are pattern matchers
@@ -41,7 +41,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ## Dialogue - Immediate Feedback
 
-<img src="images/immediate-feedback.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/immediate-feedback.png" align="center" width=“100%” height=“100%”>
 
 - We understand interactions as dialogue - dialogue is a joint activity
 - We build common ground by exchanging thoughts
@@ -52,7 +52,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ## Dialogue - Error prevention
 
-<img src="images/habits-error.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/habits-error.png" align="center" width=“100%” height=“100%”>
 
 - Leverage (and be cognizant of) habits
 
@@ -60,7 +60,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ## Dialogue - Framing
 
-<img src="images/framing-ui.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/framing-ui.png" align="center" width=“100%” height=“100%”>
 
 http://www.creativebloq.com/ux/problems-81412676
 
@@ -80,7 +80,7 @@ http://www.creativebloq.com/ux/problems-81412676
 
 ##  Dialogue - Sub-dialogues & information packaging
 
-<img src="images/sub-dialogue.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/sub-dialogue.png" align="center" width=“100%” height=“100%”>
 
 - Working memory is a limited resource.
 
@@ -94,7 +94,7 @@ You could also see this as information packaging, but when you think about sub-d
 
 [Judgement under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)
 
-<img src="images/kahneman-tversky.jpg" align="center" width=“60%” height=“60%”>
+<img src="images/kahneman-tversky.jpg" align="center" width=“40%” height=“40%”>
 
 image credit: http://www.slideshare.net/arjanharing/introduction-persuasive-technology-behavioral-economics
 
@@ -128,8 +128,6 @@ These are the biases from Kahneman that we will discuss. We’be talked about ot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWgyy_rlmag" frameborder="0" allowfullscreen></iframe>
 
----
-
 Note:
 
 Warm-up video!
@@ -146,7 +144,7 @@ Question of similarity easier than liklihood (estimations off base rates).
 
 ## Anchoring - Setting a reference point
 
-<img src="images/anchoring_bias.jpg" align="center" width=“60%” height=“60%”>
+<img src="images/anchoring_bias.jpg" align="center" width=“50%” height=“50%”>
 
 Image credit: http://quotesgram.com/dan-ariely-quotes/
 
@@ -169,17 +167,15 @@ Because System 2 makes its judgment using information retrieved by memory (an au
 
 ---
 
-## Availability
-
-Which is more likely, death by accident or death by diabetes? At what ratio?
-
-<img src="images/accident.jpg" align="center" width=“60%” height=“60%”>
+## Availability heuristic
 
 *The availability bias describes the process of judging frequency by "the ease of which instances come to mind."*
 
+<img src="images/accident.jpg" align="center" width=“50%” height=“50%”>
+
 Note:
 
-The availability bias describes the process of judging frequency by "the ease of which instances come to mind."
+Which is more likely, death by accident or death by diabetes? At what ratio?
 
 For example, Kahnemann cites work from Slovic, Lichtenstein and Fischoff where they surveyed participants to consider pairs of causes of death (diabetes & asthma, stroke & accidents). Death by accidents was judged to be more than 300 times more likely than death by diabetes, but the true ratio was 1:4.
 
@@ -193,9 +189,9 @@ If you think back to Damasio, the "ease at which ideas of various risk that come
 
 ## Representativeness: How many fish do you see?
 
-<img src="images/fish.png" align="center" width=“100%” height=“100%”>
-
 *People make predictions based on how representative (similar) something is*
+
+<img src="images/fish.png" align="center" width=“100%” height=“100%”>
 
 Image credit: http://www.slideshare.net/tchinton/unit7myers8thedpt2
 
@@ -243,7 +239,7 @@ From Cooper.com:
 
 ## Affect heuristic
 
-<img src="images/personas.png" align="center" width=“100%” height=“100%”>
+<img src="images/affect.jpg" align="center" width=“100%” height=“100%”>
 
 *Positive/negative words and themes influence decision-making*
 
@@ -284,7 +280,7 @@ What do marketing and advertising analysts study and understand well?
 
 ## "Anxiety: campaigns and certain media are engaging in a form of neurological warfare."
 
-<img src="images/anxiety-unknown.jpg" align="center" width=“60%” height=“60%”>
+<img src="images/anxiety-unknown.png" align="center" width=“60%” height=“60%”>
 
 http://www.rollingstone.com/politics/features/why-were-living-in-the-age-of-fear-w443554
 
@@ -310,13 +306,13 @@ The second way: Anxiety can turn to fear. Part of threat detection is learning, 
 
 ## Buying a car - rationally
 
-<img src="images/car-comparison-chart.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/car-comparison-chart.jpg" align="center" width=“80%” height=“80%”>
 
 ---
 
 ## People are predictably irrational
 
-<img src="images/cars.jpg" align="left" width=“100%” height=“100%”>
+<img src="images/cars.jpg" align="center" width=“100%” height=“100%”>
 
 https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions
 
@@ -332,11 +328,13 @@ From an interview with Dan Ariely (https://www.theguardian.com/money/2008/may/20
 
 ## Loss aversion
 
-### You are offered a gamble on the toss of a coin. If the coin shows tails, you lose $ 100. If the coin shows heads, you win $ 150.
+*You are offered a gamble on the toss of a coin. If the coin shows tails, you lose $ 100. If the coin shows heads, you win $ 150.*
 
-Is this gamble attractive? Would you accept it?
+<img src="images/coin-flip.png" align="center" width=“100%” height=“100%”>
 
 Note:
+
+Is this gamble attractive? Would you accept it?
 
 We're designed to give more attention faster to bad things: we're highly sensitive to threats.
 
@@ -403,7 +401,7 @@ Prospect theory is predictive of behavior. We are guided by both emotion and bia
 
 ---
 
-## Prospect theory in UX - Certainty
+## Prospect theory in UX
 
 Which would be a better scenario for rewarding users who write product reviews?
 - Given all reviewers a coupon for 10% on next purchase?
@@ -411,12 +409,14 @@ Which would be a better scenario for rewarding users who write product reviews?
 
 ---
 
-## Prospect theory in UX - Isolation effect
+## Prospect theory in UX
 
-<img src="images/isolation.png" align="center" width=“100%” height=“100%”>
+<img src="images/isolation.png" align="center" width=“50%” height=“50%”>
 
 
 Note:
+
+Does this work? Why?
 
 People tend to try to focus on differences between options. (Isolation effect)
 
@@ -429,7 +429,7 @@ Collaborative filtering is another solution to a choice architecture problem - i
 
 ## Fourfold pattern
 
-<img src="images/fourfold.png" align="center" width=“100%” height=“100%”>
+<img src="images/fourfold.png" align="center" width=“80%” height=“80%”>
 
 Image credit: http://www.burns-stat.com/review-thinking-fast-slow-daniel-kahneman/
 
@@ -447,7 +447,7 @@ When there are no good options - we gamble.
 
 ## A puzzle for designers (Johnson)
 
-<img src="images/Malware-Protection.jpg" align="center" width=“60%” height=“60%”>
+<img src="images/Malware-Protection.jpg" align="center" width=“40%” height=“40%”>
 
 Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?
 
@@ -502,11 +502,12 @@ We let System 1 take over and do the clicking without any thinking. Upon reflect
 
 ---
 
-## "A choice architect has the responsibility for organizing the context in which people make decisions."
+*"A choice architect has the responsibility for organizing the context in which people make decisions."*
+
+Note:
 
 Thaler, R. H., Sunstein, C. R., & Balz, J. P. (2014). Choice architecture. The behavioral foundations of public policy.
 
-Note:
 
 A good rule of thumb is to assume that "everything matters."
 
@@ -533,19 +534,16 @@ Why does this work?
 
 ---
 
-## You are a choice architect
-
-Note:
-
-"You influence and shape thinking through dialogue with users. You optimize thoughts as in a conversation. You want them to agree on proposals and continue to collaborate in interaction."
-
-## Fear-based messaging
+## You are a choice architect 
+Fear-based messaging
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PYm87nE7JGc" frameborder="0" allowfullscreen></iframe>
 
 http://www.marketingexperiments.com/marketing-optimization/fear-based-messaging
 
 Note:
+
+"You influence and shape thinking through dialogue with users. You optimize thoughts as in a conversation. You want them to agree on proposals and continue to collaborate in interaction."
 
 Tweet example: 3:20
 10:45-15:20 "Does the value outweigh the cost" Focus on value. Message the value to the user.
@@ -588,7 +586,7 @@ Structure complex choices - Collaborative filtering is a solution to a choice ar
 
 ---
 
-## References
+## References (1)
 
 - Ariely, D. (2008). Predictably irrational. New York: HarperCollins.
 
@@ -597,6 +595,10 @@ Structure complex choices - Collaborative filtering is a solution to a choice ar
 - Kahneman, D., & Tversky, A. (1979). [Prospect theory: An analysis of decision under risk](https://www.princeton.edu/~kahneman/docs/Publications/prospect_theory.pdf). Econometrica: Journal of the econometric society, 263-291.
 
 - Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
+
+---
+
+## References (2)
 
 - Marketing Experiments. Does fear-based marketing work? 05/18/2016. Retrieved from: http://www.marketingexperiments.com/marketing-optimization/fear-based-messaging
 
