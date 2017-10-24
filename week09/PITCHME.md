@@ -29,7 +29,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ## Dialogue - Prediction
 
-<img src="images/search-prediction.png" align="center" width=“100%” height=“100%”>
+<img src="images/autocomplete.jpg" align="center" width=“100%” height=“100%”>
 
 
 - We are pattern matchers
