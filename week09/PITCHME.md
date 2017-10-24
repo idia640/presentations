@@ -32,6 +32,8 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 <img src="images/autocomplete.jpg" align="center" width=“100%” height=“100%”>
 
 
+Note:
+
 - We are pattern matchers
 - Smart brains are lazy
 
@@ -42,6 +44,8 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 ## Dialogue - Immediate Feedback
 
 <img src="images/immediate-feedback.png" align="center" width=“100%” height=“100%”>
+
+Note:
 
 - We understand interactions as dialogue - dialogue is a joint activity
 - We build common ground by exchanging thoughts
@@ -54,6 +58,8 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 <img src="images/habits-error.png" align="center" width=“100%” height=“100%”>
 
+Note:
+
 - Leverage (and be cognizant of) habits
 
 ---
@@ -61,6 +67,8 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 ## Dialogue - Framing
 
 <img src="images/framing-ui.png" align="center" width=“100%” height=“100%”>
+
+Note:
 
 http://www.creativebloq.com/ux/problems-81412676
 
@@ -74,6 +82,8 @@ http://www.creativebloq.com/ux/problems-81412676
 <img src="images/focus-ui-1.jpg" align="center" width=“100%” height=“100%”>
 <img src="images/focus-ui-2.jpg" align="center" width=“100%” height=“100%”>
 
+Note:
+
 - Perceptual salience - objects should stand-out when they are the focus of attention.
 
 ---
@@ -82,9 +92,9 @@ http://www.creativebloq.com/ux/problems-81412676
 
 <img src="images/sub-dialogue.png" align="center" width=“100%” height=“100%”>
 
-- Working memory is a limited resource.
-
 Note:
+
+- Working memory is a limited resource.
 
 You could also see this as information packaging, but when you think about sub-dialogues, imagine how conversations can be broken into smaller pieces, each with its own agenda.
 
@@ -94,7 +104,7 @@ You could also see this as information packaging, but when you think about sub-d
 
 [Judgement under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)
 
-<img src="images/kahneman-tversky.jpg" align="center" width=“40%” height=“40%”>
+<img src="images/kahneman-tversky.jpg" align="center" width=“20%” height=“20%”>
 
 image credit: http://www.slideshare.net/arjanharing/introduction-persuasive-technology-behavioral-economics
 
@@ -249,7 +259,7 @@ Note:
 
 ---
 
-## Putting these ideas together
+## Affect in UX
 
 <img src="images/airbnb-welcome-home.png" align="center" width=“20%” height=“20%”>
 
@@ -306,13 +316,13 @@ The second way: Anxiety can turn to fear. Part of threat detection is learning, 
 
 ## Buying a car - rationally
 
-<img src="images/car-comparison-chart.jpg" align="center" width=“80%” height=“80%”>
+<img src="images/car-comparison-chart.jpg" align="center" width=“70%” height=“70%”>
 
 ---
 
 ## People are predictably irrational
 
-<img src="images/cars.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/cars.jpg" align="center" width=“90%” height=“90%”>
 
 https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions
 
@@ -403,7 +413,8 @@ Prospect theory is predictive of behavior. We are guided by both emotion and bia
 
 ## Prospect theory in UX
 
-Which would be a better scenario for rewarding users who write product reviews?
+*Which would be a better scenario for rewarding users who write product reviews?*
+
 - Given all reviewers a coupon for 10% on next purchase?
 - Offer a $1000 sweepstakes?
 
@@ -411,7 +422,7 @@ Which would be a better scenario for rewarding users who write product reviews?
 
 ## Prospect theory in UX
 
-<img src="images/isolation.png" align="center" width=“50%” height=“50%”>
+<img src="images/isolation.png" align="center" width=“30%” height=“30%”>
 
 
 Note:
@@ -429,7 +440,7 @@ Collaborative filtering is another solution to a choice architecture problem - i
 
 ## Fourfold pattern
 
-<img src="images/fourfold.png" align="center" width=“80%” height=“80%”>
+<img src="images/fourfold.png" align="center" width=“60%” height=“60%”>
 
 Image credit: http://www.burns-stat.com/review-thinking-fast-slow-daniel-kahneman/
 
@@ -447,7 +458,7 @@ When there are no good options - we gamble.
 
 ## A puzzle for designers (Johnson)
 
-<img src="images/Malware-Protection.jpg" align="center" width=“40%” height=“40%”>
+<img src="images/Malware-Protection.jpg" align="center" width=“20%” height=“20%”>
 
 Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?
 
