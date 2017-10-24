@@ -458,9 +458,9 @@ When there are no good options - we gamble.
 
 ## A puzzle for designers (Johnson)
 
-<img src="images/Malware-Protection.jpg" align="center" width=“20%” height=“20%”>
+*Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?*
 
-Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?
+<img src="images/Malware-Protection.jpg" align="center" width=“10%” height=“10%”>
 
 Note:
 
