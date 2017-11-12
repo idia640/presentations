@@ -9,7 +9,6 @@
 - Persuasion vs. manipulation
 - Persuasion by social influence
 - Persuasive design
-- Final project
 
 Note:
 
@@ -32,13 +31,16 @@ Note:
 - .red[We use anchors to estimate cost and effort]
 - .red[We like sure things and are averse to loss - but liklihood matters]
 
-???
+Note:
+
 ---
-# Deceptive?
 
-.center[![:scale 100%](images/deceptive.png)]
+## Deceptive?
 
-???
+<img src="images/deceptive.png" align="center" vertical="100%" horizontal="100%">
+
+Note:
+
 What do you think? If you trust the advertiser, you probably understand these two statements differently than someone who doesn’t.
 
 The fiber is derived from soy or cottonseed.
@@ -53,11 +55,12 @@ Wonder Bread has a history of deception
 - Wonder Bread will not provide a child with all of the nutrients that are essential to healthful growth and development
 
 ---
+
 ## Persuasion and manipulation in advertising
 
-.center[![:scale 100%](images/deceptive2.png)]
+<img src="images/deceptive2.png" align="center" vertical="100%" horizontal="100%">
 
-???
+Note:
 
 What is persuasion? Geis (1982) Involves conscious evaluation by the recipient on the source message.
 
@@ -76,60 +79,68 @@ Light beer example: 3:1 reported drinking it, but 9x more regular beer brewed an
 Because marketers and advertisers felt that they could not rely on rational, conscious processes in direct interaction with consumers - they began to focus on the unconscious.
 
 ---
-# How it works
+
+## How it works
 *Implicature: What is meant versus what is said.*
 
-.center[![:scale 100%](images/Dilbert-implicature.gif)]
+<img src="images/Dilbert-implicature.gif" align="center" vertical="100%" horizontal="100%">
 
 ---
-# Other examples
+
+## Other examples
+
 - A lot more Chevrolet for a lot **less money** *.red[compared to what?]*
 - The new Chevette has **more head room, more seat and leg room, more trunk room**
 - Wartsoff contains vivaline and **you know** [.red[anchoring]] that vivaline removes warts instantly.
 - **Choosy moms** choose Jif
 - Introducing the **new**...
 
-.footnote[From Geis, 1982]
-???
+From Geis, 1982
+
+Note:
 
 - Conventional implicature. Relies on meaning inherent in words themselves (“She was poor but honest”)
 - Conversational implicature. Makes reference to conversational situation: follows the conversational maxim of relation/relevance (under normal conditions, you wouldn't say something not relevant). You infer that Listerine is a “cold remedy” because its compared with cold remedies.
+
 ---
-# What about retractions?
 
-.center[![:scale 100%](images/deceptive3.png)]
+## What about retractions?
 
-???
+<img src="images/deceptive3.png" align="center" vertical="100%" horizontal="100%">
+
+Note:
 
 In fact, other claims were proven false. But, as Geis (1982) notes — forcing Listerine to add a disclaimer did not mean they would directly assert the falsehood. Conventional implicatures are less perceptually salient than assertions.
+
 ---
-# Testing the bounds of persuasion
-.pull-left[
+
+## Testing the bounds of persuasion
 - Manipulation or persuasion?
 - Is the framing manipulation?
 - Ethnical or not?
-]
-.pull-right[
-.center[![:scale 100%](images/heart.jpg)]
+
+<img src="images/heart.jpg" align="center" vertical="100%" horizontal="100%">
+
 "If you do not do X, your chances of death from heart disease will triple!”
-]
 
-.footnote[Sunstein, C. R. (2015). Fifty shades of manipulation. Journal of Behavioral Marketing, Forthcoming.]
+Sunstein, C. R. (2015). Fifty shades of manipulation. Journal of Behavioral Marketing, Forthcoming.
 
-???
+Note:
 
 "It is certainly reasonable to take the choice of the relative risk frame (which suggests a large impact on health) is an effort to frighten people and thus to manipulate them (at least in a mild sense)."
 
 It's hard to avoid framing. But framing itself is not manipulation.
 
 Is it justified if it saves a number of lives across a large population?
+
 ---
-class: center, middle, inverse
-# Persuasion as social influence
 
-.center[![:scale 20%](images/cialdini.jpg)]
+## Persuasion as social influence
 
-???
+<img src="images/cialdini.jpg" align="center" vertical="20%" horizontal="20%">
+
+
+Note:
 
 Chinese prison camps in Korea
 - mail home
@@ -141,15 +152,17 @@ Committing power of written statements; concessions to Communist dogma
 - Procter & Gamble and General Foods are always running those “25-, 50-, or 100 words or less” testimonial contests.
 
 Cialdini PhD, Robert B. (2009-05-28). Influence: The Psychology of Persuasion (Collins Business Essentials) (p. 61). HarperCollins. Kindle Edition.
----
-
-.center[![:scale 80%](images/krishna.jpg)]
 
 ---
 
-.center[![:scale 100%](images/reciprocity.jpg)]
+<img src="images/krishna.jpg" align="center" vertical="100%" horizontal="100%">
 
-???
+
+---
+
+<img src="images/reciprocity.jpg" align="center" vertical="100%" horizontal="100%">
+
+Note:
 
 Disabled American Veterans org mails out requests for contributions:
 - 18% success for basic appeal
@@ -173,41 +186,44 @@ Principle of Cooperation (tendency to move toward common ground and achieve comm
 Get a smaller concession (Rejection-then-retreat)
 
 Perceptual contrast; side effects of feelings of responsibility and satisfaction
----
-class: center, inverse, middle
-
-# Reciprocity
-
 
 ---
 
-.center[![:scale 100%](images/petition.png)]
+## Reciprocity
 
-???
+---
+
+<img src="images/petition.png" align="center" vertical="100%" horizontal="100%">
+
+
+Note:
 
 Public commitment to a cause.
 
 "Joseph Schwarzwald of Bar-Ilan University in Israel and his co-workers nearly doubled monetary contributions for the handicapped in certain neighborhoods. The key factor: two weeks before asking for contributions, they got residents to sign a petition supporting the handicapped, thus making a public commitment to that same cause." p. 78
+
 ---
 
-.center[![:scale 100%](images/foot-in-the-door.jpg)]
+<img src="images/foot-in-the-door.jpg" align="center" vertical="100%" horizontal="100%">
 
-???
+Note:
+
 - Reinforced pathway; small movement in a direction, makes it easier in the future
 - Principle of least effort
 - Coherent (consistent) behavior
 
 Brings change and effects that last. No need for continued reinforcement
----
-class: inverse, center middle
-# Consistency and commitment
-
 
 ---
 
-.center[![:scale 100%](images/social-proof.png)]
+## Consistency and commitment
 
-???
+
+---
+
+<img src="images/social-proof.png" align="center" vertical="100%" horizontal="100%">
+
+Note:
 
 - canned laughter
 - salted tip jars
@@ -215,24 +231,24 @@ class: inverse, center middle
 - likes, views...
 - "Werther effect" (suicide statistics). For every front page statistic, an average of 58 more people more than usual killed themselves.
 
-
 ---
-class: inverse, center, middle
 
-# Social proof
+## Social proof
 
-???
+Note:
 
 If you are unsure or don't know how to behave -- look to others.
 
 Development of social norms -- what is correct in society?
 
 This can backfire. Don't focus on the negative or undesirable behaviors of others (Werther effect). This will make the undesirable behavior more salient and can actually increase it.
+
 ---
 
-.center[![:scale 100%](images/liking.jpg)]
+<img src="images/liking.jpg" align="center" vertical="100%" horizontal="100%">
 
-???
+Note:
+
 People say 'yes' to those they like.
 
 - Tupperware parties. Company arranges for its customers to buy from a liked friend rather than a salesperson.
@@ -242,26 +258,24 @@ People say 'yes' to those they like.
 - Good guy bad guy routines
 
 People tend to say "yes" to those they like.
-"Us versus them" - social connection
----
-class: inverse, middle, center
-
-# Liking
+"Us versus them" - social connection.
 
 ---
 
-.center[![:scale 100%](images/doctor.jpg)]
-
-???
-
+## Liking
 
 ---
-class: inverse, center, middle
 
+<img src="images/doctor.jpg" align="center" vertical="100%" horizontal="100%">
 
-# Authority
+Note:
 
-???
+---
+
+## Authority
+
+Note:
+
 Milgrim study
 http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html
 
@@ -277,9 +291,10 @@ Robert Young commercials for decaf coffee
 
 ---
 
-.center[![:scale 90%](images/scarcity.jpg )]
+<img src="images/scarcity.jpg" align="center" vertical="100%" horizontal="100%">
 
-???
+
+Note:
 
 - limited time only
 - promotional foods in cafeterias
@@ -287,11 +302,12 @@ Robert Young commercials for decaf coffee
 
 
 ---
-class: inverse, center, middle
-# Scarcity
+
+## Scarcity
 
 ---
-# Social influence
+
+## Social influence
 
 - Reciprocity
 - Consistency and commitment
@@ -302,19 +318,17 @@ class: inverse, center, middle
 - ?
 
 ---
-class: inverse, middle, center
 
 # Persuasive systems may be defined as “computerized software or information systems designed to reinforce, change or shape attitudes or behaviors or both without using coercion or deception.”
 Oinas-Kukkonen & Harjumaa 2008
 
 ---
 
-.center[![:scale 80%](images/persuasion-model2.png)]
-
+<img src="images/persuasion-model2.png" align="center" vertical="100%" horizontal="100%">
 
 
 ---
-# Some tools for persuasive design
+## Some tools for persuasive design
 
 - **Support for visual thinking**
  - Design for visual queries (e.g., clear display; repeated experience; primed ideas)
@@ -334,34 +348,42 @@ Oinas-Kukkonen & Harjumaa 2008
  - Positive mood
 - **User motivations and values** (ethnographic research; personas)
 - **Habit loops and behavior modeling (next)**
+
 ---
 
-.center[![:scale 100%](images/robin.jpg)]
+<img src="images/robin.jpg" align="center" vertical="100%" horizontal="100%">
 
-???
+
+Note:
 
 Trigger feature. Male robin will act as if a rival has entered its territory on a clump of red robin features. And also ignore a stuffed replica of a male robin without a red breast.
 
 “Called fixed-action patterns, they can involve intricate sequences of behavior, such as entire courtship or mating rituals. A fundamental characteristic of these patterns is that the behaviors that compose them occur in virtually the same fashion and in the same order every time. It is almost as if the patterns were recorded on tapes within the animals.” Cialdini
 
 "Excuse me, may..."
----
-# Remember the habit loop?
 
-.center[![:scale 80%](images/habit-loop.jpg)
+---
+
+## Remember the habit loop?
+
+<img src="images/habit-loop.jpg" align="center" vertical="100%" horizontal="100%">
+
 https://youtu.be/W1eYrhGeffc
-]
-???
+
+Note:
 
 "Automatic, stereotyped behavior is prevalent in much of human action, because in many cases it is the most efficient form of behaving, and in other cases it is simply necessary." Cialdini
 
 ---
-# Fogg's behavior model
 
-.center[![:scale 70%](images/fogg.png)]
+## Fogg's behavior model
 
-.footnote[This is not a predictive model like Prospect Theory: it's more of a heuristic. But you can think of "ability" in terms of cost. Is it worth the effort (value) to perform the behavior?]
-???
+<img src="images/fogg.png" align="center" vertical="100%" horizontal="100%">
+
+
+This is not a predictive model like Prospect Theory: it's more of a heuristic. But you can think of "ability" in terms of cost. Is it worth the effort (value) to perform the behavior?
+
+Note: 
 A model that gives us a way to think about behavior change.
 
 If you had direct insight into a user's habit cycle - cues, routines and rewards - and you knew exactly where they were in this cycle at any point in time - this would be easy.
@@ -380,16 +402,11 @@ Signal - button "click here"
 
 "Simplicity is a function of a person’s scarcest resource at the moment a behavior is triggered."
 
-
 ---
-# Final Project
+
+## Case Study
 
 - 10 minutes with up to 5 for Q&A
-- Not limited to a UI (paper) prototype. Consider the entire context of how and when you dialogue with your user/customer across time and media.
-
----
-# Suggested approach
-
 - .red[What is the problem/challenge/goal?]
  - In some cases, you may want to frame the larger challenge, but then hone in on a specific interaction or task.
  - You can choose a simple behavior to target.
@@ -405,12 +422,17 @@ Signal - button "click here"
 - .red[How would you test this?]
 - .red[Finally, please tell us the most useful concept or idea you've learned from this class.]
 
-.footnote[Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. Persuasive '09, Claremont.]
+Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. Persuasive '09, Claremont.
 
 ---
+
 ## Next Week
 
+- Social Networks
+
+
 ---
+
 ## References
 
 - Cialdini, R. B. (2001). The science of persuasion. Scientific American, 284(2), 76-81.

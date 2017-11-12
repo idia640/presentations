@@ -10,25 +10,28 @@
 - How might it influence design?
 
 ---
-# Beyond Culture
 
-.center[![:scale 100%](images/
-quote-culture-hides-more-than-it-reveals-and-strangely-enough-what-it-hides-it-hides-most-edward-t-hall-57-64-03.jpg)]
+## Beyond Culture
+
+<img src="images/hall.jpg" align="center" vertical="100%" horizontal="100%">
 
 *Edward T. Halls theory was intended to provide the means for evaluating communications within a culture.*
 
-???
+Note:
 
 Hall speaks of group with similar experiences and expectations from which inferences are drawn. This is reminiscent of work done by sociologists like Goffman where changes in footing reflect in-group and out-group stance.
 
 ---
-# Screening function of culture
 
-.center[![:scale 80%](images/lenses.png)]
+## Screening function of culture
+
+<img src="images/lenses.png" align="center" vertical="80%" horizontal="80%">
+
 
 *Ethnographic study of users is important because it stresses the importance both internal and external contexting.*
 
-???
+Note:
+
 "One of the functions of culture is to provide a highly selective screen between man and the outside world. In its many forms, culture therefore designates what we pay attention to and what we ignore. This screening function provides structure for the world and protects the nervous system from "information overload." Hall
 
 According to Hall, communications consists of:
@@ -40,15 +43,14 @@ It is nearly impossible to separate the individual from the environment in which
 
 "We labor under a number of delusions, one of which is that life makes sense; i.e., that we are sane. We persist in this view despite massive evidence to the contrary We live fragmented, compartmentalized lives in which contradictions are carefully sealed off from each other. We have been taught to think linearly rather than comprehensively, and we do this, not through conscious design or because we are not intelligent or capable, but because of the way in which deep cultural undercurrents structure life in subtle but highly consistent ways that are not consciously formulated" McLuhan 1960, 1962
 
-
-
 ---
-# Overt vs covert communication
 
-.center[![:scale 50%](images/say-mean.png)]
+## Overt vs covert communication
 
+<img src="images/say-mean.png" align="center" vertical="100%" horizontal="100%">
 
-???
+Note:
+
 Implicature again!
 
 Models of culture have different levels of behavior:
@@ -62,10 +64,10 @@ Culture is:
 - shared and defines the boundaries of different groups
 
 ---
-class: middle, center, inverse
-# Culture is a medium
 
-???
+## Culture is a medium
+
+Note:
 
 "Culture is man's medium" and carries meaning and structure in such a way to direct our attention to specific information in our environment. Personality, expression, thinking, moving, solving problems, organization of cities and transportation, economy, government.
 
@@ -74,7 +76,8 @@ Example: welfare case worker office should be private, but not private because s
 Context carries meaning. The code or message is incomplete without context.
 
 ---
-# Hall's 5 dimensions
+
+## Hall's 5 dimensions
 
 Hall refers to five dimensions affecting perception:
 1. **Activity**
@@ -83,20 +86,25 @@ Hall refers to five dimensions affecting perception:
 4. **Past experience**
 5. **Culture**
 
-???
+Note:
+
 - Legal proceeding, for example
 - Court of law - includes place, time, actors
 - Status and role of participants
 - What has been experienced before?
 
 - Shifting context can be regarded as communication (I believe he means something like change in footing)
----
-# High and low-context cultures
 
-.center[![:scale 75%](images/high-and-low-context.gif)]
+---
+
+## High and low-context cultures
+
+<img src="images/high-and-low-context.gif" align="center" vertical="100%" horizontal="100%">
+
 
 http://www2.pacific.edu/sis/culture/pub/Context_Cultures_High_and_Lo.htm
-???
+
+Note:
 
 HC systems have more information in the receiver and setting. Fast, efficient, satisfying. Need common ground. Stable.
 
@@ -126,15 +134,13 @@ chain supermarket
 
 Need to adapt and change - LC
 
-
-
 ---
-# Meaning
 
-.center[![:scale 70%](images/meaning.gif)]
+## Meaning
 
+<img src="images/meaning.gif" align="center" vertical="100%" horizontal="100%">
 
-???
+Note:
 
 HC message is one in which the most of the information is either in the physical context or internalized in the person.
 
@@ -161,13 +167,15 @@ English version: First lady ready to stand up for her island on upcoming US trip
 All describe the same situation, but signal social or political opinions of the newspaper about the events. Seemingly minor difference is significant.
 
 ---
-# Neurological variation?
 
-.center[![:scale 80%](images/BLACKBASS.jpg)
+## Neurological variation?
+
+<img src="images/BLACKBASS.jpg" align="center" vertical="80%" horizontal="80%">
 
 Image: https://sites.ualberta.ca/~tmasuda/stimuli.htm
 ]
-???
+
+Note:
 
 - Screens between oneself and reality
 - Awareness of structure is necessary if one is to control behavior with any semblance of rationality. Such awareness if associated with LC end of scale.
@@ -187,96 +195,76 @@ Culture influences:
 
 Masuda and Nisbett (2001) examine whether East Asians attend to context more than Americans. Results show that 1) Japanese attend more to contextual information and relations than did American study participants and 2) they recognize objects more accurately when seen again in their original settings than when in novel settings. Masuda and Nisbett provide an explanation of differences in terms of cognitive and perceptual orientation. This supports previous studies that refer to thinking as holistic versus analytic. This study adds to a large body of cross-cultural findings concerning human attention and provides evidence for attentional differences as an important factor contributing to cultural differences in higher cognitive mechanisms.
 
-
 ---
-# Application to design
 
+## Application to design
 
 Localization is not limited to translating elements on a webpage. It's understanding cultural differences.
 
 Some reported considerations:
 
-.pull-left[
 **Low Context**
 - Text important
 - Clear, direct communication
 - Visual order and structure
 - Strong foregrounding
 - Supports sequential reading pattern
-]
 
-.pull-right[
 **High Context**
 - Heavy use of graphics
 - Less text
 - More animation
 - Harmony between background and foreground
 - Harmony among content areas
-]
 
 Eye fixations: http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/267/163
 
-???
+Note:
 
 Individualism versus collectivism
 Explicit versus implicit communication
 More or less verbal information
 
-
 ---
-# MacDonalds
 
-<center>
-.pull-left[
-.center[![:scale 100%](images/macdonalds-de.png)]
-Germany
-]
+## MacDonalds
 
+<img src="images/macdonalds-de.png" align="center" vertical="80%" horizontal="80%">
 
-.pull-right[
-.center[![:scale 100%](images/macdonalds-cn.png)]
-China
-]
+<img src="images/macdonalds-cn.png" align="center" vertical="80%" horizontal="80%">
 
 http://www.yetanotherstudio.com/2011/03/21/mcdonalds-around-the-world-website/
 
-???
+Note:
+
 https://en.wikipedia.org/wiki/List_of_countries_with_McDonald%27s_restaurantsÓ
 
 http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 ---
-# Pizza Hut
-<center>
-.pull-left[
-.center[![:scale 100%](images/pizza-hut-us.png)]
-United States
-]
-.pull-left[
-.center[![:scale 100%](images/pizza-hut-china.png)]
-China
-]
+
+## Pizza Hut
+
+<img src="images/pizza-hut-us.png" align="center" vertical="80%" horizontal="80%">
+
+<img src="images/pizza-hut-china.png" align="center" vertical="80%" horizontal="80%">
 
 ---
-# Coca Cola
 
-.pull-left[
+## Coca Cola
 
-.center[![:scale 100%](images/german-coke.png)]
-German
-]
+<img src="images/german-coke.png" align="center" vertical="80%" horizontal="80%">
 
-.pull-left[
-
-.center[![:scale 100%](images/chinese-coke.png)]
-Chinese
-]
+<img src="images/chinese-coke.png" align="center" vertical="80%" horizontal="80%">
 
 ---
 
 ## Next Week
 
+- Social Networks
+
 ---
+
 ## References
 
 - Cardon, P. W. (2008). A Critique of Hall's Contexting Model A Meta-Analysis of Literature on Intercultural Business and Technical Communication. Journal of Business and Technical Communication, 22(4), 399-428.
