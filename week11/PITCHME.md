@@ -229,8 +229,6 @@ Some reported considerations:
 
 <img src="images/macdonalds-de.png" align="center" width="50%" height="50%">
 
-<hr>
-
 <img src="images/macdonalds-cn.png" align="enter" width="50%" height="50%">
 
 Note:
@@ -247,8 +245,6 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 <img src="images/pizza-hut-us.png" align="center" width="50%" height="50%">
 
-<hr>
-
 <img src="images/pizza-hut-china.png" align="center" width="50%" height="50%">
 
 ---
@@ -256,8 +252,6 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 ## Coca Cola
 
 <img src="images/german-coke.png" align="center" width="50%" height="50%">
-
-<hr>
 
 <img src="images/chinese-coke.png" align="center" width="50%" height="50%">
 
@@ -268,6 +262,10 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 - Cardon, P. W. (2008). A Critique of Hall's Contexting Model A Meta-Analysis of Literature on Intercultural Business and Technical Communication. Journal of Business and Technical Communication, 22(4), 399-428.
 
 - Hall, E. T. (1989). Beyond culture. Anchor.
+
+---
+
+## References
 
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological review, 98(2), 224.
 
