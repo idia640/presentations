@@ -90,15 +90,15 @@ Packard (1957)
 
 ## Other examples
 
-- A lot more Chevrolet for a lot **less money** *.red[compared to what?]*
+- A lot more Chevrolet for a lot **less money** *compared to what?*
 - The new Chevette has **more head room, more seat and leg room, more trunk room**
-- Wartsoff contains vivaline and **you know** [.red[anchoring]] that vivaline removes warts instantly.
+- Wartsoff contains vivaline and **you know** [anchoring] that vivaline removes warts instantly.
 - **Choosy moms** choose Jif
 - Introducing the **new**...
 
-From Geis, 1982
-
 Note:
+
+From Geis, 1982
 
 - Conventional implicature. Relies on meaning inherent in words themselves (“She was poor but honest”)
 - Conversational implicature. Makes reference to conversational situation: follows the conversational maxim of relation/relevance (under normal conditions, you wouldn't say something not relevant). You infer that Listerine is a “cold remedy” because its compared with cold remedies.
@@ -323,7 +323,7 @@ Note:
 
 ---
 
-# Persuasive systems may be defined as “computerized software or information systems designed to reinforce, change or shape attitudes or behaviors or both without using coercion or deception.”
+## Persuasive systems may be defined as “computerized software or information systems designed to reinforce, change or shape attitudes or behaviors or both without using coercion or deception.”
 Oinas-Kukkonen & Harjumaa 2008
 
 ---
@@ -388,7 +388,7 @@ Note:
 
 ## Fogg's behavior model
 
-<img src="images/fogg.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/fogg.png" align="center" vertical="80%" horizontal="80%">
 
 This model posits that three elements must be present for a behavior to occur:
 - motivation
@@ -449,7 +449,6 @@ Note:
 
 ## Case Study Rubric
 
-- 10 minutes with up to 5 for Q&A
 - Rubric:
     - The challenge problem (5 points)
     - The target user population (5 points)
@@ -459,6 +458,8 @@ Note:
     - The most useful concept(s) or interesting idea(s) you drew from the class (5 points)
 
 Note:
+
+- 10 minutes with up to 5 for Q&A
 
 ---
 
@@ -475,11 +476,11 @@ Note:
 
 - Cialdini, R. B. (2006). Influence: The Psychology of Persuasion.
 
-- Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. In Proceedings of the 4th international Conference on Persuasive Technology.
+- Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. In Proc of the 4th Int Conf on Persuasive Tech.
 
 - Fogg, B. J. (2003). Persuasive Technology: Using Computers to Change what We Think and Do. Morgan Kaufmann.
 
-- Fogg, B. J. (2009, April). A behavior model for persuasive design. In Proceedings of the 4th international Conference on Persuasive Technology.
+- Fogg, B. J. (2009, April). A behavior model for persuasive design. In Proc of the 4th Int Conf on Persuasive Tech.
 
 - Geis, M. L. (1982). The language of television advertising. Academic Pr.
 
