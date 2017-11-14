@@ -323,7 +323,7 @@ Note:
 
 ---
 
-## Persuasive systems may be defined as “computerized software or information systems designed to reinforce, change or shape attitudes or behaviors or both without using coercion or deception.”
+### Persuasive systems may be defined as “computerized software or information systems designed to reinforce, change or shape attitudes or behaviors or both without using coercion or deception.”
 Oinas-Kukkonen & Harjumaa 2008
 
 ---
@@ -388,7 +388,7 @@ Note:
 
 ## Fogg's behavior model
 
-<img src="images/fogg.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/fogg.png" align="center" vertical="60%" horizontal="60%">
 
 This model posits that three elements must be present for a behavior to occur:
 - motivation
@@ -449,13 +449,12 @@ Note:
 
 ## Case Study Rubric
 
-- Rubric:
-    - The challenge problem (5 points)
-    - The target user population (5 points)
-    - Your design solution for nudging behavior and your desired outcome (5 points)
-    - Design decisions that link to scientific concepts explored in this class (5 points)
-    - How you might evaluate the effectiveness of your design (5 points)
-    - The most useful concept(s) or interesting idea(s) you drew from the class (5 points)
+- The challenge problem (5 points)
+- The target user population (5 points)
+- Your design solution for nudging behavior and your desired outcome (5 points)
+- Design decisions that link to scientific concepts explored in this class (5 points)
+- How you might evaluate the effectiveness of your design (5 points)
+- The most useful concept(s) or interesting idea(s) you drew from the class (5 points)
 
 Note:
 
