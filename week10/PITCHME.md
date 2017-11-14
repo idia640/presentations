@@ -328,7 +328,7 @@ Oinas-Kukkonen & Harjumaa 2008
 
 ---
 
-<img src="images/persuasion-model2.png" align="center" width="100%" height="100%">
+<img src="images/persuasion-model2.png" align="center" width="60%" height="60%">
 
 
 ---
