@@ -39,7 +39,7 @@ Prior learning points:
 
 ## Deceptive?
 
-<img src="images/deceptive.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/deceptive.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -60,7 +60,7 @@ Wonder Bread has a history of deception
 
 ## Persuasion and manipulation in advertising
 
-<img src="images/deceptive2.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/deceptive2.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -84,7 +84,7 @@ Packard (1957)
 ## How it works
 *Implicature: What is meant versus what is said.*
 
-<img src="images/Dilbert-implicature.gif" align="center" vertical="100%" horizontal="100%">
+<img src="images/Dilbert-implicature.gif" align="center" width="100%" height="100%">
 
 ---
 
@@ -107,7 +107,7 @@ From Geis, 1982
 
 ## What about retractions?
 
-<img src="images/deceptive3.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/deceptive3.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -120,7 +120,7 @@ In fact, other claims were proven false. But, as Geis (1982) notes — forcing L
 - Is the framing manipulation?
 - Ethnical or not?
 
-<img src="images/heart.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/heart.jpg" align="center" width="100%" height="100%">
 
 "If you do not do X, your chances of death from heart disease will triple!”
 
@@ -138,7 +138,7 @@ Is it justified if it saves a number of lives across a large population?
 
 ## Persuasion as social influence
 
-<img src="images/cialdini.jpg" align="center" vertical="20%" horizontal="20%">
+<img src="images/cialdini.jpg" align="center" width="20%" height="20%">
 
 
 Note:
@@ -159,12 +159,12 @@ Cialdini PhD, Robert B. (2009-05-28). Influence: The Psychology of Persuasion (C
 
 ---
 
-<img src="images/krishna.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/krishna.jpg" align="center" width="100%" height="100%">
 
 
 ---
 
-<img src="images/reciprocity.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/reciprocity.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -197,7 +197,7 @@ Perceptual contrast; side effects of feelings of responsibility and satisfaction
 
 ---
 
-<img src="images/petition.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/petition.png" align="center" width="100%" height="100%">
 
 
 Note:
@@ -208,7 +208,7 @@ Public commitment to a cause.
 
 ---
 
-<img src="images/foot-in-the-door.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/foot-in-the-door.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -225,7 +225,7 @@ Brings change and effects that last. No need for continued reinforcement.
 
 ---
 
-<img src="images/social-proof.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/social-proof.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -249,7 +249,7 @@ This can backfire. Don't focus on the negative or undesirable behaviors of other
 
 ---
 
-<img src="images/liking.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/liking.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -270,7 +270,7 @@ People tend to say "yes" to those they like.
 
 ---
 
-<img src="images/doctor.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/doctor.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -295,7 +295,7 @@ Robert Young commercials for decaf coffee
 
 ---
 
-<img src="images/scarcity.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/scarcity.jpg" align="center" width="100%" height="100%">
 
 
 Note:
@@ -328,7 +328,7 @@ Oinas-Kukkonen & Harjumaa 2008
 
 ---
 
-<img src="images/persuasion-model2.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/persuasion-model2.png" align="center" width="100%" height="100%">
 
 
 ---
@@ -361,7 +361,7 @@ Note:
 - **Habit loops and behavior modeling (next)**
 ---
 
-<img src="images/robin.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/robin.jpg" align="center" width="100%" height="100%">
 
 
 Note:
@@ -376,7 +376,7 @@ Trigger feature. Male robin will act as if a rival has entered its territory on 
 
 ## Remember the habit loop?
 
-<img src="images/habit-loop.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/habit-loop.jpg" align="center" width="100%" height="100%">
 
 https://youtu.be/W1eYrhGeffc
 
@@ -388,7 +388,7 @@ Note:
 
 ## Fogg's behavior model
 
-<img src="images/fogg.png" align="center" vertical="60%" horizontal="60%">
+<img src="images/fogg.png" align="center" height="80%" width="80%">
 
 This model posits that three elements must be present for a behavior to occur:
 - motivation
