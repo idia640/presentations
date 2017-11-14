@@ -1,5 +1,5 @@
 # How are people influenced through persuasion?
- 31 October 2017
+31 October 2017
 
 ---
 
@@ -16,6 +16,14 @@ Note:
 
 ## Review
 
+- We believe what comes to mind easiest
+- We remember bad things better
+- We use anchors to estimate cost and effort
+- We like sure things and are averse to loss - but liklihood matters
+
+Note:
+
+Prior learning points:
 - Smart brains are lazy
 - We are pattern matchers
 - 98% of brain activity supports unconscious processes
@@ -26,12 +34,6 @@ Note:
 - We build common ground by exchanging thoughts
 - We influence and change thinking through dialogue
 - There are costs to common ground, so we try to minimize collaborative effort
-- .red[We believe what comes to mind easiest]
-- .red[We remember bad things better]
-- .red[We use anchors to estimate cost and effort]
-- .red[We like sure things and are averse to loss - but liklihood matters]
-
-Note:
 
 ---
 
@@ -66,17 +68,16 @@ What is persuasion? Geis (1982) Involves conscious evaluation by the recipient o
 
  Manipulation does not.
 
- "A statement or action can be said to be manipulative if it does not sufficiently engage or appeal to people’s capacity for reflective and deliberative choice." (Sunstein, forthcoming)
+ "A statement or action can be said to be manipulative if it does not sufficiently engage or appeal to people’s capacity for reflective and deliberative choice." (Sunstein, 2016)
 
 Persuasive use of language involves textual content and style: often through arguments advertisers use to get consumers to buy. Perhaps, less now than historically.
 
 Packard (1957)
-- "Nose counting" - what prospective customers said what they wanted and would buy if it cost no more than 'x', unsuccessful. What people said had little bearing on what they did when confronted with a situation. You can
-t assume people know what they want. "Moreover, you can't assume people will tell you the truth about their wants and dislikes even if they know them."
+- "Nose counting" - what prospective customers said what they wanted and would buy if it cost no more than 'x', unsuccessful. What people said had little bearing on what they did when confronted with a situation. You can't assume people know what they want. "Moreover, you can't assume people will tell you the truth about their wants and dislikes even if they know them."
 
-Light beer example: 3:1 reported drinking it, but 9x more regular beer brewed and sold. " Do you drink the kind preferred by people of refinement and discriminating taste, or do you just drink the regular stuff?"
+- Light beer example: 3:1 reported drinking it, but 9x more regular beer brewed and sold. " Do you drink the kind preferred by people of refinement and discriminating taste, or do you just drink the regular stuff?"
 
-Because marketers and advertisers felt that they could not rely on rational, conscious processes in direct interaction with consumers - they began to focus on the unconscious.
+- Because marketers and advertisers felt that they could not rely on rational, conscious processes in direct interaction with consumers - they began to focus on the unconscious.
 
 ---
 
@@ -123,7 +124,7 @@ In fact, other claims were proven false. But, as Geis (1982) notes — forcing L
 
 "If you do not do X, your chances of death from heart disease will triple!”
 
-Sunstein, C. R. (2015). Fifty shades of manipulation. Journal of Behavioral Marketing, Forthcoming.
+Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213.
 
 Note:
 
@@ -142,9 +143,12 @@ Is it justified if it saves a number of lives across a large population?
 
 Note:
 
-Chinese prison camps in Korea
-- mail home
-- political essay contests with small prizes
+Chinese prison camps in Korea (Korean War:
+- "lenient policy" (psychological manipulation)
+    - effective at gaining informats... why so effective at compliance?
+- make a list of "how america is not perfect" and sign it
+- read the list to other prisoners
+- political essay contests with small prizes. Very mild pro-Communist/anti-American statements
 - propaganda
 
 Committing power of written statements; concessions to Communist dogma
@@ -200,7 +204,7 @@ Note:
 
 Public commitment to a cause.
 
-"Joseph Schwarzwald of Bar-Ilan University in Israel and his co-workers nearly doubled monetary contributions for the handicapped in certain neighborhoods. The key factor: two weeks before asking for contributions, they got residents to sign a petition supporting the handicapped, thus making a public commitment to that same cause." p. 78
+"Joseph Schwarzwald of Bar-Ilan University in Israel and his co-workers nearly doubled monetary contributions for the handicapped in certain neighborhoods. The key factor: two weeks before asking for contributions, they got residents to sign a petition supporting the handicapped, thus making a public commitment to that same cause." p. 78.
 
 ---
 
@@ -212,7 +216,7 @@ Note:
 - Principle of least effort
 - Coherent (consistent) behavior
 
-Brings change and effects that last. No need for continued reinforcement
+Brings change and effects that last. No need for continued reinforcement.
 
 ---
 
@@ -283,9 +287,9 @@ http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html
 
  The fictitious story given to the "teachers" was that the experiment was intended to explore the effects of punishment for incorrect responses on learning behavior.
 
-1955 study - a man could increase by 350% the number of pedestrians who would follow him across a street if he were wearing a suit and time (mark of authority)
+1955 study - a man could increase by 350% the number of pedestrians who would follow him across a street if he were wearing a suit and time (mark of authority).
 
-4 out of 5 doctors
+4 out of 5 doctors...
 
 Robert Young commercials for decaf coffee
 
@@ -331,6 +335,13 @@ Oinas-Kukkonen & Harjumaa 2008
 ## Some tools for persuasive design
 
 - **Support for visual thinking**
+- **Support for understanding and social cooperation**
+- **User motivations and values**
+- **Habit loops and behavior modeling (next)**
+
+Note:
+
+- **Support for visual thinking**
  - Design for visual queries (e.g., clear display; repeated experience; primed ideas)
  - Attentional guidance
  - Task breakdown (perceptual chunking, cognitive threads)
@@ -344,11 +355,10 @@ Oinas-Kukkonen & Harjumaa 2008
  - Reciprocity
  - Social proof
  - Coherence (consistency)
- - Cognitive ease (e.g., defaults, mappings, simplifications)
+ - Cognitive ease (e.g., defaults, mappings, simplifications, familiarity)
  - Positive mood
 - **User motivations and values** (ethnographic research; personas)
 - **Habit loops and behavior modeling (next)**
-
 ---
 
 <img src="images/robin.jpg" align="center" vertical="100%" horizontal="100%">
@@ -380,6 +390,14 @@ Note:
 
 <img src="images/fogg.png" align="center" vertical="100%" horizontal="100%">
 
+This model posits that three elements must be present for a behavior to occur:
+- motivation
+- ability
+- trigger
+
+When a behavior does not occur, at least one of these three elements is missing.
+
+behaviormodel.org
 
 This is not a predictive model like Prospect Theory: it's more of a heuristic. But you can think of "ability" in terms of cost. Is it worth the effort (value) to perform the behavior?
 
@@ -392,44 +410,62 @@ But you probably don't. (Though, advertisers may.)
 
 You can still make use of cues as a behavior trigger. In addition, you need to understand user motivations and what you can do to make it easy for them to adopt the behavior you want.
 
-Some new ideas from Fogg 2009:
+Some new ideas from Fogg, 2009: triggers.
 
-Spark - "When a person lacks motivation to perform a target behavior, a trigger should be designed in tandem with a motivational element. I call this type of trigger a “spark.” Examples of sparks can range from text that highlights fear to videos that inspire hope."
+Spark trigger - "When a person lacks motivation to perform a target behavior, a trigger should be designed in tandem with a motivational element. I call this type of trigger a “spark.” Examples of sparks can range from text that highlights fear to videos that inspire hope."
 
-Facilitator - "For example software updates often use facilitators to gain compliance by implying that one click can get the job done."
+Facilitator - "For example software updates often use facilitators to gain compliance by implying that one click can get the job done." High motivation, but lacks ability.
 
-Signal - button "click here"
+Signal - button "click here". Ability and motivation are there.
 
-"Simplicity is a function of a person’s scarcest resource at the moment a behavior is triggered."
+How do we think about simplicity?
 
----
-
-## Case Study
-
-- 10 minutes with up to 5 for Q&A
-- .red[What is the problem/challenge/goal?]
- - In some cases, you may want to frame the larger challenge, but then hone in on a specific interaction or task.
- - You can choose a simple behavior to target.
-- .red[Which (receptive) user population will you target with this design?]
- - What **motivates** them, what do they value?
- - Are there particular pain points or fears to consider?
- - What is preventing the target behavior?
-- .red[Choose a channel for reaching your audience]
-- .red[What is your nudge? How do you want to affect their behavior?]
-- .red[How will you do this?]
- - Find correlates that are successful elsewhere
-- .red[Why do you think it will work? This is your chance to refer back to things you've learned.]
-- .red[How would you test this?]
-- .red[Finally, please tell us the most useful concept or idea you've learned from this class.]
+"Simplicity is a function of a person’s scarcest resource *at the moment a behavior is triggered*."
 
 Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. Persuasive '09, Claremont.
 
 ---
 
+## A Compelling Case Study
+
+1. Tell a story.
+2. Focus on the characters.
+3. Why should we believe that your solution would be effective?
+
+Note:
+
+- The power of narrative can't be understated.
+- Direct attention toward your target customers/clients/users
+    - What is THEIR problem?
+    - What do they value? 
+    - What motivates them?
+    - What drivers and rewards?
+    - Quotes are great.
+- Use science to help explain the problem and to back-up your solution.
+    - What levers can you use?
+    - How would you measure the effectiveness of your solution?
+
+---
+
+## Case Study Rubric
+
+- 10 minutes with up to 5 for Q&A
+- Rubric:
+    - The challenge problem (5 points)
+    - The target user population (5 points)
+    - Your design solution for nudging behavior and your desired outcome (5 points)
+    - Design decisions that link to scientific concepts explored in this class (5 points)
+    - How you might evaluate the effectiveness of your design (5 points)
+    - The most useful concept(s) or interesting idea(s) you drew from the class (5 points)
+
+Note:
+
+---
+
 ## Next Week
 
+- Amy, JaNisha
 - Social Networks
-
 
 ---
 
@@ -453,7 +489,7 @@ Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step desig
 
 - Oinas-Kukkonen, H., & Harjumaa, M. (2008, June). A systematic framework for designing and evaluating persuasive systems. In International Conference on Persuasive Technology (pp. 164-176). Springer Berlin Heidelberg.
 
-- Sunstein, C. R. (2015). Fifty shades of manipulation. Journal of Behavioral Marketing, Forthcoming.
+- Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213. 
 
 - Vance, P. (1981). Hidden Persuaders.
 
