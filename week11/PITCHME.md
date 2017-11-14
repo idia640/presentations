@@ -13,11 +13,12 @@
 
 ## Beyond Culture
 
-<img src="images/hall.jpg" align="center" vertical="100%" horizontal="100%">
+<img src="images/hall.jpg" align="center" width="100%" height="100%">
 
-*Edward T. Halls theory was intended to provide the means for evaluating communications within a culture.*
 
 Note:
+
+*Edward T. Halls theory was intended to provide the means for evaluating communications within a culture.*
 
 Hall speaks of group with similar experiences and expectations from which inferences are drawn. This is reminiscent of work done by sociologists like Goffman where changes in footing reflect in-group and out-group stance.
 
@@ -25,7 +26,7 @@ Hall speaks of group with similar experiences and expectations from which infere
 
 ## Screening function of culture
 
-<img src="images/lenses.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/lenses.png" align="center" width="80%" height="80%">
 
 
 *Ethnographic study of users is important because it stresses the importance both internal and external contexting.*
@@ -35,19 +36,20 @@ Note:
 "One of the functions of culture is to provide a highly selective screen between man and the outside world. In its many forms, culture therefore designates what we pay attention to and what we ignore. This screening function provides structure for the world and protects the nervous system from "information overload." Hall
 
 According to Hall, communications consists of:
+
 Message
 Internal contexting - schemas, scripts
 External contexting - situation or setting
 
 It is nearly impossible to separate the individual from the environment in which he functions.
 
-"We labor under a number of delusions, one of which is that life makes sense; i.e., that we are sane. We persist in this view despite massive evidence to the contrary We live fragmented, compartmentalized lives in which contradictions are carefully sealed off from each other. We have been taught to think linearly rather than comprehensively, and we do this, not through conscious design or because we are not intelligent or capable, but because of the way in which deep cultural undercurrents structure life in subtle but highly consistent ways that are not consciously formulated" McLuhan 1960, 1962
+"We labor under a number of delusions, one of which is that life makes sense; i.e., that we are sane. We persist in this view despite massive evidence to the contrary. We live fragmented, compartmentalized lives in which contradictions are carefully sealed off from each other. We have been taught to think linearly rather than comprehensively, and we do this, not through conscious design or because we are not intelligent or capable, but because of the way in which deep cultural undercurrents structure life in subtle but highly consistent ways that are not consciously formulated." McLuhan 1960, 1962
 
 ---
 
 ## Overt vs covert communication
 
-<img src="images/say-mean.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/say-mean.png" align="center" width="80%" height="80%">
 
 Note:
 
@@ -66,6 +68,8 @@ Culture is:
 ---
 
 ## Culture is a medium
+
+<img src="images/petri-dish.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -99,7 +103,7 @@ Note:
 
 ## High and low-context cultures
 
-<img src="images/high-and-low-context.gif" align="center" vertical="100%" horizontal="100%">
+<img src="images/high-and-low-context.gif" align="center" width="100%" height="100%">
 
 
 http://www2.pacific.edu/sis/culture/pub/Context_Cultures_High_and_Lo.htm
@@ -138,7 +142,7 @@ Need to adapt and change - LC
 
 ## Meaning
 
-<img src="images/meaning.gif" align="center" vertical="100%" horizontal="100%">
+<img src="images/meaning.gif" align="center" width="100%" height="100%">
 
 Note:
 
@@ -170,16 +174,12 @@ All describe the same situation, but signal social or political opinions of the 
 
 ## Neurological variation?
 
-<img src="images/BLACKBASS.jpg" align="center" vertical="80%" horizontal="80%">
+<img src="images/BLACKBASS.jpg" align="center" width="80%" height="80%">
 
 Image: https://sites.ualberta.ca/~tmasuda/stimuli.htm
 ]
 
 Note:
-
-- Screens between oneself and reality
-- Awareness of structure is necessary if one is to control behavior with any semblance of rationality. Such awareness if associated with LC end of scale.
-- Price to be paid for awareness - instability, obsolescence and change at a rate impossible to handle.
 
 Analytic versus Holistic
 
@@ -217,9 +217,10 @@ Some reported considerations:
 - Harmony between background and foreground
 - Harmony among content areas
 
+Note:
+
 Eye fixations: http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/267/163
 
-Note:
 
 Individualism versus collectivism
 Explicit versus implicit communication
@@ -229,13 +230,14 @@ More or less verbal information
 
 ## MacDonalds
 
-<img src="images/macdonalds-de.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/macdonalds-de.png" align="center" width="80%" height="80%">
 
-<img src="images/macdonalds-cn.png" align="center" vertical="80%" horizontal="80%">
+<p></p>
 
-http://www.yetanotherstudio.com/2011/03/21/mcdonalds-around-the-world-website/
+<img src="images/macdonalds-cn.png" align="center" width="80%" height="80%">
 
 Note:
+http://www.yetanotherstudio.com/2011/03/21/mcdonalds-around-the-world-website/
 
 https://en.wikipedia.org/wiki/List_of_countries_with_McDonald%27s_restaurantsÓ
 
@@ -245,23 +247,21 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 ## Pizza Hut
 
-<img src="images/pizza-hut-us.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/pizza-hut-us.png" align="center" width="80%" height="80%">
 
-<img src="images/pizza-hut-china.png" align="center" vertical="80%" horizontal="80%">
+<p></p>
+
+<img src="images/pizza-hut-china.png" align="center" width="80%" height="80%">
 
 ---
 
 ## Coca Cola
 
-<img src="images/german-coke.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/german-coke.png" align="center" width="80%" height="80%">
 
-<img src="images/chinese-coke.png" align="center" vertical="80%" horizontal="80%">
+<p></p>
 
----
-
-## Next Week
-
-- Social Networks
+<img src="images/chinese-coke.png" align="center" width="80%" height="80%">
 
 ---
 
