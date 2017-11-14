@@ -49,7 +49,7 @@ It is nearly impossible to separate the individual from the environment in which
 
 ## Overt vs covert communication
 
-<img src="images/say-mean.png" align="center" width="60%" height="60%">
+<img src="images/say-mean.png" align="center" width="50%" height="50%">
 
 Note:
 
@@ -103,7 +103,7 @@ Note:
 
 ## High and low-context cultures
 
-<img src="images/high-and-low-context.gif" align="center" width="80%" height="80%">
+<img src="images/high-and-low-context.gif" align="center" width="60%" height="60%">
 
 
 http://www2.pacific.edu/sis/culture/pub/Context_Cultures_High_and_Lo.htm
@@ -142,7 +142,7 @@ Need to adapt and change - LC
 
 ## Meaning
 
-<img src="images/meaning.gif" align="center" width="80%" height="80%">
+<img src="images/meaning.gif" align="center" width="60%" height="60%">
 
 Note:
 
@@ -199,14 +199,12 @@ Masuda and Nisbett (2001) examine whether East Asians attend to context more tha
 
 ## Application to design
 
-**Low Context**
 - Text important
 - Clear, direct communication
 - Visual order and structure
 - Strong foregrounding
 - Supports sequential reading pattern
-
-**High Context**
+<hr>
 - Heavy use of graphics
 - Less text
 - More animation
@@ -231,6 +229,8 @@ Some reported considerations:
 
 <img src="images/macdonalds-de.png" align="center" width="50%" height="50%">
 
+<hr>
+
 <img src="images/macdonalds-cn.png" align="enter" width="50%" height="50%">
 
 Note:
@@ -247,7 +247,7 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 <img src="images/pizza-hut-us.png" align="center" width="50%" height="50%">
 
-<p></p>
+<hr>
 
 <img src="images/pizza-hut-china.png" align="center" width="50%" height="50%">
 
@@ -257,7 +257,7 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 <img src="images/german-coke.png" align="center" width="50%" height="50%">
 
-<p></p>
+<hr>
 
 <img src="images/chinese-coke.png" align="center" width="50%" height="50%">
 
