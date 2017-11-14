@@ -49,7 +49,7 @@ It is nearly impossible to separate the individual from the environment in which
 
 ## Overt vs covert communication
 
-<img src="images/say-mean.png" align="center" width="80%" height="80%">
+<img src="images/say-mean.png" align="center" width="60%" height="60%">
 
 Note:
 
@@ -103,7 +103,7 @@ Note:
 
 ## High and low-context cultures
 
-<img src="images/high-and-low-context.gif" align="center" width="100%" height="100%">
+<img src="images/high-and-low-context.gif" align="center" width="80%" height="80%">
 
 
 http://www2.pacific.edu/sis/culture/pub/Context_Cultures_High_and_Lo.htm
@@ -142,7 +142,7 @@ Need to adapt and change - LC
 
 ## Meaning
 
-<img src="images/meaning.gif" align="center" width="100%" height="100%">
+<img src="images/meaning.gif" align="center" width="80%" height="80%">
 
 Note:
 
@@ -199,10 +199,6 @@ Masuda and Nisbett (2001) examine whether East Asians attend to context more tha
 
 ## Application to design
 
-Localization is not limited to translating elements on a webpage. It's understanding cultural differences.
-
-Some reported considerations:
-
 **Low Context**
 - Text important
 - Clear, direct communication
@@ -221,22 +217,24 @@ Note:
 
 Eye fixations: http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/267/163
 
+Localization is not limited to translating elements on a webpage. It's understanding cultural differences.
 
-Individualism versus collectivism
-Explicit versus implicit communication
-More or less verbal information
+Some reported considerations:
+
+- Individualism versus collectivism
+- Explicit versus implicit communication
+- More or less verbal information
 
 ---
 
 ## MacDonalds
 
-<img src="images/macdonalds-de.png" align="center" width="80%" height="80%">
+<img src="images/macdonalds-de.png" align="center" width="50%" height="50%">
 
-<p></p>
-
-<img src="images/macdonalds-cn.png" align="center" width="80%" height="80%">
+<img src="images/macdonalds-cn.png" align="enter" width="50%" height="50%">
 
 Note:
+
 http://www.yetanotherstudio.com/2011/03/21/mcdonalds-around-the-world-website/
 
 https://en.wikipedia.org/wiki/List_of_countries_with_McDonald%27s_restaurantsÓ
@@ -247,21 +245,21 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 ## Pizza Hut
 
-<img src="images/pizza-hut-us.png" align="center" width="80%" height="80%">
+<img src="images/pizza-hut-us.png" align="center" width="50%" height="50%">
 
 <p></p>
 
-<img src="images/pizza-hut-china.png" align="center" width="80%" height="80%">
+<img src="images/pizza-hut-china.png" align="center" width="50%" height="50%">
 
 ---
 
 ## Coca Cola
 
-<img src="images/german-coke.png" align="center" width="80%" height="80%">
+<img src="images/german-coke.png" align="center" width="50%" height="50%">
 
 <p></p>
 
-<img src="images/chinese-coke.png" align="center" width="80%" height="80%">
+<img src="images/chinese-coke.png" align="center" width="50%" height="50%">
 
 ---
 
