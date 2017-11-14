@@ -227,7 +227,8 @@ Some reported considerations:
 
 ## MacDonalds
 
-<img src="images/macdonalds-de.png" align="center" width="50%" height="40%"><img src="images/macdonalds-cn.png" align="center" width="50%" height="40%">
+<img src="images/macdonalds-de.png" align="center" width="40%" height="40%">
+<img src="images/macdonalds-cn.png" align="center" width="40%" height="40%">
 
 Note:
 
@@ -241,13 +242,15 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 ## Pizza Hut
 
-<img src="images/pizza-hut-us.png" align="center" width="40%" height="40%"><img src="images/pizza-hut-china.png" align="center" width="40%" height="40%">
+<img src="images/pizza-hut-us.png" align="center" width="40%" height="40%">
+<img src="images/pizza-hut-china.png" align="center" width="40%" height="40%">
 
 ---
 
 ## Coca Cola
 
-<img src="images/german-coke.png" align="center" width="40%" height="40%"><img src="images/chinese-coke.png" align="center" width="40%" height="40%">
+<img src="images/german-coke.png" align="center" width="40%" height="40%">
+<img src="images/chinese-coke.png" align="center" width="40%" height="40%">
 
 ---
 
