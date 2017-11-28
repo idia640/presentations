@@ -221,7 +221,7 @@ https://www.futurelearn.com/courses/big-data/3
 ## Amplifying attitudes with "filter bubbles"
 
 
-<img src="images/filter-bubble.png" align="center" width="80%" height="60%">
+<img src="images/filter-bubble.png" align="center" width="60%" height="60%">
 
 ---
 ## Social media news use
