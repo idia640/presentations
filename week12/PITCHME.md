@@ -25,7 +25,7 @@ All along, we’ve tied these ideas to persuasion both in how we craft language 
 
 # Review (2)
 
-<img src="images/persuasion-graphic.png" align="center" height="100%" width="100%">
+<img src="images/persuasion-graphic.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -63,9 +63,6 @@ Note: We'll have a discussion about this in a few minutes.
 - Understand the potential for social networks to shape thought, emotion, and behavior
 - Learn about challenges associated with determining influence in a social network
 - Understand the purpose and utility of methods and tools used to measure human behavior within a social economy
-	- Audience segmentation
-	- Psychographics
-	- Klout
 
 Note:
 
@@ -90,10 +87,6 @@ While measuring influence in social networks is challenging, it is an emergent b
 3. Our friends affect us
 4. Our friends' friends' friends affect us
 5. The network has a life of its own
-
-<img src="images/connected.jpg" align="center" height="30%" width="30%">
-
-http://connectedthebook.com/
 
 Note:
 
@@ -120,7 +113,7 @@ Rule 5: Networks have properties and functions (and shapes) in and of themselves
 
 # Three degrees of influence
 
-<img src="images/paper-dolls.png" align="center" height="100%" width="100%">
+<img src="images/paper-dolls.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -151,8 +144,6 @@ Note:
 
 [Connected links](http://connectedthebook.com/pages/links.html)
 
-http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
-
 Note:
 
 Based on Framingham Heart Survey Social network @ 2200 people. Spread of obesity, relations w/in network and changes over 32 years.
@@ -161,11 +152,13 @@ Other relevant evidence for emotional contagion:
 
 "For one week in January 2012, data scientists skewed what almost 700,000 Facebook users saw when they logged into its service. Some people were shown content with a preponderance of happy and positive words; some were shown content analyzed as sadder than average. And when the week was over, these manipulated users were more likely to post either especially positive or negative words themselves."
 
+http://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/
+
 ---
 
 ## Teens: Homophily and conformity effect
 
-<img src="images/conformity.jpg" align="center" height="100%" width="100%">
+<img src="images/conformity.jpg" align="center" height="80%" width="80%">
 
 http://www.psychologicalscience.org/news/releases/social-media-likes-impact-teens-brains-and-behavior.html
 
@@ -198,7 +191,7 @@ When we're studying social networks, we look for observable, quantifiable signal
  - etc.
 
 ---
-# Where can we observe influence in a network?
+## Where can we observe influence in a network?
 
 - Message content
 - Actions and behavior of strong ties
@@ -228,7 +221,7 @@ https://www.futurelearn.com/courses/big-data/3
 ## Amplifying attitudes with "filter bubbles"
 
 
-<img src="images/filter-bubble.png" align="center" vertical="80%" horizontal="80%">
+<img src="images/filter-bubble.png" align="center" vertical="60%" horizontal="60%">
 
 ---
 ## Social media news use
@@ -283,7 +276,7 @@ Who are influential - who is influenceable? Personal connectedness in "real life
 
 61M person person experiment on FB (2010)
 
-<img src="images/Facebook_voting.jpg" align="center" height="100%" width="100%">
+<img src="images/Facebook_voting.jpg" align="center" height="80%" width="80%">
 
 http://phenomena.nationalgeographic.com/2012/09/12/a-61-million-person-experiment-on-facebook-shows-how-ads-and-friends-affect-our-voting-behaviour/
 
@@ -307,7 +300,7 @@ Messages mobilized people to express their desire to vote -- and social ones spu
 
 ## Media Influence Campaigns
 
-<img src="images/influencer-discovery-tools.png" align="center" height="100%" width="100%">
+<img src="images/influencer-discovery-tools.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -337,7 +330,7 @@ Note:
 
 ## Cautionary tale
 
-<img src="images/green-kia.jpg" align="center" height="100%" width="100%">
+<img src="images/green-kia.jpg" align="center" height="80%" width="80%">
 
 http://cmtoday.cmu.edu/technology_business/online-advertising-marketing-research/
 
@@ -360,7 +353,7 @@ Some problems with this:
 
 ---
 
-## Algorithms monitor your behavior... and are getting better at affecting it
+## Algorithms monitor your behavior
 
 *Companies collect and broker information about your behavior*
 - Clickstreams & cookies
@@ -390,9 +383,10 @@ Note: The idea is to divide people into "homogeneous" sub-groups based on some s
 ---
 ## Psychographics
 
-- Activities
-- Interests
-- Opinions
+<img src="images/psychographics.png" align="center" height="50%" width="50%">
+
+
+[Image Credit](http://www.wordstream.com/blog/ws/2017/08/16/psychographics-in-marketing)
 
 Note:
 
@@ -403,7 +397,7 @@ Broadly, it spans more than the above to include personality, attitude, feelings
 ---
 ## Klout - Who are the influencers (we can influence)?
 
-<img src="images/klout-big.jpg" align="center" height="100%" width="100%">
+<img src="images/klout-big.jpg" align="center" height="50%" width="50%">
 
 Note:
 
@@ -449,4 +443,4 @@ http://phenomena.nationalgeographic.com/2012/09/12/a-61-million-person-experimen
 
 ## Next Week - Final Presentations
 
-<img src="images/balloons.jpg" align="center" height="100%" width="100%">
+<img src="images/balloons.jpg" align="center" height="50%" width="50%">
