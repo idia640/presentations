@@ -221,13 +221,13 @@ https://www.futurelearn.com/courses/big-data/3
 ## Amplifying attitudes with "filter bubbles"
 
 
-<img src="images/filter-bubble.png" align="center" width="60%" height="60%">
+<img src="images/filter-bubble.png" align="center" width="50%" height="50%">
 
 ---
 ## Social media news use
 
 
-<img src="images/news-from-facebook.png" align="center" width="100%" height="100%">
+<img src="images/news-from-facebook.png" align="center" width="50%" height="50%">
 
 http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/
 
@@ -250,7 +250,7 @@ https://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-c
 
 ## A puzzle
 
-<img src="images/milano.png" align="center" width="100%" height="100%">
+<img src="images/milano.png" align="center" width="80%" height="80%">
 
 [Do tweets change your behavior?](http://www.cnn.com/2010/OPINION/11/16/fowler.christakis.tweeting/)
 
@@ -276,7 +276,7 @@ Who are influential - who is influenceable? Personal connectedness in "real life
 
 61M person person experiment on FB (2010)
 
-<img src="images/Facebook_voting.jpg" align="center" height="80%" width="80%">
+<img src="images/Facebook_voting.jpg" align="center" height="60%" width="60%">
 
 http://phenomena.nationalgeographic.com/2012/09/12/a-61-million-person-experiment-on-facebook-shows-how-ads-and-friends-affect-our-voting-behaviour/
 
