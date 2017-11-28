@@ -25,7 +25,7 @@ All along, we’ve tied these ideas to persuasion both in how we craft language 
 
 # Review (2)
 
-<img src="images/persuasion-graphic.png" align="center" height="80%" width="80%">
+<img src="images/persuasion-graphic.png" align="center" height="60%" width="60%">
 
 Note:
 
@@ -221,13 +221,13 @@ https://www.futurelearn.com/courses/big-data/3
 ## Amplifying attitudes with "filter bubbles"
 
 
-<img src="images/filter-bubble.png" align="center" vertical="60%" horizontal="60%">
+<img src="images/filter-bubble.png" align="center" width="80%" height="60%">
 
 ---
 ## Social media news use
 
 
-<img src="images/news-from-facebook.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/news-from-facebook.png" align="center" width="100%" height="100%">
 
 http://www.journalism.org/2016/05/26/news-use-across-social-media-platforms-2016/
 
@@ -250,7 +250,7 @@ https://www.nytimes.com/2016/11/25/world/europe/fake-news-donald-trump-hillary-c
 
 ## A puzzle
 
-<img src="images/milano.png" align="center" vertical="100%" horizontal="100%">
+<img src="images/milano.png" align="center" width="100%" height="100%">
 
 [Do tweets change your behavior?](http://www.cnn.com/2010/OPINION/11/16/fowler.christakis.tweeting/)
 
@@ -353,9 +353,8 @@ Some problems with this:
 
 ---
 
-## Algorithms monitor your behavior
+## Algorithms monitor behavior
 
-*Companies collect and broker information about your behavior*
 - Clickstreams & cookies
 - Search engine queries
 - Online purchases
@@ -386,7 +385,7 @@ Note: The idea is to divide people into "homogeneous" sub-groups based on some s
 <img src="images/psychographics.png" align="center" height="50%" width="50%">
 
 
-[Image Credit](http://www.wordstream.com/blog/ws/2017/08/16/psychographics-in-marketing)
+[Image credit](http://www.wordstream.com/blog/ws/2017/08/16/psychographics-in-marketing)
 
 Note:
 
