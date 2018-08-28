@@ -1,21 +1,20 @@
 # Introduction
-## August 28, 2017
+## August 28, 2018
 
 ---
 ## Outline for today
 
- 1. **Introductions**
+ 1. Introductions
 
- 2. Overview
+ 2. What is this course about?
 
- 3. Introduction to HCI
+ 3. What is HCI?
 
- 4. This course
+ 4. Persuasive design
 
  5. Slack, GitHub
 
- 6. Next Week
-
+ 6. Next week
 
 ---
 # Introductions
@@ -32,24 +31,22 @@ Note:
 
 Please don't be shy about giving me feedback!
 
+---
+## What is this course about?
+
+<img align="center" width="50%" height="50%" src="images/model.jpg">
+
+
+Note:
+
+We're going to focus on how you can drive user behavior to create a positive and persuasive interaction. This means getting under the hood of the human brain: how people perceive the world, think and make decisions, and communicate using language and graphics. Because we're social animals, we are also influenced by social and cultural environments. So this will be another lever that you can use to advantage for driving behavior.
+
+Bias is a big part of this. Bias is the tendency to more heavily weight one option over another.
+
+In an ideal user interaction, you shape and drive user experience. You anticipate what users will do because you know how they should respond based on your design.
 
 ---
-## Outline for today
-
-1. Introductions
-
-2. **Overview**
-
-3. Introduction to HCI
-
-4. This Course
-
-5. Slack, GitHub
-
-6. Next Week
-
----
-## What is (Cooperative) Interaction?
+## User Interaction is Cooperative
 
 
 <img align="center" width="90%" height="90%" src="images/discourse-continuum.png">
@@ -61,14 +58,15 @@ Note:
 - We share knowledge in order to be understood
 - We coordinate our interaction
 - We do so cooperatively
+- User interaction is a joint activity where the designer and the user communicate via a user interface
 
 ---
-## Attributes of Dialogue
+## User Interaction is a Dialogue
 
 <ul>
   <li><span style="color:#36e442">Clerk: </span>Can I help you?</li>
   <li><span style="color:#d73784">Customer: </span>How much is this?</li>
-  <li><span style="color:#36e442">Clerk: </span>That's 3.99</li>
+  <li><span style="color:#36e442">Clerk: </span>That's 3.79</li>
   <li><span style="color:#d73784">Customer: </span>I'll take it</li>
 </ul>
 
@@ -84,11 +82,12 @@ Note:
 
 And... it's a script. You know it. Even if they were speaking a different language entirely, you would recognize it and have expectations about what to expect.
 
----
-## Dialogue?
 
-<img align="center" width="75%" height="75%" src="images/pens.jpg">
+---?image=images/pens.jpg
 
+Note:
+
+How similar or different is this interaction to the previous dialogue?
 
 ---
 ## Speaker Contribution
@@ -118,21 +117,6 @@ Note:
 
 ---
 
-### Outline for today
-
- 1. Introductions
-
- 2. Overview
-
- 3. **Introduction to HCI**
-
- 4. This course
-
- 5. Slack, GitHub
-
- 6. Next week
-
----
 ## Human Computer Interaction
 
 - **The study of interaction between people and technology**
@@ -182,22 +166,6 @@ We will look at each, but focus on hypothesis testing.
 - And we need to understand scientific methods in order to read much of the foundational literature of HCI and applied (interaction) design.
 
 ---
-## Outline for today
-
- 1. Introductions
-
- 2. Overview
-
- 3. Introduction to HCI
-
- 4. **This course**
-
- 5. Slack, GitHub
-
- 6. Next Week
-
-
----
 ## Learning Environment
 
 <ul>
@@ -229,13 +197,13 @@ Note:
   - Does this paper get its message across clearly?
   - Does it change your thoughts or has it introduced new ideas to you?
 
-- My informal objectives:
+- Informal objectives:
   - Give you the tools to argue for design decisions based on cognitive needs
   - Give you confidence that your decisions are sound
   - Perform well in interviews when asked about formal training
   - Get you started with professional collaboration tools like GitHub
 
-- I hope that by the end of this class you feel comfortable with the following:
+- Hopefully, by the end of this class you feel comfortable with the following:
   - Reading scientific papers
   - Presenting a user-centered design concept
   - Attending / Participating in an HCI conference
@@ -248,10 +216,15 @@ Note:
     - Heuristics and Biases - people use mental shortcuts in decision-making, often focusing on one aspect of a problem over others.
   - Johnson - decomposes well-known design guidelines to psychological bases. Covers most of the topics in the class, though we will build on knowledge in this class, not starting from design principles, but from the other direction - from how the brain works.
 
+---?image=images/6-persuasion-principles.jpg
+
+Note:
+
 - Persuasion
   - I'll give you a brief preview of persuasion and why we end with a capstone case study.
   - Persuasion concerns influencing user behavior; it builds on all of the knowledge you gain in this course from perceptual patterns (or frames) to
   decision-making in context.
+  - And if you are interested in psychographics, you will find that these two ideas overlap heavily in terms of what you want to know about your users
 
 ---
 ##  What's the Difference?
@@ -266,30 +239,20 @@ Force / no force
 Witting / not witting
 
 ---
-# Persuasion
+## Persuasive, Manipulative?
 
-Persuasive? Manipulative? Why?
-
-- <a target="_blank" href="https://www.youtube.com/watch?v=nlT8VcWz3LY">Febreze</a>
-- <a target="_blank" href="https://www.youtube.com/watch?v=IBbzNp25OHo">Jiffy</a>
-- <a target="_blank" href="http://nudges.org/2010/06/09/nudging-in-new-york-lunchroom-cafeterias/">Nudging in NY lunchroom cafeterias</a>
-- <a target="_blank" href="http://nudges.org/2011/09/21/a-devious-little-marketing-nudge/">Marketing nudge</a>
+- Febreze https://charlesduhigg.com/new-york-times-magazine/, https://medium.com/@shahmm/how-design-thinking-transformed-febreze-into-a-1-billion-brand-dc7c86972bd5
+- <a target="_blank" href="https://www.youtube.com/watch?v=IBbzNp25OHo">Jiffy</a> - "Choosy mothers..."
+- Nudges <a target="_blank" href="http://nudges.org/2010/06/09/nudging-in-new-york-lunchroom-cafeterias/">Nudging in NY lunchroom cafeterias</a>, <a target="_blank" href="http://nudges.org/2011/09/21/a-devious-little-marketing-nudge/">Marketing nudge</a>
+- Hearandplay.com - https://projectignite.com/what-is-marketing-automation/
 
 Note:
 
-- "Influence"
-- Belief, Attitude, Intention, Behavior
-- Often studied in the context of politics and advertising
+- Febreze story. Charles Duhigg relays the story of how P&G turned a product failure to a product success by focusing on behavior. P&G scientists realized that Febreze could fit into a routine (later we'll see how routines become "scripts")
 
 - Jif
   - Choosy moms choose jif.
   - Implication: If you don't choose Jif, you are not a good mother.
-- Febreze (odor remover)
-  - Implication: Febreze works instead of washing
-
-  P&G story.
-<a target="_blank" href="http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=0">http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=0</a>
-  Febreze ads were doing poorly by telling people that Febreze would eliminate troublesome odors (e.g., pet smells, smoke on clothes). Wasn't working. P&G scientists studied this problem. Tied it to the routine of housecleaning -- specifically, a routine to finish tidying by spraying Febreze. Added a distinct smell.
 
 Thaler's blog highlights mechanism for "choice architecture" as:
 - The tools highlighted are:
@@ -300,57 +263,37 @@ Thaler's blog highlights mechanism for "choice architecture" as:
   - structuring complex choices
   - creating incentives
 
----
-## Outline for today
+You are a choice architect!
 
-1. Introductions
+Hearandplay
 
-2. Overview
-
-3. Introduction to HCI
-
-4. This Course
-
-5. **Slack, GitHub**
-
-6. Next Week
+Jermaine Griggs is an entrepreneur that had the first "play by ear" site online. It still has that 90's clunky look but is no less effective than it was when it first came online, despite lots of competition. In the late 2000's Griggs discovered "marketing automation tools" and Cialdini. He calls the interactions that he designs as "personlization". What he's really doing is understanding his user base and holding dialogues via email and web sessions. He collects data to know who they are and where they are in the dialogue.
 
 ---
 
 ## Let's get started...
 
----
-## Outline for today
 
-1. Introductions
-
-2. Overview
-
-3. Introduction to HCI
-
-4. This Course
-
-5. Slack, GitHub
-
-6. **Next Week**
 
 ---
 # Next Week
 
 - Finish the practice journal entry
-- Read through the [research methods handout](https://www.dropbox.com/s/xtroffnqq4gl3u3/Research-Methods.pdf?dl=0)
+- Take a look at the readings provided for next week. You'll need to understanding the concepts for your case study
 - Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G). You will need to settle on an idea mid-way through the course.
 
 Note:
 
-What you need to understand are the charts 1.1, 2.1, and 3.1 as well as what the terms mean.
+Don't sweat the readings since we'll review material next week in class. You will need to understand the concepts in order to review a scientific paper. Focus on your practice journal entry and using GitHub and think about a case study idea (from your imagination or a website from work or private life).
 
-We'll review next week, since you will need to understand the concepts in order to review a scientific paper.
+This course starts out like a lion and ends like a lamb. I hope to get the less fun stuff out of the way in the first couple of weeks and then you can enjoy thinking about a case study idea that refers to concepts from this course.
 
 ---
 ## References
 
 - Clark, H. (1996). In Using language (pg. 50). Cambridge University Press.
+
+- Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 
 - Preece, J., Rogers, Y. & Sharp, H. (2002).	Interaction Design: Beyond Human-computer Interaction. J. Wiley & Sons.
 

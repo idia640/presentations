@@ -1,5 +1,20 @@
 # gitpitch settings
- revealjs: 3.4.1
+# revealjs: 3.4.1
 slide-number: true
-theme-override: pitchme.css
 remote-control: true
+
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : simple
+theme-override : assets/css/PITCHME.css
+# theme-override: pitchme.css
+# theme-override : assets/css/PITCHME.codemax.css
+highlight : atom-one-light
+logo : assets/image/logo.png
+transition : none
+published : true
+footnote : "GitPitch [ White ] Presentation Template"
