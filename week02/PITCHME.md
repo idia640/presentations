@@ -1,5 +1,6 @@
 # HCI Methodologies
-## Sept 5, 2017
+### Experimentation
+## Sept 4, 2018
 
 ---
 
@@ -11,13 +12,15 @@
 
 Note:
 
-You may be wondering why I assigned the reading from last week. Perhaps, it was challenging for you. I'm assuming you know nothing about science nor how to read a scientific paper. You need to learn how to critical read a scientific paper because you will be the person on the UX team that has to deal with the question: "why are doing it like that?".
+For the next two weeks we're going to talk about research methodologies. This week you need to learn something about 'experimentation' so that you can read your scientific paper.
+
+Next week we will talk about ethnographic research and surveys. Ethnographic research is a methodology that will be useful for you to employ as we talk more about research you can do for your case study.
+
+For your critical review, I'm assuming you know nothing about science nor how to read a scientific paper. You need to learn how to critical read a scientific paper because you will be the person on the UX team that has to deal with the question: "why are doing it like that?"
 
 Have you ever been frustrated from a client or developer who brushes off your idea because, "everyone has opinions" and they consider your advice simply an opinion? The point of this course is to give you tools to both create a persuasive design, but also defend it using cognitive principles, and where necessary, science. You may also need to refute "bad science", so we will focus much attention on this.
 
 We will look at each of the methodologies above, but focus on hypothesis testing this week.
-
-Next week we'll look at Survey methodology and ethnographic research.
 
 ---
 ## Today's outline
