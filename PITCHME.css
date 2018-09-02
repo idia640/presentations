@@ -102,3 +102,8 @@ td {
 small {
   font-size: .7em;
 }
+
+ul.references li {
+   margin:0 0 8px 0;
+   font-size: 0.7em;
+}
