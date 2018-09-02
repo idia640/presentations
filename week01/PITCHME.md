@@ -407,12 +407,13 @@ This course starts out like a lion and ends like a lamb. I hope to get the less 
 ---
 ## References
 
-- Clark, H. (1996). In Using language (pg. 50). Cambridge University Press.
+@ul[references]
 
+- (Clark, H. (1996). In Using language (pg. 50). Cambridge University Press.)
 - Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
-
 - Preece, J., Rogers, Y. & Sharp, H. (2002).	Interaction Design: Beyond Human-computer Interaction. J. Wiley & Sons.
-
+- Sunstein, C. (2015) Nudging and Choice Architecture: Ethical Considerations.
 - Thaler, R. & Sunstein, C. (2008) Choice Architecture.
 
+@ulend
 ---

@@ -4,6 +4,10 @@
   font-size: 0.9em;
 }
 
+ul.references li {
+   margin:0 0 8px 0;
+   font-size: 0.5em;
+}
 /* Remove box around slides */
 /*.reveal section img {
   border: 0;

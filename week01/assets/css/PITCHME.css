@@ -97,3 +97,14 @@ html:-moz-full-screen-ancestor {
 .gp-contact { font-size : 1.4em; }
 
 .gp-download { margin-left: 10px; }
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  font-size: 0.9em;
+}
+
+ul.references li {
+   margin:0 0 8px 0;
+   font-size: 0.7em;
+}
