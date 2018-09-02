@@ -239,12 +239,41 @@ Force / no force
 Witting / not witting
 
 ---
+## Coercion
+
+<img width="80%" height="80%" src="images/tv-ads.jpg">
+
+Note:
+
+It used to be TV commercials were watched coercively. There was no choice but to watch in order to continue watching your TV show. Even now, if you don't opt out and pay Google, YouTube forces you to watch ads.
+
+---
+## Manipulation
+
+<img width="80%" height="80%" src="images/milk-case.jpg">
+
+Note:
+
+Milk at the back of the grocery store. Because milk turnover is the among the highest of items in the store, you are manipulated to walk through the store to get to the back to buy your milk.
+
+---
+## Persuasion
+
+<img width="80%" height="80%" src="images/google.png">
+
+
+Note:
+
+Your product explicitly provides an option that encourages a user to select a particular option.
+
+---
+
 ## Persuasive, Manipulative?
 
-- Febreze https://charlesduhigg.com/new-york-times-magazine/, https://medium.com/@shahmm/how-design-thinking-transformed-febreze-into-a-1-billion-brand-dc7c86972bd5
+- Story of Febreze https://charlesduhigg.com/new-york-times-magazine/, https://medium.com/@shahmm/how-design-thinking-transformed-febreze-into-a-1-billion-brand-dc7c86972bd5
 - <a target="_blank" href="https://www.youtube.com/watch?v=IBbzNp25OHo">Jiffy</a> - "Choosy mothers..."
-- Nudges <a target="_blank" href="http://nudges.org/2010/06/09/nudging-in-new-york-lunchroom-cafeterias/">Nudging in NY lunchroom cafeterias</a>, <a target="_blank" href="http://nudges.org/2011/09/21/a-devious-little-marketing-nudge/">Marketing nudge</a>
 - Hearandplay.com - https://projectignite.com/what-is-marketing-automation/
+- <a target="_blank" href="http://nudges.org/2010/06/09/nudging-in-new-york-lunchroom-cafeterias/">Nudging in NY lunchroom cafeterias</a>
 
 Note:
 
@@ -253,6 +282,10 @@ Note:
 - Jif
   - Choosy moms choose jif.
   - Implication: If you don't choose Jif, you are not a good mother.
+
+Hearandplay
+
+Jermaine Griggs is an entrepreneur that had the first "play by ear" site online. It still has that 90's clunky look but is no less effective than it was when it first came online, despite lots of competition. In the late 2000's Griggs discovered "marketing automation tools" and Cialdini. He calls the interactions that he designs as "personalization". What he's really doing is understanding the motivations, intentions, and needs of his user base and holding dialogues via email and web sessions. He collects data to know who they are and where they are in the dialogue.
 
 Thaler's blog highlights mechanism for "choice architecture" as:
 - The tools highlighted are:
@@ -265,26 +298,109 @@ Thaler's blog highlights mechanism for "choice architecture" as:
 
 You are a choice architect!
 
-Hearandplay
-
-Jermaine Griggs is an entrepreneur that had the first "play by ear" site online. It still has that 90's clunky look but is no less effective than it was when it first came online, despite lots of competition. In the late 2000's Griggs discovered "marketing automation tools" and Cialdini. He calls the interactions that he designs as "personlization". What he's really doing is understanding his user base and holding dialogues via email and web sessions. He collects data to know who they are and where they are in the dialogue.
-
 ---
+## Nudge
 
-## Let's get started...
+<img width="80%" height="80%" src="images/nudge.gif">
 
-
-
----
-# Next Week
-
-- Finish the practice journal entry
-- Take a look at the readings provided for next week. You'll need to understanding the concepts for your case study
-- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G). You will need to settle on an idea mid-way through the course.
 
 Note:
 
-Don't sweat the readings since we'll review material next week in class. You will need to understand the concepts in order to review a scientific paper. Focus on your practice journal entry and using GitHub and think about a case study idea (from your imagination or a website from work or private life).
+Let's look at a closely at nudges.
+
+“A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way…Nudges are not mandates. Putting fruit at eye level counts as a nudge. Banning junk food does not.” Thaler and Sunstein (2008)
+
+Nudges are interventions that steer people in particular directions but that also allow them to go their own way. Thaler and Sunstein (2008) It shouldn't affect your autonomy nor should it provide significant "material incentive."
+
+This concept seems simple on the surface, but there are still many potential ethical problems.
+Nudging and Choice Architecture: Ethical Considerations. Sunstein  (2015)
+
+https://dash.harvard.edu/bitstream/handle/1/17915544/Sunstein_809.pdf?sequence=1
+
+image credit: [Nudge theory](http://www.thehansindia.com/posts/index/Education-&-Careers/2017-10-10/Nudge-theory/332342)
+
+---
+
+### From Behavioral Economics to UX
+
+<img width="60%" height="60%" src="images/marketing-ux.jpg">
+
+Note:
+
+Both marketing professionals and UX designers are concerned with how cognitive, psychological, emotional, linguistic, social and cultural factors impact decision-making.
+
+In fact, when we talk about decision-making, there is much to be learned from work in a field called Behavioral Economics.
+
+Traditionally, economic models were based on the idea of rational decision-making where it assumed people made decisions by weighing options and choosing the most logical choice. But humans work nothing like this in practice. Daniel Kahneman won a 2002 Nobel prize in economics  for his work with Amos Tversky (deceased before 2002) in their joint work on human judgements and decision-making under uncertainty.
+
+More recently, in 2017,Richard Thaler was awarded the same prize for his contribution to behavioral economics; people are in fact  predictably irrational.
+
+In his work, Thaler uses the term "nudge". A nudge influences behavior without coercion or manipulation. It makes one option more attractive without forbidding other options.
+
+---
+## The Power of a Fly
+
+<img width="60%" height="60%" src="images/fly.jpg">
+
+
+Note:
+
+Thaler's favorite illustration of a nudge is the etching of "small, photorealistic images of flies on the urinals near the drain [at Amsterdam's Schiphol Airport]. The idea was to give people something to aim at." This resulted in 80% reduction of urinal spillage and 8% reduction in total bathroom cleaning costs.  [How Richard Thaler harnessed the power of the urinal fly to win a Nobel Prize - The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/10/09/whats-a-urinal-fly-and-what-does-it-have-to-with-winning-a-nobel-prize/?noredirect=on&utm_term=.907a4b799ff9)
+
+It's exactly this sort of behavior we will be focused on in class.  To fully understand how this works, we dip into basic ideas of how the human brain works from perception to cognition.
+
+This idea of nudging, or guiding people to predictable actions means we can better predict their actions and also better avoid error. The question of HOW we do this is the topic of this class.
+
+
+---
+## Let's get started...
+
+---
+## Github
+
+- Read through "Getting Started" in your journal
+- You will learn:
+  - How to find your repository
+  - How to edit a file in your repo
+  - How to commit
+  - Download/Fork
+
+---
+## Final Project: Case Study
+
+- Narrative about a group of people
+- Description of behavior (observed via ethnographic or other research)
+- Your empirically guided design strategy that motivates a solution
+
+Note:
+
+Your design can be as small as creating an option and moving your users towards it or more ambitious with multiple steps.
+
+You'll do this in poster format of 1-2 pages like you might present at a workshop or conference.
+
+The important emphasis is on the idea of a 'story'. You want to convince your audience (assume we are clients) that your solution will work. (Hence, also a focus on empiricism and cognitive principles.)
+
+---
+
+## Case Study Design Idea
+
+- Think about a broad problem in very general terms; imagine a situation where you would like to guide users towards a  positive behavior
+  - In a couple of weeks, we'll talk about targeting a narrow user population
+  - Later, you will think about specific behaviors and techniques to address them
+  - You will also think about how you would evaluate your solution
+
+---
+
+# Next Week
+
+- Finish the practice journal entry
+- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G). You will need to settle on an idea mid-way through the course.
+- Choose a scientific article to review
+- Skim the reading (next two weeks)
+
+Note:
+
+Don't sweat the methodology readings since we'll review material next week in class. You will need to understand the concepts in order to review a scientific paper but we will go everything you need next week. Focus on your practice journal entry and using GitHub and think about a case study idea (from your imagination or a website from work or private life).
 
 This course starts out like a lion and ends like a lamb. I hope to get the less fun stuff out of the way in the first couple of weeks and then you can enjoy thinking about a case study idea that refers to concepts from this course.
 
@@ -296,5 +412,7 @@ This course starts out like a lion and ends like a lamb. I hope to get the less 
 - Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 
 - Preece, J., Rogers, Y. & Sharp, H. (2002).	Interaction Design: Beyond Human-computer Interaction. J. Wiley & Sons.
+
+- Thaler, R. & Sunstein, C. (2008) Choice Architecture.
 
 ---

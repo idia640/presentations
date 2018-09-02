@@ -32,12 +32,15 @@ We will look at each of the methodologies above, but focus on hypothesis testing
 
 Note:
 
-This point of this segment is to make you understand the importance of questioning assumptions and to think like a scientist.
----
 
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSdFNswbvUQG2pgOFSfJ_gFTA6C7QHos9SDcQWlfeEPQjKCnqA/viewform?usp=sf_link
+
+---
 # Why do we need to know this stuff?
 
 Note:
+
+This point of this segment is to help you understand the importance of questioning assumptions and to think like a scientist.
 
 ---
 ## Scientists are people
