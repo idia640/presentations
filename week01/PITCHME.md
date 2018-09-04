@@ -347,9 +347,11 @@ Note:
 
 Thaler's favorite illustration of a nudge is the etching of "small, photorealistic images of flies on the urinals near the drain [at Amsterdam's Schiphol Airport]. The idea was to give people something to aim at." This resulted in 80% reduction of urinal spillage and 8% reduction in total bathroom cleaning costs.  [How Richard Thaler harnessed the power of the urinal fly to win a Nobel Prize - The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/10/09/whats-a-urinal-fly-and-what-does-it-have-to-with-winning-a-nobel-prize/?noredirect=on&utm_term=.907a4b799ff9)
 
-It's exactly this sort of behavior we will be focused on in class.  To fully understand how this works, we dip into basic ideas of how the human brain works from perception to cognition.
+It is this sort of behavior we will be focused on in class.  To fully understand how this works, we dip into basic ideas of how the human brain works from perception to cognition.
 
 This idea of nudging, or guiding people to predictable actions means we can better predict their actions and also better avoid error. The question of HOW we do this is the topic of this class.
+
+One caveat: you are not limited to nudges. To design a persuasive interaction, you will learn other tools that may be of use.
 
 
 ---
@@ -362,19 +364,22 @@ This idea of nudging, or guiding people to predictable actions means we can bett
 - You will learn:
   - How to find your repository
   - How to edit a file in your repo
+  - How to upload a file
   - How to commit
   - Download/Fork
 
 ---
 ## Final Project: Case Study
 
-- Narrative about a group of people
-- Description of behavior (observed via ethnographic or other research)
-- Your empirically guided design strategy that motivates a solution
+- Tell a compelling story
+- Define your target population (should be narrow)
+- How do they typically behave now?
+- Describe the behavior you wish to affect (observed via ethnographic or other research)
+- Present your empirically guided design strategy
 
 Note:
 
-Your design can be as small as creating an option and moving your users towards it or more ambitious with multiple steps.
+Your design can be as small as creating an option and moving your users towards it or more ambitious with multiple steps or even more so defining a new UX design entirely.
 
 You'll do this in poster format of 1-2 pages like you might present at a workshop or conference.
 
@@ -384,10 +389,9 @@ The important emphasis is on the idea of a 'story'. You want to convince your au
 
 ## Case Study Design Idea
 
-- Think about a broad problem in very general terms; imagine a situation where you would like to guide users towards a  positive behavior
-  - In a couple of weeks, we'll talk about targeting a narrow user population
-  - Later, you will think about specific behaviors and techniques to address them
-  - You will also think about how you would evaluate your solution
+Write a short problem statement on an interaction problem domain.
+
+For this week, think of an problem area where you wish to positively affect user change. The nudge blog is a good place to start. You just need a sentence or two.
 
 ---
 
