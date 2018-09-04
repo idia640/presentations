@@ -28,7 +28,6 @@ We will look at each of the methodologies above, but focus on hypothesis testing
 - **Motivation**
 - Objectives
 - Controlled Experimentation
-- Critical Review
 
 Note:
 
@@ -274,7 +273,7 @@ Image credit: Gliner, Morgan, and Leech (2011), p. 20
 Note:
 
 - Mature conventions
-- Papers follow well-defined structure
+- **Papers follow the same well-defined structure**
 ---
 ## What if the question is very broad?
 
@@ -284,6 +283,17 @@ Image credit: Chow, S. (2010). p. 450
 Note:
 
 If you are interested in doing a quantitative master's or doctoral thesis using experimentation, this is how you would break down your problem.
+
+Let's take a look:
+
+Suppose you are interested in the question of whether people in small towns are friendlier than those from big cities.
+
+If you want to understand the cause, you develop a substantive hypothesis to study. For example, "environmental pleasantness eliminates irritability"
+
+A substantive hypothesis may be difficult to study without breaking down the problem into smaller questions or studies. You may need to eliminate other possible causes or ask the same question in different ways.
+
+Ultimately, for any individual study, you need observable, quantifiable measures that can be examined statistically, and you need to be able to identify those variables that you can manipulate to study the effect on your dependent variable. In this case, you are interested in **irritability**.
+
 
 ---
 ## HCI research methods (deeper look)
@@ -367,6 +377,14 @@ Note:
 Note:
 
 https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
+
+A SUS consists of a 10 item questionnaire with five response options ranging from 'Strongly agree' to 'Strongly disagree'.
+
+Example positively and negatively worded questions:
+- I found the various functions in this system were well integrated.
+- I thought there was too much inconsistency in this system.
+
+It is considered a industry standard for system usability.
 
 Based on research, a SUS score above a 68 would be considered above average and anything below 68 is below average.
 
@@ -461,6 +479,8 @@ When there are more than two IVs, the design is said to be factorial.
 
 Note:
 
+A good example for a confounding variable is provided by the example of whether or not activity level (hi/low) has a causal effect on weight gain. Age is a confounding variable since it also has an effect on weight gain. You would need to control for age.
+
 ---
 ## Common sense critique
 
@@ -511,7 +531,6 @@ This document is in your github directory. Go in and edit it, but don't forget t
 
 Note:
 
-- Record what you read
 - Some authors are not clear - good point for critique... but at least give an example, if you can.
 
 ---
