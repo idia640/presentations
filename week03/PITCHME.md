@@ -5,8 +5,7 @@
 ## Last week: Experimentation
 ### (Or... "Crash course on how to read a science paper")
 
-- Review
-- How did it go?
+
 
 Note:
 
@@ -39,9 +38,10 @@ The structure of a scientific paper gives insight into how you might think about
 - Methods
 - Discussion
 
----
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSd_6expUtzje-QjRrh1k6nNkbtc3KAU3pDRBWGu5ncZxjDnbQ/viewform?usp=sf_link
+
 ## Critical Thinking
-<center>
+
 <iframe src="https://embed-ssl.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Note:
@@ -92,12 +92,17 @@ When we talked about experiments, we discussed empirical research as a process. 
 - Generate hypotheses that explain the phenomenon.
 - Design experiments to test hypotheses. The experimental design should consider and rule out other explanations. Background research is essential to this end.
 - Collect data to test hypotheses.
-= Finally, evaluate or interpret the data.
-Evaluation: Interpret the data. Remember that there are always inferences that accompany results. Does this apply to the broader population, would you see the same results in the wild, etc.
+- Finally, evaluate or interpret the data.
+
+Remember that there are always inferences that accompany results. Does this apply to the broader population (internal validity), would you see the same results in the wild (ecological validity), etc.
 
 Surveys:
 
-Like experiments, surveys may be empirical from the standpoint of answering who, what, and where questions -- but, unlike experiments, they can't answer why questions.  In order to answer why questions, experiments are needed.
+Like experiments, surveys may be empirical from the standpoint of answering who, what, and where questions -- but most surveys can't answer 'why' questions.  In order to answer why questions, experiments are needed. Since survey results are self-reported, they are often used to look at a particular variable (such as user preference) as well as statistical correlations between variables.
+
+Price et al. discusses an example of how Lerner et al. (2003) conducted an Internet survey shortly after the terror attacks after 9/11.
+
+About 2,000 Americans (13 to 88) were asked about their reactions to the attacks and possible risk of attack. One group of participants were presented a photograph and audio clip that primed them for anger.  A second group was primed for fear in the same manner. Participants primed for anger  perceived less risk than the participants primed for fear. This experiment provided support to the notion that risk perceptions are strongly tied to specific emotions.
 
 Ethnography:
 
@@ -107,9 +112,6 @@ Generative ethnography is a useful tool for developing an understanding of a pro
 
 Similar types of generative research include contextual interviews and focus groups.
 
-Evaluation:
-
-At the end of today, we'll look at when you might employ empirical research.
 ---
 
 ## Objectives
@@ -125,10 +127,11 @@ Note:
 ### Comparing survey methodology to experimentation
 
 #### Differences
-- Surveys can't explicitly control IVs and DVs
-- Surveys are on participant responses rather than researcher observations
+
+- Surveys capture participant responses rather than researcher observations
 - Surveys may potentially reach a larger population
 - Surveys may be descriptive studies useful for understanding attitudes or preferences
+- Surveys typically can't explicitly control IVs and DVs
 
 #### Similarity
 
@@ -146,6 +149,7 @@ Weaknesses: Biases from lack of response, or nature and accuracy. Intentional mi
 
 Verbal surveys - interviews
 Written surveys - questionnaires
+
 ---
 
 ## Just as with an experiment, start with the research question
@@ -205,7 +209,7 @@ As a survey designer, your focus is to minimize error during each stage of surve
 
 One way to look at errors is as 'gaps'. Between each successive stage you may have a gap between your ideal measurement and actual measurement. (I'll walk through these annotations in class.)
 
-The 'happiness' measurement on the left side is a hypothetical example where you want to measure how happy a twitter user is by using measuring a ratio of happy to not happy words in a tweet. This is an excellent example of construct validity: could you argue that this is not a valid construct?
+The 'happiness' measurement on the left side is a hypothetical example where you want to measure how happy a twitter user is by using measuring a ratio of happy to not happy words in a tweet. While this is straightforward, could you argue that this is not a valid construct?
 
 ---
 ## Examples of question (response) biases
@@ -222,8 +226,6 @@ Note:
 
 Surveys are prone to many sorts of response bias. Tourangeau, Rips and Rasinski is a bood that dives into the psychology of survey response.
 
-Later in the semster, we'll talk in particular about how prior context biases your thinking by setting up a comparison or constrast.
-
 ---
 ## Examples of biased contexts
 1. Order of questions
@@ -232,6 +234,8 @@ Later in the semster, we'll talk in particular about how prior context biases yo
 4. Fowler (1995) notes respondants are more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
 
 Note:
+
+Later in the semster, we'll talk in particular about how prior context biases your thinking by setting up a comparison or constrast.
 
 ---
 
@@ -251,12 +255,17 @@ Groves, R., Fowler Jr, F., Couper, M., Lepkowski, J., Singer, E., & Tourangeau, 
 Fowler, J., Floyd J. (1995). Improving survey questions: Design and evaluation (Vol 38). Sage Publications.
 
 Tourangeau, R., Rips, L. J., & Rasinski, K. (2000). The psychology of survey response. Cambridge University Press.
+
 ---
 ## Methodologies... We Steal Stuff!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oXUKdMRkFCA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+Note:
+
 Anthropology, Sociology, Linguistics??
+
+You name it!
 
 ---
 ## Anthropology & IDIA
@@ -271,9 +280,14 @@ Ethnography is an empirical practice we borrow from Anthropology. It is the prac
 Broadly, ethnography seeks to describe the world-view of a particular people or culture. It is an empirical discipline, though the researcher makes observations from the point-of-view of the subject. Typically, an ethnographic study accounts for both observations and the meaning of symbols within society.
 
 ---
+## Just for fun...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKYyHJFxmVA?start=0&end=53" frameborder="0" allowfullscreen></iframe>
+
+
+---
 ## Why should you as a designer care?
 
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nV0jY5VgymI" frameborder="0" allowfullscreen></iframe>
 
 Ellen Isaacs
@@ -303,7 +317,7 @@ What does this mean? From a practical perspective, Garfinkel seemed to be intere
 
 This is a useful and important idea: to truly understand a user's goals, activities, motivations, and so forth -- you need to observe close in situ... and also dig into the peculiarity of what they actually do and say. Seek to understand practices through the world view of the people observed, instead of via the institutions that are external to social practice.
 
-While this overlaps in some degree with ethnography. Ethnomethodology is more strictly concerned with how people make sense of everyday affairs.
+While this overlaps in some degree with ethnography, ethnomethodology is more strictly concerned with how people make sense of everyday affairs.
 
 ---
 ## Linguistics & IDIA
@@ -348,8 +362,6 @@ Main concepts and findings:
 ---
 ## Connection between CA and "nudge"
 
-<center>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-QbxjXDwXU" frameborder="0" allowfullscreen></iframe>
 
 *"Small changes in environments that can lead to big changes in behavior"*
@@ -365,7 +377,6 @@ Note that Stokoe is looking for patterns in dialogue responses. Ultimately, affe
 ---
 ## Ethnographers in the Commercial World
 
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ORkl15ogwOA" frameborder="0" allowfullscreen></iframe>
 
 What can ethnography teach us in the commercial world? Implications for design (design ethnography)
