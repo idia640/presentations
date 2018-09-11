@@ -3,3 +3,4 @@ revealjs: 3.4.1
 slide-number: true
 theme-override: PITCHME.css
 remote-control: true
+published : true
