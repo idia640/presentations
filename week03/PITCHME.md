@@ -40,6 +40,9 @@ The structure of a scientific paper gives insight into how you might think about
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLSd_6expUtzje-QjRrh1k6nNkbtc3KAU3pDRBWGu5ncZxjDnbQ/viewform?usp=sf_link
 
+https://docs.google.com/forms/d/1ESFNu_zX-nECEhe4tiwQo2ht0HAgXIHtbMK0YkQYQCg/edit
+---
+
 ## Critical Thinking
 
 <iframe src="https://embed-ssl.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -64,7 +67,7 @@ Summarizing: data doesn't create meaning - people do. We need to spend more time
 ## Today's outline
 
 - Survey Methodology
-- Ethnography & Ethnomethodolgy
+- Ethnography
 - Wrap-up: Evaluation
 
 Note: As mentioned before, this class considers three research methodological frameworks you may not get much exposure to in other classes.
@@ -124,7 +127,7 @@ Similar types of generative research include contextual interviews and focus gro
 Note:
 
 ---
-### Comparing survey methodology to experimentation
+### Surveys vs Experiments
 
 #### Differences
 
@@ -270,7 +273,7 @@ You name it!
 ---
 ## Anthropology & IDIA
 
-<img width="70%" height="70%" src="images/Mead.jpg">
+<img width="70%" height="70%" src="images/Mead2.jpg">
 
 Note:
 
@@ -282,7 +285,7 @@ Broadly, ethnography seeks to describe the world-view of a particular people or 
 ---
 ## Just for fun...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sKYyHJFxmVA?start=0&end=53" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKYyHJFxmVA?start=0&end=52" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -362,7 +365,7 @@ Main concepts and findings:
 ---
 ## Connection between CA and "nudge"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e-QbxjXDwXU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-QbxjXDwXU?start=0&end=870" frameborder="0" allowfullscreen></iframe>
 
 *"Small changes in environments that can lead to big changes in behavior"*
 
