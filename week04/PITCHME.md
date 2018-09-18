@@ -1,12 +1,13 @@
 # How do we know what we see?
 
-19 September 2016
+18 September 2018
 
 ---
 
 ## Course Map
 
 <img src="images/course-map.png" align="center" height="80%" width="80%">
+
 
 Note:
 
@@ -24,14 +25,15 @@ This is the topic of this course. While the formal course description says that 
 
 A simple way to understand the context of persuasion, imagine the situation where you want to affect user behavior: you want them to take an action such as a button click.
 
-You need the following:
+The following conditions apply:
+- The user has choices (and they are not random).
 - The user is at a decision point (whether he/she is aware of this or not).
 
 This means,
 - You, as the designer, have aligned user (visual) perception
-- You drive user attention
-- The user recognizes, based on priming and memory
-- The user understands what script he/she is in and how to respond
+- You drive user attention (often visually)
+- The user recognizes that the button is something to be clicked and that click will produce a specific action, based on priming and memory
+- The user understands what script he/she is in and how to respond. (For example, "add to cart", "buy", "next")
 
 These pre-conditions form the first part of what we will cover.  The second half of the course focuses on decision-making and factors that affect user decisions. So we will talk about:
 
@@ -40,9 +42,9 @@ These pre-conditions form the first part of what we will cover.  The second half
 - Cultural knowledge and expectation
 - Social influence
 
-Ultimately, you are driving for the user to respond in a specific way. All of the factors above have levers that you can employ to do so. By the end of the course, you will understand that humans are very good at pattern detection and this biases how they behave. And your goal as a designer is ultimately to drive behavior.
+As you will see, much decision-making is affected by unconscious processes. You will want to leverage these whenever you can.
 
-Note:
+Ultimately, you are driving for the user to respond in a specific way. All of the factors above have levers that you can employ to do so. By the end of the course, you will understand that humans are very good at pattern detection and this biases how they behave. And your goal as a designer is ultimately to drive behavior.
 
 There are all sorts of interesting books on rhetoric and persuasion. Many are focused on language, though increasingly, there has been study centered on how advertisers' persuade. They are, after all, master's of persuasion and manipulation!
 
@@ -60,6 +62,7 @@ There are all sorts of interesting books on rhetoric and persuasion. Many are fo
 ## Objective
 
 <img src="images/rubins-vase.jpg" height="30%" width="30%">
+
 - Understand pre-attentive (passive) processes
 - Understand how perception is active
 
@@ -67,15 +70,18 @@ There are all sorts of interesting books on rhetoric and persuasion. Many are fo
 
 Note:
 
-In principle, the idea of "aligning user perception" is simple: you want the user to perceive what you want them to perceive. The difficult thing is to understand what they may actually perceive. So while there is a lot of detail in Ware about how vision operates at a low level, you should at least understand the difference between pre-attentive processes and higher-order (active) processes - and how to use these two concepts to advantage.
+In principle, the idea of "aligning user perception" is simple: you want the user to perceive what you want them to perceive. The difficult thing is knowing what they actually perceive. So while there is a lot of detail in Ware about how vision operates at a low level, you should at least understand the difference between pre-attentive processes and higher-order (active) processes - and how to use these two concepts to advantage.
 
 Pre-attentive visual processing is what it sounds like: sub-conscious visual processing. Visual scenes segmentation is pre-attentive, where features are grouped together against a background.
 
 In this image, you see shapes above. But your recognition and understanding of these shapes is affected by higher-order processes.
 
-As visual information travels through the visual cortex, the brain continues to filter and processes information. Information that has the highest salience (we'll talk more about this next week) -- or stands out -- is analyzed further.
+As visual information travels through the visual cortex, the brain continues to filter and processes information. Information that has the higher salience (we'll talk more about this next week) -- or stands out -- is analyzed further.
 
 Perception includes not only passive pre-attentive processes, but is affected by attention, memory, learning, belief, expectations, and goals.
+
+
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSd1k-2PRzwjupMP1GZpqLojz877sr7V6ey2vJc3fK4tq6LOqQ/viewform?usp=sf_link
 
 ---
 
@@ -85,7 +91,7 @@ Perception includes not only passive pre-attentive processes, but is affected by
 1. Perception is biased
 1. We are optimized for contrast
 1. Pop-out features can drive visual search
-1. We make sense of the world by detecting patterns
+1. We make sense of the world by detecting patterns (Gestalt)
 1. Colors are affected by nearby context
 
 
@@ -137,7 +143,7 @@ The real problem is context -- as we will see. So let's take a look at that. I'l
 
 ## Luminance
 
-<img src="images/luminance.png" align="center" height="100%" width="100%">
+<img src="images/luminance.png" align="center" height="50%" width="50%">
 
 *Our vision does not work like a camera*
 
@@ -149,7 +155,7 @@ The inner circle has the same luminance in both color contexts. (Luminance is "b
 
 ## Color
 
-<img src="images/cube.png" align="center" height="100%" width="100%">
+<img src="images/cube.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -159,25 +165,25 @@ Note the center tile on the top and the center one on the facing side.
 
 ## Color
 
-<img src="images/brown.png" align="center" height="80%" width="80%">
+<img src="images/brown.png" align="center" height="50%" width="50%">
 
 Note: Again, you perceive the two tiles differently because the visual context differs.
 ---
 
 ## Geometry
 
-<img src="images/tables.png" align="center" height="100%" width="100%">
+<img src="images/tables.png" align="center" height="50%" width="50%">
 ---
 
 ## Geometry
 
-<img src="images/geometry.png" align="center" height="100%" width="100%">
+<img src="images/geometry.png" align="center" height="50%" width="50%">
 
 ---
 
 ## Angles
 
-<img src="images/angles.png" align="center" height="100%" width="100%">
+<img src="images/angles.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -189,7 +195,7 @@ While these illusions may seem like tricks of the visual system, they simply ref
 
 ## Visual Spectrum
 
-<img src="images/electromagnetic-spectrum.png" align="center" height="60%" width="60%">
+<img src="images/electromagnetic-spectrum.png" align="center" height="50%" width="50%">
 
 *We see only a tiny portion of the electromagnetic spectrum*
 
@@ -207,6 +213,8 @@ What reaches the eye is not an image but a (chaotic) photon flux. ** Somehow the
 
 Note:
 
+What is a photon? It is an elementary particle of light and carries energy. We're used to talking about 'brightness' or 'luminance' instead of photons since we care more about the neuropsychological effect of light on the eye.
+
 What's different between an eye and a camera?
 
 We'll see shortly -- but while cameras distribute pixels uniformly across a scene, the brain does not! It concentrates them in the fovea.
@@ -215,16 +223,24 @@ We'll see shortly -- but while cameras distribute pixels uniformly across a scen
 
 ## The inverse problem
 
-<img src="images/inverse-problem.jpg" align="center" height="50%" width="50%">
+<img src="images/inverse-problem.jpg" align="center" height="30%" width="30%">
 
 
 Note:
 
 Purvis (2015) notes that there is a problem with vision as feature representation; he calls this "the inverse problem". The basic idea is that there is no way to actually calculate the world from the signals we receive (we are trying to calculate cause from results).
 
+If you look at the picture above, properties such as orientation, distance, and size are not actually conveyed in the photon flux. So how is it that we see these things?!
+
 In early Hubel and Wiesel studies in the 1950's and 1960's, neurons in the primary visual pathway of cats and monkeys were found to respond to light stimuli in specific ways. They discovered that neurons on the V1 part of the cortex responded selectively to retinal activation (bars with different orientation, etc.). This led to they theory that the visual system operates in a straight-forward way of feature extraction, filtering, processing and analytic combination so that an approximate representation of physical reality guides our behavior in the world: we see the world as it is.
 
-Purvis suggests this is wrong. He motivates the need for a paradigmatic shift by pointing out "the inverse problem". He believes that our perceptions are derived empirically by association between sensory patterns and the relative success of behavior in response to patterns.
+Purvis suggests this is wrong. He motivates the need for a paradigmatic shift by pointing out "the inverse problem." He believes that our perceptions are derived empirically by association between sensory patterns and the relative success of behavior in response to patterns.
+
+And we have reason to believe this theory has some validity. Looking at perceptual responses in probabilistic terms is something we can model computationally and also explore via experimentation with human subjects, animals, and even virtual organisms.
+
+We will talk a lot about 'bias' in this course. A bias is a tendency for one choice over another. Neurons operate in networks and can receive thousands of inputs. Some of these inputs are excitatory and some are inhibitory. Neurons fundamentally work via a model of biased competition. This model leads to efficiencies - as we will see over-and-over again when we talk about pattern-matching processes.
+
+This is really important for vision. Biased signals can come from bottom-up processes and top-down processes which we will talk about in a bit.
 
 Purves, Morgenstern, Wojtach, 2015, "Perception and Reality: Why a Wholly Empirical Paradigm is Needed to Understand Vision", Front. Syst. Neurosci., 18
 
@@ -232,7 +248,10 @@ Purves, Morgenstern, Wojtach, 2015, "Perception and Reality: Why a Wholly Empiri
 
 ## Visual System
 
-<img src="images/cornea.png" align="center" height="60%" width="60%">
+
+<img src="images/diagram-of-the-eye.jpg" height="40%" width="40%" align="left">
+
+<img src="images/cornea.png" height="40%" width="40%" align="right">
 
 
 Note:
@@ -245,13 +264,13 @@ Since the cornea is heavier than air, when light hits its curved surface, it is 
 
 The lens refines the light a bit earlier.
 
-A primary feature of central vision is the macula lutea (you can see it here because it's color and blood vasculature difference than the rest of the retina). The **fovea** (center of macula lutea) has the greatest detail and finest resolution of the eye. To see, we need to make sure we align our eyes to a point of fixation so that objects falls on the fovea. In this way, we can see detail and color. The fovea is the area of greatest sensitivity.
+Let's focus in on a structure called the fovea. A primary feature of central vision is the macula lutea (you can see it here because it's color and blood vasculature difference than the rest of the retina). The **fovea** (center of macula lutea) has the greatest detail and finest resolution of the eye. To see, we need to make sure we align our eyes to a point of fixation so that objects falls on the fovea. In this way, we can see detail and color. The fovea is the area of greatest sensitivity.
 
 ---
 
 ## Fovea
 
-<img src="images/foveal.png" align="center" height="100%" width="100%">
+<img src="images/foveal.png" align="center" height="80%" width="80%">
 
 Note:
 
@@ -261,27 +280,39 @@ Ware notes that at arms length, we can resolve 100 points on the head of a pin. 
 
 ## Foveal resolution
 
-<img src="images/fovea-text.png" align="center" height="100%" width="100%">
+<img src="images/fovea-text.png" align="center" height="50%" width="50%">
 
 Note:
 
 In order to see, you have to move your eyes continually.
 
-The Russian physiologist, Alfred Yarbas, was the first to do eye tracking. He used a contact lens with a mirror on it and subjects would look at a scene. (You can see what his equipment looked like here! https://en.m.wikipedia.org/wiki/Eye_tracking)
+---
 
-What are our eyes doing when looking at a scene normally? They are making **saccadic eye movements** as we look at scenes on a continual basis. This is a very jerky movement. Our eyes move for periods around 50 ms and when they do, we are actually blind.
+## Fixations and Reading
 
-Our eye movements are not random. For example, people look at informational characteristics of a face and spend less time on in-informative regions. This is completely unconscious.
+<img src="images/EyeFixationsReading.gif" align="center" height="50%" width="50%">
+
+Image credit: Hans-Werner34 at English Wikipedia, CC BY-SA 3.0
+
+Note:
+
+This picture shows the acuity of foveal vision in reading during one fixation.
+
+We'll see some video of reading in just a bit.
+
+https://commons.wikimedia.org/w/index.php?curid=4057935
 
 ---
 
 ## Retina
 
-<img src="images/retinal-image.png" align="center" height="70%" width="70%">
+<img src="images/retinal-image.png" align="center" height="60%" width="60%">
 
 *The retina is the interface between the non-neural and neural parts of the eye.*
 
 Note:
+
+Back to the retina, we talked about the fovea which sits in the middle of the retina. Let's look more at the retina.
 
 The retina sits at the back of the eye. It has a layer of cells that are photosensitive.
 
@@ -291,13 +322,13 @@ Let's look at why they are at the back of the eye.
 
 ## Photoreceptors
 
-<img src="images/photopigment-rods-cones.png" align="center" height="80%" width="80%">
+<img src="images/photopigment-rods-cones.png" align="center" height="60%" width="60%">
 
 Note:
 
  70% of all human receptors are visual. Receptors are protein molecules that receives a signal (in this case chemical) and produce a response.
 
-Photoreceptors contain photopigments that react to light. Some change their shape when they absorb a photon. When photopigments change shape, they trigger chemical reactions that send signals to the visual cortex indicating how much light there is at some point on the retina. Thus, light is received as electromagnetic radiation in waves and is turned into  nerve impulses that the brain understands.
+Photoreceptors contain photopigments that react to light. Some change their shape when they absorb a photon. When photopigments change shape, they trigger chemical reactions that send signals to the visual cortex indicating how much light there is at some point on the retina. Thus, light is received as electromagnetic radiation in waves and is turned into nerve impulses that the brain understands.
 
 There are a number of specialized cells in the retina. Aside from photoreceptor cells, there are also horizontal cells, bipolar cells, amacrine cells, and ganglion cells.  They all perform certain kinds of functions. For example, horizontal cells help process information in a lateral direction, as well as in light and dim conditions.
 
@@ -319,7 +350,7 @@ Though, modern humans are accustomed to more light than our ancestors, presumabl
 
 ## Photon capture of rods and cones
 
-<img src="images/retina-rods-cones.png" align="center" height="80%" width="80%">
+<img src="images/retina-rods-cones.png" align="center" height="60%" width="60%">
 
 Note:
 
@@ -339,13 +370,13 @@ We also have far fewer short-wavelength sensitive (blue) cones. And these are le
 
 Note:
 
-Luminance is a measure of light emission or reflection. In this figure, you can see that it encompasses orders of magnitude (the scale is not linear).
+Luminance is a measure of light emission or reflection. In this figure, you can see that it encompasses orders of magnitude (meaning, the scale is not linear).
 
 ---
 
 ## Primary visual pathway
 
-<img src="images/primary-visual-pathway.png" align="center" height="60%" width="60%">
+<img src="images/primary-visual-pathway.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -369,11 +400,11 @@ Basically, Hubel and Wiesel discovered that there are different sorts of detecto
 
 ## Pop-out
 
-<img src="images/pop-out.png" align="center" height="90%" width="90%">
+<img src="images/pop-out.png" align="center" height="60%" width="60%">
 
 Note:
 
-Pop-out features are detected pre-attentively starting from the retina. Something that pops out can be seen in a single eye fixation (less than a tenth of a second). They do not require several eye movements nor "cognitively effortful search".
+Pop-out features are detected "pre-attentively" (automatically) starting from the retina. Something that pops out can be seen in a single eye fixation (less than a tenth of a second). They do not require several eye movements nor "cognitively effortful search".
 
 Something useful for the periphery of vision to drive attention is motion. It's not included in this chart but can be used to drive an orienting response. Ware references a study by Hillstrom and Yantis (1994) that suggests it's not enough to have something moving in the visual field: it must enter into the visual field to generate an orienting response.
 
@@ -391,8 +422,8 @@ While there are 100M visual receptors, there are billions of neurons simultaneou
 
 Note:
 
-- Strongest pop-out affects when a single target objects differs in some feature from all other identical. Degree of contrast important. The more variable the background, the larger the difference. Color, orientation, size, motion & stereoscopic depth. Less than .1 sec.
-- No pop out for 2 more features at the same time.
+- Strongest pop-out affects when a single target objects differs in some feature from all other identical. Degree of contrast important. The more variable the background, the larger the difference. Color, orientation, size, motion & stereoscopic depth. Less than .1 sec. You can see a pop-out during a single fixation.
+- There is no pop-out effect for 2 more features at the same time.
 - Learning does not help much in this (hard-wired) phase.
 - Detection field  (area around center of the fovea) matters - the differences must be close enough together in visual space.
 
@@ -413,13 +444,14 @@ Three color opponent channels:
 
 Color blindness (generally red-green): 8% of males, 1 % females affected.
 
-Aside from color blindness, color can be challenging in design for other reasons. We are designed to see differences between patches of light: not absolute values.
+Aside from color blindness, color can be challenging in design for other reasons. **We are designed to see differences between patches of light: not absolute values.**
 
-Thus, luminescent differences easier to see than chromatic differences.
-	- luminescent channel conveys motion more effectively.
-	- conveys stereoscopic depth.
-	- conveys shape from shading difference.
-	- it's is non-linear; we're more sensitive to dark grey differences than light differences.
+Thus, luminescent (i.e. brightness) differences easier to see than chromatic differences.
+
+- luminescent channel conveys motion more effectively.
+- conveys stereoscopic depth.
+- conveys shape from shading difference.
+- it's is non-linear; we're more sensitive to dark grey differences than light differences.
 - We are more sensitive to properties of surfaces in the environment rather than light coming from those surfaces.
 
 ---
@@ -432,9 +464,9 @@ Thus, luminescent differences easier to see than chromatic differences.
 
 ---
 
-## What does Ware mean by "visual queries"?
+### What does Ware mean by "visual queries"?
 
-<img src="images/visual-query.png" align="center" height="60%" width="60%">
+<img src="images/visual-query.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -445,6 +477,41 @@ Eye movement is characterized by saccadic eye movements (when vision is suppress
 We perceive during fixations, which last on the order of .1-.2 seconds.
 
 Thus, we sample the environment to see and can only see a small amount at a time. Information not critical is not retained.
+
+Note what happens when you focus on the letters and lines in this image. What does this word spell?
+
+Now try to interpret the expressions on the faces in the background.
+
+You are driving perception top-down while you try to perform these tasks and your brain naturally suppresses information that is less relevant to what you are doing.
+
+In fact, information is simultaneously moving both top-down and bottom-up. While you are attending to the task of finding relevant information, you are also doing pattern matching as you receive input into your brain from features in the visual field.s
+
+---
+## Saccadic eye movements
+
+<img src="images/Yarbus_The_Visitor.jpg" align="center" height="50%" width="50%">
+
+Note:
+
+The Russian physiologist, Alfred Yarbas, was the first to do eye tracking. He used a contact lens with a mirror on it and subjects would look at a scene. (You can see what his equipment looked like here! https://en.m.wikipedia.org/wiki/Eye_tracking)
+
+What are our eyes doing when looking at a scene normally? They are making **saccadic eye movements** as we look at scenes on a continual basis. This is a very jerky movement. Our eyes move for periods around 50 ms and when they do, we are actually blind. What we see are brief fixations of 200-250.
+
+Our eye movements are not random. For example, people look at informational characteristics of a face and spend less time on in-informative regions. This is completely unconscious.
+
+"All the records ... show conclusively that the character of the eye movement is either completely independent of or only very slightly dependent on the material of the picture and how it was made, provided that it is flat or nearly flat."[6] The cyclical pattern in the examination of pictures "is dependent on not only what is shown on the picture, but also the problem facing the observer and the information that he hopes to gain from the picture."[7]
+
+From Yarbus (1967):
+
+"Records of eye movements show that the observer's attention is usually held only by certain elements of the picture.... Eye movement reflects the human thought processes; so the observer's thought may be followed to some extent from records of eye movement (the thought accompanying the examination of the particular object). It is easy to determine from these records which elements attract the observer's eye (and, consequently, his thought), in what order, and how often.
+
+Yarbus, A. L. (1967), p. 190. Eye Movements and Vision, New York: Plenum. (Originally published in Russian 1962)
+
+Depending on the task, our brain and visual system execute a search (or visual query) to gather information and satisfy a query.
+
+Visual Queries: The Foundation of Thinking
+https://pdfs.semanticscholar.org/c96c/037abe3929b763afca7be9c2e39fc298bffd.pdf
+
 
 ---
 
@@ -480,7 +547,7 @@ Working memory is quite short - only seconds! (We'll talk more about memory next
 
 Note:
 
-Attentional tuning operates at the feature level, such as the pop-out features recently discussed. But because patterns are made up of features the same principles are play during visual queries. More complex patterns, such as the blobs that we quickly recognize as faces, and the lines connecting symbols, which we may track with our eyes, once we recognize that they are letters - are really patterns of patterns.
+Attentional tuning does operate at the feature level. But because patterns are made up of features the same principles are play during visual queries. More complex patterns, such as the blobs that we quickly recognize as faces, and the lines connecting symbols, which we may track with our eyes, once we recognize that they are letters - are really patterns of patterns.
 
 Planning and executing eye movements occurs between 1-3 times per second.
 
@@ -490,7 +557,7 @@ For each fixation, a person can do between 1-4 pattern tests.
 
 ## Binding
 
-<img src="images/contours.png" align="center" height="100%" width="100%">
+<img src="images/contours.png" align="center" height="50%" width="50%">
 
 Note:
 
@@ -588,7 +655,7 @@ In fact, how text is arranged on a page or screen also affects reading efficienc
 
 ## "What hierarchy" - How objected are represented in the mind
 
-<img src="images/what-hierarchy.png" align="center" height="90%" width="90%">
+<img src="images/what-hierarchy.png" align="center" height="70%" width="70%">
 
 Note:
 
@@ -600,17 +667,17 @@ In this diagram, you can also see two post V1/V2 pathways: the "what" pathway is
 
 ## How do we construct meaning?
 
-<img src="images/dog.png" align="center" height="70%" width="70%">
+<img src="images/dog.png" align="center" height="50%" width="50%">
 
 ---
 
-## Power of visual thinking
+### Power of visual thinking
 
 1. The visual world is unknowable: we don't see the world like a camera.
 2. Cognition is distributed - top-down and bottom-up processes have an effect on perception.
-3. Graphics are designed to communicate. Consider the visual task in design.
-4. The power of visual thinking is pattern matching -- but patterns aren't limited to the visual -- **perceptions are linked to actions are response patterns**.
-5. In pattern learning, V1 & V2 are universally the same, V4 is idiosyncratic based on experience.
+3. Graphics are designed to communicate. **Consider the visual task in design.**
+4. The power of visual thinking is pattern matching - but patterns aren't limited to the visual - **perceptions are linked to actions and these are response patterns**.
+5. V1 & V2 are universally the same, V4 is idiosyncratic based on experience.
 
 ---
 
@@ -682,7 +749,7 @@ Properties and functions of objects matter: in/on bowl/plate
 
 ## Visual imagery
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OTEa1jwJbqU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTEa1jwJbqU?start=360&end=480" frameborder="0" allowfullscreen></iframe>
 
 Note:
 
