@@ -812,3 +812,20 @@ Perhaps, we borrow from sensory and motor representations as we interact with th
 Note:
 
 2-minute summary of your case study problem.
+
+---
+
+### Case Studies
+1. Case studies are about ______
+2. Case studies have a narrative arc. For example, setup (who are we talking about?), adversity (situation now), resolution (design).
+3. People in the story have options and a ____ on what decisions to make.
+4. You want to highlight these options and present options that ____ the user toward a desired resolution
+5. You point to scientific or empirical evidence (theory from the class) that should be predictive of the outcome you desire.
+
+Note:
+
+1. people (one person or a group of people)
+3. choice
+4. nudge
+
+A case study is a research method that relies on detailed observations of a person or group over a period of time. It focuses on a particular situation and is a story about change. Case studies are useful in the early stages of research when you are trying to understand a problem. They are also useful for communicating to stakeholders and policy makers.
