@@ -574,7 +574,7 @@ Feature binding is also affected by top-down attentional processes (goals, actio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJhyu6nlGt8" frameborder="0" allowfullscreen></iframe>
 
 
-Notes:
+Note:
 
 Our brain is connecting lines and recognizing objects on the basis of assumptions we have about the way the world works.
 
