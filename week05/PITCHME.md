@@ -1,6 +1,25 @@
 
 ## How do we know about things?
-### 26 Sept 2017
+### 25 Sept 2018
+
+
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSeteJDSyUMPMHd1ZtVfK_zpC9MIX8ZigJi9LbSv-T2QrXr6eA/viewform?usp=sf_link
+
+Note:
+
+1. people (one person or a small group of people)
+2. narrative or story
+3. choice
+4. nudge
+5. scientific or empirical
+
+A case study is a research method that relies on detailed observations of a person or group over a period of time. It focuses on a particular situation and is a story about change. Case studies are useful in the early stages of research when you are trying to understand a problem. They are also useful for communicating to stakeholders and policy makers.
+
+They bear similarity to personas (for more information look for material by Alan Cooper on this topic).
+
+What are some differences between ethnographic research and personas?
+
+By now you have thought something about a general problem area. If you are having difficulty, pick something that already has a design that you could improve in order to guide user behavior in a more positive direction.
 
 ---
 
@@ -24,18 +43,23 @@
 
 - Cognitive task driven by prior knowledge, current context ("display gist"), and goals
 - Visual search time is reduced by "pop-out"
-- Proximity matters
+- Proximity (groupings) matters
 - Attention prioritizes task relevant objects thus biasing the process
+- We process "what" information differently than "where" information
 
 Note:
 
 Last week we talked about visual queries and introduced the idea of "aligning (user) perception". This is just a brief re-cap on what we learned last week.
 
-Our eye differs dramatically from a camera. Cameras capture light and distribute information evenly across a plane. Our eyes capture information differentially from the fovea to the periphery of the retina. We are attuned to luminance, contrasts, shapes and movement -- our perception of color is a psychological response that is subjective.
+Our eye differs dramatically from a camera. Cameras capture light and distribute information evenly across a plane. Our eyes capture information differentially from the fovea to the periphery of the retina. We are attuned to luminance, contrast, shapes and movement -- our perception of color is a psychological response that is subjective.
 
 Ware describes perception (within a task-based context) as visual queries.  "Visual information from the display is processed as a feature space map weighted according to a search pattern. A visual scanning strategy is activated based on prior knowledge, display gist, and the task." (Ware, p. 399)
 
-During eye movement, choosing the next based target location is also driven by prior knowledge, display gist, and task. But because pre-attentive search is a parallel process where the entire visual area is simultaneously analyzed using low level features, visual search is most efficient is a target pattern is pre-attentively distinct; A very distinct target will be found in a single eye movement.
+(With this in mind, consider carefully the addition of un-essential objects into your visual design.)
+
+During eye movement, choosing the next based target location is also driven by prior knowledge, display gist, and task.
+
+Because "pre-attentive" search is a parallel process where the entire visual area is simultaneously analyzed using low level features, visual search is most efficient; a very distinct target will be found in a single eye movement.
 
 As Ware also notes, "a small number of cognitive markers may be placed in a working memory spatial map of the display to hold task-relevent information when necessary." (Ware, p. 399)
 
@@ -44,7 +68,7 @@ As Ware also notes, "a small number of cognitive markers may be placed in a work
 ## Cognitive biases (perception)
 
 - Change blindness (Simons & Levin, 1998; https://vimeo.com/81039224)
-- Inattentional blindness (Simons & Chabris, 1999; logo study in Slack discussion)
+- Inattentional blindness (Simons & Chabris, 1999, https://www.adweek.com/creativity/how-hard-is-it-to-draw-a-brand-logo-from-memory-much-much-harder-than-you-thought/)
 
 *Visual memory reflects our expectation*
 
@@ -62,7 +86,7 @@ We have sensory memory. These allow us to retain impressions after a stimulus ha
 
 ---
 
-## Patterns of patterns 
+## Patterns of patterns
 
 - Faces, objects, music, letters, words, etc.
 - We can develop skill at recognizing particular kinds of patterns
@@ -70,6 +94,41 @@ We have sensory memory. These allow us to retain impressions after a stimulus ha
 Note:
 
 In the pre-frontal cortex, goals themselves are activated patterns that represent our goals and the means to achieve them. They bias signals to other brain structures to guide the flow of activity along neural pathways This leads to the completion of tasks associated with those goals.
+
+---
+
+## How do we construct meaning?
+
+<img src="images/dog.png" align="center" height="50%" width="50%">
+
+Note:
+
+Recall that fixations are about a fifth of a second and only one to three objects can be identified. You will likely remember little from such identifications.
+
+If you want rapid identification, take care that all critically identifiable points are included.
+
+Once you've identified an object, your memory fills in the gaps and brings with it additional concept level associations. In essence, you integrate information from your patterns in your memory.
+
+---
+
+### Power of visual thinking
+
+1. The visual world is unknowable: we don't see the world like a camera.
+2. Cognition is distributed - top-down and bottom-up processes have an effect on perception.
+3. Graphics are designed to communicate. **Consider the visual task in design.**
+4. The power of visual thinking is pattern matching - but patterns aren't limited to the visual - **perceptions are linked to actions and these are response patterns**.
+6. V1 & V2 are universally the same, V4 is idiosyncratic based on experience.
+
+Note:
+
+You should not be surprised to learn that there is a link between perception and (motor) action. When we see a cup of coffee, for example, we prime motor patterns associated with drinking.
+
+This link, however, is bi-directional.
+Predictions based on intended actions can unconsciously influence and modify perception in visual search.
+
+For example, pointing actions biases your perceptual system toward luminance targets while biases primes your perceptual system toward size targets.
+
+Wykowska, A., Schubö, A., & Hommel, B. (2009). How you move is what you see: action planning biases selection in visual search. Journal of Experimental Psychology: Human Perception and Performance, 35(6), 1755.
 
 ---
 
@@ -103,7 +162,7 @@ You can only actually attend a few things at once.  But what are those things?
 
 A well-known study from Miller (1956) described the magical number of seven, plus or minus two. But it turns out that it’s actually only about four, plus or minus one. We appear to remember more because we extend the functional size of our memory by chunking information: we group smaller units of information into chunks to extend the capacity of memory.
 
-Because of limits to working memory, one of the main bottlenecks in visual thinking. Objects can be held in working memory from fixation to fixation. But retaining them reduces what can be picked up in a future fixation. Thus, working memory is highly volatile.
+Because of limits to working memory, one of the main bottlenecks is visual thinking. Objects can be held in working memory from fixation to fixation. But retaining them reduces what can be picked up in a future fixation. Thus, working memory is highly volatile.
 
 ---
 
@@ -121,7 +180,7 @@ Working memory spans .1 seconds to a couple of seconds. It supports ongoing cogn
 
 Memory is networked and activated by a small amount of information through visual system to visual working memory. We don't always notice small changes.
 
-Visual working memory is better with pictures than words (picture superiority effect). We don't know exactly know why...but this is very important to UI design and advertising.
+Visual working memory is better with pictures than words (picture superiority effect - pictures are more likely to be remembered than words). We don't know exactly know why...but this is very important to UI design and advertising.
 
 Binding requires attentional processes.
 
@@ -149,7 +208,7 @@ Central executive - attentionally limited system that selects and manipulates pa
 - functions to keep goals in mind
 - self-monitoring - check on progress
 
-Episodic memory is a sub-system that:
+Episodic buffer is a sub-system that:
 - links long term memory
 - integrates information from other sub-systems into a unified experience
 - small area of storage capacity that does not depend on perceptual input.
@@ -158,10 +217,10 @@ Episodic memory is a sub-system that:
 - back up store to PSTM and VSSTM.
 
 Design implications:
-- One implication for design (as Johnson notes), is that we need feedback to understand the state of a system or to remember where we were just seconds ago. 
+- One implication for design (as Johnson notes), is that we need feedback to understand the state of a system or to remember where we were just seconds ago.
 - Another point that he makes is that when a webpage contains a call to action, you should limit this to only one.
 
-An important subtlty is that when a person tries to carry out two tasks simultaneously using the same perceptual channel, performance is less efficient than when performing the tasks individually. We'll look at multimodal communcation a bit later in this segment.
+An important subtlety is that when a person tries to carry out two tasks simultaneously using the same perceptual channel, performance is less efficient than when performing the tasks individually. We'll look at multimodal communication a bit later in this segment.
 
 ---
 
@@ -171,7 +230,7 @@ An important subtlty is that when a person tries to carry out two tasks simultan
 
 Note:
 
-Paivio dual-coding theory hypothesizes that we use both visual and verbal information to code, represent, and retrieve information. But associations that can be stored as both images and words may be more easily stored and retrieved. This hypothesis is compatible with Baddeley's model, but is difficult to prove and there are alternative hypotheses.
+Paivio dual-coding theory hypothesizes that we use both visual and verbal information to code, represent, and retrieve information. But *associations that can be stored as both images and words* may be more easily stored and retrieved. This hypothesis is compatible with Baddeley's model, but is difficult to prove and there are alternative hypotheses.
 
 Thus, mental images aid in learning -- but they will also be useful in persuasion, as we will see later.
 
@@ -185,12 +244,12 @@ Note:
 
 Chunking is as process by which individual pieces are bound together and stored as a coherent group.
 
-Information architecture depends strongly on the notion of chunking. The idea is that we create cognitive representations chunks (e.g., lists) that are more easily remembered than as individual items themselves. 
+Information architecture depends strongly on the notion of chunking. The idea is that we create cognitive representations chunks (e.g., lists) that are more easily remembered than as individual items themselves.
 
 Sensitivities:
 
 - 2-6 chunks (Miller's study and follow-ups). Phone numbers and date conventions are an example.
-- modality effect - channel and perceptual properties have an effect 
+- modality effect - channel and perceptual properties have an effect
 - recall effect (when you retrieve)
 - distraction effect
 - language and culture effect
@@ -216,20 +275,21 @@ Success yields strengthening of pathways supporting a neural activation sequence
 
 ## What is priming?
 
-*Exposure to a stimulus (images or pathways) experienced before influence the response to another stimulus; processing is faster the next time around for a period of time (day or two).*
+*Exposure to a stimulus (images or pathways) experienced influences the subsequent response to another stimulus; processing is faster the next time around for a period of time (day or two).*
 
 <img src="images/priming.png" align="center" height="30%" width="30%">
 
 Note:
 
-Priming works across all senses and modalities: verbal & visual. It is fften dependent on the physical conditions under which encoding occurred: context matters.
+Priming works across all senses and modalities: verbal & visual. It is often dependent on the physical conditions under which encoding occurred: context matters.
+
 Priming works best when in the same modality.
 
 Priming affects semantic networks: for example, dog primes cat in an associate task. Dog primes wolf in a semantic task.
 
 Affects:
 - identification
-- perceptions & judgements (what is that? vs who is that?)
+- perceptions & judgements
 - subsequent behavior
 - goals and motivations
 
@@ -258,13 +318,13 @@ Ware says 95% of what we consciously perceive is already in our heads in memory.
 Explicit learning - visual patterns and associations must be the focus of attention to make it into visual working memory. Then an association with this information must be made between visual and verbal information. Then memory consolidation must be made. Hippocampus. LTM results in strengthening of neural connections, increasing the likelihood that a particular neural chain will re-activate.
 
 - Emotion plays a role (we'll talk about this later)
-- Familar paths affect learning
+- Familiar paths affect learning
 
 ---
 
 ## Memory sub-systems
 
-<img src="images/ltm.png" align="center" height="70%" width="70%">
+<img src="images/memory-subsystems.jpg" align="center" height="70%" width="70%">
 
 Note:
 
@@ -280,28 +340,38 @@ Memory that does not require consciousness and can operate without awareness. Fo
 
 - Associative learning. Another kind of learning is a stimulus-stimulus learning where two stimuli occur in close proximity driving a cause-effect relationship.
 
-When learning, an important thing to understand is what happens during forgetting, when there is no re-inforcement by association. 
+When learning, an important thing to understand is what happens during forgetting, when there is no re-inforcement by association.
 
 - **Spontaneous recovery** can occur when extinction of the association has occurred and there is a long delay. The previous pattern will re-emerge, though not as strongly.
 - There is also a **savings effect** where less time is required to learn than the first time; the association is not entirely gone.
 
 - Procedural memory
 
-Motor memory needs to go through a process of consolidation to become more permanent and enduring. If there is declarative knowledge acquired prior to learning a motor skill, it may delay consolidation making it more likely to be forgotten. 
+Motor memory needs to go through a process of consolidation to become more permanent and enduring. If there is declarative knowledge acquired prior to learning a motor skill, it may delay consolidation making it more likely to be forgotten.
 
-**Negative transfer** occurs when someone has learned a skill and then learned a new, closely related one. For example, going from a standard-shift car to automatic. There is overlap between old and new information. Those older traces are so storing, they are activated when trying to learn something new and this blocks acquisition of new information. 
+**Negative transfer** occurs when someone has learned a skill and then learned a new, closely related one. For example, going from a standard-shift car to automatic. There is overlap between old and new information. Those older traces are so storing, they are activated when trying to learn something new and this blocks acquisition of new information.
 
-You can test implicit memory indirectly via priming. Priming occurs when people can more quickly and accurately retrieve information because of prior exposure. **Repetition priming** involves a decrease in neural activity in some areas, such as the visual cortex. Previously processed images prime the usual pathways so that they are processed faster in the future. And more canonical or typical objects in typical views recognized more quickly. There is biased competition between priming and top-down information.
-  
-Such images are  sensitive to the level of representation. For example, reading a list of words will elicit faster responses to recognition of those words out-of-context such as within a paragraph. If a paragraph had been read earlier, it may be read faster later, though not individual words in a word list out-of-context.
+You can test implicit memory indirectly via priming. Priming occurs when people can more quickly and accurately retrieve information because of prior exposure. **Repetition priming** involves a decrease in neural activity in some areas, such as the visual cortex.
+
+Previously processed images prime the usual pathways so that they are processed faster in the future. And more canonical or typical objects in typical views recognized more quickly. There is biased competition between priming and top-down information.
+
+Such images are  sensitive to the level of representation. For example, reading a list of words will elicit faster responses to recognition of those words out-of-context such as within a paragraph. But if a paragraph had been read earlier, it may be read faster later, though not the individual words in a word list out-of-context.
 
 - Explicit (semantic or episodic) memory. Expressly memorized. Visual patterns and associations must be the focus of attention to make it into visual working memory. Also connections must be made between visual and verbal. 24-hour consolidation.
 
-While I won’t spend any time on episodic memory (memory of events), both semantic memory and episodic memory are a kind of declarative memory that contrasts with procedural and implicit memory above. Semantic memory builds upon nondeclarative memory such as native language competency, which is acquired very young. Semantic memories are generalized and "encyclopedic" - they are not tied to time or place. They are also highly inter-related and decay over time. To learn declarative information, you need to be consciously aware during learning.
+While I won’t spend any time on episodic memory (memory of events), both semantic memory and episodic memory are a kind of declarative memory that contrasts with procedural and implicit memory above. Semantic memory builds upon non-declarative memory such as native language competency, which is acquired very young. Semantic memories are generalized and "encyclopedic" - they are not tied to time or place. They are also highly inter-related and decay over time. To learn declarative information, you need to be consciously aware during learning.
 
 Semantic memory is structured based on shared aspects of meaning. For example, when you think of a dog, you may consider that it’s a sort of animal and has four legs and a tail. When you think of a tail, you consider that some breeds are known for docked tails. Concepts are activated via spreading. Spreading activation may also affected by emotion — an example cited is that people respond after to happy words when in a happy mood and after to sad words in a sad move (Olafson & Ferraro 2001) [Note: check to see if this study has been replicated successfully!]
 
 Unlike repetition priming, **semantic priming** occurs at the unit of a "concept" and brings with it related concepts. Such priming helps people detect inconsistencies in conversation. If some unexpected word is spoken, your brain starts to work harder to figure out what is going on. And this happens in a very regular way about 400ms after the inconsistency.
+
+---
+
+# Learning is the acquisition and containment of information
+
+Note:
+
+This contrasts with memory which is the ability to contain and make use of information.
 
 ---
 
@@ -311,12 +381,14 @@ Unlike repetition priming, **semantic priming** occurs at the unit of a "concept
 - Recency effect
 - Suffix effect
 
-Note: 
+Note:
 
-Time has a large impact on learning and retrieval of information. We tend to remember information at the beginning and end of a set. 
+Time has a large impact on learning and retrieval of information. We tend to remember information at the beginning and end of a set.
 
 - Primacy effect is accounted for by virtue of opportunity for more rehearsal and better consolidation into long term memory. This gets larger, the more rehearsal time given.
+
 - Recency effect accounts for the observation that the more recent something is rehearsed, the more likely it is to be remembered later. They are also not displaced by later information.
+
 - Suffix effect. If you are given a list of words to remember and the experimenter than prompts you to recall the sequence by indicating "go", that word will present interference that is not experienced had nothing been said as a prompt. This effect is influenced by location in space, voice (different person), and other perceptual qualities.
 
 ---
@@ -327,9 +399,11 @@ Time has a large impact on learning and retrieval of information. We tend to rem
 
 Note:
 
-Three stages of **skills acquisition**: 
+Three stages of **skills acquisition**:
 - Cognitive stage. Deliberative effort with high cognitive effort. Conscious assessment comparing current state with desired state.
+
 - Associative stage.  Memories are becoming directly associated with different aspects of the skill. Still requires direct retrieval of information and conscious effort, but with more ease.
+
 - Autonomous stage. Skills more more preceduralized and largely unconscious. Moved from being dominated by declarative knowledge to procedural knowledge.
 
 ---
@@ -341,7 +415,7 @@ Three stages of **skills acquisition**:
 
 Note:
 
-Frames - objects within a frame bias your perception. For example, 
+Frames - objects within a frame bias your perception. For example,
 - Camera angle / view (visual attention)
 - Situations & activities
 - Schemas simplify & distort to bring relevant information into focus
@@ -382,7 +456,7 @@ Note:
 
 We won't watch this video in class, but it's pretty cool! There are lots of practical ideas about how to improve brain function and learning.
 
-- Exercise 
+- Exercise
 - Evolution
 - Brain wiring - environment, age effects
 - "Don't be boring" - meaning ("gist") before data. Short attention (10 minute mark)
@@ -429,18 +503,6 @@ Concepts that are more highly connected are retrieved faster, the more connectio
 
 ---
 
-## *Preferences* can be induced by an **exposure effect**
-
-<img src="images/mcdonalds.png" align="center" height="50%" width="50%">
-
-Note:
-
-When someone has been exposed to something previously, they experience a mild positive association. The strength of this effect can grown with exposures. It’s also merely likely to occur with exposures across multiple contexts. And, there is an embodied aspect to exposure.
-
-Note, this is an example of repetition priming as mentioned earlier.
-
----
-
 ## Sustaining attention: Seeking & novelty
 
 <a target="_blank" href="http://www.slate.com/articles/health_and_science/science/2009/08/seeking.html">SEEKING</a> is an emotional state. (Jaak Panksepp, affective neuroscience)
@@ -470,10 +532,97 @@ Note:
 
 Note:
 
-- Presentations more effective as a narrative
+- Presentations are more effective as a narrative
 - Headlines & titles draw audience when asked as a question for which the answer is not known
 - Audiences seek cognitive resolution - another motivation for sustained attention
 - Artists and advertisers try to hold viewer attention through novelty: i.e., puzzles, non-canonical views, surrealist art, etc.
+
+---
+
+# Priming and memory effects toward preference
+
+Note:
+
+Remember for the capstone we're focused on persuasive design. That is moving users toward making better choices.
+
+---
+
+## *Preferences* can be induced by an **exposure effect** (repitition priming)
+
+<img src="images/mcdonalds.png" align="center" height="50%" width="50%">
+
+Note:
+
+When someone has been exposed to something previously, they experience a mild positive association. The strength of this effect can grown with exposures. It’s also merely likely to occur with exposures across multiple contexts.
+
+Note, this is an example of repetition priming as mentioned earlier.
+
+---
+
+## Visual saliency as a bias for preference
+
+<img src="images/relative-saliency.png" align="center" height="70%" width="70%">
+
+
+Note:
+
+Visual attention is affected by saliency -- which in turn has an affect on choices.
+
+This means there is the potential for bias.
+
+Milosavljevic et al. conducted an experiment designed to measure the size of "visual saliency bias" and how it changes with decision speed and cognitive load.
+
+The study involved a food choice experiment.
+
+Study participants were directed not to eat for three hours. They also provided their subjective ratings for food choices among snacks. They were then provided a series of choices under variable conditions using an eye tracker.
+
+Results showed that when there was little time, visual saliency influenced choices more than preferences. This bias also increases with cognitive load. Not surprisingly, the effect is stronger when individuals do not have strong preferences among options.
+
+---
+
+## Top-down processes affect preference
+
+<img src="images/top-down-preference.png" align="center" height="70%" width="70%">
+
+Note:
+
+In this study, framing affects preferences. We'll continue to talk about framing in the coming weeks.
+
+---
+
+## Effects of memory on preference
+
+<img src="images/coke-pepsi.png" align="center" height="70%" width="70%">
+
+Note:
+
+In this study by Mclure et al. (2004), subjects in a behavioral taste test were studied using functional magnetic resonance imaging (fMRI) in both anonymous and image (brand) cued conditions. Subjects presented a consistent neural response in the ventromedial PFC consistent with subjective preference. But those cued with the coke brand had dramatic responses in the hippocampus and DLPFC.
+
+Neuron, Vol. 44, 379-387, October 14, 2004, Neural Correlates of Behavioral Preference for Culturally Familiar Drinks
+Samuel M. McClure,1,2 Jian Li,1 Damon Tomlin, Kim S. Cypert, Latane ́ M. Montague,
+and P. Read Montague*
+
+---
+
+## More on neural studies
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o_8wAoh93jw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Note:
+
+New methods for advertising and marketing. Is there a role for these tools in design?
+
+---
+
+## Predict attention
+
+<img src="images/visual-saliency-complexity.jpg" align="center" height="100%" width="100%">
+
+Note:
+
+https://www.neuronsinc.com/neurovision-app
+
+This is a downloadable pay per image tool that predicts saliency and complexity from an image based purely on visual features.
 
 ---
 
@@ -500,6 +649,7 @@ Note:
 - This diagram exploits both narrative and information-gathering exploration.
 
 Animated graphics no better than static for instruction. Why? To fast, too complex, disappear, hard to perceive as discrete steps.
+
 ---
 
 ## Deixis ("pointing")
@@ -509,6 +659,8 @@ Animated graphics no better than static for instruction. Why? To fast, too compl
 Note:
 
 We mix graphical and linguistic information; a call-to-action involves an action-sequence (button press). Using the metaphor of a button, we drive attention toward the action we want the user to take and we make it easy for them to visualize invocation of a kinetic act.
+
+Don't use more than one call-to-action.
 
 ---
 
@@ -572,13 +724,36 @@ We are pattern detectors and are perception is biased. One additional feature is
 
 ---
 
+
+## Next Week
+
+- Journal
+- Elevator speech
+- Kahneman 1-9
+
+Note:
+
+2-minute summary of your case study problem.
+
+---
+
 ## References
 
 - Baddeley, A. (2007). Working memory, thought, and action (Vol. 45). OUP Oxford.
 
+- Donald, M. (1991). Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition. Harvard University Press.
+
+- Lakoff, G., & M. Johnson. (1999). Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought, New York: Basic Books.
+
+---
+
+## References (cont.)
+
 - Johnson, J. (2013). Designing with the mind in mind: simple guide to understanding user interface design guidelines. Elsevier.
 
 - Miller, J. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63: 81-97.
+
+- Suchman, Lucy (1987). Plans and Situated Actions: The Problem of Human-machine Communication. Cambridge: Cambridge University Press.
 
 - Tversky, B. - http://www-psych.stanford.edu/~bt/diagrams/index.html
 
@@ -594,13 +769,3 @@ We are pattern detectors and are perception is biased. One additional feature is
 - Ware, C. (2000). Information Visualization: Perception for Design.
 
 - Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
-
----
-
-## Next Week
-
-- Journal
-- Kahneman 1-9
-
-Note:
-

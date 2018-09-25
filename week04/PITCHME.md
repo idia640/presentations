@@ -665,137 +665,11 @@ In this diagram, you can also see two post V1/V2 pathways: the "what" pathway is
 
 ---
 
-## How do we construct meaning?
-
-<img src="images/dog.png" align="center" height="50%" width="50%">
-
----
-
-### Power of visual thinking
-
-1. The visual world is unknowable: we don't see the world like a camera.
-2. Cognition is distributed - top-down and bottom-up processes have an effect on perception.
-3. Graphics are designed to communicate. **Consider the visual task in design.**
-4. The power of visual thinking is pattern matching - but patterns aren't limited to the visual - **perceptions are linked to actions and these are response patterns**.
-5. V1 & V2 are universally the same, V4 is idiosyncratic based on experience.
-
----
-
-## How do we think of things we can't touch?
-
-*Cognition depends on aspects of our bodies and not just our brains.
-We offload our cognitive processing onto the environment and distribute
-across our physical, social and cultural environment. (Suchman, 1987)*
-
----
-
-## Embodied cognition
-
-*Thought is based on the way our bodies work*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eu-9rpJITY8" frameborder="0" allowfullscreen></iframe>
-
-<a target="_blank" href="https://www.youtube.com/watch?v=S_CWBjyIERY">Lakoff - Frames and metaphor</a>
-
-Note:
-
-Historically, in philosophy of mind & cognitive science considered the body to be peripheral to thinking. These days we tend to believe that our physicality is integral to thinking.
-
-Lakoff illustrates a metaphor about love:
-- Love is a journey - there are destinations; common life goals
-- Love relationship is like a vehicle
-- Difficulties in a love relationship are impediments to travel - spin your wheels, go on the rocks, dead-end
-
-Reasoning about travel is mapped to reasoning about love. There are inferences that can be made about love via the metaphor.
-
----
-
-## Space
-
-<img src="images/chair-table.jpg" align="center" height="90%" width="90%">
-
-Note:
-
-Representations in space are very powerful both in how we see the world, and the metaphors we use.
-
-In English, we have three frames of reference.
-
-- Object - The chair is in front of the table.
-- Viewer (egocentric) - The chair is behind the table. (Egocentric - up, sideways, towards-away)
-- Absolute - The chair is to the North of the table.
-
----
-
-## Metaphor
-
-<img src="images/apple.jpg" align="center" height="40%" width="40%">
-
-Metaphors are patterns of patterns.
-
-Note:
-
-Spatial concepts like "front", "back", "up", "down" are articulated
-in terms of our body's position and movement.
-
-But, we use them to talk about abstract things:
-- Happy is up, sad is down
-- push a button/limit (abstract object)
-- Halloween is coming up (moving objects; future events are up)
-- Weeks ahead
-
-Properties and functions of objects matter: in/on bowl/plate
-
----
-
-## Visual imagery
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OTEa1jwJbqU?start=360&end=480" frameborder="0" allowfullscreen></iframe>
-
-Note:
-
-When you visualize an image, your eyes move a pattern that reflects that image (skip to min 6 for 1-2 mins).
-
----
-
-## Performance on cognitive tasks
-
-We can perform cognitive tasks better when using our bodies or parts of the environment around us (Donald, 1991).
-
-Note:
-
-Perception of space is fundamentally about perception of action potential -- the linking of perception to action. For example, softball players who are hitting better see the ball a bigger.
-
-- Does ability influence perception or is there response bias (judgement bias from memory)?
-
----
-
-## Mirror Neurons
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t0pwKzTRG5E" frameborder="0" allowfullscreen></iframe>
-
----
-
-## How do we think of things we can't see or touch?
-
-Perhaps, we borrow from sensory and motor representations as we interact with the world.
-
----
-
 ## References
-
-- Donald, M. (1991). Origins of the Modern Mind: Three Stages in the Evolution of Culture and Cognition. Harvard University Press.
-
-- Lakoff, G., & M. Johnson. (1999). Philosophy in the Flesh: The Embodied Mind and its Challenge to Western Thought, New York: Basic Books.
 
 - Purves, D. (2010). Brains: How They Seem to Work. Ft Press.
 
 - Purves D, Morgenstern Y, & Wojtach WT. (2015). Perception and reality: Why a wholly empirical paradigm is needed to understand vision. Front. Syst. Neurosci. 9:156.
-
----
-
-## References (2)
-
-- Suchman, Lucy (1987). Plans and Situated Actions: The Problem of Human-machine Communication. Cambridge: Cambridge University Press.
 
 - Ware, C. (2010). Visual Thinking for Design. Morgan Kaufmann.
 
@@ -806,26 +680,26 @@ Perhaps, we borrow from sensory and motor representations as we interact with th
 ## Next Week
 
 - Journal
-- Elevator speech
 - Next week we'll talk about memory, priming, learning, and attention
 
 Note:
 
-2-minute summary of your case study problem.
+I hope you enjoyed your first journal entry. I will give you feedback on this first entry to help guide your success in later entries.
 
----
-
-### Case Studies
-1. Case studies are about ______
-2. Case studies have a narrative arc. For example, setup (who are we talking about?), adversity (situation now), resolution (design).
-3. People in the story have options and a ____ on what decisions to make.
-4. You want to highlight these options and present options that ____ the user toward a desired resolution
-5. You point to scientific or empirical evidence (theory from the class) that should be predictive of the outcome you desire.
+---?survey=https://docs.google.com/forms/d/e/1FAIpQLSeteJDSyUMPMHd1ZtVfK_zpC9MIX8ZigJi9LbSv-T2QrXr6eA/viewform?usp=sf_link
 
 Note:
 
-1. people (one person or a group of people)
+1. people (one person or a small group of people)
+2. narrative or story
 3. choice
 4. nudge
+5. scientific or empirical
 
 A case study is a research method that relies on detailed observations of a person or group over a period of time. It focuses on a particular situation and is a story about change. Case studies are useful in the early stages of research when you are trying to understand a problem. They are also useful for communicating to stakeholders and policy makers.
+
+They bear similarity to personas (for more information look for material by Alan Cooper on this topic).
+
+What are some differences between ethnographic research and personas?
+
+By now you have thought something about a general problem area. If you are having difficulty, pick something that already has a design that you could improve in order to guide user behavior in a more positive direction.

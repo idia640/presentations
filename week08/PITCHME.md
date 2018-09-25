@@ -81,12 +81,12 @@ This is a human-initiated dialogue activity.
 
 Note:
 
-This is also a dialogue activity. 
+This is also a dialogue activity.
 
 - (Would you) answer a few simple questions.
 - If you click "Get Started", this seems to be an acceptance.
 
-The two acts together have the feel of "question-answer". 
+The two acts together have the feel of "question-answer".
 
 ---
 
@@ -106,7 +106,7 @@ Perhaps, you don't think of yourself as a dialogue designer, but you are!
 
 - ?
 
---- 
+---
 
 ## Dialogue is multi-turn
 
@@ -119,7 +119,7 @@ Note:
 
 - You need some sort of context modeling to interpret deictic (e.g., pointing) expressions and those which refer to previous dialogue context.
 
-Only this year, Amazon released a simple dialogue development kit. 
+Only this year, Amazon released a simple dialogue development kit.
 https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
 
 ---
@@ -134,7 +134,7 @@ Your understanding of language is unconscious. You are highly competent -- exper
 
 An example where this really matters, but is still mostly done poorly: wrong user/password dialogues. While there are a few simple design patterns to draw upon, it's still very common to see this poorly implemented. Another example comes from broken links on the web. We are not computers... a 404 page is virtually meaningless to most users. No doubt you can think of other common examples!
 
-- 
+-
 
 
 
@@ -244,7 +244,7 @@ Why didn't they notice?
 
 We are very skilled at perceiving and adjusting to footing changes in dialogue. So skilled, we may not consciously recognize transitions.
 
-When Goffman talks about "footing", he means something along the lines of change in conversation stance; basically, he means framing. 
+When Goffman talks about "footing", he means something along the lines of change in conversation stance; basically, he means framing.
 
 Joint activities have structure -- but they too fall within and between frames -- another sort of structural unit.
 
@@ -302,7 +302,7 @@ Evidence of structural significance of the social situation:
   - collusion / byplay (between subset of participants)/ crossplay (participants and bystanders)
   - changed language in deference to bystanders
 
-Moving beyond conversational interaction, there are 
+Moving beyond conversational interaction, there are
 different sorts of talk (in different production formats): for example, political addresses, monologues (videoblog), panel discussions.
 
 *Audiences are imagined recipients.*
@@ -317,7 +317,7 @@ Can you spot layers and footing changes in this video? (Just the first minute.)
 
 Note:
 
-"what's up man -- I kee - 
+"what's up man -- I kee -
 
 how can I help you today"?
 (overlapping) "hey"
@@ -370,7 +370,7 @@ Immediate response versus delayed response? (Remember the importance of the long
 - Request | Acceptance
 - Promise | Acknowledgement
 - Thanks | Acknowledgement
-- Goodbye | Goodbye 
+- Goodbye | Goodbye
 
 Note:
 
@@ -380,7 +380,7 @@ These sequences are called adjacency pairs - two ordered utterances by different
 
 Some times there is a pre-sequence - set up for a joint action. For example, taking a step forward before offering a hand.
 
-We also have mechanism for signaling shifts. A 
+We also have mechanism for signaling shifts. A
 "discourse marker" can signal change in topics, change of footing, difference of opinion, digression, etc.
 
 "Oh, there's something I wanted to ask you"
@@ -450,7 +450,7 @@ Note:
 
 In conversation, external representations are important. As we orient ourselves in space, objects exist in that same space. Items can be manipulated and exchanged.
 
-Something else we must do when use dialogue is 
+Something else we must do when use dialogue is
 keep track of our moves and our partner's moves. It's not enough to predict what they will do next. People use coordinating devices to coordinate moves. You could do so by agreement (let's meet at 9). That, in itself is a joint action. Conventions can also be coordinating devices. Conventions are a group (or community's) solution to a coordination problem. "In North
 America, leaving a tip at the table in a restaurant is a solution to the recurrent problem of how to help pay the waiter or waitress." (Clark, pg 70)
 
@@ -517,7 +517,7 @@ Note:
 
 When you say something, you may mean more than what you say.
 
-Utterances in conversation contain not only explicit meaning-based content but carry what is known as illocutionary force (John Searle). This force has something to do with intent; it performs a sort of action -- and sets up expectations in the minds of hearers. 
+Utterances in conversation contain not only explicit meaning-based content but carry what is known as illocutionary force (John Searle). This force has something to do with intent; it performs a sort of action -- and sets up expectations in the minds of hearers.
 
 For example,
 
@@ -563,8 +563,8 @@ Adjacency pairs
 Backchanneling
 Confirmation
 
-How does Starbucks prevent error? 
-Starbucks uses a slot-filling technique 
+How does Starbucks prevent error?
+Starbucks uses a slot-filling technique
 
 Every signal is part of presentation phase of a projected contribution. If there is trouble, a new project is initiated.
 
@@ -695,14 +695,15 @@ Note:
 
 ---
 
-## Discussion: Vy's question
+## Mirror Neurons
 
-*Could social relationships affect comprehension?*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0pwKzTRG5E" frameborder="0" allowfullscreen></iframe>
 
-Note:
+---
 
-You may have to think back to concepts of priming and association.
+## How do we think of things we can't see or touch?
 
+Perhaps, we borrow from sensory and motor representations as we interact with the world.
 ---
 
 ## References
