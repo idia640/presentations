@@ -1,6 +1,6 @@
 
 # How we do think?
-## 3 Oct 2017
+## 2 Oct 2018
 
 ---
 
@@ -26,13 +26,13 @@
 
 Note:
 
-Kahneman's premise is that it easier to recognize other people's mistakes than our own. Kahneman, himself, references work that is now considered suspect -- but that shouldn't distract from really outstanding work that he and Tversky propagated.
+Kahneman's premise is that it easier to recognize other people's mistakes than our own. Kahneman, himself, references work that is now considered suspect -- but that shouldn't distract from really outstanding work that he and Tversky accomplished together.
 
 ---
 
 ## Review: Working memory
 
-<img src="images/baddeley.png" align="center" height="50%" width="50%">
+<img src="images/working-memory-2.gif" align="center" height="50%" width="50%">
 
 *"a temporary storage system under attentional control that underpins our capacity for complex thought"* (Baddeley,2007, p.1)
 
@@ -46,52 +46,29 @@ Visual chunks bind to non-visual. Image mind to phrases. They also bind to actio
 
 Memory is networked and activated by a small amount of information through visual system to visual working memory. We don't always notice small changes.
 
-Multi component model - components process in parallel:
-- Phonological loop
-    - holds acoustic or speech-based sequences
-    - articulatory rehearsal mechanism (e.g. remember license plate)
-    - left hemisphere
-    - possibly, important for chunking (breaking up verbal information into coherent phrases). - modality effect here.
-    - conversion from visual to verbal
-    - memory effects: rhyming causes confusion, and word length has an effect on recall.
-- Visuo-spatial sketch pad - similar function for visual or spatially encoded items.
-    - right hemisphere
-    - separate what versus where mechanisms
-- Central executive - attentionally limited system that selects and manipulates patterns / objects in the subsystems.
-    - planning, problem solving
-    - shifting & switching attention (when plan not working)
-    - fluency - ability to quickly and efficiently search for and generate new info
-    - inhibition - stop doing irrelevant actions
-    - keep goals in mind
-    - self-monitoring - check on progress
-- Episodic memory is a sub-system that:
-    - links LT memory
-    - integrates information from other sub-systems into a unified experience
-    - small area of storage capacity that does not depend on perceptual input.
-    - limit on "chunks of information" that can be bound together coherently
-    - Gives us the experience of current consciousness
-    - back up store to PSTM and VSSTM.
+Multi component model - components process in parallel.
 
 ---
 
-## Design considerations
+### Design considerations
 
 - **Chunk information** (task & information structure)
-- **Picture superiority effect** (advantage of pictures over words)
+- **Picture superiority effect** (advantage of pictures over words) https://youtu.be/U6PoUg7jXsA
 - **Prime important concepts** (e.g., search icon in mobile apps, brands, concepts)
 - **Exposure effect** (familiarity and preference)
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
-- **Direct & sustain attention** using inherent interest in SEEKING and novelty, 
-- **cognitive threads**
+- **Direct & sustain attention** using inherent interest in SEEKING and novelty
+- **Cognitive threads**
 
 ---
 
-## Design considerations (2)
+### Design considerations (2)
+- Use of **visual aids**
 - **Coordinate messages across modalities**
- - Graphical symbols to convey conventional information (but consider cross-cultural effects)
- - Arrows to direct attention
- - Spatial organization to chunk and aid comprehension
- - Visual and linguistic concordance (tone of voice, font, colors, shapes, message)
+  - Graphical symbols to convey conventional information (but consider cross-cultural effects)
+   - Arrows to direct attention
+   - Spatial organization to chunk and aid comprehension
+   - Visual and linguistic concordance (tone of voice, font, colors, shapes, message)
 
 ---
 
@@ -107,9 +84,9 @@ It's not at all clear that the developer of this user experience actually did wa
 ---
 # Walk-through example
 
-<img src="images/first-energy.png" align="center" height="50%" width="50%">
+<img src="images/first-energy.jpg" align="center" height="50%" width="50%">
 
-[FirstEnergy Corp Example](https://www.evernote.com/shard/s1/sh/72b46774-d277-4d10-b982-0c52bb79f84f/7b444d5211b53c61fdf31c10888178d6)
+[FirstEnergy Corp Example](https://www.evernote.com/shard/s1/sh/72b46774-d277-4d10-b982-0c52bb79f84f/7b444d5211b53c61fdf31c10888178d6/res/15992b24-1f61-4886-80c1-6d326c2ec36a/power-screen3.pdf)
 
 
 Note:
@@ -118,7 +95,7 @@ Note:
 - Chunking
 - Menu headings inconsistent (more difficult to compare)
 - Menu headings change with screen change - where are we?
-- Unexpectedly, asterix after "enroll"... what does this mean?
+- Unexpected asterisk after "enroll"... what does this mean?
 - Button with multiple actions??
 - Different site?
 - Reference to locations seems odd... if we're in their system, don't they know where we are?
@@ -166,7 +143,7 @@ Note:
 
 Name a fruit: banana versus guava. A guava is a fruit but has a weaker association to fruit.
 
-Retrieval is a progression from one or more cues to a target memory via associative cnnections.
+Retrieval is a progression from one or more cues to a target memory via associative connections.
 
 Many things serve as cues. We have a content addressable memory like Google (any content in memory can serve as a cue).
 
@@ -179,35 +156,18 @@ Damasio, Self Comes to Mind, 2013
 ## Associative memory
 
 
-<img src="images/association.png" align="center" height="40%" width="40%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5q7oRoTc1sw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-*"Composite memory of the sensory and motor activities related to the interaction between the organism and object during a certain period of time."*
-
-Damasio, 2011, Self Comes to Mind, p. 133
-
-Image credit: Reser, 2013, [The Neurological Process for Mental Continuity and Internally Generated Thought](http://www.cognitivemechanics.net/on_consciousness)
 
 Note:
 
+- Neuroscience of Inside-Out http://www.blakeporterneuro.com/inside-outs-take-on-the-brain-a-neuroscientists-perspective/
+-
 - We perceive by engagement.
 - To recall, we play back an approximation of a perception.
 - Sensory areas can only create one sensory image at a time, but the PFC can hold the salient goal or goal-relevant features of several at a time. Reser, 2013
 
-- sensorimotor patterns for viewing (eye, neck, head, body)
-- sensorimotor patterns for touching & manipulation (hand, location)
-- sensorimotor patterns from evocation of previous memories
-- sensorimotor patterns related to trigger of emotions and feelings relative to the object
-
 "Remembering a person or event or telling a story necessitates recall; recognizing objects and situations around us necessitates recall as well; so does thinking about objects with which we have interacted and about events we have perceived, and so does the entire imaginative process with which we plan for the future" Damasio, Self Comes to Mind, 2011, p. 136
-
-Convergence zones marry two types of memory systems: dispositional and associative maps
-- dispositions - reactivates network of past perceptions in image space. knowledgebase for reconstruction. implicit and unconscious memory.
-- image space - explicit images that are both conscious and unconscious.
-
-- Hierarchy of complexity (semantic/episodic or generic/contextual)
-    - unique personal entities & events (most)
-    - unique non-personal entities & events
-    - non-unique entities & events
 
 ---
 
@@ -260,6 +220,8 @@ Sequence matters
 
 Note:
 
+Exaggerated Emotional Coherence, Kahneman, pg. 81
+
 Initial concepts change the meaning of those that appear later. We make these impressions coherent - we suppress ambiguity.
 
 "Most impressions and thoughts arise in your conscious experience without your knowing how they got there." Kahneman, pg 4
@@ -282,12 +244,11 @@ When staff were primed by seeing eyes above the price list, they paid almost thr
 
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686213/
 
----
-
-## Behavior is our medium
-Robert Fabricant, Frog Design, 2009
+---?image=images/behavior-is-out-medium.png
 
 Note:
+
+https://vimeo.com/3730382
 
 The central business of interaction design concerns affecting and guiding behavior.
 
@@ -367,7 +328,7 @@ Zajonc
 <ul>
 <li style="font-size: .7em">Use simple language</li>
 <li style="font-size: .7em">Use high quality paper to maximize contrast</li>
-<li style="font-size: .7em">Bright blue or red more persuasive that green, yellow, or pale blue (culture sensitive)</li>
+<li style="font-size: .7em">Bright colors are more persuasive than washed out colors (culture sensitive)</li>
 <li style="font-size: .7em">Make messages memorable</li>
 <li style="font-size: .7em">Rhyming judged more insightful</li>
 <li style="font-size: .7em">Choose a source to quote with a name easy to pronounce</li>
@@ -418,10 +379,10 @@ Kahneman, 2011, Thinking, Fast and Slow (p. 156)
 
 Note:
 
-We substitute the question with one easier to answer. 
+We substitute the question with one easier to answer.
 
 Humans naturally good at grammar but not at statistics. Mental models belong to System 1:
-- We estimate probability based on on how easy it is to retrieve memories. 
+- We estimate probability based on on how easy it is to retrieve memories.
 - Emotion-charged memories are easier to retrieve.
 - We tend to over-estimate the probability of violent crime and under-estimate more benign statistics such as good works.
 
@@ -443,11 +404,11 @@ Note:
 
 Todorov reference in Kahneman pg. 90.
 
- "Todorov showed his [Princeton] students pictures of men's faces, sometimes for as little as one-tenth of a seciond, and asked them to rate the faces on various attributes, including likability and competence. Observers agreed quite well on these ratings. The faces that Todorov showed were not a random set: they were the campaign portraits of politicians competing for elective office."
+ "Todorov showed his [Princeton] students pictures of men's faces, sometimes for as little as one-tenth of a second, and asked them to rate the faces on various attributes, including likability and competence. Observers agreed quite well on these ratings. The faces that Todorov showed were not a random set: they were the campaign portraits of politicians competing for elective office."
 
 When he compared the results of electoral races to ratings of competence, what happened?
 
-In about 70% of the races, the winner was the canddate whose face had earned higher ratings of competence. Todorov judged "competence" by combining two dimentions of strength and trustworthiness. [No way to prove this, but this reflects judgements influenced by attributes we value.]
+In about 70% of the races, the winner was the candidate whose face had earned higher ratings of competence. Todorov judged "competence" by combining two dimensions of strength and trustworthiness. [No way to prove this, but this reflects judgements influenced by attributes we value.]
 
 We're very good at relative judgements - using prototypes & exemplars.
 
@@ -456,12 +417,12 @@ Quantity irrelevant emotional context has a larger impact. Underlying dimension 
 Kahneman calls this a mental shotgun (excess computation) combined with intensity matching makes it possible to have intuitive judgements about things that we know little about.
 
 
-Follow-up studies... 
+Follow-up studies...
 Wartime to peacetime voting preference (ULittle, Roberts, Jones, Debruine 2012)
 
 What about in advertising?
 
-"Imagine that an organization has a list of FB friends, and through some kind of algorithm can detect two friends that you like the most. And then they create, in real time, a facial composite of these two friends. Now studies prior to ours have shown that people don't recognize any longer even themselves in facial composites, but they react to those composites in a positive manner. So next time you are looking for a certain prodct, and there is an ad suggesting you to buy it, it will not just be a standard spokeperson. It will be one of your friends, and you will not even know that this is happening. " (Aquisti, 2013)
+"Imagine that an organization has a list of FB friends, and through some kind of algorithm can detect two friends that you like the most. And then they create, in real time, a facial composite of these two friends. Now studies prior to ours have shown that people don't recognize any longer even themselves in facial composites, but they react to those composites in a positive manner. So next time you are looking for a certain product, and there is an ad suggesting you to buy it, it will not just be a standard spokesperson. It will be one of your friends, and you will not even know that this is happening. " (Aquisti, 2013)
 
 ---
 
@@ -522,8 +483,7 @@ System 1 is coherence seeking. It suggests solutions to the un-suspecting System
 
 1. Journal
 1. Emotion (alt video for Damasio)
-1. Discussion led by Justin
 
 Note:
 
-Last year feedback by students on Damasio was tepid. He writes popular books (much like Kahneman) that cater to non-experts. So I don't know if a negative reaction is because of his style, or because I dropped students into the middle of one of his books. Thus, I've provided a video of him speaking as an alternative to his material.
+Some feedback by students on Damasio has been tepid. He writes popular books (much like Kahneman) that cater to non-experts. So I don't know if a negative reaction is because of his style, or because I dropped students into the middle of one of his books. Thus, I've provided a video of him speaking as an alternative to his material.
