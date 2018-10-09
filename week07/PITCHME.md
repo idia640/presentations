@@ -1,19 +1,14 @@
 
 # How do emotions affect belief?
-## 10 Oct 2017
+## 9 Oct 2018
 
 ---
 
-## Outline
+### Outline
 
 1. Emotions & Feelings
-    - What are they?
-    - Are emotions universal?
-    - How do they work?
-    - Effects (Perception, Memory, Attention, Priming, Thinking, Beliefs, Attitudes)
 1. Habits
-    - How do habit loops work?
-    - Interaction within social groups?
+1. Function & measurement of emotions
 1. Interaction Design: Behavior as a Medium (Video)
 
 ---
@@ -30,30 +25,35 @@ Emotional arousal is a fundamental consideration in persuasion. Because of the b
 
 *How would you relate Damasio's theory of emotion to Kahneman's dual processing theory?*
 
+Note:
+
+Would you imagine that emotion plays a larger role in System 1 decisions or System 2 decisions?
+
 ---
 
 ## Objectives
 
-- Understand how emotional processing interacts with cognition and behavior.
+- Understand the role of emotion in behavior.
 - Understand why user motivations and values are so important to UX.
 
 Note:
 
-Why are we reading Damasio, especially when **Decarte's Error** is more than 20 years old? 
-
-By-and-large, Damasio's observations and studies referenced in the first part of the book are still important toward our understanding of human emotion today. Chapter seven still largely describes a predominant paradigm of emotional processing today. Damasio's work stems directly from two “fathers of affective neuroscience” - Darwin and James.
+By-and-large, Damasio's observations and studies referenced in the first part of the book are still important toward our understanding of human emotion today. Damasio's work stems directly from two “fathers of affective neuroscience” - Darwin and James.
 
 Darwin noted that animal emotions were similar to human and that there appears to be a set of basic emotions across species and cultures (anger, fear, surprise, sadness)
 
 William James, some 10 years later, proposed that emotions are the experience of bodily changes. Carl Lange had the same theory and thus the James-Lange theory became the predominant theory of emotion.
 
-This remains the most influential theory of emotion, though today affective neuroscientists have added a feedback mechanism.
+This remains the most influential theory of emotion, though today affective neuroscientists have proposed a feedback mechanism.
 
-Descartes error:  Emotion is a part of reason. Human reason depends on several brain systems working in concert. This book focuses on the role of emotion in decision-making.
-- There is a distinction between emotions & feeling. Feelings are direct perceptions of the body. The essence of feeling is a continually updated image of the structure and state of the body.  
-- Cognition is embodied. The brain functions by mapping the body. Body represented in the brain is inextricably tied neural processes we experience in the mind. We must take into account the organism and environment. 
+Descartes error:  Emotion is a part of reason. Human reason depends on several brain systems working in concert. In Descartes Error, Damasio focuses on the role of emotion in decision-making.
+- There is a distinction between emotions & feeling. Feelings are direct perceptions of the body. The essence of feeling is a continually updated image of the structure and state of the body.
+- Cognition is embodied. The brain functions by mapping the body. Body represented in the brain is inextricably tied neural processes we experience in the mind. We must take into account the organism and environment.
 
-Damasio’s is not the only theory for emotion, but his position is captures some fundamental concepts of value. There is some criticism that his idea of mental states consistent of bodily awareness. [Embodied cognition.] Yet this idea seems to resonate in both cognitive linguistics and Kahneman’s dual processing.
+Damasio’s is not the only theory for emotion. There is some criticism that his idea of mental states consistent of bodily awareness. [Embodied cognition.] Yet this idea seems to resonate with Kahneman’s interpretation of 'dual process' theory - that there are two systems for thinking:
+unconscious (system 1 - fast and automatic) with strong emotional bonds as a part of reasoning and conscious (system 2 - slower, more effortful and affected by conscious judgments and attitudes).
+
+System 1 plays a strong role in habit formation and we'll talk about that shortly.
 
 The limbic system still dominates as our view of “the emotional brain”, though we understand better that it also participates in other functions such as memory.
 
@@ -78,15 +78,15 @@ Panksepp, J. (2003). Damasio’s error?. Consciousness and Emotion, 4(1), 111-13
 
 Note:
 
-Phineas Gage - Iron spike through the brain and died in 1861 after experiencing a transformation of character. His ability to anticipate the future and plan within a complex social environment impaired. Conventions, ethics, forethought, impaired decision-making. Some part of the value system remains abstractly - but not connected to real-life situations. 
+Phineas Gage - Iron spike through the brain and died in 1861 after experiencing a transformation of character. His ability to anticipate the future and plan within a complex social environment impaired. Conventions, ethics, forethought, impaired decision-making. Some part of the value system remains abstractly - but not connected to real-life situations.
 
-Impaired social conduct and prefrontal lobe damage. 
+Impaired social conduct and prefrontal lobe damage.
 
 “Elliot” was a patient of Damasio’s that was a modern correlate to Phineas Gage. Tumor just above nasal cavity and damaged neural tissue removed, as well. Elliot seemed sound, but there were subtle changes in intellect. The primary changes were emotional. Topics that once evoked a strong emotion no longer caused any reaction, positive or negative. He had a normal ability in social situations and for moral reasoning.
 
 Subjects with similar brain lesions also encountered abnormal decision-making with very specific injuries in the emotional system.
 
-Interestingly, their ability to do cost/benefit analysis was not lost. 
+Interestingly, their ability to do cost/benefit analysis was not lost.
 
 Damasio speculates that emotion allows you to mark things as good, bad, or indifferent.
 
@@ -111,9 +111,25 @@ Feelings of emotion are the composite perceptions of what happens in the body an
 
 Emotion creates visceral responses (feelings) that run in parallel paths to thoughts and beliefs as we experience in the moment and then recall in the future.
 
-A nesting principle - "feelings are a mental expression of all other levels of homestatic regulation." (Damasio)
+In the David Brooks interview, Damasio referred to a two stage process where first actions are non-conscious emotions (e.g., sweating, heart rate, circulation, fight/flight, etc.) and then comes our awareness or perception of emotions. Feelings are perceptual and part of what we remember.
 
-Not exactly like a Russian doll, since only some of lower, simpler reactions are incorporated into higher order machinery.
+We act both on emotions and on feelings.
+
+
+---
+## Emotion thermometer
+
+<img src="images/emotion-thermometer.jpg" align="center" height="50%" width="50%">
+
+Note:
+
+In this model, there are two dimensions: arousal and valence. They both vary from low to high (negative to positive).
+
+You can have emotion without feelings, but not the other way around.
+
+Emotions and feelings both lead to action -  changes in behavior.
+
+They also color and change the way we see the world.
 
 ---
 
@@ -123,21 +139,21 @@ http://www.paulekman.com/uncategorized/darwins-claim-universals-facial-expressio
 
 Note:
 
-What are emotions? To talk about them, we have to referencereward & punishment, drives, motivations, and basic life regulation. They are important as key elements in decision-making and learning.
+To talk about emotions, we also have to reference reward & punishment, and drives & motivations. They are important as key elements in decision-making and learning.
 
 Damasio speaks of emotions as automated programs of actions. (Facial expressions, posture, etc.)
 
-This raises the question of whether emotions are universal? There appear to be universal facial expressions which are reflections of emotion through feeling.
+This raises the question of whether emotions are universal? There appear to be universal facial expressions; reflections of emotion through feeling.
 
-Facial expressions not only are informative about individuals’ feelings, but patterns of neurophysiological activation in their bodies.
+Facial expressions are not only are informative about individuals’ feelings, but also patterns of neurophysiological activation in their bodies.
 
 Paul Ekman notes that facial expressions are universal - they are predictably stable biological constructs. But what triggers emotions are not.
 
-His experiments noted that when subjects moved facial muscles to reflect emotional states, they experienced feelings appropriate to the expression. 
+His experiments noted that when subjects moved facial muscles to reflect emotional states, they experienced feelings appropriate to the expression.
 
-Damasio mentions fear, anger, sadness, happiness, disgust, and surprise as "so-called universal emotions". But Eklman lists six overlapping basic emotions, while Panksepp (animal behaviorst) seven.
+Not unlike the metaphor of the emotion thermometer, Damasio refers to the idea of background emotions that re largely positive or negative; he discusses their role in our perception of the continuity of conscious awareness.
 
-Damasio also refers to the idea of background emotions. These appear to be largely positive or negative in affect and he discusses their role in our perception of the continuity of conscious awareness. 
+Damasio also talks about fear, anger, sadness, happiness, disgust, and surprise as "so-called universal emotions". But Eklman lists six overlapping basic emotions, while Panksepp (animal behaviorst) seven. There is no universal agreement on basic emotions.
 
 ---
 
@@ -153,9 +169,9 @@ Emotions are tied to drives and motivations which are components of each emotion
 
 [Biological drives also shape behavior. Some may not be purely about survival (hunger, thirst). Panksepp talked about the SEEKING which relates to curiosity, sensory stimulation, and movement.]
 
-Emotional states unfold over time in a chain of events, triggered by images of objects or events (actual or recalled)
+Emotional states unfold over time in a chain of events, triggered by images of objects or events (actual or recalled).
 
-The amygdala plays a role in forming assocations between external stimuli and re-inforcing events (Pavlovian assications) that stamp in experiences. 
+The amygdala plays a role in forming associations between external stimuli and reinforcing events (Pavlovian associations) that stamp in experiences.
 
 Such associations can guide goal-directed behavior.
 
@@ -173,13 +189,13 @@ Panksepp notes that attachment is addictive and promotes social bonding.
 
 ## Social emotions
 
-<img src="images/pirates.jpg" align="center" height="20%" width="20%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/meiU6TxysCg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-For example: compassion, embarrassment, shame, guilt, contempt, jealousy, envy, pride, admiration
-
-https://www.youtube.com/watch?v=HL45pVdsRvE (inequity)
+Two Monkeys Were Paid Unequally: Excerpt from Frans de Waal's TED Talk (Moral Behavior in Animals)
 
 Note:
+
+These can be characterized as more complex emotions. For example: compassion, embarrassment, shame, guilt, contempt, jealousy, envy, pride, admiration -- and fairness
 
 Some emotions are triggered in social settings. These are thought to be more recent in an evolutionary sense. There is a focus on mental and social feelings rather than physical. Such emotions form a natural grounding for ethical systems.
 
@@ -197,11 +213,12 @@ Blakeslee S, Dr Joseph Ledoux, [Using Rats to Trace Routes of Fear](http://www.n
 
 Note:
 
+Let's walk through this:
 
-1. Conscious thought about a situation.
-2. Activated network in pre-control cortex pairing previous knowledge and paired emotional responses. 
-3. Non-conscious signaling to amygdala which triggers the body to react emotionally and also change to the brain to result in additional mental change.
-4. This last emotional response is feeling.
+1. There is a conscious thought about a situation.
+2. This activates network in pre-control cortex pairing previous knowledge and paired emotional responses.
+3. Non-conscious signaling to amygdala triggers the body to react emotionally and also change to the brain to result in additional mental change.
+4. Finally, there is an emotional response (perception) as a feeling.
 
 Right hemisphere of brain is more involved in processing emotion.
 
@@ -242,6 +259,7 @@ Fear can also affect low-level visual processes.
 Emotion and motivation can also make things easier to see.
 
 Zadra & Clore, 2011
+Ramsoey, 2014
 
 ---
 
@@ -255,7 +273,7 @@ Memory stores accompanying emotion.
 
 Negative emotion leads to recall of ideas of negative facts.
 
-Perceptual signals from images reach multiple parts of the brain responsible for language, movement, conceptual association - but also may trigger an emotional chain reaction. May only take a few hundred milliseconds, but consumes much energy having an affect on mental resources such as attention and working memory.
+Perceptual signals from images reach multiple parts of the brain responsible for language, movement, conceptual association - but also may trigger an emotional chain reaction. This may take a few hundred milliseconds.
 
 ---
 
@@ -294,15 +312,11 @@ If this is so, the amygdala processes fear, perhaps, as quickly as recognition o
 
 Note:
 
-There is an inter-dependence between executive and affective processes:
-  - Emotionally salient information can disrupt the ability to attend to task-relevant information (Arnsten & Goldman-Rakic, 1998)
-  - Emotional stimuli can enhance cognitive processing (Delcos & MCarthy, 2006)
-
 Explicit & implicit ethnocentrism are distinct.  Social groups and activated attitudes have an indirect relationship on implicit ethnocentrism.
 
-"The amygdala is implicated in the automatic evaluation of socially relevant stimuli, while the anterior cingulate and dorsolateral prefrontal cortices are involved in the detection and regulation, respectively, of implicit attitude." (Stanley, Phelps, Banaji, 2008).
-
 Cunningham, Nazlek, Banaji, 2004 - us/them ethnocentrism. Task goals can affect - move attention away from social category toward an individual person or shared task and the response may disappear.
+
+"The amygdala is implicated in the automatic evaluation of socially relevant stimuli, while the anterior cingulate and dorsolateral prefrontal cortices are involved in the detection and regulation, respectively, of implicit attitude." (Stanley, Phelps, Banaji, 2008).
 
 ---
 
@@ -312,9 +326,13 @@ Cunningham, Nazlek, Banaji, 2004 - us/them ethnocentrism. Task goals can affect 
 
 Note:
 
-System 1 based on formed habits are difficult to change or manipulate (more on habits shortly)
+System 1 based on formed habits are difficult to change or manipulate.
 
 Effects on thinking - sadness slows down thinking.
+
+There is an inter-dependence between executive and affective processes:
+  - Emotionally salient information can disrupt the ability to attend to task-relevant information (Arnsten & Goldman-Rakic, 1998)
+  - Emotional stimuli can enhance cognitive processing (Delcos & MCarthy, 2006)
 
 ---
 
@@ -327,7 +345,7 @@ Note:
 
 Emotions influence the content and strength of belief - amplifies or alters by making them resistant to change.
 
-Emotion stronger than belief stronger than knowledge in the context of action.
+Emotion is stronger than belief which is stronger than knowledge in the context of action.
 
 ---
 
@@ -384,7 +402,7 @@ Barnes, Kubota, Hu, Jin, Graybiel Nature 2005
 
 The basal ganglia facilities learning during behavior routines. It plays a role in processing rewards.
 
-The areas of the brain associated with the basal ganglia are constantly communicating with the PFC (decision-making) which make value judgements about good and bad. When positive associations  are cued, we develop habits and cravings. 
+The areas of the brain associated with the basal ganglia are constantly communicating with the PFC (decision-making) which make value judgements about good and bad. When positive associations  are cued, we develop habits and cravings.
 
 ---
 
@@ -402,15 +420,59 @@ Duhigg, Charles (2012-02-28). The Power of Habit: Why We Do What We Do in Life a
 
 ---
 
-## Values, motivation, and emotions are inextricably bound.
+## Wrap-up: What do emotions do?
 
-*To be persuasive, you must understand and draw upon user motivatations and values.*
+- Lead to actions
+- Change how we perceive things
+- Behavioral efficiencies (heuristics)
+- Social signaling
+
+---
+
+## How can we assess emotions?
+
+- **Emotional response** (e.g., pupillary response, sweating, neuroimaging, heart rate, respiration, facial expressions)
+- **Actions** - response times, choice
+- **Feelings** - self-reports, surveys, interviews, live reporting
+
+---
+
+## Motivations prime actions
+
+**Liking** - Hedonic, evaluative experience. "I like that"
+** Wanting** - Unconscious, measured indirectly
 
 Note:
 
-This re-inforces the value of ethnographic research.
+In brain studies, the higher the motivation index, the more people pay. The brain makes up it mind several seconds before there is conscious awareness.
 
-And... consider the role of social bonds in persuasion. We will discuss this later! 
+Knutson et. al 2007. Neural predictors of purchases.
+
+Liking and wanting involve distinct processes neurologically. 'Wanting' involves some sense of future reward or goal.
+
+---
+
+## Values
+
+<img src="images/cheap-expensive-chocolate.png" align="center" height="50%" width="50%">
+
+Note:
+
+Relative values are involved when making choices between motivations
+
+---
+
+## Values, motivation, and emotions are inextricably bound.
+
+*To be persuasive, you must understand and draw upon user motivations and values.*
+
+Note:
+
+This reinforces the value of ethnographic research.
+
+And... consider the role of social bonds in persuasion. We will discuss this later!
+
+To delve further into decision-making, we will return to Kahneman in a couple of weeks.
 
 ---
 
@@ -422,7 +484,7 @@ Note:
 
 This is a great video -- and it will give you insight into how to think about your case study.
 
-It runs an hour. If you are short on time, skip to about 9:30.
+It runs an hour.
 
 ---
 
@@ -432,7 +494,7 @@ It runs an hour. If you are short on time, skip to about 9:30.
 
 - Barnes, T. D., Kubota, Y., Hu, D., Jin, D. Z., & Graybiel, A. M. (2005). Activity of striatal neurons reflects dynamic encoding and recoding of procedural memories. Nature, 437(7062), 1158-1161.
 
---- 
+---
 
 ## References (2)
 
@@ -463,4 +525,3 @@ It runs an hour. If you are short on time, skip to about 9:30.
 - Phelps, E. A., Ling, S., & Carrasco, M. (2006). Emotion facilitates perception and potentiates the perceptual benefits of attention. Psychological science, 17(4), 292-299.
 
 - Zadra, J. R., & Clore, G. L. (2011). Emotion and Perception: The Role of Affective Information. Wiley Interdisciplinary Reviews. Cognitive Science, 2(6), 676–685.
-
