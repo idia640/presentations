@@ -23,7 +23,7 @@ Emotional arousal is a fundamental consideration in persuasion. Because of the b
 
 ---
 
-*How would you relate Damasio's theory of emotion to Kahneman's dual processing theory?*
+*How would you relate Damasio's theory of emotion to Kahneman's dual process theory?*
 
 Note:
 
