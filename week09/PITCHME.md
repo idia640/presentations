@@ -262,7 +262,7 @@ Note:
 
 ## Affect in UX
 
-<img src="images/airbnb-welcome-home.png" align="center" width=“20%” height=“20%”>
+<img src="images/airbnb-welcome-home.jpg" align="center" width=“20%” height=“20%”>
 
 
 - Focus attention on the user problem (for example, “Get dinner delivered faster” is better than “Fast food delivery online.”)
@@ -496,7 +496,7 @@ Why might people not opt-in?
 
 ## Privacy context
 
-<img src="images/implicature.png" align="center" width=“100%” height=“100%”>
+<img src="images/implicature.jpg" align="center" width=“100%” height=“100%”>
 
 Note:
 
