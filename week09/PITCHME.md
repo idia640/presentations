@@ -1,5 +1,5 @@
 # How do people make decisions?
-## 24 Oct 2017
+## 30 Oct 2017
 
 ---
 ## Outline
@@ -13,7 +13,7 @@ Note:
 
 Most of the concepts we learned about relating to perception, cognition, memory, emotion etc. are reflected in language use. Since you, the designer, are responsible for designing communications for users in an interactive media, principles in face-to-face communication (also interactive) apply heavily. So we’ll review some examples within the context of design.
 
-We’ll then move on to Kahneman again, since as you recall, the focus of his work has been on systemic and predictable bias in how people make decisions. 
+We’ll then move on to Kahneman again, since as you recall, the focus of his work has been on systemic and predictable bias in how people make decisions.
 
 Heuristics are essentially simple rules that people use to form judgements and make decisions. Such heuristics can lead to cognitive bias.
 
@@ -21,11 +21,11 @@ A cognitive bias is a systematic error in thinking or judgement where subjective
 
 Because as a designer you want to positively influence users to make predictable decisions, understanding such heuristics and biases are key.
 
-The second influentional body of work that Kahneman and Tversky contributed to behavioral economics is known as Prospect Theory. In this work, they studied how people make decisions on potential losses and gains in situations of risk, and estimate these losses and gains by using heuristics.
+The second influential body of work that Kahneman and Tversky contributed to behavioral economics is known as Prospect Theory. In this work, they studied how people make decisions on potential losses and gains in situations of risk, and estimate these losses and gains by using heuristics.
 
-Finally, we’ll talk briefly about how you are not just a UX designer, but a choice architect. Framing choices is essential in driving behavior. Any potential action a user can take is a choice... whether reading content, clicking a link, or engaging with your site in the future. Richard Thaler, the author of the article “Choice Architecture" (which you will read next week), recently won the Nobel Prize in economics.
+Finally, we’ll talk briefly about how you are not just a UX designer, but a choice architect. **Framing choices is essential in driving behavior.** Any potential action a user can take is a choice... whether reading content, clicking a link, or engaging with your site in the future. Richard Thaler, the author of the article “Choice Architecture" (which you will read next week), recently won the Nobel Prize in economics.
 
---- 
+---
 
 ## Dialogue - Prediction
 
@@ -36,6 +36,7 @@ Note:
 
 - We are pattern matchers
 - Smart brains are lazy
+- Design for dialogue because user brains are wired for dialogue interaction.
 
 *This image and those to follow from: http://www.creativebloq.com/ux/problems-81412676*
 
@@ -111,7 +112,7 @@ image credit: http://www.slideshare.net/arjanharing/introduction-persuasive-tech
 
 Note:
 
-Kahneman (as Tversky had passed away) - Nobel prize in 2002 "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty". They lay the foundation for a new field of research known as behavioral economics, which even today is generating new insights into human behavior in a myriad of contexts.
+Kahneman (as Tversky had passed away) - Nobel prize in 2002 "for having integrated insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty." They lay the foundation for a new field of research known as behavioral economics, which even today is generating new insights into human behavior in a myriad of contexts.
 
 Their work on biases and heuristics went a long way toward explaining how people often simplify problems to answer difficult questions. We do not, in fact, think like computers and have a difficult time taking past evidence to make inferences about the future.
 
@@ -124,11 +125,11 @@ Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and b
 ## Biases and heuristics
 
 - Anchoring
-- Availability 
+- Availability
 - Affect
 - Representativeness
 
-Note: 
+Note:
 
 These are the biases from Kahneman that we will discuss. We’be talked about others, for example the Halo effect, but we won’t try to cover all possible cognitive biases.
 
@@ -148,7 +149,7 @@ Warm-up video!
 
 Based on statistical analyses, the Oakland A's considered that traditional statistics might be flawed and began to look for predictors of player performance that were under-valued by the market.
 
-Question of similarity easier than liklihood (estimations off base rates).
+Question of similarity easier than likelihood (estimations off base rates).
 
 ---
 
@@ -160,7 +161,7 @@ Image credit: http://quotesgram.com/dan-ariely-quotes/
 
 Note:
 
-Ariely experiment: Dan Ariely and his students would hold up a bottle of wine (or other object) and give a positive review. Then each student wrote down the last two of his/her SSN in the form of a price for that object. If the last two digits were 22, then the bottle of wine was priced at $22. Then the bidding began. 
+Ariely experiment: Dan Ariely and his students would hold up a bottle of wine (or other object) and give a positive review. Then each student wrote down the last two of his/her SSN in the form of a price for that object. If the last two digits were 22, then the bottle of wine was priced at $22. Then the bidding began.
 
 “Sure enough, the anchoring effect scrambled their ability to judge the value of the items. People with high social security numbers paid up to 346 percent more than those with low numbers. People with numbers from 80 to 99 paid on average $26 for the trackball, while those with 00 to 19 paid around $9.”
 https://www.inc.com/the-build-network/the-anchoring-effect.html
@@ -191,7 +192,7 @@ For example, Kahnemann cites work from Slovic, Lichtenstein and Fischoff where t
 
 ”Unusual events (such as botulism) attract disproportionate attention and are consequently perceived as less unusual than they really are." pg 138
 
-From our own experiences in recent times, Kahneman's statement that "estimates of deaths warped by media coverage which is biased toward novelty and poignancy" is particuarly applicable.
+From our own experiences in recent times, Kahneman's statement that "estimates of deaths warped by media coverage which is biased toward novelty and poignancy" is particularly applicable.
 
 If you think back to Damasio, the "ease at which ideas of various risk that come to mind are inextricably linked to emotional reactions." There is "almost a direct representation of activation of ideas in associative memory."
 
@@ -217,17 +218,17 @@ The Tom W case is a good example.
 
 Tom W is a graduate student at the main university in your state. Please rank the following nine fields of graduate specialization in order of the likelihood that Tom W is now a student in each of these fields. Use 1 for the most likely, 9 for the least likely. business administration computer science engineering humanities and education law medicine library science physical and life sciences social science and social work
 
-Kahneman, Daniel. Thinking, Fast and Slow (p. 146). Farrar, Straus and Giroux. Kindle Edition. 
+Kahneman, Daniel. Thinking, Fast and Slow (p. 146). Farrar, Straus and Giroux. Kindle Edition.
 
 In the absence of specific information about Tom W, you will go by the base rates and guess that he is more likely to be enrolled in humanities and education than in computer science or library science, because there are more students overall in the humanities and education than in the other two fields.
 
-Kahneman, Daniel. Thinking, Fast and Slow (p. 147). Farrar, Straus and Giroux. Kindle Edition. 
+Kahneman, Daniel. Thinking, Fast and Slow (p. 147). Farrar, Straus and Giroux. Kindle Edition.
 
 Next comes a task that has nothing to do with base rates. The following is a personality sketch of Tom W written during Tom’s senior year in high school by a psychologist, on the basis of psychological tests of uncertain validity: Tom W is of high intelligence, although lacking in true creativity. He has a need for order and clarity, and for neat and tidy systems in which every detail finds its appropriate place. His writing is rather dull and mechanical, occasionally enlivened by somewhat corny puns and flashes of imagination of the sci-fi type. He has a strong drive for competence. He seems to have little feel and little sympathy for other people, and does not enjoy interacting with others. Self-centered, he nonetheless has a deep moral sense.
 
-Kahneman, Daniel. Thinking, Fast and Slow (p. 147). Farrar, Straus and Giroux. Kindle Edition. 
+Kahneman, Daniel. Thinking, Fast and Slow (p. 147). Farrar, Straus and Giroux. Kindle Edition.
 
-Kahneman notes that even those trained in statistics fall prey to represenativeness bias.
+Kahneman notes that even those trained in statistics fall prey to representativeness bias.
 
 ---
 
@@ -338,7 +339,7 @@ From an interview with Dan Ariely (https://www.theguardian.com/money/2008/may/20
 
 ## Loss aversion
 
-*You are offered a gamble on the toss of a coin. If the coin shows tails, you lose $ 100. If the coin shows heads, you win $ 150.*
+*You are offered a gamble on the toss of a coin. If the coin shows tails, you lose 100 dollars. If the coin shows heads, you win 150 dollars.*
 
 <img src="images/coin-flip.png" align="center" width=“100%” height=“100%”>
 
@@ -545,14 +546,16 @@ Why does this work?
 
 ---
 
-## You are a choice architect 
+## You are a choice architect
 Fear-based messaging
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PYm87nE7JGc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYm87nE7JGc?start=200&end=920" frameborder="0" allowfullscreen></iframe>
 
 http://www.marketingexperiments.com/marketing-optimization/fear-based-messaging
 
 Note:
+
+Back to your case study. MecLabs presents a simple ex
 
 "You influence and shape thinking through dialogue with users. You optimize thoughts as in a conversation. You want them to agree on proposals and continue to collaborate in interaction."
 
@@ -581,7 +584,7 @@ Good example of mappings:
 
 Defaults
 
-Give feedback - how well you are doing versus your neighbors for power usage? 
+Give feedback - how well you are doing versus your neighbors for power usage?
 
 Expect error (drug dosages, email attachments, checklist for routine actions)
 
@@ -592,7 +595,7 @@ Structure complex choices - Collaborative filtering is a solution to a choice ar
 
 ## Next Week
 
-- Happy Halloween! Presentation/discussions only
+- Persuasion
 - Journal (Kahneman)
 
 ---
