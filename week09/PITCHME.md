@@ -2,7 +2,7 @@
 ## 30 Oct 2018
 
 ---
-## Outline
+### Outline
 
 - Review
 - Biases and Heuristics
@@ -27,7 +27,7 @@ Finally, we’ll talk briefly about how you are not just a UX designer, but a ch
 
 ---
 
-## Dialogue - Prediction
+### Dialogue - Prediction
 
 <img src="images/autocomplete.jpg" align="center" width=“100%” height=“100%”>
 
@@ -42,7 +42,7 @@ Note:
 
 ---
 
-## Dialogue - Immediate Feedback
+### Dialogue - Immediate Feedback
 
 <img src="images/immediate-feedback.png" align="center" width=“100%” height=“100%”>
 
@@ -55,7 +55,7 @@ Note:
 
 ---
 
-## Dialogue - Error prevention
+### Dialogue - Error prevention
 
 <img src="images/habits-error.png" align="center" width=“100%” height=“100%”>
 
@@ -65,7 +65,7 @@ Note:
 
 ---
 
-## Dialogue - Framing
+### Dialogue - Framing
 
 <img src="images/framing-ui.png" align="center" width=“100%” height=“100%”>
 
@@ -78,7 +78,7 @@ http://www.creativebloq.com/ux/problems-81412676
 
 ---
 
-## Dialogue - Salience
+### Dialogue - Salience
 
 <img src="images/focus-ui-1.jpg" align="center" width=“100%” height=“100%”>
 <img src="images/focus-ui-2.jpg" align="center" width=“100%” height=“100%”>
@@ -89,7 +89,7 @@ Note:
 
 ---
 
-##  Dialogue - Sub-dialogues & information packaging
+###  Dialogue - Sub-dialogues & information packaging
 
 <img src="images/sub-dialogue.png" align="center" width=“100%” height=“100%”>
 
@@ -101,7 +101,7 @@ You could also see this as information packaging, but when you think about sub-d
 
 ---
 
-## Kahneman & Tversky
+### Kahneman & Tversky
 
 [Judgement under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)
 
@@ -122,7 +122,7 @@ Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and b
 
 ---
 
-## Biases and heuristics
+### Biases and heuristics
 
 - Anchoring
 - Availability
@@ -135,7 +135,7 @@ These are the biases from Kahneman that we will discuss. We’be talked about ot
 
 ---
 
-## Moneyball
+### Moneyball
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWgyy_rlmag" frameborder="0" allowfullscreen></iframe>
 
@@ -153,7 +153,7 @@ Question of similarity easier than likelihood (estimations off base rates).
 
 ---
 
-## Anchoring - Setting a reference point
+### Anchoring - Setting a reference point
 
 <img src="images/anchoring_bias.jpg" align="center" width=“50%” height=“50%”>
 
@@ -178,7 +178,7 @@ Because System 2 makes its judgment using information retrieved by memory (an au
 
 ---
 
-## Availability heuristic
+### Availability heuristic
 
 *The availability bias describes the process of judging frequency by "the ease of which instances come to mind."*
 
@@ -198,7 +198,7 @@ If you think back to Damasio, the "ease at which ideas of various risk that come
 
 ---
 
-## Representativeness: How many fish do you see?
+### Representativeness: How many fish do you see?
 
 *People make predictions based on how representative (similar) something is*
 
@@ -232,7 +232,7 @@ Kahneman notes that even those trained in statistics fall prey to representative
 
 ---
 
-## Representativeness and availability in UX?
+### Representativeness and availability in UX?
 
 <img src="images/personas.png" align="center" width=“100%” height=“100%”>
 
@@ -248,7 +248,7 @@ From Cooper.com:
 
 ---
 
-## Affect heuristic
+### Affect heuristic
 
 <img src="images/affect.jpg" align="center" width=“100%” height=“100%”>
 
@@ -260,7 +260,7 @@ Note:
 
 ---
 
-## Affect in UX
+### Affect in UX
 
 <img src="images/airbnb-welcome-home.jpg" align="center" width=“20%” height=“20%”>
 
@@ -276,7 +276,7 @@ Image credit: https://uxmag.com/articles/the-3-most-powerful-heuristics-designer
 
 ---
 
-## Biases and Heuristics - Cheatsheet
+### Biases and Heuristics - Cheatsheet
 
 <img src="images/cog-bias-wheel.jpg" align="center" width=“100%” height=“100%”>
 
@@ -289,7 +289,7 @@ What do marketing and advertising analysts study and understand well?
 
 ---
 
-## "Anxiety: campaigns and certain media are engaging in a form of neurological warfare."
+### "Anxiety: campaigns and certain media are engaging in a form of neurological warfare."
 
 <img src="images/anxiety-unknown.png" align="center" width=“60%” height=“60%”>
 
@@ -315,7 +315,7 @@ The second way: Anxiety can turn to fear. Part of threat detection is learning, 
 
 ---
 
-## Buying a car - rationally
+### Buying a car - rationally
 
 <img src="images/car-comparison-chart.jpg" align="center" width=“70%” height=“70%”>
 
@@ -337,7 +337,7 @@ From an interview with Dan Ariely (https://www.theguardian.com/money/2008/may/20
 
 ---
 
-## Loss aversion
+### Loss aversion
 
 *You are offered a gamble on the toss of a coin. If the coin shows tails, you lose 100 dollars. If the coin shows heads, you win 150 dollars.*
 
@@ -355,7 +355,7 @@ Asymmetry of intensity to avoid losses.
 
 ---
 
-## Certainty
+### Certainty
 
 <img src="images/bird-hand.jpg" align="center" width=“100%” height=“100%”>
 
@@ -368,7 +368,7 @@ They tend to reject the sure thing and accept the gamble (they are risk seeking)
 
 ---
 
-## Framing effect (positive & negative)
+### Framing effect (positive & negative)
 
 <img src="images/framing_effects.png" align="center" width=“100%” height=“100%”>
 
@@ -395,7 +395,7 @@ Re-framing is effortful:
 
 ---
 
-## Prospect Theory
+### Prospect Theory
 
 <img src="images/prospect-theory.jpg" align="center" width=“100%” height=“100%”>
 
@@ -412,7 +412,7 @@ Prospect theory is predictive of behavior. We are guided by both emotion and bia
 
 ---
 
-## Prospect theory in UX
+### Prospect theory in UX
 
 *Which would be a better scenario for rewarding users who write product reviews?*
 
@@ -421,7 +421,7 @@ Prospect theory is predictive of behavior. We are guided by both emotion and bia
 
 ---
 
-## Prospect theory in UX
+### Prospect theory in UX
 
 <img src="images/isolation.png" align="center" width=“30%” height=“30%”>
 
@@ -439,7 +439,7 @@ Collaborative filtering is another solution to a choice architecture problem - i
 
 ---
 
-## Fourfold pattern
+### Fourfold pattern
 
 <img src="images/fourfold.png" align="center" width=“60%” height=“60%”>
 
@@ -457,7 +457,7 @@ When there are no good options - we gamble.
 
 ---
 
-## A puzzle for designers (Johnson)
+### A puzzle for designers (Johnson)
 
 *Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?*
 
@@ -471,7 +471,7 @@ Are we gambling? Does this mean there are no good options?
 
 ---
 
-## Defaults and framing
+### Defaults and framing
 
 <img src="images/organ-donor.png" align="center" width=“100%” height=“100%”>
 
@@ -494,7 +494,7 @@ Why might people not opt-in?
 
 ---
 
-## Privacy context
+### Privacy context
 
 <img src="images/implicature.jpg" align="center" width=“100%” height=“100%”>
 
@@ -525,7 +525,7 @@ A good rule of thumb is to assume that "everything matters."
 
 ---
 
-## Prospect theory in UX - Loss aversion
+### Prospect theory in UX - Loss aversion
 
 <img src="images/life-insurance-messaging.png" align="center" width=“100%” height=“100%”>
 
@@ -546,7 +546,7 @@ Why does this work?
 
 ---
 
-## You are a choice architect
+### You are a choice architect
 Fear-based messaging
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PYm87nE7JGc?start=200&end=920" frameborder="0" allowfullscreen></iframe>
@@ -564,7 +564,7 @@ Tweet example: 3:20
 
 ---
 
-## Choice architecture
+### Choice architecture
 
 - iNcentives
 - Understand mappings
@@ -593,14 +593,14 @@ Structure complex choices - Collaborative filtering is a solution to a choice ar
 ---
 
 
-## Next Week
+### Next Week
 
 - Persuasion
 - Journal (Kahneman)
 
 ---
 
-## References (1)
+### References (1)
 
 - Ariely, D. (2008). Predictably irrational. New York: HarperCollins.
 
@@ -612,7 +612,7 @@ Structure complex choices - Collaborative filtering is a solution to a choice ar
 
 ---
 
-## References (2)
+### References (2)
 
 - Marketing Experiments. Does fear-based marketing work? 05/18/2016. Retrieved from: http://www.marketingexperiments.com/marketing-optimization/fear-based-messaging
 
