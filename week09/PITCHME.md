@@ -262,8 +262,11 @@ Note:
 
 ### Affect in UX
 
-<img src="images/airbnb-welcome-home.jpg" align="center" width=“20%” height=“20%”>
+<img src="images/airbnb-welcome-home.jpg" align="left" width=“20%” height=“20%”>
 
+---
+
+### Affect in UX
 
 - Focus attention on the user problem (for example, “Get dinner delivered faster” is better than “Fast food delivery online.”)
 - Cut irrelevant info from your design. Every irrelevant message dilutes the relevant ones.
