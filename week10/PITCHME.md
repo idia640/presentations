@@ -1,5 +1,5 @@
 # How are people influenced through persuasion?
-31 October 2017
+6 November 2018
 
 ---
 
@@ -34,14 +34,17 @@ Prior learning points:
 - We build common ground by exchanging thoughts
 - We influence and change thinking through dialogue
 - There are costs to common ground, so we try to minimize collaborative effort
+- We are choice architects - choices that people make are affected directly by our designs and how we've influenced thought.
+
 
 ---
-
 ## Deceptive?
 
-<img src="images/deceptive.png" align="center" width="100%" height="100%">
+
+<img src="images/deceptive.jpg" align="center" width="100%" height="100%">
 
 Note:
+
 
 What do you think? If you trust the advertiser, you probably understand these two statements differently than someone who doesn’t.
 
@@ -60,7 +63,7 @@ Wonder Bread has a history of deception
 
 ## Persuasion and manipulation in advertising
 
-<img src="images/deceptive2.png" align="center" width="100%" height="100%">
+<img src="images/deceptive2.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -116,23 +119,24 @@ In fact, other claims were proven false. But, as Geis (1982) notes — forcing L
 ---
 
 ## Testing the bounds of persuasion
-- Manipulation or persuasion?
-- Is the framing manipulation?
-- Ethnical or not?
 
-<img src="images/heart.jpg" align="center" width="100%" height="100%">
+<img src="images/heart.jpg" align="center" width="100%" height="50%">
 
 "If you do not do X, your chances of death from heart disease will triple!”
 
-Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213.
-
 Note:
+
+- Manipulation or persuasion?
+- Is the framing manipulation?
+- Ethnical or not?
 
 "It is certainly reasonable to take the choice of the relative risk frame (which suggests a large impact on health) is an effort to frighten people and thus to manipulate them (at least in a mild sense)."
 
 It's hard to avoid framing. But framing itself is not manipulation.
 
 Is it justified if it saves a number of lives across a large population?
+
+Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213.
 
 ---
 
@@ -145,7 +149,7 @@ Note:
 
 Chinese prison camps in Korea (Korean War:
 - "lenient policy" (psychological manipulation)
-    - effective at gaining informats... why so effective at compliance?
+    - effective at gaining informants... why so effective at compliance?
 - make a list of "how america is not perfect" and sign it
 - read the list to other prisoners
 - political essay contests with small prizes. Very mild pro-Communist/anti-American statements
@@ -153,18 +157,18 @@ Chinese prison camps in Korea (Korean War:
 
 Committing power of written statements; concessions to Communist dogma
 
-- Procter & Gamble and General Foods are always running those “25-, 50-, or 100 words or less” testimonial contests.
+- Procter & Gamble and General Foods run those “25-, 50-, or 100 words or less” testimonial contests.
 
 Cialdini PhD, Robert B. (2009-05-28). Influence: The Psychology of Persuasion (Collins Business Essentials) (p. 61). HarperCollins. Kindle Edition.
 
 ---
 
-<img src="images/krishna.jpg" align="center" width="100%" height="100%">
+<img src="images/krishna.jpg" align="center" width="50%" height="50%">
 
 
 ---
 
-<img src="images/reciprocity.jpg" align="center" width="100%" height="100%">
+<img src="images/reciprocity.jpg" align="center" width="75%" height="75%">
 
 Note:
 
@@ -289,9 +293,7 @@ http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html
 
 1955 study - a man could increase by 350% the number of pedestrians who would follow him across a street if he were wearing a suit and time (mark of authority).
 
-4 out of 5 doctors...
-
-Robert Young commercials for decaf coffee
+4 out of 5 doctors recommend....
 
 ---
 
@@ -328,10 +330,6 @@ Oinas-Kukkonen & Harjumaa 2008
 
 ---
 
-<img src="images/persuasion-model2.png" align="center">
-
-
----
 ## Some tools for persuasive design
 
 - **Support for visual thinking**
@@ -370,7 +368,7 @@ Trigger feature. Male robin will act as if a rival has entered its territory on 
 
 “Called fixed-action patterns, they can involve intricate sequences of behavior, such as entire courtship or mating rituals. A fundamental characteristic of these patterns is that the behaviors that compose them occur in virtually the same fashion and in the same order every time. It is almost as if the patterns were recorded on tapes within the animals.” Cialdini
 
-"Excuse me, may..."
+"Excuse me..."
 
 ---
 
@@ -401,7 +399,7 @@ behaviormodel.org
 
 This is not a predictive model like Prospect Theory: it's more of a heuristic. But you can think of "ability" in terms of cost. Is it worth the effort (value) to perform the behavior?
 
-Note: 
+Note:
 A model that gives us a way to think about behavior change.
 
 If you had direct insight into a user's habit cycle - cues, routines and rewards - and you knew exactly where they were in this cycle at any point in time - this would be easy.
@@ -418,9 +416,12 @@ Facilitator - "For example software updates often use facilitators to gain compl
 
 Signal - button "click here". Ability and motivation are there.
 
-How do we think about simplicity?
+---
+## How do we think about simplicity?
 
 "Simplicity is a function of a person’s scarcest resource *at the moment a behavior is triggered*."
+
+Note:
 
 Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. Persuasive '09, Claremont.
 
@@ -437,7 +438,7 @@ Note:
 - The power of narrative can't be understated.
 - Direct attention toward your target customers/clients/users
     - What is THEIR problem?
-    - What do they value? 
+    - What do they value?
     - What motivates them?
     - What drivers and rewards?
     - Quotes are great.
@@ -464,8 +465,7 @@ Note:
 
 ## Next Week
 
-- Amy, JaNisha
-- Social Networks
+- Culture 
 
 ---
 
@@ -489,7 +489,6 @@ Note:
 
 - Oinas-Kukkonen, H., & Harjumaa, M. (2008, June). A systematic framework for designing and evaluating persuasive systems. In International Conference on Persuasive Technology (pp. 164-176). Springer Berlin Heidelberg.
 
-- Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213. 
+- Sunstein, C. R. (2016). Fifty shades of manipulation. Journal of Behavioral Marketing, 213.
 
 - Vance, P. (1981). Hidden Persuaders.
-
