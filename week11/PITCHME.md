@@ -48,7 +48,7 @@ To be effective, you need to understand your user and what motivates them, what 
 
 ## Hofstede and Hall
 
-<img src="images/Hofstede.jpg" align="left" width="30%" height="30%">
+<img src="images/hofstede.jpg" align="left" width="30%" height="30%">
 
 <img src="images/Hall-network.jpg" align="right" width="50%" height="50%">
 
