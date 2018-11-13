@@ -1,13 +1,79 @@
 ## How does culture affect thinking?
-14 Nov 2016
+13 Nov 2018
 
 ---
 
 ## Outline
 
+- Review (Persuasion)
 - What is culture (according to Hall)?
 - What affect might it have on thinking?
 - How might it influence design?
+
+---
+
+## Objectives
+
+- Gain an appreciation for how culture affects interface design
+
+---
+
+## Cialdini - influence
+
+<img src="images/cialdini-influence.jpg" align="center" width="50%" height="50%">
+
+Note:
+
+https://www.influenceatwork.com/principles-of-persuasion/
+
+---
+
+## Persuasion (call to action)
+
+<img src="images/fog-model.jpg" align="right" width="30%" height="30%">
+
+- Is the user sufficiently motivated?
+- How easy is to take action?
+- Is there a trigger **trigger**?
+
+Note:
+
+The Fogg Behavior Model is a simple one to adopt. In this model, timeliness is very important:  "for a person to perform a target behavior, he or she must (1) be sufficiently motivated, (2) have the ability to perform the behavior, and (3) be triggered to perform the behavior. These three factors must occur **at the same moment**, else the behavior will not happen."
+
+Fogg, BJ. A behavior model for persuasive design (April 26-27 2009). Persuasive '09', Claremont CA.
+
+To be effective, you need to understand your user and what motivates them, what is difficult, and when a trigger can be applied.
+
+---
+
+## Hofstede and Hall
+
+<img src="images/Hofstede.jpg" align="left" width="30%" height="30%">
+
+<img src="images/Hall-network.jpg" align="right" width="50%" height="50%">
+
+- https://4squareviews.com/2012/12/19/six-sigma-green-belt-define-team-dynamics-and-hofstedes-cultural-dimensions/
+- http://blog.usabilla.com/ux-designers-culture-affects-your-job/img3/
+
+Note:
+
+There are two prominent models referred to in interaction design research.
+
+Gerard Hofstede was a social psychologist in the area of organizational culture who studied cross-cultural groups. While working at IBM, he created an employee opinion survey for over 70 IBM subsidiaries around the world. He continued to travel and collect large amounts of data.  In 1971 he took a sabbatical to finally study this data. With 100K questionnaires and additional data he collected as a visiting lecturer, he began to analyze his data. Today, Hofstede's model is referred to as 'value' or 'cultural' dimensions and have now been compared with other value survey research (World Values Survey.)
+
+There are a number of criticisms of Hofstede's model. For example, it is based upon aggregate data and does not apply to individuals. It also presumes uniformity across cultures and has issues with other sorts of validity such as construct validity in its application to interaction design.
+
+For this reason, we focus more on the work of Edward T. Hall. He was an anthropologist who also studied cross-cultural communication. Instead of focusing on an entire culture, he focused his attention to small moments of interaction. In particular, he focused attention on communication across cultures. For this reason, we focus on Hall. However, both the works of Hofstede and Hall have value in consideration of cross-cultural design.
+
+Hofstede - 6 cultural dimensions. From: How Do Design and Culture influence Digital Marketing?https://www.conversion-uplift.co.uk/cultural-factors-in-web-design/
+
+1. The Power Distance Index – How is power distributed in a culture? The Power Distance Index is the degree to which people accept and expect inequality in a society. Cultures that score low on this dimension will seek to reduce the level of inequality and expect justification for where it does exist.
+2. Individualism versus collectivism – Is a personʼs self-image defined by “I” or “we”? In Western cultures, we tend to focus on the needs and wants of the individual. Conversely, Eastern cultures place the needs of the collective ahead of individual.
+3. Masculinity – Does a culture have a preference for achievement, heroism, assertiveness and material rewards? If so, to what degree? In this context, femininity translates to collaboration, modesty, caring and quality of life.
+4. Uncertainty Avoidance – How comfortable does a society feel with uncertainty and ambiguity? A high score indicates a society that has formal rules and policies and are often intolerant of unorthodox behaviour and ideas. They also like to plan for every eventuality and are more concerned about product specifications than societies that score lower on this dimension.
+5. Long Term Orientation – This describes a cultureʼs time orientation – long- term vs short term. Scoring low means a culture favours long-standing norms and is suspicious of societal change. Cultures that score high are pragmatic and take a long-term view of business.
+6. Indulgence versus Restraint – Does a culture restrain or indulge in fun and instant gratification? A high score means a culture
+encourages instant gratification and enjoying life and having fun. Low scores reflect strict social norms which suppress indulgent behaviour.
 
 ---
 
@@ -45,9 +111,28 @@ It is nearly impossible to separate the individual from the environment in which
 
 "We labor under a number of delusions, one of which is that life makes sense; i.e., that we are sane. We persist in this view despite massive evidence to the contrary. We live fragmented, compartmentalized lives in which contradictions are carefully sealed off from each other. We have been taught to think linearly rather than comprehensively, and we do this, not through conscious design or because we are not intelligent or capable, but because of the way in which deep cultural undercurrents structure life in subtle but highly consistent ways that are not consciously formulated." McLuhan 1960, 1962
 
+Edward Hall and Marshall McLuhan were contemporaries. Hall influenced McLuhan and affected the latter's theory about the impacts of communication technology on the human senses.
+
 ---
 
-## Overt vs covert communication
+## Marshall McLuhan
+
+<img src="images/McLuhan-2.jpg" align="left" width="40%" height="40%">
+<img src="images/McLuhan-1.jpg" align="right" width="50%" height="50%">
+
+
+Note:
+
+McLuhan is known for coining the expression "the medium is the message" (Understanding Media: The extensions of Man). He proposed that the a medium itself should be the focus of society.
+
+Image credits:
+
+http://blog.usabilla.com/ux-designers-culture-affects-your-job/img3/
+https://www.ccpa-accp.ca/the-medium-is-the-message/
+
+---
+
+## Learned or innate?
 
 <img src="images/say-mean.png" align="center" width="50%" height="50%">
 
@@ -98,6 +183,8 @@ Note:
 - What has been experienced before?
 
 - Shifting context can be regarded as communication (I believe he means something like change in footing)
+
+Do you see how top-down processes can affect perception and habits? How information is encoded in terms of culture?
 
 ---
 
@@ -183,7 +270,7 @@ Note:
 
 Analytic versus Holistic
 
- Nisbett proposes that cultures stemming from Greek tradition can be described as analytic such that the focus of attention is on some salient object, has particular attributes, and operates on the basis of rules governing its behavior.
+ Nisbett proposes that cultures stemming from "Greek tradition" can be described as analytic such that the focus of attention is on some salient object, has particular attributes, and operates on the basis of rules governing its behavior.
 
  Ancient Chinese tradition tends to be holistic such that Chinese attend to the field in which a salient object is located. Instead of logical rules, Chinese philosophers look for dialectical schemas in making judgements about the behavior of objects and individuals.
 
@@ -213,7 +300,9 @@ Masuda and Nisbett (2001) examine whether East Asians attend to context more tha
 
 Note:
 
-Eye fixations: http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/267/163
+Eye fixations:
+
+http://www.ijdesign.org/index.php/IJDesign/article/view/267/163
 
 Localization is not limited to translating elements on a webpage. It's understanding cultural differences.
 
@@ -242,30 +331,38 @@ http://www.globalpropaganda.com/articles/TranslatingColours.pdf
 
 ## Pizza Hut
 
-<img src="images/pizza-hut-us.png" align="center" width="40%" height="40%">
-<img src="images/pizza-hut-china.png" align="center" width="40%" height="40%">
+<img src="images/pizza-hut-us.jpg" align="center" width="40%" height="40%">
+<img src="images/pizza-hut-china.jpg" align="center" width="40%" height="40%">
 
 ---
 
 ## Coca Cola
 
-<img src="images/german-coke.png" align="center" width="40%" height="40%">
-<img src="images/chinese-coke.png" align="center" width="40%" height="40%">
+<img src="images/german-coke.jpg" align="center" width="40%" height="40%">
+<img src="images/chinese-coke.jpg" align="center" width="40%" height="40%">
 
 ---
 
-## References
+### References
+
+- Bas, J. (2011). UX Designers: Culture Affects Your Job. Retrieved from: https://usabilla.com/blog/ux-designers-culture-affects-your-job/
 
 - Cardon, P. W. (2008). A Critique of Hall's Contexting Model A Meta-Analysis of Literature on Intercultural Business and Technical Communication. Journal of Business and Technical Communication, 22(4), 399-428.
+
+---
+
+### References
+
+- Chang, Yin-Sin, "Cultural differences in the context of fast food website design: a comparison of Taiwan and the United States" (2015). Graduate Theses and Dissertations. 14796.
+
+- Cole, N. (2005). How Do Design and Culture influence Digital Marketing? Retrived from: https://www.conversion-uplift.co.uk/cultural-factors-in-web-design/
 
 - Hall, E. T. (1989). Beyond culture. Anchor.
 
 ---
 
-## References
+### References
 
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. Psychological review, 98(2), 224.
 
 - Masuda, T., & Nisbett, R. E. (2001). Attending holistically versus analytically: comparing the context sensitivity of Japanese and Americans. Journal of personality and social psychology, 81(5), 922.
-
-
