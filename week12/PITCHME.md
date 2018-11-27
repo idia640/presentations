@@ -1,63 +1,60 @@
 # How do social networks affect behavior?
-28 Nov 2017
+27 Nov 2018
 
 ---
-## Review (1): Influences on decision-making
 
-1. Brain architecture - perception, attention, memory,  emotion, experience, thinking
-2. Communication
-	- Dyads (F2F, SMS, Text, Chatbots...)
-	- Social groups
-3. Culture
-4. Persuasion
+## Case Study Checklist
+
+1. Who is your user? (broad -> narrow)
+2. What is their situation?
+4. What is your behavioral objective?
+5. Your insight and design concept
+6. Reason to believe (RTB; science)
+7. How do you measure success?
+
+---
+
+## What makes a good case study?
+
+- Clear message, RTB, "feel"
+- Authenticity
+- Tells a story
+
+
+---?image=images/quote-steve-jobs.jpg
+
+---
+
+## Why does this work?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IIW3l-ENHdA" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Why does this work?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdQrwBVRzEg" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## Why does this work?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0XOPxgsUec" frameborder="0" allowfullscreen></iframe>
+
+---?image=images/fun-quote.jpg
 
 Note:
 
-Up until now, we’ve been talking about behavior from the perspective of biases in our human architecture, with a focus on brain and vision. We also looked at effects stemming from memory, personal experience, and associated feelings. Since humans are a social animal, we spent a lot of time talking about how we cooperate in communication both in conversation and in groups.
+We're wrapping up the semester -- you've done the hard work already. Don't stress on your case study presentation! You are presenting an idea.
 
-And because we are literally swimming in information, how we conventionalize information in both language and culture - almost invisibly. By conventionalizing language and behavior, we don't have to think about how to behave in different circumstances - we know by convention. We focused heavily on behavior in the context of decision-making since user interaction is fundamentally involves choice. Thus, we focused on the idea of ‘behavior as a medium’ for interaction designers.
-
-Insights from Tversky and Kahneman revealed how much we rely on our intuitive System 1 for understanding and decision-making revealed that people are essentially lazy thinkers and not particularly rational, even when decisions are hard and complex. We replace difficult decisions with simple one such as picking political candidates by how they look and how we feel about them. And while most people care about privacy and the security of their computers, they still fail to install and use anti-virus software or cookie blockers.
-
-All along, we’ve tied these ideas to persuasion both in how we craft language and user interactive experiences. The key until now has been how you design interfaces conversationally, tapping into user values and perceptions of cost (is it easy to install and run that anti-virus software?), in order nudge them toward a very natural response toward your intended message.
-
----
-
-# Review (2)
-
-<img src="images/persuasion-graphic.png" align="center" height="60%" width="60%">
+---?image=images/colored-pencils.jpg
 
 Note:
 
-Then we looked at techniques that compliance professionals use. Cialdini and others reference a number of techniques to include:
-
-- **Consistency and Commitment** - if you can get someone to say something, or make a small commitment, they will gravitate toward this same idea later because people naturally prefer, and are more comfortable, with consistency.  Of course, there is a biological link to ‘consistency’ and an intrinsic survival mechanism to prefer familiar things.
-- **Social Proof** - Like wise, we understood social proof, or our inclination to do as others do, from underlying neural mechanisms to draw our cues and mirror others. Social norms are also embedded in culture and are a powerful force: it is normal for people to report feeling "uncomfortable" when they don't follow norms.
-- **Reciprocity** - A cornerstone for for our social instinct is to make exchanges. To give something, no matter how small, is to drive a corresponding need to give in return. Hence small tokens or free gifts drive up charitable contributions. On top of this, we receive small bursts of pleasure (i.e., dopaminergic) when someone interacts positively with us over social media using “likes”.
-- **Liking** - We’re also strongly affected by our feelings. If we like someone, we tend to attend better and forgive small  inconsistencies.
-- **Authority** - And, of course, appeals to authority have powerful sway over our thoughts and beliefs. Fancy, (high-falootin') words can have similar appeal. As in the old Listerine commercial ads, particularly, when paired with “and you know”...
-
-There had even been a business developed by a student of BJ Fogg at Stanford U (Kapstein) centered on “persuasion profiling”, ostensibly to profile individual customers based on their responses to different influence strategies and dynamically adapts website contents to suit that customer.
-
-As Cialdini and other compliance professional note, you can’t apply any of these techniques if you don’t have attention. Hence, businesses online are battling for your attention. This fuels the desire for companies to purchase products we use (such as FB’s 22 Billion dollar purchase of WhatsApp). The more time we interact with content, the easier it is to profile and target consumers.
-
-https://www.economist.com/news/special-report/21716460-forget-long-tail-battle-consumers-attention
-
-Today we’re switching gears. Instead of talking about individuals and group, Christakis and Fowler talk about networks. Unlike groups (defined by an attribute; for example, demographic groups may be categorized by factors such as age, education, gender, and location), networks are characterized by connections or ties between people.
-
-Christakis and Fowler talk about how the pattern of connections affect how information is spread. They give examples of various network shapes — or topology such as a bucket brigade, telephone tree, Ponzi scheme, or military squads, as structures that facilitate information flow in different ways.
-
-And while we've been talking about user experience from the viewpoint of interaction as a dialogue between a user and interactive content designed by you -- we're going to shift slightly from thinking about persuasion to influence.
-
-C&/F note that social networks are not great conduits for behavior change -- but they can exert influence on our attitudes and feelings.
+You don't need to use all of the colors under the rainbow to make your point. Choose simply.
 
 ---
 
-### We know that information in social networks spreads contagiously, but can social networks influence?
-
-Note: We'll have a discussion about this in a few minutes.
-
----
 ## Objectives
 
 - Understand the potential for social networks to shape thought, emotion, and behavior
@@ -70,7 +67,7 @@ We’re going to spend some time on the first question, because its not an open 
 
 The mechanisms by which social networks operate are complex. But there is a grand race to understand such networks; again, it’s a race for attention and influence. As Kevin Spacey said in an address in 2014, “anyone with an internet connection and an idea can develop an audience.” http://www.cleveland.com/business/index.ssf/2014/09/kevin_spacey_challenges_conten.html.
 
-There are a couple of dark sides to this story, of course. There is the very salient fact that all of us are subject to manipulation over social media. For a fascinating read, you can read about how a Russian troll @TEN_GOP gained influence in America’s political drama in 2016. It remained active for 18 months fooling both the left and the right.
+There is a dark side to this story, of course. There is the very salient fact that all of us are subject to manipulation over social media. For a fascinating read, you can read about how a Russian troll @TEN_GOP gained influence in America’s political drama in 2016. It remained active for 18 months fooling both the left and the right.
 
 “Its success came from its stepwise approach. First, it imitated genuine far-right commentators by posting hyper-partisan tweets, and attracted their attention by mentioning and praising them. Their responses gave it an appearance of legitimacy which allowed it to interact with higher-profile figures, including in the campaign, and to be quoted by genuine media outlets.” (2 017, Nimmo, B., How a Russian Troll Fooled America, https://medium.com/dfrlab/how-a-russian-troll-fooled-america-80452a4806d1)
 
@@ -95,7 +92,7 @@ Networks have:
 - connections
 - flow (contagion)
 
-Rule 1: Homophily. Tendency to associate with people that resemble us. But we decide how many people we connect go and the structure of our network.
+Rule 1: Homophily. Tendency to associate with people that resemble us. We decide how many people we connect go and the structure of our network.
 
 Rule 2: You are connected - how dense is your network? The number of contacts friends and family have are relevant. This affects how information flows.
 
@@ -110,21 +107,22 @@ Perhaps, think of this as resonant frequencies or waves, as well. The reason thi
 Rule 5: Networks have properties and functions (and shapes) in and of themselves. "Waves", bird flocking, swarming... this behavior seems to be some sort of collective intelligence that is a property of groups and not individuals.
 
 ---
+## Six Degrees of Separation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a99ry70CnRs" frameborder="0" allowfullscreen></iframe>
+
+---
 
 # Three degrees of influence
 
-<img src="images/paper-dolls.png" align="center" height="80%" width="80%">
+<img src="images/three-degrees-1.jpg" align="left" height="40%" width="40%">
+
+<img src="images/three-degrees-2.jpg" align="right" height="40%" width="40%">
+
 
 Note:
 
 The core insight promulgated by C\&F is “The Three Degrees Rule” which they ascribe to behaviors, attitudes, and feelings. Your friends-friends-friends may influence you. These seem to be fairly stable network ties. Beyond this there is much noice - which C\&F talk about in terms of “intrinsic decay”.
-
-
-# Discussion
-
-### We know that information in social networks spreads contagiously, but can social networks influence?
-
-Note:
 
 - Difficult to study social influence effects in observational studies. How do we know whether social networks operate in the same way as face-to-face social networks?
 
@@ -135,6 +133,8 @@ Note:
 	- "We find that previous methods overestimate peer influence in product adoption decisions in this network by 300–700%, and that homophily explains >50% of the perceived behavioral contagion."
 
 	Aral, S., Muchnik, L., & Sundararajan, A. (2009). Distinguishing influence-based contagion from homophily-driven diffusion in dynamic networks. Proceedings of the National Academy of Sciences, 106(51), 21544-21549.
+
+Image credit: https://www.slideshare.net/jbradfo4/topic-4-social-networks
 
 ---
 
@@ -175,14 +175,16 @@ More likely to like a photo when significant "liked".
 ---
 ## What social phenomena can we see in networks?
 
-
-<img src="images/talk-actions-network.png" align="center" height="100%" width="100%">
+- Signals (words, topics, sentiment, etc.)
+- People (also organizations, groups, ...)
+- Actions (likes, shares, reply, favorite, etc.)
+- Relationships (people, time, place, language, etc)
 
 Note:
 
-When we're studying social networks, we look for observable, quantifiable signals. If you think back to the reading we did on Clark and how dialogue works as joint action, he alluded to the idea that talk was a kind of action just like any other cooperative activity.
+When we're studying social networks, we look for observable, quantifiable signals.
 
- Language is intrinsically social and social structures -- like social networks -- are intrinsically linguistic. So while its great that mathematicians and physicists give us great insight into how to model dynamic networks, to actually make sense of information contained in networks requires social science. So what we know from Clark is that, not only is the content important, but the process by which people communicate. We care about how information is signaled via actions and we also care about how people are connected to each other.
+ Language is intrinsically social and social structures -- like social networks -- are intrinsically linguistic. So while its great that mathematicians and physicists give us great insight into how to model dynamic networks, to actually make sense of information contained in networks requires social science. Not only is the content important, but the process by which people communicate. We care about how information is signaled via actions and we also care about how people are connected to each other.
 
  When studying social networks, these are the sort of signals that answer questions like:
  - What communities of people care about chess?
@@ -222,6 +224,10 @@ https://www.futurelearn.com/courses/big-data/3
 
 
 <img src="images/filter-bubble.png" align="center" width="50%" height="50%">
+
+Note:
+
+Algorithms may have intended/un-intended effects.
 
 ---
 ## Social media news use
@@ -298,6 +304,49 @@ Messages mobilized people to express their desire to vote -- and social ones spu
 
 ---
 
+## Storytizing
+
+<img src="images/storytizing.jpg" align="center" height="30%" width="30%">
+
+1. Segmentation is not effective
+2. Primary research is harder to do
+3. Paid media -> optimized to earned & shared
+4. Emailing customers is not as effective anymore
+5. Ad campaigns are too slow
+
+Note:
+
+We need to use data to better segment populations. How many people does a persona represent? With data we can be more agile and more accurate.
+
+The audience is constantly shifting -- advertizers are getting smarter about tapping into unconscious behavior.
+
+Go where the audience is. Their attention is limited and email campaigns fall under .05% for reach.
+
+Ad campaigns now move at a tempo of a week vice months. The speed of interaction is accelerating.
+
+"Storytizing refers to a brand's ability to make its full story accessible to a present or future customer at any time, anywhere in the world, and based on the needs of the customer." p. 18
+
+---
+
+## Audience Architecture
+
+<img src="images/audience-architecture.jpg" align="center" height="80%" width="80%">
+
+https://www.slideshare.net/WCGWorld/digital-media-trends-audience-architecture/
+
+Note:
+
+Network algorithms help you determine what's someone's role is in the audience at any given time. Other algorithms help you filter to the audience you are interested in by their interests, habits, location, social channel, etc. Then you can study -- perhaps as a digital ethnographic study -- to better understand them over time.
+
+To do this,
+
+- All online platforms including mobile
+- Content must be available at all times on all platforms
+- Social media is becoming a commerce hub - be active there.
+- Keep your audience happy since word-of-mouth is ever important.
+
+---
+
 ## Media Influence Campaigns
 
 <img src="images/influencer-discovery-tools.png" align="center" height="80%" width="80%">
@@ -317,39 +366,18 @@ Variables:
 - medium
 - ??
 
----
-## Discussion
+There are about 400 signals per person across multiple social media platforms such as Twitter, FB, LinkedIn, etc. (source ??)
 
-### You are a UX researcher for a small business. How might you use social media to gather actionable insights?
+Older content:
 
+https://www.wired.com/2012/04/ff_klout/
+Extract:
+“But even if you have no idea what your Klout score is, there’s a chance that it’s already affecting your life. At the Palms Casino Resort in Las Vegas last summer, clerks surreptitiously looked up guests’ Klout scores as they checked in. Some high scorers received instant room upgrades, sometimes without even being told why. According to Greg Cannon, the Palms’ former director of ecommerce, the initiative stirred up tremendous online buzz. He says that before its Klout experiment, the Palms had only the 17th-largest social-networking following among Las Vegas-based hotel-casinos. Afterward, it jumped up to third on Facebook and has one of the highest Klout scores among its peers.”
 
-Note:
+https://www.wired.com/2015/05/new-browser-extension-decides-trustworthy/
 
-
----
-
-## Cautionary tale
-
-<img src="images/green-kia.jpg" align="center" height="80%" width="80%">
-
-http://cmtoday.cmu.edu/technology_business/online-advertising-marketing-research/
-
-Note:
-
-Imagine you are on a JetBlue flight when a car ad of a cute green Kia Soul plays over free wi-fi. You then search for flights.
-
-On Facebook, you start to see car ads. You are primed!
-
-The advertiser already knows where you live, that you are renter, you have a dog, a steady job -- and travel frequently.
-
-You start to research cars.
-
-Some problems with this:
-- disparity in what is shown to different ad segments (e.g., gender, zipcode)
-- privacy concerns
-- inferences made by combining data
-
-"As he explains, it’s not just these algorithms that are making decisions; it’s a combination of man, machine, and the interactions between them."
+Extract:
+“A new company is trying to do an end-run around that intransigence by scraping publicly available information from various sharing-economy services and compiling it into a trust score between 0 and 100. Called Karma, it works as a browser extension—any time you pull up a supported site (which currently includes Airbnb, Craigslist, Dogvacay, Ebay, Etsy, RelayRides, and Vayable) a pop-up window will ask if you want to link your account to your Karma score. That score is calculated by looking at the reviews you've received—both the quantitative ratings (the number of stars, for instance) as well as a textual analysis of written comments.”
 
 ---
 
@@ -366,21 +394,10 @@ Some problems with this:
 
 Note:
 
-
 Summarized from: http://cmtoday.cmu.edu/technology_business/online-advertising-marketing-research/
 
 ---
-
-## Audience Segmentation
-
-<img src="images/audience-segmentation.png" align="center" height="100%" width="100%">
-
-[Image credit](https://www.thehealthcompass.org/how-to-guides/how-do-audience-segmentation)
-
-Note: The idea is to divide people into "homogeneous" sub-groups based on some set of criteria.
-
----
-## Psychographics
+## Psychographics - New Frontier
 
 <img src="images/psychographics.png" align="center" height="50%" width="50%">
 
@@ -393,30 +410,6 @@ Psychographics is a quantitative methodology used to describe consumer by psycho
 
 Broadly, it spans more than the above to include personality, attitude, feelings, etc.
 
----
-## Klout - Who are the influencers (we can influence)?
-
-<img src="images/klout-big.jpg" align="center" height="50%" width="50%">
-
-Note:
-
-  The Klout metric is an influence scoring system that assigns scores to social media across social networks
-on a daily basis. While Klout scores are derived using machine learning across hundreds of features, it also includes
-more specific measures, which Klout calls:
-- **true reach** - based on the audience size for a particular user; those who actively engage with user messages;
-- **amplification** - liklihood that messages will generate actions such as retweets, mentions, likes, comments;
-- **network impact** -  computed influence value of a person's engaged audience (I’m unsure of what the variables are here)
-
-About 400 signals per person across multiple social media platforms such as Twitter, FB, LinkedIn, etc.
-
-https://www.wired.com/2012/04/ff_klout/
-Extract:
-“But even if you have no idea what your Klout score is, there’s a chance that it’s already affecting your life. At the Palms Casino Resort in Las Vegas last summer, clerks surreptitiously looked up guests’ Klout scores as they checked in. Some high scorers received instant room upgrades, sometimes without even being told why. According to Greg Cannon, the Palms’ former director of ecommerce, the initiative stirred up tremendous online buzz. He says that before its Klout experiment, the Palms had only the 17th-largest social-networking following among Las Vegas-based hotel-casinos. Afterward, it jumped up to third on Facebook and has one of the highest Klout scores among its peers.”
-
-https://www.wired.com/2015/05/new-browser-extension-decides-trustworthy/
-
-Extract:
-“A new company is trying to do an end-run around that intransigence by scraping publicly available information from various sharing-economy services and compiling it into a trust score between 0 and 100. Called Karma, it works as a browser extension—any time you pull up a supported site (which currently includes Airbnb, Craigslist, Dogvacay, Ebay, Etsy, RelayRides, and Vayable) a pop-up window will ask if you want to link your account to your Karma score. That score is calculated by looking at the reviews you've received—both the quantitative ratings (the number of stars, for instance) as well as a textual analysis of written comments.”
 
 ---
 
@@ -437,6 +430,25 @@ http://andrewgelman.com/2014/11/13/experiment-700000-participants-youll-problem-
 Networks have a multiplicative effect - Indirect effects of social contagion large. (Fowler)
 
 http://phenomena.nationalgeographic.com/2012/09/12/a-61-million-person-experiment-on-facebook-shows-how-ads-and-friends-affect-our-voting-behaviour/
+
+---
+## Behavioral Economics (redux)
+
+<img src="images/sunstein-ethics.jpg" align="center" height="50%" width="50%">
+
+Note:
+
+Richard Thaler - Nobel Prize in Economics 2017. Coined the term Behavioral Economics and brought Tversky and Kahenman's work out of academia to more popular understanding.
+
+Cass Sunstein, a law professor, teamed up with Thaler to write the work "Choice Architecture" (which you read). He served under the Obama Administration as the Administrator of the WH Office of Information and Regulatory Affairs from 2009-2012 and has had an effect on Government.
+
+"The federal government now became sensitive to both loss aversion and framing effects: People didn’t choose between things, they chose between descriptions of things. The fuel labels on new automobiles went from listing only miles per gallon to including the number of gallons a car consumed every hundred miles. What used to be called the food pyramid became MyPlate, a graphic of a dinner plate with divisions for each of the five food groups, and it was suddenly easier for Americans to see what made for a healthy diet. And so on."
+
+Sunstein was particularly interested in what was now being called “choice architecture.” The decisions people made were driven by the way they were presented. People didn’t simply know what they wanted; they took cues from their environment. They constructed their preferences. And they followed paths of least resistance, even when they paid a heavy price for it.
+
+Millions of U.S. corporate and government employees had woken up one day during the 2000s and found they no longer needed to enroll themselves in retirement plans but instead were automatically enrolled. They probably never noticed the change. But that alone caused the participation in retirement plans to rise by roughly 30 percentage points. Such was the power of choice architecture. One tweak to the society’s choice architecture made by Sunstein, once he’d gone to work in the U.S. government, was to smooth the path between homeless children and free school meals. In the school year after he left the White House, about 40 percent more poor kids ate free school lunches than had done so before, back when they or some adult acting on their behalf had to take action and make choices to get them.
+
+Lewis, Michael. The Undoing Project: A Friendship That Changed Our Minds (Signed Edition) (pp. 343-344). W. W. Norton & Company. Kindle Edition.
 
 ---
 
