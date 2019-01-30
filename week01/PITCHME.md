@@ -1,5 +1,5 @@
 # Introduction
-## August 28, 2018
+## Jan 29, 2019
 
 ---
 ## Outline for today
@@ -30,14 +30,15 @@
 Note:
 
 Please don't be shy about giving me feedback!
-
 ---
+
 ## What is this course about?
 
-<img align="center" width="50%" height="50%" src="images/model.jpg">
-
+<img align="center" width="50%" height="50%" src="images/brains-are-fixated-on-our-social-lives.jpg">
 
 Note:
+
+Image credit: https://www.earth.com/news/brains-fixated-social-lives/
 
 We're going to focus on how you can drive user behavior to create a positive and persuasive interaction. This means getting under the hood of the human brain: how people perceive the world, think and make decisions, and communicate using language and graphics. Because we're social animals, we are also influenced by social and cultural environments. So this will be another lever that you can use to advantage for driving behavior.
 
@@ -46,14 +47,38 @@ Bias is a big part of this. Bias is the tendency to more heavily weight one opti
 In an ideal user interaction, you shape and drive user experience. You anticipate what users will do because you know how they should respond based on your design.
 
 ---
+## The Brain
+
+<img align="center" width="50%" height="50%" src="images/brainEvolution.jpg">
+
+Note:
+
+The human brain has been evolving for a long time. (Sorry for the French!)
+
+Hominids emerged millions of years ago and had relatively little brains but large jaws. Homids are distinguished from their paleo brethren by a markedly larger brain size and body size. Some speculate a correspondence with a more calorie and nutrient dense diet since the brain requires so much energy. In fact, our brain now consumes some 20% of the calories that we take in!
+
+Image credit: http://www.bordalierinstitute.com/images/brainEvolution.jpg
+
+---
+## What Makes us Human?
+
+<img align="center" width="90%" height="90%" src="images/timeline-of-human-development.jpg">
+
+Note:
+
+There are many theories about how and why Homo sapiens are different than other species. In addition to the sudden growth of our brain size, development of fire, and development of language -- social anthropologists speculate what makes us truly human is our capacity to exchange thoughts. And this, fundamentally, rests upon social cooperation.
+
+"When we use our brains, we often hook them up to external systems. These may be physical objects, such as pencil and paper or smartphones, that supersize our capacities for memory and reasoning. In conversation, the external systems to which we hook ourselves up are the bodies and minds of other people." Enfield, How we Talk, pg. 13
+
+---
 ## User Interaction is Cooperative
 
 
-<img align="center" width="90%" height="90%" src="images/discourse-continuum.png">
-
-<span class="footnote"><a style='text-decoration:none;' href='#/21'>Discourse Continuum (Clark, 1996)</a></span>
+<img align="center" width="90%" height="90%" src="images/social-interaction.jpg">
 
 Note:
+
+A portion of this image is from Clark (1996) Discourse Continuum
 
 - We share knowledge in order to be understood
 - We coordinate our interaction
@@ -61,7 +86,7 @@ Note:
 - User interaction is a joint activity where the designer and the user communicate via a user interface
 
 ---
-## User Interaction is a Dialogue
+## User Interaction is Conversational
 
 <ul>
   <li><span style="color:#36e442">Clerk: </span>Can I help you?</li>
@@ -82,8 +107,9 @@ Note:
 
 And... it's a script. You know it. Even if they were speaking a different language entirely, you would recognize it and have expectations about what to expect.
 
+---
 
----?image=images/pens.jpg
+<img align="center" width="90%" height="90%" src="images/pens.jpg">
 
 Note:
 
@@ -114,6 +140,18 @@ Note:
 - In this course, we will explore basic cognitive processes that you can use as levers to align user perceptions and actions.
 
 - We'll be unpacking hidden structure that will develop you as a designer.
+
+---
+## Is there Interaction that is not Conversational?
+
+
+Note:
+
+Think about spell check. If you push a button to spell check your document, that is a request and response similar to conversational interaction.
+
+But if you design the spell checker to automatically check spelling as the user types, it's a mechanism that enables the user to see better.
+
+Both require understanding and anticipating the user's need.
 
 ---
 
@@ -154,12 +192,12 @@ The term HCI was popularized in the 80' by Stuart Card, Thomas Moran, and Allen 
 Primary methodologies include:
 
 - Observational (e.g, ethnographic research)
-- Survey
+- Survey research
 - Controlled experimentation
 
 Note:
 
-We will look at each, but focus on hypothesis testing.
+We will look at each, but focus on hypothesis testing and ethnographic study.
 
 - Measure alternative designs in a very precise way.
 - Much foundational work has been conducted using experimental methods.
@@ -174,7 +212,7 @@ We will look at each, but focus on hypothesis testing.
   <li><a href="https://github.com/idia640/presentations" target="_blank">Presentation material</a></li>
   <li>Books and Articles</li>
   <li>Slack</li>
-  <li>Your journals</li>
+  <li>Journal Entries</li>
 </ul>
 
 
@@ -183,7 +221,7 @@ Note:
 
 - Philosophy
 
-- I don't expect you to know how to read scientific papers from the start; this is one of our objectives. You will learn to summarize research papers in this way:
+- I don't expect you to know how to read scientific papers from the start; this is one of our objectives. You will learn to pick apart research papers in this way:
   - Research question
   - Hypotheses
   - Variables
@@ -196,6 +234,8 @@ Note:
   - Is the methodology sound or suspect?
   - Does this paper get its message across clearly?
   - Does it change your thoughts or has it introduced new ideas to you?
+
+ Then you will learn to present a scientific paper so that it is informative and interesting. And to do this, you have to diverge sharply from the written work.
 
 - Informal objectives:
   - Give you the tools to argue for design decisions based on cognitive needs
@@ -360,13 +400,10 @@ One caveat: you are not limited to nudges. To design a persuasive interaction, y
 ---
 ## Github
 
-- Read through "Getting Started" in your journal
-- You will learn:
-  - How to find your repository
-  - How to edit a file in your repo
-  - How to upload a file
-  - How to commit
-  - Download/Fork
+- What is GitHub?
+- Learn how to navigate
+- Learn how to use markdown to edit documents
+- Understand the basics of collaborative version control
 
 ---
 ## Final Project: Case Study
@@ -381,9 +418,9 @@ Note:
 
 Your design can be as small as creating an option and moving your users towards it or more ambitious with multiple steps or even more so defining a new UX design entirely.
 
-You'll do this in poster format of 1-2 pages like you might present at a workshop or conference.
+You will present your work as a poster presentation at the end of the course.
 
-The important emphasis is on the idea of a 'story'. You want to convince your audience (assume we are clients) that your solution will work. (Hence, also a focus on empiricism and cognitive principles.)
+The important emphasis is on the idea of a 'story' that both grabs interest to draw in your audience, but also is convincing. You want your audience to believe that your solution will work. (Hence, also a focus on empiricism and cognitive principles.)
 
 ---
 
@@ -391,20 +428,20 @@ The important emphasis is on the idea of a 'story'. You want to convince your au
 
 Write a short problem statement on an interaction problem domain.
 
-For this week, think of an problem area where you wish to positively affect user change. The nudge blog is a good place to start. You just need a sentence or two.
+For this week, think of an problem area where you wish to positively affect user change. The nudge blog is a good place to start if you feel stuck. You just need a sentence or two.
+
+https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf
 
 ---
 
 # Next Week
 
 - Finish the practice journal entry
-- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #casestudy-ideas]( https://idia640.slack.com/archives/C6J56QY8G). You will need to settle on an idea mid-way through the course.
-- Choose a scientific article to review
-- Skim the reading (next two weeks)
+- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #case-studies-spring19]( https://idia640.slack.com/archives/C6J56QY8G).
+- Choose a scientific article to review and add a note to #discussion-spring19. First come, first served.
+- Readings
 
 Note:
-
-Don't sweat the methodology readings since we'll review material next week in class. You will need to understand the concepts in order to review a scientific paper but we will go everything you need next week. Focus on your practice journal entry and using GitHub and think about a case study idea (from your imagination or a website from work or private life).
 
 This course starts out like a lion and ends like a lamb. I hope to get the less fun stuff out of the way in the first couple of weeks and then you can enjoy thinking about a case study idea that refers to concepts from this course.
 
