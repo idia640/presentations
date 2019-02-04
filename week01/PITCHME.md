@@ -348,7 +348,7 @@ Note:
 
 Let's look at a closely at nudges.
 
-“A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way…Nudges are not mandates. Putting fruit at eye level counts as a nudge. Banning junk food does not.” Thaler and Sunstein (2008)
+“A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way… nudges are not mandates. Putting fruit at eye level counts as a nudge. Banning junk food does not.” Thaler and Sunstein (2008)
 
 Nudges are interventions that steer people in particular directions but that also allow them to go their own way. Thaler and Sunstein (2008) It shouldn't affect your autonomy nor should it provide significant "material incentive."
 

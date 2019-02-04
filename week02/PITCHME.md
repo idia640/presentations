@@ -1,6 +1,6 @@
 # HCI Methodologies
 ### Experimentation
-## Sept 4, 2018
+## 5 Feb 2019
 
 ---
 
@@ -16,9 +16,11 @@ For the next two weeks we're going to talk about research methodologies. This we
 
 Next week we will talk about ethnographic research and surveys. Ethnographic research is a methodology that will be useful for you to employ as we talk more about research you can do for your case study.
 
-For your critical review, I'm assuming you know nothing about science nor how to read a scientific paper. You need to learn how to critical read a scientific paper because you will be the person on the UX team that has to deal with the question: "why are doing it like that?"
+For your critical review, I'm assuming you know nothing about science nor how to read a scientific paper. You need to learn how to critical read a scientific paper because you will be the person on the UX team that has to deal with the question: "why are we doing it like that?"
 
 Have you ever been frustrated from a client or developer who brushes off your idea because, "everyone has opinions" and they consider your advice simply an opinion? The point of this course is to give you tools to both create a persuasive design, but also defend it using cognitive principles, and where necessary, science. You may also need to refute "bad science", so we will focus much attention on this.
+
+Did you ever imagine you would be the science person on the team? Since you will likely be the person is an expert on how humans interact with technology, you now have a new vocation as human-computer interaction researcher!
 
 We will look at each of the methodologies above, but focus on hypothesis testing this week.
 
@@ -29,8 +31,6 @@ We will look at each of the methodologies above, but focus on hypothesis testing
 - Objectives
 - Controlled Experimentation
 
-Note:
-
 
 ---?survey=https://docs.google.com/forms/d/e/1FAIpQLSdFNswbvUQG2pgOFSfJ_gFTA6C7QHos9SDcQWlfeEPQjKCnqA/viewform?usp=sf_link
 
@@ -39,7 +39,7 @@ Note:
 
 Note:
 
-This point of this segment is to help you understand the importance of questioning assumptions and to think like a scientist.
+This point of this segment is to help you understand the importance of questioning assumptions and to think like a scientist. Part of how you will be persuasive in your own design pitches is using science as evidence where you can.
 
 ---
 ## Scientists are people
@@ -51,17 +51,24 @@ Note:
 
 Paradigm - A model of reality. Concepts, theories, methodologies, conventions.
 
-Thomas Kuhn (Structure of Scientific Revolutions) - "Normal science is about accumulating knowledge". Sometimes technological (or societal) advances make it possible to observe or measure phenomena that were not measurable before. In such cases, there may be anomalous observations that cause a shift to a new paradigm.
+Thomas Kuhn (Structure of Scientific Revolutions) - "Normal science is about accumulating knowledge".
 
-Example:
+Sometimes technological (or societal) advances make it possible to observe or measure phenomena that were not measurable before. In such cases, there may be anomalous observations that cause a shift to a new paradigm.
+
+Example (Okay, I admit I was just reading this book...):
 
 If you find this interesting, the story is described in great detail in [The Gene: An Intimate History](https://www.amazon.com/Gene-Intimate-History-Siddhartha-Mukherjee/dp/1476733503) by Siddhartha Mukherjee. This is a fascinating story with many players, but focuses on how it is we know about something that was invisible for many years and how it changed humanity's understanding of itself.
 
 Why is it we share traits with our parents? Aristotle thought that it was the fluids transmitted by our parents which gave form to our physical beings. In the late 1700's, Erasmus Darwin suggested that animals arise from a "living filament" that has the power to acquire new parts in response to stimuli, and that each successive generation could improve over the last. A French scientist, Lamarck argued that characteristics during a lifetime could be passed to offspring. Because there was insufficient observational data to fully back these ideas, theories of evolution abounded.
 
-But in the 18th century, scientists studying plant and animal diversity began to experiment with hybridization. One such person was the monk Gregor Mendel, a detail-oriented man who who took copious notes on hybridization of pea plants, was interested in statistical properties of traits through successive hybridization of plants. He discovered traits were calculable from statistical rules. There was gathering evidence from Charles Darwin and others to suggest something within organisms could pass on to successive generations. It was not blood (as Aristotle hypothesized), since Francis Galton performed blood transfusions, ultimately, disproving transmission through blood. Weismann performed an experiment of removing tails from white mice and found that no mice were born without tails, giving strong evidence against Lamark's theory. Ultimately, in 1910, Morgan, looking at inheritance in fruit flies, discovered sex-links recessive traits and he traced these to sex chromosomes (visible via a light microscope). Ultimately, we discovered genes on chromosomes and the mechanism by which inheritance occurs. This change was precipitated by changes in technology which allowed us to make new observations - but also by changes in thinking in scientific discourse.
+But in the 18th century, scientists studying plant and animal diversity began to experiment with hybridization. One such person was the monk Gregor Mendel, a detail-oriented man who who took copious notes on hybridization of pea plants, was interested in statistical properties of traits through successive hybridization of plants. He discovered traits were calculable from statistical rules. There was gathering evidence from Charles Darwin and others to suggest something within organisms could pass on to successive generations.
 
-Mukherjee says that we're living in a post-genomic world -- we can now read and write ourselves. This is a new paradigm shift.
+It was not blood (as Aristotle hypothesized), since Francis Galton performed blood transfusions, ultimately, disproving transmission through blood. Weismann performed an experiment of removing tails from white mice and found that no mice were born without tails, giving strong evidence against Lamark's theory.
+
+Ultimately, in 1910, Morgan, looking at inheritance in fruit flies, discovered sex-links recessive traits and he traced these to sex chromosomes (visible via a light microscope). Stemming from this work, we discovered genes on chromosomes and the mechanism by which inheritance occurs. This change was **precipitated by changes in technology which allowed us to make new observations - but also by changes in thinking in scientific discourse**.
+
+Mukherjee says that we're living in a post-genomic world -- we can now read and write ourselves. This is a new *paradigm shift*.
+
 ---
 
 ## Science is social (and political)
@@ -72,7 +79,7 @@ Mukherjee says that we're living in a post-genomic world -- we can now read and 
 
 Note:
 
-But its subjective and political. Paradigms are backed by those with prominent reputations or within the majority. We will look at this sort of influence later in the semester.
+Science is subjective and political. Paradigms are backed by those with prominent reputations or within the majority. We will look at this sort of influence later in the semester.
 
 ---
 
@@ -93,9 +100,11 @@ Science is full of bias. To top it off, the media seems to assume that anything 
 
 Note:
 
-Link to an article about the "Reproducibility Project" which aims to replicate 100 empirical studies from several prominent journals in Psychology. What is reproducibility? It's the ability for someone else -- not the author -- to replicate the same study and with the same results. This is important in social science, since people tend to believe the results of a single study generalize across people, time, and culture. But, of course, and despite this, a social context is variable and difficult to reproduce.
+The first link is to an article about the "Reproducibility Project" which aims to replicate 100 empirical studies from several prominent journals in Psychology.
 
-This sprung out of a "crisis" from a [year of horrors](http://ejwagenmakers.com/2012/Wagenmakers2012Horrors.pdf) in 2011 where it was found that the psychologist Diederik Stapel published at least 30 papers on fabricated data and where John Bargh's study where participants walk more slowly after being primed with the "old" stereotype failed replication. On top of this, the [Open Science Collaboration](https://osf.io/vmrgu/) found that only 36% of 100 studies in psychology, could be replicated.
+What is reproducibility? It's the ability for someone else -- not the author -- to replicate the same study and with the same results. This is important in social science, since people tend to believe the results of a single study generalize across people, time, and culture. But, of course, and despite this, a social context is variable and difficult to reproduce.
+
+The Reproducibility Project sprung out of a "crisis" from a [year of horrors](http://ejwagenmakers.com/2012/Wagenmakers2012Horrors.pdf) in 2011 where it was found that the psychologist Diederik Stapel published at least 30 papers on fabricated data and where John Bargh's study where participants walk more slowly after being primed with the "old" stereotype failed replication. On top of this, the [Open Science Collaboration](https://osf.io/vmrgu/) found that only 36% of 100 studies in psychology, could be replicated.
 
 One of the things you'll learn from this segment of the course is that scientists write in a narrowly proscribed manner. While the structure of scientific papers makes it easy to parse and read them once you know what to expect, the language used can be obscure an confusing -- and there is little incentive to make such writing easier to understand.
 
@@ -140,7 +149,7 @@ Note:
 
 Note:
 
-Play first minute+ in class.
+Watch the first few minutes at least.
 
 - We're impressed by authority
 - Distortion of evidence - lab study in a petri dish extrapolated to you
@@ -170,6 +179,8 @@ Credit: <a target="_blank" href="http://languagelog.ldc.upenn.edu/nll/?p=21847">
 
 Note:
 
+Do you see a difference in language use here?
+
 ---
 ## "Gladwellian gap"
 
@@ -183,8 +194,7 @@ Note:
 I'm a Gladwell fan, but it's important to understand the context of his writing. He's a persuasive story-teller.
 
 - Malcolm Gladwell is hugely **influential** - perhaps, more so, than the scientists he reports on.
-- Alternates between reports on scientific claims and rhetorical language:
- - "If you take away the gift of reading, you create the gift of listening."
+- He alternates between reports on scientific claims and rhetorical language: "If you take away the gift of reading, you create the gift of listening."
 
  From Gladwell:
 
@@ -199,19 +209,15 @@ From the Slate article:
 "And David and Goliath does cite scholarly works, books and journal articles, and journalism, in its footnotes and endnotes. But I wonder how many readers will follow those links, as compared to the number who will take its categorical claims at face value. And of those that do follow the links, how many will realize that many of the most important links are missing?"
 
 Crude influence ratio cited by Googling the phrase:
-Gladwell: proved 5,300, showed 19,200 = 24,500 total
-Pinker: proved 9, showed 625 = 634 total
+- Gladwell: "proved" 5,300, "showed" 19,200 = 24,500 total
+- Pinker: "proved" 9, "showed" 625 = 634 total
 
 Tip: it is good practice to check footnotes and follow links to sources.
 
----
-## Today's Outline
+Also, check https://scholar.google.com to see citation counts.
 
-- Motivation
-- **Objectives**
-- Controlled Experimentation
-- Critical Review
 ---
+
 ## Objectives
 
 1. Learn to be open-minded, but skeptical. Question what you read.
@@ -227,14 +233,6 @@ Elements of a scientific paper you will learn to identify.
 - Research design
 - Conditions and variables
 - Results/Key findings
-
----
-## Today's outline
-
-- Motivation
-- Objectives
-- **Controlled Experimentation**
-- Critical Review
 
 ---
 ## UX Research Methods
@@ -261,26 +259,30 @@ Today the focus is on **Randomized experimental** (lab, observations, quantitati
 
 Note:
 
-- There are a number of different ways to slice and dice research methods - but it's difficult to find a single representation that adequately describes such a multi-dimensional topic.
+There are a number of different ways to slice and dice research methods - but it's difficult to find a single representation that adequately describes such a multi-dimensional topic.
 
 ---
+
 ## Structure of research
 
-<img align="right" width="50%" height="50%" src="images/research-study.png">
+<img width="50%" height="50%" src="images/research-study.png">
+
+Note:
 
 Image credit: Gliner, Morgan, and Leech (2011), p. 20
 
-Note:
-
 - Mature conventions
 - **Papers follow the same well-defined structure**
+
 ---
+
 ## What if the question is very broad?
 
-<img align="right" width="50%" height="50%" src="images/broad-research.png">
-Image credit: Chow, S. (2010). p. 450
+<img width="50%" height="50%" src="images/broad-research.png">
 
 Note:
+
+Image credit: Chow, S. (2010). p. 450
 
 If you are interested in doing a quantitative master's or doctoral thesis using experimentation, this is how you would break down your problem.
 
@@ -288,11 +290,13 @@ Let's take a look:
 
 Suppose you are interested in the question of whether people in small towns are friendlier than those from big cities.
 
-If you want to understand the cause, you develop a substantive hypothesis to study. For example, "environmental pleasantness eliminates irritability"
+If you want to understand the cause, you develop a substantive hypothesis to study. For example, "environmental pleasantness eliminates irritability."
+
+"A substantive hypothesis is a conjecture about the relation between two or more variables. It is called “substantive” because it has not yet been ∗operationalized and in order to distinguish it from the kind of statistical hypothesis used in ∗hypothesis testing." Chow, S. (2010)
 
 A substantive hypothesis may be difficult to study without breaking down the problem into smaller questions or studies. You may need to eliminate other possible causes or ask the same question in different ways.
 
-Ultimately, for any individual study, you need observable, quantifiable measures that can be examined statistically, and you need to be able to identify those variables that you can manipulate to study the effect on your dependent variable. In this case, you are interested in **irritability**.
+Ultimately, for any individual study, you need observable, quantifiable measures that can be examined statistically, and you need to be able to identify those variables that you can manipulate to study the effect on your dependent variable. In this case, the variable of interest is **irritability**.
 
 
 ---
@@ -330,99 +334,15 @@ And you could imagine being interested in something like assessing readability o
 ---
 ## Quasi-Experimental
 
-No random groups are assigned.
+The key difference between randomized experiments and quasi experiments is that in the latter, no random groups are assigned.
 
 - For example,
- - Two university classes are given two different exam types.
- - Groups where subjects had selected the treatment (e.g., stress reduction via Tai Chi versus meditation)
+ - Two university classes are given two different exam types. There is no way to randomize the selection of students since they are already assigned to the classes.
+ - Groups where subjects had selected the treatment (e.g., stress reduction via Tai Chi versus meditation). Again, there is no way to randomize who gets which treatment.
 
 ---
-## Non-Experimental (Observational)
 
-<img align="center" width="60%" height="60%" src="images/non-experimental.png">
-
-Note:
-
-Suppose you want to understand voter behavior. You could use quantitative methods to do so.
-
-- You could summarize data by population attributes.
-- You could relate variables such as age, income, gender, and education level to make some sort of prediction
-- you could also compare different sub-populations  to look at differences between them.
-
-Note these are all inherent attributes of a person - you can't assign them these attributes.
-
----
-## Back to the overview
-
-<img align="right" width="90%" height="90%" src="images/research-overview.png">
-
- Image credit: Gliner, Morgan, and Leech (2011), p. 11
-
-Note:
-
----
-## Today's outline
-
-- Motivation
-- Objectives
-- Controlled Experimentation
-- **Critical Review**
-
----
-## Sample Paper
-
-<a href="https://github.com/idia640/course-materials/blob/master/sauro_lewisCHI2011.pdf" target="_blank">Download</a>
-<img align="center" width="90%" height="90%" src="images/sample-paper.png">
-
-Note:
-
-https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html
-
-A SUS consists of a 10 item questionnaire with five response options ranging from 'Strongly agree' to 'Strongly disagree'.
-
-Example positively and negatively worded questions:
-- I found the various functions in this system were well integrated.
-- I thought there was too much inconsistency in this system.
-
-It is considered a industry standard for system usability.
-
-Based on research, a SUS score above a 68 would be considered above average and anything below 68 is below average.
-
----
-## Research question
-
-- Statement about the relationship between two or more variables
- - Should be stated clearly and unambiguously
- - Should fill a gap in knowledge
- - Should be testable
- - Should be ethical
-
-<img align="right" width="60%" height="60%" src="images/research-goals.png">
-
-Example from: Sauro & Lewis (2011)
-
-Note:
-
----
-## Study null hypothesis
-
-- There is no difference in extreme response bias
-between Normal and Positive SUS.
-
-- "To **measure extreme response bias**, we counted **the number of times respondents provided either the highest or lowest response option (1 or 5) for both questionnaire types for all items**."
-
-Note:
-
-You should be able to find the variables and things being measured (e.g., normal vs positive control and a variable such as response options.)
-
-You don't need to understand much about statistics, but a few things would be helpful.
-
-N = number of subjects
-Mean = average across respondants
-SD = Standard deviation tells you about the spread of responses. Are they are very similar, or do they deviate across a broader spectrum of answers?
-
----
-## Why "no difference"?
+## What is a Null Hypothesis?
 
 <img align="center" width="90%" height="90%" src="images/null-hypothesis.png">
 
@@ -432,36 +352,20 @@ You can't prove something is true. Science rests on a principle that Karl Popper
 
 The tool science uses to do this is inferential statistics. By studying a sample population, which is an analog of THE population, evidence inferred from the sample gives you confidence that the same experiment performed over the total population would derive the same results.
 
-The way null hypothesis testing works is that you look for whether there is a difference between two groups; is there a relationship between independent variable(s) and a dependent variable. If you find a statistical difference -- the behavior of the treatment group is sufficiently different from the control group -- then you have evidence to support an alternative hypothesis to the null hypothesis.
+The way null hypothesis testing works is that you look for whether there is a difference between two groups; is there a relationship between independent variable(s) and a dependent variable -- given all else is the same. If you find a statistical difference -- the behavior of the treatment group is sufficiently different from the control group -- then you have evidence to support an alternative hypothesis to the null hypothesis.
 
-Ideally, the alternative hypothesis has either explanatory or predictive power.
-
----
-## Research Approach / Design
-
-- What design does the article describe?
-  - Experimental vs. Non-Experimental
-  - Can you assess further?
-    - Randomized experimental
-    - Quasi experimental
-    - Comparative
-    - Associational
-    - Descriptive
-
-Note:
-
-The Sauro article describe a randomized experimental approach.
+Ideally, the alternative hypothesis has either explanatory or predictive power. We use randomized controlled experiments for the purpose of giving evidence for a causal relation between variables.
 
 ---
 ## Conditions & variables
 
-- Conditions - What are the groups?
+- Conditions - What are the groups? In the previous example, treatment versus control.
 
-- Variables
-  - **Independent variable (IV)** - Presumed cause
-    - Active - e.g., positive/normal SUS
-    - Attribute - Property of a person such as age
-  - **Dependent variable (DV)** - outcome
+- Variables. What kind of variables are there?
+  - **Independent variable (IV)** - Presumed cause. The variable you are studying.
+    - Active - e.g., positive/normal SUS. The variable is manipulated.
+    - Attribute - Property of a person such as age.
+  - **Dependent variable (DV)** - the outcome variable that depends on the IV.
   - **Extraneous** - Variables that need to be ruled out.
   - **Confounding** - interacts with both the IV and DV.
 
@@ -481,57 +385,41 @@ Note:
 
 A good example for a confounding variable is provided by the example of whether or not activity level (hi/low) has a causal effect on weight gain. Age is a confounding variable since it also has an effect on weight gain. You would need to control for age.
 
----
-## Common sense critique
-
-- Use your common sense and consider:
- - Do you think the study looked at enough people?
- - How we subjects chosen? (Are they really random? Are they representational of the population in question?)
- - Does the study measure what you think it measures? (e.g., if you are assessing happiness from tweets, does the use of "positive" words really reflect happiness?; construct validity)
 
 ---
-## Common sense critique (2)
- - Do you think the experiment was reliable and would generally result in consistent results?
- - Can you imagine any confounding variables they didn't mention?
- - Do you think similar experiments in other contexts would produce the same results? (external validity)
- - Do you think results would hold outside of laboratory conditions in other contexts? (ecological validity)
+
+## Non-Experimental (Observational)
+
+<img align="center" width="60%" height="60%" src="images/non-experimental.png">
 
 Note:
 
----
-## Critical Review
+Suppose you want to understand voter behavior. You could use quantitative methods to do so.
 
-For next week:
-- What is the central research question addressed?
-- For each experiment, summarize (briefly!):
- - Hypothesis
- - Research design
- - Conditions & variables
- - Findings
+- You could summarize data by population attributes.
+- You could relate variables such as age, income, gender, and education level to make some sort of prediction
+- you could also compare different sub-populations  to look at differences between them.
+
+Note these are all inherent attributes of a person - you can't assign them these attributes.
+
+---
+
+## Back to the overview
+
+<img width="90%" height="90%" src="images/research-overview.png">
+
 
 Note:
 
-This document is in your github directory. Go in and edit it, but don't forget to preview it and make sure it looks like you think it should. I would recommend using an external editor with spell/grammar check and then pasting it into the window. Fiddle with your markdown for headers or bullets from there, or use an external markdown editor to test.
-
----
-## Critical thinking
-
-- Does the paper seem significant or not? Why or why not?
-- Does the methodology seem sound or suspect? In what sense?
-- Can you think of confounding variables that the author did not discuss?
-- Does this paper get its message across clearly? How or how not?
-- Does it change your thoughts or has it introduced new ideas to you? In what way?
+ Image credit: Gliner, Morgan, and Leech (2011), p. 11
 
 ---
 
-## Critical thinking (cont.)
+# Next week
 
-- Do you think the study is reproduce-able (like an exact recipe) or that the author left out too many details? What do you think needed more explanation?
-- Can you imagine how insights from this paper might be used in design?
-
-Note:
-
-- Some authors are not clear - good point for critique... but at least give an example, if you can.
+- Critical Review due
+- Labs: How to present a scientific paper;  ethnographic research
+- More on research methods: Surveys and ethnography
 
 ---
 ## References
