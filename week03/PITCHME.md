@@ -262,7 +262,7 @@ The 'happiness' measurement on the left side is a hypothetical example where you
 
 Note:
 
-Surveys are prone to many sorts of response bias. Tourangeau, Rips and Rasinski is a bood that dives into the psychology of survey response.
+Surveys are prone to many sorts of response bias. Tourangeau, Rips and Rasinski is a book that dives into the psychology of survey response.
 
 ---
 
