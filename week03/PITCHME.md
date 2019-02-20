@@ -228,7 +228,7 @@ Note:
 
 I've annotated this figure with an example where you trying to find out how many new jobs have been created at zoos.
 
-In this hypothetical example, you may want to assess recent growth in the zoo industry. But you can't ask every possible zoo, because some may be too small. So you decide to look at zoos with at least 500 employees and an HR department. Your sampling frame contains a list of every zoo that meets this criteria. For your sample, you decide to contact every zoo that meets this criteria, and for which you have contact info for their HR department. The respondants for this survey is HR. Finally, you may have some post-survey adjustments because not all of the zoos will respond or some other error occurs.
+In this hypothetical example, you may want to assess recent growth in the zoo industry. But you can't ask every possible zoo, because some may be too small. So you decide to look at zoos with at least 500 employees and an HR department. Your sampling frame contains a list of every zoo that meets this criteria. For your sample, you decide to contact every zoo that meets this criteria, and for which you have contact info for their HR department. The respondents for this survey is HR. Finally, you may have some post-survey adjustments because not all of the zoos will respond or some other error occurs.
 
 On the left side, you decide on a measurement for growth in terms of new jobs created. You can't directly observe growth, but you can measure new jobs and use this figure to infer growth. You write your survey question such as "How many new jobs were created in your company in the last month". Then you describe what you mean so your question is as clear as possible. Hopefully, HR responds. If this survey collection is done online, you might have "edited responses". An edited response may be a follow-up question to verify or clarify.
 
@@ -252,9 +252,9 @@ The 'happiness' measurement on the left side is a hypothetical example where you
 
 ## Examples of question (response) biases
 
-1. Effect of wording - consistent with educational level of intended respondants.
+1. Effect of wording - consistent with educational level of intended respondents.
 
-2. Sensitivity - Respondants must be willing to answer
+2. Sensitivity - respondents must be willing to answer
 
 3. Question complexity and clarity - Avoid double negatives and long questions, jargon, acronyms, etc.
 
@@ -271,7 +271,7 @@ Surveys are prone to many sorts of response bias. Tourangeau, Rips and Rasinski 
 1. Order of questions
 2. Contrast effects of questions immediately preceding
 3. Length of survey (questions given more attention at beginning rather than later)
-4. Fowler (1995) notes respondants are more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
+4. Fowler (1995) notes respondents are more likely to use rankings on the left side of a continuum, regardless of whether it is decreasing or increasing
 
 Note:
 

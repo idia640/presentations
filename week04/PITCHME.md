@@ -1,6 +1,6 @@
 # How do we know what we see?
 
-18 September 2018
+18 February 2019
 
 ---
 
@@ -13,7 +13,7 @@ Note:
 
 ## What is persuasion?
 
-Persuasion refers to influence of a person's beliefs, attitudes, intentions, motivations, or behaviors. (Gass & Seiter, 2010)
+'Persuasion' refers to influence of a person's beliefs, attitudes, intentions, motivations, or behaviors. (Gass & Seiter, 2010)
 
 ## Why is this important for UX design?
 
@@ -64,7 +64,7 @@ There are all sorts of interesting books on rhetoric and persuasion. Many are fo
 <img src="images/rubins-vase.jpg" height="30%" width="30%">
 
 - Understand pre-attentive (passive) processes
-- Understand how perception is active
+- Understand that perception is active
 
 
 
@@ -79,9 +79,6 @@ In this image, you see shapes above. But your recognition and understanding of t
 As visual information travels through the visual cortex, the brain continues to filter and processes information. Information that has the higher salience (we'll talk more about this next week) -- or stands out -- is analyzed further.
 
 Perception includes not only passive pre-attentive processes, but is affected by attention, memory, learning, belief, expectations, and goals.
-
-
----?survey=https://docs.google.com/forms/d/e/1FAIpQLSd1k-2PRzwjupMP1GZpqLojz877sr7V6ey2vJc3fK4tq6LOqQ/viewform?usp=sf_link
 
 ---
 
@@ -149,7 +146,11 @@ The real problem is context -- as we will see. So let's take a look at that. I'l
 
 Note:
 
-The inner circle has the same luminance in both color contexts. (Luminance is "brightness")
+The inner circle has the same luminance in both color contexts. (Luminance is "brightness").
+
+Our brains our better at processing difference between patches of light than determining how much light is reflected from a surface.
+
+
 
 ---
 
@@ -292,8 +293,6 @@ In order to see, you have to move your eyes continually.
 
 <img src="images/EyeFixationsReading.gif" align="center" height="50%" width="50%">
 
-Image credit: Hans-Werner34 at English Wikipedia, CC BY-SA 3.0
-
 Note:
 
 This picture shows the acuity of foveal vision in reading during one fixation.
@@ -301,6 +300,8 @@ This picture shows the acuity of foveal vision in reading during one fixation.
 We'll see some video of reading in just a bit.
 
 https://commons.wikimedia.org/w/index.php?curid=4057935
+
+Image credit: Hans-Werner34 at English Wikipedia, CC BY-SA 3.0
 
 ---
 
@@ -418,9 +419,10 @@ Also, not noted here is color. These require more effort to distinguish and are 
 
 <img src="images/feature-detection.png" align="center" height="70%" width="70%">
 
+Note:
+
 While there are 100M visual receptors, there are billions of neurons simultaneously processing edges, contours, shapes, color, motion and depth.
 
-Note:
 
 - Strongest pop-out affects when a single target objects differs in some feature from all other identical. Degree of contrast important. The more variable the background, the larger the difference. Color, orientation, size, motion & stereoscopic depth. Less than .1 sec. You can see a pop-out during a single fixation.
 - There is no pop-out effect for 2 more features at the same time.
@@ -525,7 +527,7 @@ The illusion is that everything we perceive is in conscious awareness!
 
 .1 seconds seems instantaneous. We can't hold the whole world in conscious awareness. We see the world in sequences of fixations and our brains fill in the gaps.
 
-Change blindness reflects our small capacity of visual working memory. This is the reason we need external visual aids. Our attention is displayed by task-relevant data.
+Change blindness reflects our small capacity of visual working memory. This is the reason we need external visual aids. Our attention is busy with task-relevant data.
 
 ---
 

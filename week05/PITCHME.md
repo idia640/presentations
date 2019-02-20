@@ -3,8 +3,6 @@
 ### 25 Sept 2018
 
 
----?survey=https://docs.google.com/forms/d/e/1FAIpQLSeteJDSyUMPMHd1ZtVfK_zpC9MIX8ZigJi9LbSv-T2QrXr6eA/viewform?usp=sf_link
-
 Note:
 
 1. people (one person or a small group of people)
