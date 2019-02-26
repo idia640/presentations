@@ -1,23 +1,7 @@
 
 ## How do we know about things?
-### 25 Sept 2018
+### 26 Feb 2019
 
-
-Note:
-
-1. people (one person or a small group of people)
-2. narrative or story
-3. choice
-4. nudge
-5. scientific or empirical
-
-A case study is a research method that relies on detailed observations of a person or group over a period of time. It focuses on a particular situation and is a story about change. Case studies are useful in the early stages of research when you are trying to understand a problem. They are also useful for communicating to stakeholders and policy makers.
-
-They bear similarity to personas (for more information look for material by Alan Cooper on this topic).
-
-What are some differences between ethnographic research and personas?
-
-By now you have thought something about a general problem area. If you are having difficulty, pick something that already has a design that you could improve in order to guide user behavior in a more positive direction.
 
 ---
 
@@ -720,18 +704,6 @@ Note:
 
 We are pattern detectors and are perception is biased. One additional feature is important to call out: we are also prediction machines. We’re constantly making predictions about the state of the world. Ware notes that, because we see the world in small jumps from fixation to fixation, we have expectations about how things are connected. So if we see a motion trajectory of an object, we expect to see it continue. These inferences are essential for us to see and perceive the world. These same inferences drive our understanding of temporal patterns and narrative patterns. We are driven to follow narrative threads.
 
----
-
-
-## Next Week
-
-- Journal
-- Elevator speech
-- Kahneman 1-9
-
-Note:
-
-2-minute summary of your case study problem.
 
 ---
 
