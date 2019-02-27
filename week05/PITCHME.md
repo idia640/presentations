@@ -198,11 +198,22 @@ Episodic buffer is a sub-system that:
 - Gives us the experience of current consciousness
 - back up store to PSTM and VSSTM.
 
-Design implications:
+---
+
+## Design implications
+
 - One implication for design (as Johnson notes), is that we need feedback to understand the state of a system or to remember where we were just seconds ago.
 - Another point that he makes is that when a webpage contains a call to action, you should limit this to only one.
 
+Note:
+
 An important subtlety is that when a person tries to carry out two tasks simultaneously using the same perceptual channel, performance is less efficient than when performing the tasks individually. We'll look at multimodal communication a bit later in this segment.
+
+---
+
+## What do you think?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQXe1CokWqQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -237,6 +248,8 @@ Sensitivities:
 - language and culture effect
 - familiarity effect
 
+Want to learn how to do miraculous feats of memory? Check out this book: Moonwalking with Einstein: The Art and Science of Remembering Everything by Joshua Foer
+
 ---
 
 ## What HM taught us
@@ -267,7 +280,7 @@ Priming works across all senses and modalities: verbal & visual. It is often dep
 
 Priming works best when in the same modality.
 
-Priming affects semantic networks: for example, dog primes cat in an associate task. Dog primes wolf in a semantic task.
+Priming affects semantic networks: for example, dog primes cat in an association task. Dog primes wolf in a semantic task.
 
 Affects:
 - identification
@@ -275,7 +288,7 @@ Affects:
 - subsequent behavior
 - goals and motivations
 
-kindness priming - positive mood state increases helpfulness. Manipulate attentional focus toward oneself or toward another to whom a positive mood had been indiced. Carlson, Charlin, & Miller 1989
+kindness priming - positive mood state increases helpfulness.  Carlson, Charlin, & Miller 1989
 
 
 ---
@@ -312,7 +325,7 @@ Note:
 
 Memory and learning are two sides of the same coin. But there are different sub-systems at play and these are useful to understand.
 
-### Nondeclarative memory
+### Non-declarative memory
 
 - Implicit - whatever is retained during daily life. Very little explicitly recalled. 50% in 20 mins.
 
