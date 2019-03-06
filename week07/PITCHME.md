@@ -1,6 +1,6 @@
 
 # How do emotions affect belief?
-## 9 Oct 2018
+## 5 March 2019
 
 ---
 
@@ -20,14 +20,6 @@ Aristotle, Rhetorica, I, II.5
 Note:
 
 Emotional arousal is a fundamental consideration in persuasion. Because of the brain pathways involved, and the implication of reward and drives, you need to delve into an understanding of motivations, if you are to engage your users.
-
----
-
-*How would you relate Damasio's theory of emotion to Kahneman's dual process theory?*
-
-Note:
-
-Would you imagine that emotion plays a larger role in System 1 decisions or System 2 decisions?
 
 ---
 
@@ -325,8 +317,6 @@ Cunningham, Nazlek, Banaji, 2004 - us/them ethnocentrism. Task goals can affect 
 <img src="images/coffee-break.jpg" align="center" height="90%" width="90%">
 
 Note:
-
-System 1 based on formed habits are difficult to change or manipulate.
 
 Effects on thinking - sadness slows down thinking.
 
