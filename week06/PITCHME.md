@@ -1,6 +1,6 @@
 
 # How we do think?
-## 2 Oct 2018
+## 12 Mar 2019
 
 ---
 
@@ -10,6 +10,10 @@
 
 1. Review: Memory
 1. Dual processing theory - Biases and Heuristics
+
+Note:
+
+You have control over attentional, visual and cognitive signals: you are designing for behavior.
 
 ---
 
@@ -26,7 +30,7 @@
 
 Note:
 
-Kahneman's premise is that it easier to recognize other people's mistakes than our own. Kahneman, himself, references work that is now considered suspect -- but that shouldn't distract from really outstanding work that he and Tversky accomplished together.
+Kahneman's premise is that it easier to recognize other people's mistakes than our own. Kahneman, himself, has referenced work that is now considered suspect -- but that shouldn't distract from really outstanding work that he and Tversky accomplished together.
 
 ---
 
@@ -59,6 +63,14 @@ Multi component model - components process in parallel.
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
 - **Direct & sustain attention** using inherent interest in SEEKING and novelty
 - **Cognitive threads**
+
+Note:
+
+Foer talks about "elaborative encoding" and the Baker/baker paradox. This is about finding hooks to existing memories and knowledge. This is not unlike how we use schemas. He also talks about recruiting your spatial capacity (remember the "where" pathway?), as well.
+
+In your mind's eye, a little bit of visual information let's you recall much more than the stimulus itself. Crazy, weird, fun visual stimuli will also cause you to remember more!
+
+Not mentioned by Foer is something we see a lot from memory champions: visual images that are activities - something is happening or moving. He also doesn't mention emotion, but in fact it is a powerful force in natural memory.
 
 ---
 
@@ -158,7 +170,7 @@ Damasio, Self Comes to Mind, 2013
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5q7oRoTc1sw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
+Neuroscience behind "Inside-Out"
 Note:
 
 - Neuroscience of Inside-Out http://www.blakeporterneuro.com/inside-outs-take-on-the-brain-a-neuroscientists-perspective/
@@ -317,6 +329,10 @@ Note:
 
 People who were repeatedly exposed to the phrase “the body temperature of a chicken” were more likely to accept as true the statement that “the body temperature of a chicken is 144 °” (or any other arbitrary number). The familiarity of one phrase in the statement sufficed to make the whole statement feel familiar, and therefore true.
 
+Persuasive messaging:
+
+Kahneman (p. 62) tells us that anything we can do to reduce cognitive strain will help: maximizing legibility, using memorable phrases and images, rhyming.
+
 Zajonc
 
 "The consequences of repeated exposures benefit the organism in its relations to the immediate animate and inanimate environment. They allow the organism to distinguish objects and habitats that are safe from those that are not, and they are the most primitive basis of social attachments. Therefore, they form the basis for social organization and cohesion— the basic sources of psychological and social stability."
@@ -439,7 +455,7 @@ Note:
 
 Risk for confirmation bias
 
-https://origin-www.bloombergview.com/view/articles/2016-01-08/how-facebook-makes-us-dumber
+https://www.bloomberg.com/opinion/articles/2016-01-08/how-facebook-makes-us-dumber
 
 Note:
 
