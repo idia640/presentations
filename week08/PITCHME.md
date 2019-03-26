@@ -1,11 +1,11 @@
 # How do we understand?
-## 16 Oct 2018
+## 26 Mar 2019
 
 ---
 
 ## Outline
 
-- Recap: Emotion
+- Labs
 - Brief note on language in the brain
 - What is dialogue? (And why do we care?)
 - Linguistic patterns are design patterns
@@ -742,12 +742,6 @@ Note:
 ## Mirror Neurons
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0pwKzTRG5E" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Next Week
-
-NO CLASS - Do your journals
 
 ---
 
