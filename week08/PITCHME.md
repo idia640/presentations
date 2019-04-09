@@ -45,7 +45,7 @@ Language is an important topic for design, not just in terms of heuristics such 
 
 Note:
 
-Having read Kahneman chapter 1-9 and distinctions between System 1 and Sysetm 2, you may be thinking that System 1 is the emotional system and System 2 is distinctly rational. This is not quite right. System 1 is more a system that uses automated, intuitive, near effortless processes to decision-making, while System 2 requires controlled attention and conscious effort. Many of our neural pathways involve the limbic system and emotions have a particularly strong effect on memory.
+Having read Kahneman chapter 1-9 and distinctions between System 1 and System 2, you may be thinking that System 1 is the emotional system and System 2 is distinctly rational. This is not quite right. System 1 is more a system that uses automated, intuitive, near effortless processes to decision-making, while System 2 requires controlled attention and conscious effort. Many of our neural pathways involve the limbic system and emotions have a particularly strong effect on memory.
 
 ---
 

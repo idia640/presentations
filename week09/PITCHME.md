@@ -1,5 +1,5 @@
 # How do people make decisions?
-## 30 Oct 2018
+## 9 April 2019
 
 ---
 ### Outline
@@ -592,14 +592,6 @@ Give feedback - how well you are doing versus your neighbors for power usage?
 Expect error (drug dosages, email attachments, checklist for routine actions)
 
 Structure complex choices - Collaborative filtering is a solution to a choice architecture problem - it simplifies, saves cognitive resources and search costs, thus making choice easier.
-
----
-
-
-### Next Week
-
-- Persuasion
-- Journal (Kahneman)
 
 ---
 
