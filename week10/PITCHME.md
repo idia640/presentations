@@ -1,5 +1,5 @@
 # How are people influenced through persuasion?
-6 November 2018
+16 April 2019
 
 ---
 
@@ -424,48 +424,6 @@ Signal - button "click here". Ability and motivation are there.
 Note:
 
 Fogg, B. J. (2009, April). Creating persuasive technologies: an eight-step design process. Persuasive '09, Claremont.
-
----
-
-## A Compelling Case Study
-
-1. Tell a story.
-2. Focus on the characters.
-3. Why should we believe that your solution would be effective?
-
-Note:
-
-- The power of narrative can't be understated.
-- Direct attention toward your target customers/clients/users
-    - What is THEIR problem?
-    - What do they value?
-    - What motivates them?
-    - What drivers and rewards?
-    - Quotes are great.
-- Use science to help explain the problem and to back-up your solution.
-    - What levers can you use?
-    - How would you measure the effectiveness of your solution?
-
----
-
-## Case Study Rubric
-
-- The challenge problem (5 points)
-- The target user population (5 points)
-- Your design solution for nudging behavior and your desired outcome (5 points)
-- Design decisions that link to scientific concepts explored in this class (5 points)
-- How you might evaluate the effectiveness of your design (5 points)
-- The most useful concept(s) or interesting idea(s) you drew from the class (5 points)
-
-Note:
-
-- 10 minutes with up to 5 for Q&A
-
----
-
-## Next Week
-
-- Culture 
 
 ---
 
