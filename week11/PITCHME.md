@@ -1,5 +1,5 @@
 ## How does culture affect thinking?
-13 Nov 2018
+23 Apr 2019
 
 ---
 
@@ -9,12 +9,6 @@
 - What is culture (according to Hall)?
 - What affect might it have on thinking?
 - How might it influence design?
-
----
-
-## Objectives
-
-- Gain an appreciation for how culture affects interface design
 
 ---
 
@@ -34,7 +28,7 @@ https://www.influenceatwork.com/principles-of-persuasion/
 
 - Is the user sufficiently motivated?
 - How easy is to take action?
-- Is there a trigger **trigger**?
+- Is there a **trigger**?
 
 Note:
 
@@ -43,6 +37,12 @@ The Fogg Behavior Model is a simple one to adopt. In this model, timeliness is v
 Fogg, BJ. A behavior model for persuasive design (April 26-27 2009). Persuasive '09', Claremont CA.
 
 To be effective, you need to understand your user and what motivates them, what is difficult, and when a trigger can be applied.
+
+---
+
+## Objectives
+
+- Gain an appreciation for how culture affects interface design.
 
 ---
 
@@ -63,7 +63,7 @@ Gerard Hofstede was a social psychologist in the area of organizational culture 
 
 There are a number of criticisms of Hofstede's model. For example, it is based upon aggregate data and does not apply to individuals. It also presumes uniformity across cultures and has issues with other sorts of validity such as construct validity in its application to interaction design.
 
-For this reason, we focus more on the work of Edward T. Hall. He was an anthropologist who also studied cross-cultural communication. Instead of focusing on an entire culture, he focused his attention to small moments of interaction. In particular, he focused attention on communication across cultures. For this reason, we focus on Hall. However, both the works of Hofstede and Hall have value in consideration of cross-cultural design.
+For this reason, we focus more on the work of Edward T. Hall. He was an anthropologist who also studied cross-cultural communication. Instead of focusing on an entire culture, he focused his attention to **small moments of interaction**. In particular, he focused attention on communication across cultures. However, both the works of Hofstede and Hall have value in consideration of cross-cultural design.
 
 Hofstede - 6 cultural dimensions. From: How Do Design and Culture influence Digital Marketing?https://www.conversion-uplift.co.uk/cultural-factors-in-web-design/
 
@@ -251,6 +251,7 @@ Two headlines - one word difference.
 
 Former First Lady of Taiwan
 Wu Shu-chen visits US, talks about Taiwan's democratic story.
+
 Wu Shu-chen: Washington D.C. speech propagates Taiwan's democracy.
 
 English version: First lady ready to stand up for her island on upcoming US trip.
