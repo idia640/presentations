@@ -1,25 +1,7 @@
 # How do social networks affect behavior?
-27 Nov 2018
+30 April 2019
 
 ---
-
-## Case Study Checklist
-
-1. Who is your user? (broad -> narrow)
-2. What is their situation?
-4. What is your behavioral objective?
-5. Your insight and design concept
-6. Reason to believe (RTB; science)
-7. How do you measure success?
-
----
-
-## What makes a good case study?
-
-- Clear message, RTB, "feel"
-- Authenticity
-- Tells a story
-
 
 ---?image=images/quote-steve-jobs.jpg
 
@@ -57,7 +39,7 @@ You don't need to use all of the colors under the rainbow to make your point. Ch
 
 ## Objectives
 
-- Understand the potential for social networks to shape thought, emotion, and behavior
+- Understand the potential for social networks to play a role in social processes
 - Learn about challenges associated with determining influence in a social network
 - Understand the purpose and utility of methods and tools used to measure human behavior within a social economy
 
@@ -71,7 +53,7 @@ There is a dark side to this story, of course. There is the very salient fact th
 
 “Its success came from its stepwise approach. First, it imitated genuine far-right commentators by posting hyper-partisan tweets, and attracted their attention by mentioning and praising them. Their responses gave it an appearance of legitimacy which allowed it to interact with higher-profile figures, including in the campaign, and to be quoted by genuine media outlets.” (2 017, Nimmo, B., How a Russian Troll Fooled America, https://medium.com/dfrlab/how-a-russian-troll-fooled-america-80452a4806d1)
 
-While measuring influence in social networks is challenging, it is an emergent business area as evidenced by the influential klout measure. Finally, while we can be manipulated and driven as a herd, we are also more open to fine-grained targeting than ever before. We’ll look at a few ways marketing and advertising professionals are gather tiny social signals from users to quantify behavior.
+While measuring influence in social networks is challenging, it is an emergent business area as evidenced by the influential klout measure and a huge surge of interest based on bots, counter-influence, fake news, etc. Finally, while we can be manipulated and driven as a herd, we are also more open to fine-grained targeting than ever before. We’ll look at a few ways marketing and advertising professionals are gather tiny social signals from users to quantify behavior.
 
 ---
 
@@ -452,6 +434,6 @@ Lewis, Michael. The Undoing Project: A Friendship That Changed Our Minds (Signed
 
 ---
 
-## Next Week - Final Presentations
+## Next Week - Posters!
 
 <img src="images/balloons.jpg" align="center" height="50%" width="50%">
