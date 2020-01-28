@@ -1,7 +1,8 @@
 # Introduction
-## Jan 29, 2019
+## Jan 28, 2020
 
 ---
+
 ## Outline for today
 
  1. Introductions
@@ -17,6 +18,7 @@
  6. Next week
 
 ---
+
 # Introductions
 
 1. Tell us about yourself
@@ -25,7 +27,7 @@
 4. How long have you been in it?
 4. What do you hope to get out of your program?
 
-*Also, please share something about yourself in [Slack #members](https://idia640.slack.com/messages/C6JN6KD8B)*
+*Also, please share something about yourself in [Slack #introductions](https://app.slack.com/client/TT3K9KFL4/CT43V8745)*
 
 Note:
 
@@ -40,13 +42,16 @@ Note:
 
 Image credit: https://www.earth.com/news/brains-fixated-social-lives/
 
-We're going to focus on how you can drive user behavior to create a positive and persuasive interaction. This means getting under the hood of the human brain: how people perceive the world, think and make decisions, and communicate using language and graphics. Because we're social animals, we are also influenced by social and cultural environments. So this will be another lever that you can use to advantage for driving behavior.
+We're going to focus on how you can drive user behavior to create a **positive and persuasive interaction**. This means getting under the hood of the human brain: how people perceive the world, think and make decisions, and communicate using language and graphics. Because we're social animals, we are also influenced by social and cultural environments. So this will be another lever that you can use to advantage for driving behavior.
 
 Bias is a big part of this. Bias is the tendency to more heavily weight one option over another.
 
-In an ideal user interaction, you shape and drive user experience. You anticipate what users will do because you know how they should respond based on your design.
+> In an ideal user interaction, you shape and drive user experience. You anticipate what users will do because you know how they should respond based on your design.
+
+One change I will introduce in this class later in the semester is the importance of design to recent advances in Artificial Intelligence and Machine Learning. As designers you play a key role on any team deploying new technologies in this space. I will show you examples of how UX design and AI can work together to improve user experience.
 
 ---
+
 ## The Brain
 
 <img align="center" width="50%" height="50%" src="images/brainEvolution.jpg">
@@ -55,11 +60,12 @@ Note:
 
 The human brain has been evolving for a long time. (Sorry for the French!)
 
-Hominids emerged millions of years ago and had relatively little brains but large jaws. Homids are distinguished from their paleo brethren by a markedly larger brain size and body size. Some speculate a correspondence with a more calorie and nutrient dense diet since the brain requires so much energy. In fact, our brain now consumes some 20% of the calories that we take in!
+Hominids emerged millions of years ago and had relatively little brains but large jaws. Hominids are distinguished from their paleo brethren by a markedly larger brain size and body size. Some speculate a correspondence with a more calorie and nutrient dense diet since the brain requires so much energy. In fact, our brain now consumes some 20% of the calories that we take in!
 
 Image credit: http://www.bordalierinstitute.com/images/brainEvolution.jpg
 
 ---
+
 ## What Makes us Human?
 
 <img align="center" width="90%" height="90%" src="images/timeline-of-human-development.jpg">
@@ -71,6 +77,7 @@ There are many theories about how and why Homo sapiens are different than other 
 "When we use our brains, we often hook them up to external systems. These may be physical objects, such as pencil and paper or smartphones, that supersize our capacities for memory and reasoning. In conversation, the external systems to which we hook ourselves up are the bodies and minds of other people." Enfield, How we Talk, pg. 13
 
 ---
+
 ## User Interaction is Cooperative
 
 
@@ -86,6 +93,7 @@ A portion of this image is from Clark (1996) Discourse Continuum
 - User interaction is a joint activity where the designer and the user communicate via a user interface
 
 ---
+
 ## User Interaction is Conversational
 
 <ul>
@@ -116,6 +124,7 @@ Note:
 How similar or different is this interaction to the previous dialogue?
 
 ---
+
 ## Speaker Contribution
 
 <ul>
@@ -135,13 +144,14 @@ Note:
 Note:
 
 - By 'respond', think about both behavior, in terms of actions, attitude, intent -- and feelings.
-- Design is intrinsically communication.
+- UX Design is intrinsically about communication.
 
 - In this course, we will explore basic cognitive processes that you can use as levers to align user perceptions and actions.
 
 - We'll be unpacking hidden structure that will develop you as a designer.
 
 ---
+
 ## Is there Interaction that is not Conversational?
 
 
@@ -174,6 +184,7 @@ Researchers are interested in new design methodologies, experimentation to ident
 
 
 ---
+
 ## HCI is a Multi-Disciplinary Field
 
 <img align="right" width="40%" height="40%" src="images/preece.png">
@@ -204,10 +215,11 @@ We will look at each, but focus on hypothesis testing and ethnographic study.
 - And we need to understand scientific methods in order to read much of the foundational literature of HCI and applied (interaction) design.
 
 ---
+
 ## Learning Environment
 
 <ul>
-  <li><a href="https://idia640.github.io" target="_blank">Syllabus</a></li>
+  <li><a href="https://github.com/idia640/course-materials/blob/master/IDIA-640-Harper-Spring2020.pdf">Syllabus</a></li>
   <li><a href="https://github.com/idia640/course-materials" target="_blank">Course Materials</a></li>
   <li><a href="https://github.com/idia640/presentations" target="_blank">Presentation material</a></li>
   <li>Books and Articles</li>
@@ -267,6 +279,7 @@ Note:
   - And if you are interested in psychographics, you will find that these two ideas overlap heavily in terms of what you want to know about your users
 
 ---
+
 ##  What's the Difference?
 
 - Coercion
@@ -279,6 +292,7 @@ Force / no force
 Witting / not witting
 
 ---
+
 ## Coercion
 
 <img width="80%" height="80%" src="images/tv-ads.jpg">
@@ -325,7 +339,7 @@ Note:
 
 Hearandplay
 
-Jermaine Griggs is an entrepreneur that had the first "play by ear" site online. It still has that 90's clunky look but is no less effective than it was when it first came online, despite lots of competition. In the late 2000's Griggs discovered "marketing automation tools" and Cialdini. He calls the interactions that he designs as "personalization". What he's really doing is understanding the motivations, intentions, and needs of his user base and holding dialogues via email and web sessions. He collects data to know who they are and where they are in the dialogue.
+Jermaine Griggs is an entrepreneur that had the first "play by ear" site online. It still has that 90's clunky look but is no less effective than it was when it first came online, despite lots of competition. In the late 2000's Griggs discovered "marketing automation tools" and read the  the popular book "influence" by Cialdini. He calls the interactions that he designs as "personalization". What he's really doing is understanding the motivations, intentions, and needs of his user base and holding dialogues via email and web sessions. He collects data to know who they are and where they are in the dialogue.
 
 Thaler's blog highlights mechanism for "choice architecture" as:
 - The tools highlighted are:
@@ -339,6 +353,7 @@ Thaler's blog highlights mechanism for "choice architecture" as:
 You are a choice architect!
 
 ---
+
 ## Nudge
 
 <img width="80%" height="80%" src="images/nudge.gif">
@@ -350,7 +365,7 @@ Let's look at a closely at nudges.
 
 “A nudge, as we will use the term, is any aspect of the choice architecture that alters people's behavior in a predictable way… nudges are not mandates. Putting fruit at eye level counts as a nudge. Banning junk food does not.” Thaler and Sunstein (2008)
 
-Nudges are interventions that steer people in particular directions but that also allow them to go their own way. Thaler and Sunstein (2008) It shouldn't affect your autonomy nor should it provide significant "material incentive."
+> Nudges are interventions that steer people in particular directions but that also allow them to go their own way. Thaler and Sunstein (2008) It shouldn't affect your autonomy nor should it provide significant "material incentive."
 
 This concept seems simple on the surface, but there are still many potential ethical problems.
 Nudging and Choice Architecture: Ethical Considerations. Sunstein  (2015)
@@ -378,6 +393,7 @@ More recently, in 2017,Richard Thaler was awarded the same prize for his contrib
 In his work, Thaler uses the term "nudge". A nudge influences behavior without coercion or manipulation. It makes one option more attractive without forbidding other options.
 
 ---
+
 ## The Power of a Fly
 
 <img width="60%" height="60%" src="images/fly.jpg">
@@ -395,9 +411,11 @@ One caveat: you are not limited to nudges. To design a persuasive interaction, y
 
 
 ---
+
 ## Let's get started...
 
 ---
+
 ## Github
 
 - What is GitHub?
@@ -430,22 +448,23 @@ Write a short problem statement on an interaction problem domain.
 
 For this week, think of an problem area where you wish to positively affect user change. The nudge blog is a good place to start if you feel stuck. You just need a sentence or two.
 
-https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf
+[](https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf)
 
 ---
 
 # Next Week
 
 - Finish the practice journal entry
-- Contribute a [case study idea](https://github.com/idia640/course-materials/blob/master/problem-statement.md) in [Slack #case-studies-spring19]( https://idia640.slack.com/archives/C6J56QY8G).
-- Choose a scientific article to review and add a note to #discussion-spring19. First come, first served.
-- Readings
+- Contribute a [case study idea](https://app.slack.com/client/TT3K9KFL4/CSSKBDL9H) in Slack.
+- [Choose a scientific article to review](https://www.dropbox.com/home/hcc-articles/articles%20-%20selection%20for%20critical%20review) and add a note to the discussion board with the article you chose. First come, first served.
+- Reading
 
 Note:
 
 This course starts out like a lion and ends like a lamb. I hope to get the less fun stuff out of the way in the first couple of weeks and then you can enjoy thinking about a case study idea that refers to concepts from this course.
 
 ---
+
 ## References
 
 @ul[references]
