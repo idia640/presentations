@@ -1,6 +1,6 @@
 # HCI Methodologies
 ### Experimentation
-## 5 Feb 2019
+## 4 Feb 2020
 
 ---
 
@@ -25,16 +25,15 @@ Did you ever imagine you would be the science person on the team? Since you will
 We will look at each of the methodologies above, but focus on hypothesis testing this week.
 
 ---
+
 ## Today's outline
 
 - **Motivation**
 - Objectives
 - Controlled Experimentation
 
-
----?survey=https://docs.google.com/forms/d/e/1FAIpQLSdFNswbvUQG2pgOFSfJ_gFTA6C7QHos9SDcQWlfeEPQjKCnqA/viewform?usp=sf_link
-
 ---
+
 # Why do we need to know this stuff?
 
 Note:
@@ -42,6 +41,7 @@ Note:
 This point of this segment is to help you understand the importance of questioning assumptions and to think like a scientist. Part of how you will be persuasive in your own design pitches is using science as evidence where you can.
 
 ---
+
 ## Scientists are people
 - They are inquisitive, but subject to the same biases as the rest of us.
 - They work within a *paradigm*.
@@ -112,7 +112,7 @@ Reading from the Pinker article above: (as it pertains very well to design, in g
 
 Pinker: “I think the curse of knowledge is the chief contributor to opaque writing,” Pinker explained. “It simply doesn’t occur to the writer that readers haven’t learned their jargon, don’t seem to know the intermediate steps that seem to them to be too obvious to mention, and can’t visualize a scene currently in the writer’s mind’s eye. And so the writer doesn’t bother to explain the jargon, or spell out the logic, or supply the concrete details — even when writing for professional peers.”
 
-The slow and integrative nature of conscious perception is confirmed behaviorally by observations such as the “rabbit illusion” and its variants, where the way in which a stimulus is ultimately perceived is influenced by poststimulus events arising several hundreds of milliseconds after the original stimulus.
+> The slow and integrative nature of conscious perception is confirmed behaviorally by observations such as the “rabbit illusion” and its variants, where the way in which a stimulus is ultimately perceived is influenced by poststimulus events arising several hundreds of milliseconds after the original stimulus.
 
 Pinker said that despite teaching and doing research in perception for almost 40 years, he “had no idea” what the sentence meant, could not identify what the writer was referring to by “a stimulus,” and had to look up the definition of rabbit illusion, which he discovered to be an obscure phenomenon in cutaneous perception:
 
@@ -158,6 +158,7 @@ Watch the first few minutes at least.
 - "missing data" - negative trails are missing. Companies routinely withhold this sort of data. Tamiflu - promise that this drug reduces the complications of flu (pneumonia & death). But scientists are unable to get this data.
 
 ---
+
 ## Journalistic Error
 
 <a target="_blank" href="https://www.bostonglobe.com/news/politics/2015/10/20/donald-trump-and-ben-carson-speak-grade-school-level-that-today-voters-can-quickly-grasp/LUCBY6uwQAxiLvvXbVTSUN/story.html">Boston Globe: Oct 20, 2015</a>
@@ -171,6 +172,7 @@ Note:
 Does Flesch-Kincaid apply?? NO. It was designed for written text and not speech. (It has other flaws, as well. See punctution example on next page.)
 
 ---
+
 ## "Flesch Kincaid"
 
 <img align="right" width="90%" height="90%" src="images/flesch-kincaid.png">
@@ -182,6 +184,7 @@ Note:
 Do you see a difference in language use here?
 
 ---
+
 ## "Gladwellian gap"
 
 <img align="right" width="20%" height="20%" src="images/DavidAndGoliath.jpg">
@@ -235,6 +238,7 @@ Elements of a scientific paper you will learn to identify.
 - Results/Key findings
 
 ---
+
 ## UX Research Methods
 
 <img align="center" width="60%" height="60%" src="images/user-research-methods.png">
@@ -313,6 +317,7 @@ This slide puts into context all of the research methods we will be concerned wi
 We'll look at ethnographic research and survey methodology next week, but for this week you need to know the difference between experimental and non-experimental research designs.
 
 ---
+
 ## Randomized experimental
 
 <img align="center" width="80%" height="80%" src="images/experimental.png">
@@ -332,6 +337,7 @@ You could also imagine variables with multiple levels such as small, medium, and
 And you could imagine being interested in something like assessing readability on the basis of multiple variables such as, text color, size, and font.
 
 ---
+
 ## Quasi-Experimental
 
 The key difference between randomized experiments and quasi experiments is that in the latter, no random groups are assigned.
@@ -419,7 +425,7 @@ Note:
 
 - Critical Review due
 - Labs: How to present a scientific paper;  ethnographic research
-- More on research methods: Surveys and ethnography
+- More on research methods: Ethnography
 
 ---
 ## References
