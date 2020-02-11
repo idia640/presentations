@@ -1,5 +1,5 @@
 # HCI Research Methods (2)
-## 12 February 2019
+## 11 February 2020
 
 ---
 
@@ -37,10 +37,6 @@ The structure of a scientific paper gives insight into how you might think about
 - Select a method that lets you examine your hypothesis with as few "moving parts", as possible
 - Think about how you can evaluate your results
 
----?survey=https://docs.google.com/forms/d/e/1FAIpQLSd_6expUtzje-QjRrh1k6nNkbtc3KAU3pDRBWGu5ncZxjDnbQ/viewform?usp=sf_link
-
-https://docs.google.com/forms/d/1ESFNu_zX-nECEhe4tiwQo2ht0HAgXIHtbMK0YkQYQCg/edit
-
 ---
 
 ## Critical Thinking
@@ -67,11 +63,11 @@ Summarizing: data doesn't create meaning - people do. We need to spend more time
 
 ## Today's outline
 
-- Survey Methodology
+- Surveys (broadbrush)
 - Ethnography
 - Wrap-up: Evaluation
 
-Note: As mentioned before, this class considers three research methodological frameworks you may not get much exposure to in other classes.
+Note: As mentioned before, this class considers  research methodological frameworks you may not get much exposure to in other classes.
 
 In particular, I chose these because you will need to think about how you would evaluate your persuasive design concept that you will create during this course. We'll talk more about this later.
 
@@ -91,7 +87,7 @@ Note:
   - (Some) Surveys
   - Ethnography
     - **Analytical** - detailed portrayal of a sociocultural phenomenon. Includes scripts/frames (e.g., restaurant, shop) and concepts.
-    - ** Generative** - Potential for identifying new experiences and phenomena.
+    - **Generative** - Potential for identifying new experiences and phenomena.
 
 
 Empirical tradition contrasts with view that reason alone is sufficient evidence. (So question your assumptions!)
@@ -140,6 +136,7 @@ Similar types of generative research include contextual interviews and focus gro
 Note:
 
 Empirical methods are used at all points in a design lifecycle.
+
 - Understanding of the user community
 - Generation of a concept
 - Assessment of concept viability
@@ -353,7 +350,7 @@ May involve different methodologies. Most common is participant observation wher
 
 ---
 
-## Sociology & IDIA
+## Sociology & IDIA - Watching people using technology
 
 <img width="100%" height="100%" src="images/garfinkel-dialogue.png">
 
@@ -404,6 +401,7 @@ Conversation analysts find patterns that can be formulated as normative behavior
 This situated research is useful for design.
 
 Main concepts and findings:
+
 - turn-taking organization
 - organization of action/sequences
 - preference organization
@@ -459,10 +457,12 @@ Understanding users in context is a broad topic of great importance in UX. Tease
 ## Next Week
 
 - First journal entry - sense & perception
+- Go back and look at your case study idea and seek to narrow in on a specific population where the idea of ethnographic research is feasible
+- Look at labs 4a & 4b
 
 Note:
 
-Next week we'll talk about narrowing your user group in more detail. And we'll also talk about what an interaction design case study for this class means.
+Next week we'll talk about narrowing your user population in more detail. And we'll also talk about what an interaction design case study for this class means.
 
 For your journal entry:
 
