@@ -1,6 +1,6 @@
 # How do we know what we see?
 
-18 February 2019
+18 February 2020
 
 ---
 
@@ -110,7 +110,7 @@ Letters can represent sounds.
 - Colors can also be symbolic and somewhat culture dependent. (Red as danger, for example.)
 - More color saturation can mean "more important"
 
-Red-Green, Blue-Black, and Black-White are special because they produce the most extreme signal on one channel while being neutral on other channels. And, again, colors can carry additional cultural meaning.
+Red-Green, Blue-Yellow, and Black-White are special because they produce the most extreme signal on one channel while being neutral on other channels. And, again, colors can carry additional cultural meaning.
 
 
 ---
@@ -150,7 +150,12 @@ The inner circle has the same luminance in both color contexts. (Luminance is "b
 
 Our brains our better at processing difference between patches of light than determining how much light is reflected from a surface.
 
+Note:
 
+From Ware:
+The most important single principle in the use of color is that whenever detailed information is to be shown, luminance contrast is necessary.
+
+Colin Ware. Visual Thinking: for Design (Kindle Location 863). Kindle Edition.
 
 ---
 
@@ -160,7 +165,7 @@ Our brains our better at processing difference between patches of light than det
 
 Note:
 
-Note the center tile on the top and the center one on the facing side.
+The center tile on the top and the center one on the facing side.
 
 ---
 
@@ -168,17 +173,29 @@ Note the center tile on the top and the center one on the facing side.
 
 <img src="images/brown.png" align="center" height="50%" width="50%">
 
-Note: Again, you perceive the two tiles differently because the visual context differs.
+Note:
+
+Again, you perceive the two tiles differently because the visual context differs.
+
 ---
 
 ## Geometry
 
 <img src="images/tables.png" align="center" height="50%" width="50%">
+
+Note:
+
+Yes, you've got it... the dimensions are the same.
+
 ---
 
 ## Geometry
 
 <img src="images/geometry.png" align="center" height="50%" width="50%">
+
+Note:
+
+Check out the rotation to 90 degrees.
 
 ---
 
@@ -210,7 +227,7 @@ We have the illusion of believing we see everything there is to see. This, coupl
 
 <img src="images/photon-flux.png" align="center" height="50%" width="50%">
 
-What reaches the eye is not an image but a (chaotic) photon flux. ** Somehow the eye has evolved to make an image on the retina.**
+What reaches the eye is not an image but a (chaotic) photon flux. **Somehow the eye has evolved to make an image on the retina.**
 
 Note:
 
@@ -486,7 +503,7 @@ Now try to interpret the expressions on the faces in the background.
 
 You are driving perception top-down while you try to perform these tasks and your brain naturally suppresses information that is less relevant to what you are doing.
 
-In fact, information is simultaneously moving both top-down and bottom-up. While you are attending to the task of finding relevant information, you are also doing pattern matching as you receive input into your brain from features in the visual field.s
+In fact, information is simultaneously moving both top-down and bottom-up. While you are attending to the task of finding relevant information, you are also doing pattern matching as you receive input into your brain from features in the visual field.
 
 ---
 ## Saccadic eye movements
@@ -549,7 +566,7 @@ Working memory is quite short - only seconds! (We'll talk more about memory next
 
 Note:
 
-Attentional tuning does operate at the feature level. But because patterns are made up of features the same principles are play during visual queries. More complex patterns, such as the blobs that we quickly recognize as faces, and the lines connecting symbols, which we may track with our eyes, once we recognize that they are letters - are really patterns of patterns.
+Attentional tuning does operate at the feature level. But because patterns are made up of features, the same principles are play during visual queries. More complex patterns, such as the blobs that we quickly recognize as faces, and the lines connecting symbols, which we may track with our eyes, once we recognize that they are letters - are really patterns of patterns.
 
 Planning and executing eye movements occurs between 1-3 times per second.
 
@@ -567,7 +584,7 @@ Feature binding occurs above the level of basic visual features.
 
 In this stage, patterns such as continuous contours are constructed. There is a biased competition for feature processing. For example, excitatory signals on neurons are prevalent within a neighborhood. Likewise, there tends to be inhibition on non-related inputs.
 
-Feature binding is also affected by top-down attentional processes (goals, actions, understanding, etc.) We are continually re-link visual and non-visual features; we see what we are looking for and we get information when we need it.
+Feature binding is also affected by top-down attentional processes (goals, actions, understanding, etc.) We are continually re-linking visual and non-visual features; we see what we are looking for and we get information when we need it.
 
 ---
 
