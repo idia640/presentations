@@ -1,6 +1,6 @@
 
 ## How do we know about things?
-### 26 Feb 2019
+### 25 Feb 2020
 
 
 ---
@@ -171,6 +171,7 @@ Binding requires attentional processes.
 Baddeley's multi component model can be broken down into the phonological loop, visuo-spatial sketchpad, episodic buffer, and central executive.
 
 Phonological loop:
+
 - left hemisphere
 - holding acoustic or speech-based sequences
 - articulatory rehearsal mechanism (e.g. remember license plate)
@@ -178,11 +179,15 @@ Phonological loop:
 - plays a role in the conversion from visual information to verbal
 - memory effects: rhyming causes confusion, and word length has an effect on recall.
 
-Visuospatio sketchpad - similar function for visual or spatially encoded items.
+Visuospatio sketchpad:
+
+- similar function for visual or spatially encoded items
 - right hemisphere
 - separates "what" versus "where" mechanisms
 
-Central executive - attentionally limited system that selects and manipulates patterns / objects in the subsystems.
+Central executive:
+
+- attentionally limited system that selects and manipulates patterns / objects in the subsystems.
 - central to planning, problem solving
 - necessary for shifting & switching attention (when plan not working)
 - implicated in fluency - ability to quickly and efficiently search for and generate new info
@@ -191,6 +196,7 @@ Central executive - attentionally limited system that selects and manipulates pa
 - self-monitoring - check on progress
 
 Episodic buffer is a sub-system that:
+
 - links long term memory
 - integrates information from other sub-systems into a unified experience
 - small area of storage capacity that does not depend on perceptual input.
@@ -314,6 +320,24 @@ Explicit learning - visual patterns and associations must be the focus of attent
 
 - Emotion plays a role (we'll talk about this later)
 - Familiar paths affect learning
+
+---
+
+## Memory palace 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yw4x_Ijoz1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Memory palace #2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzUob-yb6J4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+## Memory palace #3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tJ5TsOchf7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -554,27 +578,6 @@ Note, this is an example of repetition priming as mentioned earlier.
 
 ---
 
-## Visual saliency as a bias for preference
-
-<img src="images/relative-saliency.png" align="center" height="70%" width="70%">
-
-
-Note:
-
-Visual attention is affected by saliency -- which in turn has an affect on choices.
-
-This means there is the potential for bias.
-
-Milosavljevic et al. conducted an experiment designed to measure the size of "visual saliency bias" and how it changes with decision speed and cognitive load.
-
-The study involved a food choice experiment.
-
-Study participants were directed not to eat for three hours. They also provided their subjective ratings for food choices among snacks. They were then provided a series of choices under variable conditions using an eye tracker.
-
-Results showed that when there was little time, visual saliency influenced choices more than preferences. This bias also increases with cognitive load. Not surprisingly, the effect is stronger when individuals do not have strong preferences among options.
-
----
-
 ## Top-down processes affect preference
 
 <img src="images/top-down-preference.png" align="center" height="70%" width="70%">
@@ -582,20 +585,6 @@ Results showed that when there was little time, visual saliency influenced choic
 Note:
 
 In this study, framing affects preferences. We'll continue to talk about framing in the coming weeks.
-
----
-
-## Effects of memory on preference
-
-<img src="images/coke-pepsi.png" align="center" height="70%" width="70%">
-
-Note:
-
-In this study by Mclure et al. (2004), subjects in a behavioral taste test were studied using functional magnetic resonance imaging (fMRI) in both anonymous and image (brand) cued conditions. Subjects presented a consistent neural response in the ventromedial PFC consistent with subjective preference. But those cued with the coke brand had dramatic responses in the hippocampus and DLPFC.
-
-Neuron, Vol. 44, 379-387, October 14, 2004, Neural Correlates of Behavioral Preference for Culturally Familiar Drinks
-Samuel M. McClure,1,2 Jian Li,1 Damon Tomlin, Kim S. Cypert, Latane ́ M. Montague,
-and P. Read Montague*
 
 ---
 
