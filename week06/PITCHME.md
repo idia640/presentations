@@ -1,6 +1,6 @@
 
 # How we do think?
-## 12 Mar 2019
+## 31 Mar 2020
 
 ---
 
@@ -20,6 +20,7 @@ You have control over attentional, visual and cognitive signals: you are designi
 ## Objectives
 
 *Understand practical ways in which system one and two bias thinking*
+
 - Availability heuristic
 - Halo effect
 - Social priming
@@ -57,7 +58,7 @@ Multi component model - components process in parallel.
 ### Design considerations
 
 - **Chunk information** (task & information structure)
-- **Picture superiority effect** (advantage of pictures over words) https://youtu.be/U6PoUg7jXsA
+- **Picture superiority effect** (advantage of pictures over words) [https://youtu.be/U6PoUg7jXsA](https://youtu.be/U6PoUg7jXsA)
 - **Prime important concepts** (e.g., search icon in mobile apps, brands, concepts)
 - **Exposure effect** (familiarity and preference)
 - **Use common schemas & frames** (e.g., shopping carts, landmarks for route finding)
@@ -94,6 +95,7 @@ It's not at all clear that the developer of this user experience actually did wa
 
 
 ---
+
 # Walk-through example
 
 <img src="images/first-energy.jpg" align="center" height="50%" width="50%">
@@ -173,8 +175,7 @@ Damasio, Self Comes to Mind, 2013
 Neuroscience behind "Inside-Out"
 Note:
 
-- Neuroscience of Inside-Out http://www.blakeporterneuro.com/inside-outs-take-on-the-brain-a-neuroscientists-perspective/
--
+- [Neuroscience of Inside-Out](http://www.blakeporterneuro.com/inside-outs-take-on-the-brain-a-neuroscientists-perspective/)
 - We perceive by engagement.
 - To recall, we play back an approximation of a perception.
 - Sensory areas can only create one sensory image at a time, but the PFC can hold the salient goal or goal-relevant features of several at a time. Reser, 2013
@@ -254,15 +255,15 @@ The experiment took place in an office kitchen with an "honesty box". On the wal
 
 When staff were primed by seeing eyes above the price list, they paid almost three times as much as when they saw the flowers.
 
-http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686213/
+[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686213/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1686213/)
 
 ---?image=images/behavior-is-out-medium.png
 
 Note:
 
-https://vimeo.com/3730382
+[https://vimeo.com/3730382](https://vimeo.com/3730382)
 
-The central business of interaction design concerns affecting and guiding behavior.
+*The central business of interaction design concerns affecting and guiding behavior.*
 
 We've talked about some means for guiding attention, and sustaining attention. Now we're getting into the meat-and-potatoes of designing for behavior change.
 
@@ -274,11 +275,15 @@ We've talked about some means for guiding attention, and sustaining attention. N
 
 Note:
 
-System 1 - no effort, no sense of voluntary control
- - perception, recognition, orientation
- - learned associations
- - learned skills such as reading and social cues
-System 2 - attention allocation, associated with subjective experience of agency, choice and concentration.
+System 1
+
+- no effort, no sense of voluntary control
+- perception, recognition, orientation
+- learned associations
+- learned skills such as reading and social cues
+
+System 2
+- attention allocation, associated with subjective experience of agency, choice and concentration.
 
 System 1 depends heavily on the limbic system - Visceral, autonomic processes. Includes the hippocampus, important to forming memories. Also includes the amygdala, important to emotional processes and basal ganglia connected to intentional movement. Heavily modulated by dopamine (neurotransmitter which plays a role in reward) - important to motivation and learning.
 
@@ -367,7 +372,7 @@ Note:
 
 *Write down what happened*
 
-http://blogs.scientificamerican.com/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/
+[http://blogs.scientificamerican.com/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/](http://blogs.scientificamerican.com/thoughtful-animal/animating-anthropomorphism-giving-minds-to-geometric-shapes-video/)
 
 Note:
 
@@ -414,7 +419,7 @@ How is this useful?
 
 <img src="images/social-attribution.png" align="center" height="100%" width="100%">
 
-https://www.researchgate.net/publication/265419044_Social_Attributions_from_Faces_Determinants_Consequences_Accuracy_and_Functional_Significance
+[https://www.researchgate.net/publication/265419044_Social_Attributions_from_Faces_Determinants_Consequences_Accuracy_and_Functional_Significance](https://www.researchgate.net/publication/265419044_Social_Attributions_from_Faces_Determinants_Consequences_Accuracy_and_Functional_Significance)
 
 Note:
 
@@ -428,13 +433,10 @@ In about 70% of the races, the winner was the candidate whose face had earned hi
 
 We're very good at relative judgements - using prototypes & exemplars.
 
-Quantity irrelevant emotional context has a larger impact. Underlying dimension of intensity. We can do this across scales, as well.
-
-Kahneman calls this a mental shotgun (excess computation) combined with intensity matching makes it possible to have intuitive judgements about things that we know little about.
-
+Kahneman - mental shotgun (excess computation) combined with intensity matching makes it possible to have intuitive judgements about things that we know little about.
 
 Follow-up studies...
-Wartime to peacetime voting preference (ULittle, Roberts, Jones, Debruine 2012)
+Wartime to peacetime voting preference (Little, Roberts, Jones, Debruine 2012)
 
 What about in advertising?
 
@@ -455,7 +457,7 @@ Note:
 
 Risk for confirmation bias
 
-https://www.bloomberg.com/opinion/articles/2016-01-08/how-facebook-makes-us-dumber
+[https://www.bloomberg.com/opinion/articles/2016-01-08/how-facebook-makes-us-dumber](https://www.bloomberg.com/opinion/articles/2016-01-08/how-facebook-makes-us-dumber)
 
 Note:
 
@@ -469,7 +471,7 @@ The consequence is the “proliferation of biased narratives fomented by unsubst
 
 ## How to break comparisons
 
-http://evilbydesign.info/greed/break-coherence/
+[http://evilbydesign.info/greed/break-coherence/](http://evilbydesign.info/greed/break-coherence/)
 
 Note:
 
@@ -494,12 +496,3 @@ System 1 is coherence seeking. It suggests solutions to the un-suspecting System
 - Reser, J. E. (2013). The neurological process responsible for mental continuity and internally generated thought. Conference for the Association for the Scientific Study of Consciousness, ASSC 17, July 12th-15th. Retrieved from: http://www.cognitivemechanics.net/on_consciousness
 
 ---
-
-### Next Week
-
-1. Journal
-1. Emotion (alt video for Damasio)
-
-Note:
-
-Some feedback by students on Damasio has been tepid. He writes popular books (much like Kahneman) that cater to non-experts. So I don't know if a negative reaction is because of his style, or because I dropped students into the middle of one of his books. Thus, I've provided a video of him speaking as an alternative to his material.
