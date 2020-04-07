@@ -1,5 +1,5 @@
 # How do we understand?
-## 26 Mar 2019
+## 7 April 2020
 
 ---
 
@@ -522,7 +522,6 @@ If you are interested in how people coordinate language using speech and gesture
 ## Signals and communicative acts
 
 *"The joint act of one person signaling another and the other recognizing what was meant is called a communicative act."*
-
 
 <img src="images/live-chat.png" align="right" width="50%" height="50%"/>
 
