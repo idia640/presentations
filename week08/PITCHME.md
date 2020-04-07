@@ -5,113 +5,36 @@
 
 ## Outline
 
-- Labs
 - Brief note on language in the brain
-- What is dialogue? (And why do we care?)
-- Linguistic patterns are design patterns
+- Properties of conversation
+- Conversational UX
+- In what way are websites / webapps conversationally similar to CUX?
 - Considerations for UX design
 
 Note:
 
-These are the many things we will touch upon:
+How do we use language to communicate? These are the many things we will touch upon:
 
-- Joint activities (macro interactions)
-- Routines (micro-interactions)
-- Dialog (& turn-taking)
-- Social coordination
-- Framing (positive, negative for example)
-- Code-switching
-- Footing
-- Incremental understanding
-- Signals and communicative acts
-- Conventional meaning
-- Detecting and correcting error
-- Information packaging
+- Language understanding
+  - Information packaging
+  - Incremental understanding
+  - Conventional meaning
 
+- The nature of dialog *interaction*
+  - Joint activities (macro interactions)
+  - Signals and communicative acts
+  - Dialog (& turn-taking)
+  - Routines (micro-interactions)
+  - Error prevention, detection & repair
 
-Finally, the idea that linguistic patterns are design patterns
+- Social processes
+  - Framing (positive, negative for example)
+  - Code-switching (informal vs formal)
+  - Footing (social alignment between speaker and hearer; role, stance, etc.)
+
+Finally, the idea that linguistic patterns are like design patterns, some of which rely on shared meaning or convention and some of which rely on cognitive capacity (e.g., information packaging).
 
 Language is an important topic for design, not just in terms of heuristics such as talk to your audience, avoid complexity, chunk information, etc. - but because language is foundational to interaction. And, of course, we use graphics and language in coordination to communicate to users. Interaction design is not just about the design of screen views, but is about designing to accommodate user goals and tasks.
-
----
-
-## Emotion
-
-- Smart brains are lazy
-    - Most brain activity supports unconscious processes
-    - Emotion drives thought
-
-*Leverage habits and established behaviors*
-
-Note:
-
-Having read Kahneman chapter 1-9 and distinctions between System 1 and System 2, you may be thinking that System 1 is the emotional system and System 2 is distinctly rational. This is not quite right. System 1 is more a system that uses automated, intuitive, near effortless processes to decision-making, while System 2 requires controlled attention and conscious effort. Many of our neural pathways involve the limbic system and emotions have a particularly strong effect on memory.
-
----
-
-## Emotional stimuli
-
-<img src="images/emotions-in-advertising-surprise.png" width="70%" height="70%">
-
-Note:
-
-Capture attention with novel or surprising ideas to engage.
-
-Top-down emotional stimuli combined with bottom-up  stimuli focus our attention.
-
-Emotional messages leverage lower levels of conscious attention.
-
-(Remember that positive or negative faces are noticed more easily than neutral faces.)
-
----
-
-## Emotion in messaging
-
-<img src="images/emotions-in-advertising-happiness.png" width="70%" height="70%">
-
-Note:
-
-After you've captured attention, sustain engagement through an individual's goals and motivations.
-
-High-level arousal is more memorable. Negative emotions have an negative impact on cognitive performance and also associative memory.
-
----
-
-## Emotion and retrieval
-
-<img src="images/emotions-in-advertising-fear.png" width="70%" height="70%">
-
-Note:
-
-Creating emotional connections make it easier to retrieve information and make it more salient. Our implicit memory capacity is far larger than explicit. When we remember events, we also remember our feelings about that event.
-
-What does this mean for creating a good first impression?
-
----
-
-## "Behavior is our Medium"
-
-<img src="images/mobility-in-healthcare.jpg" width="60%" height="60%">
-https://s3.amazonaws.com/poptech_uploaded_files/uploaded_files/27/original/Project_Masiluleke_Brief.pdf
-
-Note:
-
-Robert Fabricant spoke about "behavior is our medium".
-
-What did he mean by "medium"?
-
-Part of what men meant is that behavioral change is not always limited to a decision in a moment in time but a series of processes around a decision.
-
-Up until now, we have focused on snapshots in time -- perception, attention, memory & recall, emotion. I've emphasized the moment of decision, and not so much the goals, intentions, and process linked to that decision.
-
-Fabricant brought into view for us, **the importance of a user's motivations, emotional state, and interaction during the course of a user's journey**. For example, he gave an example of the challenging problem of encouraging aids testing in South Africa. This involved a process:
-- awareness
-- help toward those actively seeking information
-- support during testing
-- and support following testing
-- But the project also considered the importance of social bonds and channel for communication. To have sustained change you need to consider behavior from a macro-interactional perspective.
-
-Thus, Fabricant focused on a number of examplars where design goals was intended for supporting and sustaining behavior change. And while not every design is concerned with changing behavior -- a persuasive design should be concerned with helping people achieve their goals -- and creating measurable **impact**.
 
 ---
 
@@ -151,7 +74,7 @@ Note:
 
 There is a difference between "function words" such as the articles, prepositions, pronouns, and other "closed class" words, and "content words".
 
-"In English, the most popular word is the, which makes up about 7 percent of all words, followed by and, which occurs 3.5 percent of the time, and so on. Indeed, about 135 words account for half of all word appearances. So a few words appear often, while most hardly ever appear."
+"In English, the most popular word is 'the', which makes up about 7 percent of all words, followed by 'and', which occurs 3.5 percent of the time, and so on. Indeed, about 135 words account for half of all word appearances. So a few words appear often, while most hardly ever appear."
 
 Other languages follow the same sort of distributional pattern.
 
@@ -251,7 +174,17 @@ It's also easy to be complacent about design patterns.
 
 ---
 
-## Is this dialogue interaction?
+## Conversational UX (CUX)
+
+<img src="images/chat-modes.png" align="center" width="100%" height="100%">
+
+Note:
+
+Broadly, there are two sorts of CUX these days. Task-based UX that you might experience using a Voice UI, and a social bot, which are of increasing interest by companies such as Alexa and Siri as tools to engage.
+
+---
+
+## Why is this like human dialog? When is not?
 
 <img src="images/alexa.jpg" align="center" width="70%" height="70%">
 
@@ -303,7 +236,7 @@ https://www.wired.com/story/inside-amazon-alexa-prize/
 
 Note:
 
-A year ago, the answer was 'no'. Now?
+Not long ago, the answer was 'no'. Now?
 
 ---
 
@@ -316,9 +249,10 @@ Why don't Siri and Alexa do this (well) yet?
 
 Note:
 
-- You need some sort of context modeling to interpret deictic (e.g., pointing) expressions and those which refer to previous dialogue context.
+- You need some sort of context modeling to interpret deictic (e.g., pointing) expressions and those which refer to previous dialogue context (what was said previously).
+- You also need some knowledge of the world and the ability to reason.
 
-Only last year, Amazon released a simple dialogue development kit.
+Only recently, Amazon released a simple dialogue development kit.
 https://developer.amazon.com/docs/custom-skills/dialog-interface-reference.html
 
 ---
@@ -329,9 +263,9 @@ Note: Humans are really good at dialogue. The capacity is built into us. This co
 
 Okay, so we're wired for conversation. What does this have to do with interaction design and why bother with the theory.
 
-Your understanding of language is largely unconscious, or at least largely automatic. You are highly competent -- expert -- at all of the things that Clark wrote about. And when you talk, you don't need to think about how language works. *But when you are designing interactive media, your conscious understanding of communicative processes will help you communicate better.*
+Your understanding of language is largely unconscious, or at least largely automatic. You are highly competent and, in fact, an expert at using language. And when you talk, you don't need to think about how language works. *But when you are designing interactive media, your conscious understanding of communicative processes will help you communicate better.*
 
-An example where this really matters, but is still mostly done poorly: wrong user/password dialogues. While there are a few simple design patterns to draw upon, it's still very common to see this poorly implemented. Another example comes from broken links on the web. We are not computers... a 404 page is virtually meaningless to most users. No doubt you can think of other common examples!
+An example where this really matters, but is still mostly done poorly: wrong user /password dialogues. While there are a few simple design patterns to draw upon, it's still very common to see this poorly implemented. Another example comes from broken links on the web. We are not computers... a 404 page is virtually meaningless to most users. No doubt you can think of other common examples!
 
 ---
 
@@ -407,7 +341,19 @@ different sorts of talk (in different production formats): for example, politica
 
 ---
 
-## Framing information
+## Framing (and metaphor)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=S_CWBjyIERY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Footing
+
+<iframe width="560" height="315" src="https://youtu.be/l2bj-zt9Qgo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+## Framing information in digital media
 
 <img src="images/sponsored-ads.png" align="center" width="70%" height="70%">
 
@@ -427,9 +373,9 @@ Why didn't they notice?
 
 We are very skilled at perceiving and adjusting to footing changes in dialogue. So skilled, we may not consciously recognize transitions.
 
-When Sociologist Irving Goffman talks about "footing", he means something along the lines of change in conversation stance; basically, he means framing.
+When Sociologist Irving Goffman talks about "footing", he means something along the lines of change in conversation alighment; basically, he means framing.
 
-Joint activities have structure -- but they too fall within and between frames -- another sort of structural unit.
+As with joint activities, you can think of frames as structural units and footing as pertaining to roles within the participant framework.
 
 ---
 
@@ -453,7 +399,7 @@ Code switching (for example, shifting between formal and informal registers) is 
 
 Note:
 
-Footing is essentially -- stance. Journalists very frequently change stance during interviews. From one moment to the next, they may be moving between speaking as themselves or quoting someone else.
+Footing is essentially -- social alignment in dialog interaction. Journalists very frequently change stance during interviews. From one moment to the next, they may be moving between speaking as themselves or quoting someone else.
 
 In this slide presentation from IA Summit 2010, the author notes a problem when a user attempts to this in Twitter. There are some mechanism to support footing changes in Twitter (for example RT), but there is confusion in this interaction because it wasn't clear that Nedaagain was simply translating others.
 
@@ -471,9 +417,9 @@ Changes of footing include the following:
   6. new and old information
   7. emphasis
   8. separation of topic and subject
-  9. discourse type, e g , lecture and discussion
+  9. discourse type, e.g. , lecture and discussion
 
-Change in footing is a change in alignment - a change in our frame or stance - and this is reflected in how we both produce and comprehend language.
+Change in footing is a change in social alignment - a change in our frame or stance - and this is reflected in how we both produce and comprehend language.
 
 We can enact/mock someone else (as an actor). And, in fact, plays are embedded social scenes where this happens.
 
@@ -515,9 +461,9 @@ For example, someone telling a story in layer one may break out of the story to 
 
 ---
 
-## Understanding is incremental
+## Timing actions
 
-<img src="images/synchrony2.png" width="50%" height="50%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CHp639vhUJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Note:
 
@@ -550,7 +496,7 @@ Exchanges generally accomplished in phases: presentation and acceptance.
 
 These sequences are called adjacency pairs - two ordered utterances by different speakers. The form of the second depends on the form of the first.
 
-Some times there is a pre-sequence - set up for a joint action. For example, taking a step forward before offering a hand.
+Sometimes there is a pre-sequence - set up for a joint action. For example, taking a step forward before offering a hand.
 
 We also have mechanism for signaling shifts. A
 "discourse marker" can signal change in topics, change of footing, difference of opinion, digression, etc.
@@ -560,14 +506,14 @@ We also have mechanism for signaling shifts. A
 
 Because conversational speech is so highly coordinated and works incrementally, we have a sophisticated ability to detect errors and repair them. One thing we do unconsciously is look for positive evidence of understanding.
 
-1. Assertions of understanding (could include backchannel response - uh-huh, m, I'see, nod)
+1. Assertions of understanding (could include backchannel response - uh-huh, m, I see, nod)
 2. Presupposition of understanding - speaker A continues speaking.
 3. Displays of understanding - B displays understanding
 4. Exemplification of understanding - paraphrase, iconic gesture, etc.
 
 There is synchrony between speakers and also among speakers and listeners. Onset of gestures timed with prosodic rhythm of speech. Rhythm is crucial for conversation understanding and outcome. Comparable to musical performance.
 
-Pitch is a carrier of non-verbal information (as body language) and speakers tend to synchronize with their conversational partners.
+Pitch is a carrier of non-verbal information (as  is body language) and speakers tend to  synchronize with their conversational partners.
 
 If you are interested in how people coordinate language using speech and gesture, researchers such as Birdwhistle, Kendon and others have studied synchrony and rhythm in conversation. In HCI, these are important areas of study for the development of conversational avatars.
 
@@ -578,9 +524,7 @@ If you are interested in how people coordinate language using speech and gesture
 *"The joint act of one person signaling another and the other recognizing what was meant is called a communicative act."*
 
 
-<img src="images/gaze.png" align="left" width="30%" height="30%">
-
-<img src="images/live-chat.png" align="right" width="50%" height="50%">
+<img src="images/live-chat.png" align="right" width="50%" height="50%"/>
 
 Note:
 
@@ -591,7 +535,7 @@ Gaze is a coordinating device that participates in turn-taking. We not only comm
 
 Word and phrases are linguistic signals. They acquire meaning through convention.
 
-Signals mean something, but they are also coordinating devices. If a server in a restaurant says, "I'll be right there", its a signal to coordinate our actions.
+Signals mean something, but they are also coordinating devices. If a server in a restaurant says, "I'll be right there", it's a signal to coordinate our actions.
 
 Eye gaze and body posture can also be used for signaling. These can also be communicative acts.
 
@@ -612,10 +556,9 @@ What are some other ways we might signal in a UI?
 
 ## Conventions and coordinating devices
 
+<img src="images/tips.jpg" align="left" width="20%" height="20%"/>
 
-<img src="images/tips.jpg" align="left" width="20%" height="20%">
-
-<img src="images/cart.png" align="right" width="60%" height="60%">
+<img src="images/cart.png" align="right" width="60%" height="60%"/>
 
 Note:
 
@@ -631,9 +574,9 @@ America, leaving a tip at the table in a restaurant is a solution to the recurre
 
 ## "Common ground" and belief updating
 
-<img src="images/common-ground.png" align="left" width="20%" height="20%">
+<img src="images/common-ground.png" align="left" width="20%" height="20%"/>
 
-<img src="images/Shipping-Time.png" align="right" width="70%" height="70%">
+<img src="images/Shipping-Time.png" align="right" width="70%" height="70%"/>
 
 
 Note:
