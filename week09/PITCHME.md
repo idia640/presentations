@@ -1,5 +1,5 @@
 # How do people make decisions?
-## 9 April 2019
+## 14 April 2020
 
 ---
 ### Outline
@@ -11,9 +11,9 @@
 
 Note:
 
-Most of the concepts we learned about relating to perception, cognition, memory, emotion etc. are reflected in language use. Since you, the designer, are responsible for designing communications for users in an interactive media, principles in face-to-face communication (also interactive) apply heavily. So we’ll review some examples within the context of design.
+Most of the concepts we learned about relating to perception, cognition, memory, emotion etc. are reflected in language use. Since you, the designer, are responsible for designing communications for users in an interactive media, principles in face-to-face communication (also interactive) apply heavily. So we'll review some examples within the context of design.
 
-We’ll then move on to Kahneman again, since as you recall, the focus of his work has been on systemic and predictable bias in how people make decisions.
+We'll then move on to Kahneman again, since as you recall, the focus of his work has been on systemic and predictable bias in how people make decisions.
 
 Heuristics are essentially simple rules that people use to form judgements and make decisions. Such heuristics can lead to cognitive bias.
 
@@ -23,13 +23,13 @@ Because as a designer you want to positively influence users to make predictable
 
 The second influential body of work that Kahneman and Tversky contributed to behavioral economics is known as Prospect Theory. In this work, they studied how people make decisions on potential losses and gains in situations of risk, and estimate these losses and gains by using heuristics.
 
-Finally, we’ll talk briefly about how you are not just a UX designer, but a choice architect. **Framing choices is essential in driving behavior.** Any potential action a user can take is a choice... whether reading content, clicking a link, or engaging with your site in the future. Richard Thaler, the author of the article “Choice Architecture" (which you will read next week), recently won the Nobel Prize in economics.
+Finally, we'll talk briefly about how you are not just a UX designer, but a choice architect. **Framing choices is essential in driving behavior.** Any potential action a user can take is a choice... whether reading content, clicking a link, or engaging with your site in the future. Richard Thaler, the author of the article "Choice Architecture" (which you will read next week), recently won the Nobel Prize in economics.
 
 ---
 
 ### Dialogue - Prediction
 
-<img src="images/autocomplete.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/autocomplete.jpg" align="center" width="100%" height="100%">
 
 
 Note:
@@ -44,7 +44,7 @@ Note:
 
 ### Dialogue - Immediate Feedback
 
-<img src="images/immediate-feedback.png" align="center" width=“100%” height=“100%”>
+<img src="images/immediate-feedback.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -57,7 +57,7 @@ Note:
 
 ### Dialogue - Error prevention
 
-<img src="images/habits-error.png" align="center" width=“100%” height=“100%”>
+<img src="images/habits-error.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -67,7 +67,7 @@ Note:
 
 ### Dialogue - Framing
 
-<img src="images/framing-ui.png" align="center" width=“100%” height=“100%”>
+<img src="images/framing-ui.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -80,8 +80,8 @@ http://www.creativebloq.com/ux/problems-81412676
 
 ### Dialogue - Salience
 
-<img src="images/focus-ui-1.jpg" align="center" width=“100%” height=“100%”>
-<img src="images/focus-ui-2.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/focus-ui-1.jpg" align="center" width="100%" height="100%">
+<img src="images/focus-ui-2.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -91,7 +91,7 @@ Note:
 
 ###  Dialogue - Sub-dialogues & information packaging
 
-<img src="images/sub-dialogue.png" align="center" width=“100%” height=“100%”>
+<img src="images/sub-dialogue.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -105,7 +105,7 @@ You could also see this as information packaging, but when you think about sub-d
 
 [Judgement under Uncertainty: Heuristics and Biases](http://psiexp.ss.uci.edu/research/teaching/Tversky_Kahneman_1974.pdf)
 
-<img src="images/kahneman-tversky.jpg" align="center" width=“20%” height=“20%”>
+<img src="images/kahneman-tversky.jpg" align="center" width="20%" height="20%">
 
 image credit: http://www.slideshare.net/arjanharing/introduction-persuasive-technology-behavioral-economics
 
@@ -143,7 +143,7 @@ Note:
 
 Warm-up video!
 
-“Michael Lewis’s bestselling Moneyball is a story about the inefficiency of this mode of prediction. Professional baseball scouts traditionally forecast the success of possible players in part by their build and look. The hero of Lewis’s book is Billy Beane, the manager of the Oakland A’s, who made the unpopular decision to overrule his scouts and to select players by the statistics of past performance. The players the A’s picked were inexpensive, because other teams had rejected them for not looking the part. The team soon achieved excellent results at low cost." Kahneman, pg. 150
+"Michael Lewis’s bestselling Moneyball is a story about the inefficiency of this mode of prediction. Professional baseball scouts traditionally forecast the success of possible players in part by their build and look. The hero of Lewis’s book is Billy Beane, the manager of the Oakland A’s, who made the unpopular decision to overrule his scouts and to select players by the statistics of past performance. The players the A’s picked were inexpensive, because other teams had rejected them for not looking the part. The team soon achieved excellent results at low cost." Kahneman, pg. 150
 
 "The central premise of Moneyball is that the collective wisdom of baseball insiders (including players, managers, coaches, scouts, and the front office) over the past century is subjective and often flawed." (Wikipedia)
 
@@ -155,7 +155,7 @@ Question of similarity easier than likelihood (estimations off base rates).
 
 ### Anchoring - Setting a reference point
 
-<img src="images/anchoring_bias.jpg" align="center" width=“50%” height=“50%”>
+<img src="images/anchoring_bias.jpg" align="center" width="50%" height="50%">
 
 Image credit: http://quotesgram.com/dan-ariely-quotes/
 
@@ -163,7 +163,7 @@ Note:
 
 Ariely experiment: Dan Ariely and his students would hold up a bottle of wine (or other object) and give a positive review. Then each student wrote down the last two of his/her SSN in the form of a price for that object. If the last two digits were 22, then the bottle of wine was priced at $22. Then the bidding began.
 
-“Sure enough, the anchoring effect scrambled their ability to judge the value of the items. People with high social security numbers paid up to 346 percent more than those with low numbers. People with numbers from 80 to 99 paid on average $26 for the trackball, while those with 00 to 19 paid around $9.”
+"Sure enough, the anchoring effect scrambled their ability to judge the value of the items. People with high social security numbers paid up to 346 percent more than those with low numbers. People with numbers from 80 to 99 paid on average $26 for the trackball, while those with 00 to 19 paid around $9."
 https://www.inc.com/the-build-network/the-anchoring-effect.html
 
 The anchoring affect accounts for "consideration of a particular value for an unknown quantity before estimating that quantity."
@@ -182,7 +182,7 @@ Because System 2 makes its judgment using information retrieved by memory (an au
 
 *The availability bias describes the process of judging frequency by "the ease of which instances come to mind."*
 
-<img src="images/accident.jpg" align="center" width=“50%” height=“50%”>
+<img src="images/accident.jpg" align="center" width="50%" height="50%">
 
 Note:
 
@@ -190,7 +190,7 @@ Which is more likely, death by accident or death by diabetes? At what ratio?
 
 For example, Kahnemann cites work from Slovic, Lichtenstein and Fischoff where they surveyed participants to consider pairs of causes of death (diabetes & asthma, stroke & accidents). Death by accidents was judged to be more than 300 times more likely than death by diabetes, but the true ratio was 1:4.
 
-”Unusual events (such as botulism) attract disproportionate attention and are consequently perceived as less unusual than they really are." pg 138
+"Unusual events (such as botulism) attract disproportionate attention and are consequently perceived as less unusual than they really are." pg 138
 
 From our own experiences in recent times, Kahneman's statement that "estimates of deaths warped by media coverage which is biased toward novelty and poignancy" is particularly applicable.
 
@@ -202,7 +202,7 @@ If you think back to Damasio, the "ease at which ideas of various risk that come
 
 *People make predictions based on how representative (similar) something is*
 
-<img src="images/fish.png" align="center" width=“100%” height=“100%”>
+<img src="images/fish.png" align="center" width="100%" height="100%">
 
 Image credit: http://www.slideshare.net/tchinton/unit7myers8thedpt2
 
@@ -234,7 +234,7 @@ Kahneman notes that even those trained in statistics fall prey to representative
 
 ### Representativeness and availability in UX?
 
-<img src="images/personas.png" align="center" width=“100%” height=“100%”>
+<img src="images/personas.png" align="center" width="100%" height="100%">
 
 
 https://www.cooper.com/journal/2010/7/combating_availability_bias
@@ -250,27 +250,27 @@ From Cooper.com:
 
 ### Affect heuristic
 
-<img src="images/affect.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/affect.jpg" align="center" width="100%" height="100%">
 
 *Positive/negative words and themes influence decision-making*
 
 Note:
 
-“Slovic eventually developed the notion of an affect heuristic, in which people make judgments and decisions by consulting their emotions: Do I like it? Do I hate it? How strongly do I feel about it? In many domains of life, Slovic said, people form opinions and make choices that directly express their feelings and their basic tendency to approach or avoid, often without knowing that they are doing so. The affect heuristic is an instance of substitution, in which the answer to an easy question (How do I feel about it?) serves as an answer to a much harder question (What do I think about it?)." Kahenman, 138-139
+"Slovic eventually developed the notion of an affect heuristic, in which people make judgments and decisions by consulting their emotions: Do I like it? Do I hate it? How strongly do I feel about it? In many domains of life, Slovic said, people form opinions and make choices that directly express their feelings and their basic tendency to approach or avoid, often without knowing that they are doing so. The affect heuristic is an instance of substitution, in which the answer to an easy question (How do I feel about it?) serves as an answer to a much harder question (What do I think about it?)." Kahenman, 138-139
 
 ---
 
 ### Affect in UX
 
-<img src="images/airbnb-welcome-home.jpg" align="left" width=“20%” height=“20%”>
+<img src="images/airbnb-welcome-home.jpg" align="left" width="20%" height="20%">
 
 ---
 
 ### Affect in UX
 
-- Focus attention on the user problem (for example, “Get dinner delivered faster” is better than “Fast food delivery online.”)
+- Focus attention on the user problem (for example, "Get dinner delivered faster" is better than "Fast food delivery online.")
 - Cut irrelevant info from your design. Every irrelevant message dilutes the relevant ones.
-- Give users positive feedback when they solve a problem, and remind them what it was. “Congrats—you’re one step closer to inbox 0!” is better than “Congrats!”
+- Give users positive feedback when they solve a problem, and remind them what it was. "Congrats—you’re one step closer to inbox 0!" is better than "Congrats!"
 - Use representativeness to frame something new and potentially scary/risky
 
 From: https://uxmag.com/articles/the-3-most-powerful-heuristics-designers-can-use
@@ -281,7 +281,7 @@ Image credit: https://uxmag.com/articles/the-3-most-powerful-heuristics-designer
 
 ### Biases and Heuristics - Cheatsheet
 
-<img src="images/cog-bias-wheel.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/cog-bias-wheel.jpg" align="center" width="100%" height="100%">
 
 Image from: https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.aokr2wkoj
 
@@ -294,7 +294,7 @@ What do marketing and advertising analysts study and understand well?
 
 ### "Anxiety: campaigns and certain media are engaging in a form of neurological warfare."
 
-<img src="images/anxiety-unknown.png" align="center" width=“60%” height=“60%”>
+<img src="images/anxiety-unknown.png" align="center" width="60%" height="60%">
 
 http://www.rollingstone.com/politics/features/why-were-living-in-the-age-of-fear-w443554
 
@@ -320,13 +320,13 @@ The second way: Anxiety can turn to fear. Part of threat detection is learning, 
 
 ### Buying a car - rationally
 
-<img src="images/car-comparison-chart.jpg" align="center" width=“70%” height=“70%”>
+<img src="images/car-comparison-chart.jpg" align="center" width="70%" height="70%">
 
 ---
 
 ## People are predictably irrational
 
-<img src="images/cars.jpg" align="center" width=“90%” height=“90%”>
+<img src="images/cars.jpg" align="center" width="90%" height="90%">
 
 https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions
 
@@ -344,7 +344,7 @@ From an interview with Dan Ariely (https://www.theguardian.com/money/2008/may/20
 
 *You are offered a gamble on the toss of a coin. If the coin shows tails, you lose 100 dollars. If the coin shows heads, you win 150 dollars.*
 
-<img src="images/coin-flip.png" align="center" width=“100%” height=“100%”>
+<img src="images/coin-flip.png" align="center" width="100%" height="100%">
 
 Note:
 
@@ -360,7 +360,7 @@ Asymmetry of intensity to avoid losses.
 
 ### Certainty
 
-<img src="images/bird-hand.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/bird-hand.jpg" align="center" width="100%" height="100%">
 
 
 Note:
@@ -373,7 +373,7 @@ They tend to reject the sure thing and accept the gamble (they are risk seeking)
 
 ### Framing effect (positive & negative)
 
-<img src="images/framing_effects.png" align="center" width=“100%” height=“100%”>
+<img src="images/framing_effects.png" align="center" width="100%" height="100%">
 
 - Treatment A or B?
 - Total of 600 people
@@ -400,7 +400,7 @@ Re-framing is effortful:
 
 ### Prospect Theory
 
-<img src="images/prospect-theory.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/prospect-theory.jpg" align="center" width="100%" height="100%">
 
 image credit: http://www.sketchplanations.com/post/118976026701/prospect-theory-dan-kahneman-and-amos-tverskys
 
@@ -426,7 +426,7 @@ Prospect theory is predictive of behavior. We are guided by both emotion and bia
 
 ### Prospect theory in UX
 
-<img src="images/isolation.png" align="center" width=“30%” height=“30%”>
+<img src="images/isolation.png" align="center" width="30%" height="30%">
 
 
 Note:
@@ -444,7 +444,7 @@ Collaborative filtering is another solution to a choice architecture problem - i
 
 ### Fourfold pattern
 
-<img src="images/fourfold.png" align="center" width=“60%” height=“60%”>
+<img src="images/fourfold.png" align="center" width="60%" height="60%">
 
 Image credit: http://www.burns-stat.com/review-thinking-fast-slow-daniel-kahneman/
 
@@ -464,7 +464,7 @@ When there are no good options - we gamble.
 
 *Why -- when people are risk averse and the cost low, but impact large -- would they not purchase back-up and virus protection?*
 
-<img src="images/Malware-Protection.jpg" align="center" width=“10%” height=“10%”>
+<img src="images/Malware-Protection.jpg" align="center" width="10%" height="10%">
 
 Note:
 
@@ -476,7 +476,7 @@ Are we gambling? Does this mean there are no good options?
 
 ### Defaults and framing
 
-<img src="images/organ-donor.png" align="center" width=“100%” height=“100%”>
+<img src="images/organ-donor.png" align="center" width="100%" height="100%">
 
 
 Johnson, E. J., & Goldstein, D. (2003). [Do defaults save lives?](https://www8.gsb.columbia.edu/sites/decisionsciences/files/files/Johnson_Defaults.pdf). Science, 302(5649), 1338-1339.
@@ -499,7 +499,7 @@ Why might people not opt-in?
 
 ### Privacy context
 
-<img src="images/implicature.jpg" align="center" width=“100%” height=“100%”>
+<img src="images/implicature.jpg" align="center" width="100%" height="100%">
 
 Note:
 
@@ -530,7 +530,7 @@ A good rule of thumb is to assume that "everything matters."
 
 ### Prospect theory in UX - Loss aversion
 
-<img src="images/life-insurance-messaging.png" align="center" width=“100%” height=“100%”>
+<img src="images/life-insurance-messaging.png" align="center" width="100%" height="100%">
 
 
 Which option do you think would be more successful?
