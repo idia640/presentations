@@ -1,5 +1,5 @@
 # How are people influenced through persuasion?
-16 April 2019
+21 April 2020
 
 ---
 
@@ -19,7 +19,7 @@ Note:
 - We believe what comes to mind easiest
 - We remember bad things better
 - We use anchors to estimate cost and effort
-- We like sure things and are averse to loss - but liklihood matters
+- We like sure things and are averse to loss - but likelihood matters
 
 Note:
 
@@ -315,13 +315,19 @@ Note:
 
 ## Social influence
 
-- Reciprocity
-- Consistency and commitment
-- Social proof
-- Liking
-- Authority
-- Scarcity
-- ?
+1. Reciprocity
+1. Consistency and commitment
+1. Social proof
+1. Liking
+1. Authority
+1. Scarcity
+1. Unity principle (2016) - https://cxl.com/blog/cialdini-unity/
+
+---
+
+## Conformity
+
+[![](images/conformity.png)](https://www.youtube.com/embed/-7iN0V-GbM0)
 
 ---
 
@@ -381,6 +387,10 @@ https://youtu.be/W1eYrhGeffc
 Note:
 
 "Automatic, stereotyped behavior is prevalent in much of human action, because in many cases it is the most efficient form of behaving, and in other cases it is simply necessary." Cialdini
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1eYrhGeffc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
