@@ -1,5 +1,5 @@
 ## How does culture affect thinking?
-23 Apr 2019
+28 Apr 2020
 
 ---
 
@@ -125,9 +125,8 @@ Note:
 
 McLuhan is known for coining the expression "the medium is the message" (Understanding Media: The extensions of Man). He proposed that the a medium itself should be the focus of society.
 
-Image credits:
+Image credit:
 
-http://blog.usabilla.com/ux-designers-culture-affects-your-job/img3/
 https://www.ccpa-accp.ca/the-medium-is-the-message/
 
 ---
@@ -154,7 +153,7 @@ Culture is:
 
 ## Culture is a medium
 
-<img src="images/petri-dish.jpg" align="center" width="100%" height="100%">
+<img src="images/case-worker.jpg" align="center" width="100%" height="100%">
 
 Note:
 
